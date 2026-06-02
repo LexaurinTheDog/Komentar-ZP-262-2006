@@ -79,7 +79,7 @@ V poznámce pod čarou 1) zákon odkazuje na rozsáhlý katalog směrnic. Pro pr
   > „Výše škody způsobené zaměstnanci postiženému nerovným zacházením při poskytování mzdy se určí jako rozdíl mezi mzdou zaměstnance, kterému byla v rozporu se zásadou rovného zacházení stanovena, určena nebo s ním byla sjednána vyšší mzda než postiženému zaměstnanci, který vykonává stejnou práci nebo práci stejné hodnoty, a mzdou postiženého zaměstnance. Je-li zaměstnanců, kterým byla za těchto okolností stanovena, určena nebo s nimi byla sjednána vyšší mzda, více a není-li výše jejich mzdy stejná, je výše škody dána rozdílem mezi mzdou zaměstnance, kterému byla stanovena, určena nebo s ním byla sjednána nejvyšší mzda, a mzdou postiženého zaměstnance"
 - *NS* [21 Cdo 2608/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DBA865E5DC14BE3C1258ADD0043AA9A?openDocument) — 23. 1. 2024, kat. A
   > „Jsou-li zřejmá kritéria pro určení místa pravidelného pracoviště podle domněnky stanovené v § 34a zák. práce (a místo pravidelného pracoviště zaměstnance tak bylo dáno), lze je měnit pouze cestou změny obsahu pracovní smlouvy, nikoliv jednostranným pokynem, jímž zaměstnavatel stanoví počátek výkonu práce v jiném místě, než bylo dosavadní pravidelné pracoviště zaměstnance"
-- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2021%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2021&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_4451_2018.txt) — 29. 10. 2020, kat. A
+- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC885FCD08616C8CC1258666001DDB97?openDocument) — 29. 10. 2020, kat. A
   > „V pracovněprávních vztazích smí smluvní pokuta utvrdit jen závazek zaměstnance z konkurenční doložky sjednané ve smyslu ustanovení § 310 odst. 1 zák. práce o tom, že se zaměstnanec po určitou dobu po skončení zaměstnání, nejdéle však po dobu 1 roku, zdrží výkonu výdělečné činnosti, která by byla shodná s předmětem činnosti zaměstnavatele nebo která by vůči němu měla soutěžní povahu. Ujednání smluvní pokuty k utvrzení jiných závazků zaměstnance a zaměstnavatele je zakázáno ustanovením § 346d odst. 7 zák. práce ke smluvní pokutě sjednané v rozporu s tímto zákazem se nepřihlíží (§ 346e zák. práce). Ustanovení § 19 odst. 3 zák. práce, které určuje, že neplatnost právního jednání nemůže být zaměstnanci na újmu, nezpůsobil-li neplatnost výlučně sám, se analogicky aplikuje též na zdánlivá (nicotná) pracovněprávní jednání. Tuto zásadu však nelze vykládat tak, že zaměstnanec může z neplatného…"
 - *NS* [21 Cdo 3955/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C73EA1911537E57AC12585CF0023CEFF?openDocument) — 20. 7. 2020, kat. A
   > „Z hlediska zásady rovného odměňování podle ustanovení § 110 zák. práce nejsou pro posouzení, zda se v konkrétním případě jedná o stejnou práci nebo o práci stejné hodnoty, významné (nepředstavují komparační kritérium ve smyslu ustanovení § 110 odst. 2 zák. práce) sociálněekonomické podmínky a jim odpovídající výše nákladů na uspokojování životních potřeb v místě, kde zaměstnanec na základě pracovní smlouvy pro zaměstnavatele vykonává práci"
@@ -255,7 +255,7 @@ Sjedná-li zaměstnavatel s fyzickou osobou občanskoprávní smlouvu o činnost
   > „Promlčení práv na jednotlivá plnění vyplývajících z nároku zaměstnance na náhradu za ztrátu na výdělku po skončení pracovní neschopnosti z důvodu pracovního úrazu a vzniklých v době po 31. 12. 2013 se řídí ustanoveními § 609-653 o. z., i když k pracovnímu úrazu zaměstnance a vzniku práva na náhradu za ztrátu na výdělku po skončení pracovní neschopnosti došlo před 1. 1. 2014. Zaměstnanci, kterému byl přiznán invalidní důchod pro invaliditu třetího stupně a který po pracovním úrazu nevykonává pracovní činnost, přísluší náhrada za ztrátu na výdělku po skončení pracovní neschopnosti (při uznání invalidity) ve výši rozdílu mezi průměrným výdělkem před vznikem škody a invalidním důchodem pobíraným z téhož důvodu k výdělku ve výši minimální mzdy se nepřihlíží"
 - *NS* [21 Cdo 4659/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F87AFF39856E27FC125817F003C68E9?openDocument) — 1. 6. 2017, kat. A
   > „Pohledávku zaměstnavatele vůči zaměstnanci z pracovněprávního vztahu nelze zajistit směnkou"
-- *NS* [21 Cdo 389/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2015%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2015&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_389_2014.txt) — 20. 11. 2014, kat. A
+- *NS* [21 Cdo 389/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C77561335F5F1A6C1257DC40045A026?openDocument) — 20. 11. 2014, kat. A
   > „V pracovněprávních vztazích je tzv. fiduciární cese pohledávky zaměstnavatele nebo zaměstnance zakázána"
 
 #### Trojí struktura aplikační kaskády
@@ -316,7 +316,7 @@ Klíčový interpretační příkaz: i tam, kde nastoupí o.z., je třeba „pra
 
 - *NS* [21 Cdo 4659/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F87AFF39856E27FC125817F003C68E9?openDocument) — 1. 6. 2017, kat. A
   > „Pohledávku zaměstnavatele vůči zaměstnanci z pracovněprávního vztahu nelze zajistit směnkou"
-- *NS* [21 Cdo 389/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2015%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2015&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_389_2014.txt) — 20. 11. 2014, kat. A
+- *NS* [21 Cdo 389/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C77561335F5F1A6C1257DC40045A026?openDocument) — 20. 11. 2014, kat. A
   > „V pracovněprávních vztazích je tzv. fiduciární cese pohledávky zaměstnavatele nebo zaměstnance zakázána"
 
 #### „Nepodkročitelný" a „nepřekročitelný" standard (odst. 1)
@@ -452,12 +452,6 @@ Zaměstnancem je i osoba ve **vrcholové manažerské pozici** (vedoucí zaměst
 > *Zaměstnavatelem je osoba, pro kterou se fyzická osoba zavázala k výkonu závislé práce v základním pracovněprávním vztahu.*
 
 **Výklad:**
-
-**Judikatura (z místních zdrojů):**
-
-- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
-  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
-
 #### Legální definice — funkční vymezení
 
 Definice zaměstnavatele je rovněž stručná a funkční. Zaměstnavatelem je „osoba, **pro kterou**" se fyzická osoba zavázala k výkonu závislé práce. Důležité jsou tři aspekty:
@@ -768,7 +762,7 @@ Soud nesmí pravidlo aplikovat, je-li význam jednání jasný (i když pro zam�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2021%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2021&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_4451_2018.txt) — 29. 10. 2020, kat. A
+- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC885FCD08616C8CC1258666001DDB97?openDocument) — 29. 10. 2020, kat. A
   > „V pracovněprávních vztazích smí smluvní pokuta utvrdit jen závazek zaměstnance z konkurenční doložky sjednané ve smyslu ustanovení § 310 odst. 1 zák. práce o tom, že se zaměstnanec po určitou dobu po skončení zaměstnání, nejdéle však po dobu 1 roku, zdrží výkonu výdělečné činnosti, která by byla shodná s předmětem činnosti zaměstnavatele nebo která by vůči němu měla soutěžní povahu. Ujednání smluvní pokuty k utvrzení jiných závazků zaměstnance a zaměstnavatele je zakázáno ustanovením § 346d odst. 7 zák. práce ke smluvní pokutě sjednané v rozporu s tímto zákazem se nepřihlíží (§ 346e zák. práce). Ustanovení § 19 odst. 3 zák. práce, které určuje, že neplatnost právního jednání nemůže být zaměstnanci na újmu, nezpůsobil-li neplatnost výlučně sám, se analogicky aplikuje též na zdánlivá (nicotná) pracovněprávní jednání. Tuto zásadu však nelze vykládat tak, že zaměstnanec může z neplatného…"
 - *NS* [21 Cdo 4659/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F87AFF39856E27FC125817F003C68E9?openDocument) — 1. 6. 2017, kat. A
   > „Pohledávku zaměstnavatele vůči zaměstnanci z pracovněprávního vztahu nelze zajistit směnkou"

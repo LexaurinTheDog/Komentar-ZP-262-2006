@@ -158,7 +158,7 @@ Porušení povinností podle § 301 představuje **kontraktuální delikt** (por
 
 - *NS* [21 Cdo 630/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0CBC6E673D762095C1257F7600413EFB?openDocument) — 17. 12. 2015, kat. A
   > „Výpověď z pracovního poměru podanou zaměstnavatelem podle § 52 písm. h) zák. práce je třeba ve lhůtách uvedených v § 57 zák. práce nejen učinit, ale i zaměstnanci řádně doručit"
-- *NS* [21 Cdo 5126/2014](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2016%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2016&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_5126_2014.txt) — 15. 10. 2015, kat. A
+- *NS* [21 Cdo 5126/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46846EF55362CB68C1257F3E004C5AB1?openDocument) — 15. 10. 2015, kat. A
   > „Okolnost, že zaměstnanec, který byl uznán dočasně práce neschopným, neoznačil místo svého pobytu údaji potřebnými k tomu, aby zaměstnavateli umožnil kontrolu, zda dodržuje svou povinnost zdržovat se v době dočasné pracovní neschopnosti v místě pobytu a dodržovat dobu a rozsah povolených vycházek, není důvodem pro rozvázání pracovního poměru výpovědí podle ustanovení § 52 písm. h) zák. práce"
 
 #### Historický kontext a smysl
@@ -3220,7 +3220,7 @@ Pracovní právo vychází z předpokladu **nerovnosti smluvních stran** — za
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2021%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2021&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_4451_2018.txt) — 29. 10. 2020, kat. A
+- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC885FCD08616C8CC1258666001DDB97?openDocument) — 29. 10. 2020, kat. A
   > „V pracovněprávních vztazích smí smluvní pokuta utvrdit jen závazek zaměstnance z konkurenční doložky sjednané ve smyslu ustanovení § 310 odst. 1 zák. práce o tom, že se zaměstnanec po určitou dobu po skončení zaměstnání, nejdéle však po dobu 1 roku, zdrží výkonu výdělečné činnosti, která by byla shodná s předmětem činnosti zaměstnavatele nebo která by vůči němu měla soutěžní povahu. Ujednání smluvní pokuty k utvrzení jiných závazků zaměstnance a zaměstnavatele je zakázáno ustanovením § 346d odst. 7 zák. práce ke smluvní pokutě sjednané v rozporu s tímto zákazem se nepřihlíží (§ 346e zák. práce). Ustanovení § 19 odst. 3 zák. práce, které určuje, že neplatnost právního jednání nemůže být zaměstnanci na újmu, nezpůsobil-li neplatnost výlučně sám, se analogicky aplikuje též na zdánlivá (nicotná) pracovněprávní jednání. Tuto zásadu však nelze vykládat tak, že zaměstnanec může z neplatného…"
 
 #### Systém speciálních zákazů — ochrana zaměstnance
@@ -3293,7 +3293,7 @@ Toto je výrazná **odchylka od občanského práva**, kde je smluvní pokuta b�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2021%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2021&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_4451_2018.txt) — 29. 10. 2020, kat. A
+- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC885FCD08616C8CC1258666001DDB97?openDocument) — 29. 10. 2020, kat. A
   > „V pracovněprávních vztazích smí smluvní pokuta utvrdit jen závazek zaměstnance z konkurenční doložky sjednané ve smyslu ustanovení § 310 odst. 1 zák. práce o tom, že se zaměstnanec po určitou dobu po skončení zaměstnání, nejdéle však po dobu 1 roku, zdrží výkonu výdělečné činnosti, která by byla shodná s předmětem činnosti zaměstnavatele nebo která by vůči němu měla soutěžní povahu. Ujednání smluvní pokuty k utvrzení jiných závazků zaměstnance a zaměstnavatele je zakázáno ustanovením § 346d odst. 7 zák. práce ke smluvní pokutě sjednané v rozporu s tímto zákazem se nepřihlíží (§ 346e zák. práce). Ustanovení § 19 odst. 3 zák. práce, které určuje, že neplatnost právního jednání nemůže být zaměstnanci na újmu, nezpůsobil-li neplatnost výlučně sám, se analogicky aplikuje též na zdánlivá (nicotná) pracovněprávní jednání. Tuto zásadu však nelze vykládat tak, že zaměstnanec může z neplatného…"
 
 #### Sankce nicotnosti

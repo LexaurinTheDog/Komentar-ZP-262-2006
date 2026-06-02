@@ -1046,12 +1046,6 @@ Odstupné je splatné v **nejbližším výplatním termínu** po skončení PP,
 > *(2) Poměrná část odstupného se stanoví podle počtu kalendářních dnů od nového nástupu do zaměstnání do uplynutí doby podle odstavce 1.*
 
 **Výklad:**
-
-**Judikatura (z místních zdrojů):**
-
-- *NS* [21 Cdo 915/2012](https://rozhodnuti.nsoud.cz/judikatura/judikatura_ns.nsf/zip?openAgent&query=%5Bdatum_predani_na_web%5D%3E%3D01.01.2013%20AND%20%5Bdatum_predani_na_web%5D%3C%3D31.12.2013&SearchOrder=1&SearchMax=0&start=2040&count=60&pohled=#rozhodnuti-21_Cdo_915_2012.txt) — 21. 1. 2013, kat. A
-  > „Povinnost vrátit poskytnuté odstupné (jeho část) má zaměstnanec územně členěného statutárního města (s výjimkou hlavního města Prahy) zařazený do městské policie, který po skončení pracovního poměru výpovědí podle ustanovení § 52 písm. a) až d) zák. práce nebo dohodou uzavřenou z týchž důvodů, nastoupí v době, která byla rozhodující pro určení výše odstupného, do pracovního poměru v úřadu městské části téhož statutárního města jeho nástup je třeba z hlediska ustanovení § 68 zák. práce považovat za opětovný nástup k dosavadnímu zaměstnavateli (statutárnímu městu)"
-
 #### Funkce vrácení — proti obcházení
 
 Odstupné kompenzuje **ztrátu pracovního místa** — jeho účel odpadá, pokud se zaměstnanec **vrátí** k témuž zaměstnavateli **dříve než pokrývá počet násobků** (1, 2, 3, 12 měsíců dle § 67).
