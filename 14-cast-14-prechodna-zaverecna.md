@@ -18,6 +18,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2000/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDAA1626838F7FE8C1258BF70052AA6E?openDocument) — 20. 11. 2024, kat. A
+  > „Výše škody způsobené zaměstnanci postiženému nerovným zacházením při poskytování mzdy se určí jako rozdíl mezi mzdou zaměstnance, kterému byla v rozporu se zásadou rovného zacházení stanovena, určena nebo s ním byla sjednána vyšší mzda než postiženému zaměstnanci, který vykonává stejnou práci nebo práci stejné hodnoty, a mzdou postiženého zaměstnance. Je-li zaměstnanců, kterým byla za těchto okolností stanovena, určena nebo s nimi byla sjednána vyšší mzda, více a není-li výše jejich mzdy stejná, je výše škody dána rozdílem mezi mzdou zaměstnance, kterému byla stanovena, určena nebo s ním byla sjednána nejvyšší mzda, a mzdou postiženého zaměstnance"
+
 #### Funkce § 363 — taxativní výčet eurokonformních ustanovení
 
 § 363 je **jedním z nejvýznamnějších výkladových ustanovení celého zákoníku práce**. Plní trojí funkci:
@@ -126,6 +131,11 @@ Krok 3: Pokud existuje judikatura SDEU k dané směrnici, ta je závazným výkl
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1054/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE84EB42998B0E3BC1257F6C004C38DA?openDocument) — 17. 12. 2015, kat. A
+  > „Počínaje dnem 1.1.2008 se pracovní poměr vedoucích zaměstnanců uvedených v § 33 odst. 3 zák. práce (ve znění účinném od 1.1.2008) považuje za založený jmenováním, i když pracovní poměr vznikl v době do 31.12.2007 na základě pracovní smlouvy, popřípadě i když se považuje ve smyslu § 364 odst. 3 zák. práce za založený pracovní smlouvou"
+
 #### Obecné pravidlo retroaktivity nepravé (odst. 1) — okamžitá aplikace nového ZP
 
 Odst. 1 zakotvuje **základní intertemporální zásadu nepravé retroaktivity**: novým ZP č. 262/2006 Sb. se od 1. ledna 2007 řídí i pracovněprávní vztahy, které **vznikly před tímto datem**, pokud zákon nestanoví jinak. Pracovní poměry, dohody o pracích konaných mimo pracovní poměr, jakož i kolektivní smlouvy uzavřené podle starého ZP č. 65/1965 Sb. tedy **přecházejí pod režim nového kodexu plynule**, aniž by bylo třeba je „překlápět" zvláštním právním aktem.
@@ -196,6 +206,11 @@ Odst. 4–6 představují **jedno z nejsložitějších přechodných ustanoven�
 > *(2) Náklady správní režie pojišťoven v zákonném pojištění odpovědnosti zaměstnavatele za škodu při pracovním úrazu nebo nemoci z povolání činí 4 % z celkového objemu přijatého pojistného zaplaceného zaměstnavateli v daném kalendářním roce.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2113/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9AE56E1119D226DC125877700188445?openDocument) — 29. 7. 2021, kat. A
+  > „Ve sporu o náhradu škody vzniklé zaměstnanci pracovním úrazem zahájeném po prohlášení konkursu na majetek zaměstnavatele je pasivně věcně legitimován insolvenční správce majetkové podstaty zaměstnavatele"
 
 #### Systémový rámec — „přežívající" právní úprava
 

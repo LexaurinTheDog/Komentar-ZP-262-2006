@@ -181,6 +181,13 @@ Spor o rozsah povinnosti řeší (analogicky k § 276 odst. 5) civilní soud, p�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 476/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9708DDFED26BAA6C1257F8C0030DC15?openDocument) — 15. 1. 2016, kat. A
+  > „Okamžité zrušení pracovního poměru učiněné zaměstnavatelem podle ustanovení § 55 odst. 1 písm. b) zák. práce z důvodu neomluveného zameškání práce není neplatné pro rozpor se zákonem jen proto, že zaměstnavatel v rozporu s § 348 odst. 3 zák. práce, ve znění účinném od 1. 1. 2012, určil, že se u zaměstnance jedná o neomluvené zameškání práce, bez projednání s odborovou organizací"
+- *NS* [21 Cdo 4952/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C7AAE173E5DAF24C1257F2C00204357?openDocument) — 21. 10. 2015, kat. A
+  > „Po účinnosti přeměny zaměstnavatele spočívající ve fúzi sloučením, při níž dochází k převodu činnosti nebo úkolů zaměstnavatele anebo jejich části k jinému zaměstnavateli, jenž má za následek přechod práv a povinností z pracovněprávních vztahů, se odborová organizace působící u zaměstnavatele nemůže úspěšně domáhat, aby ji přejímající zaměstnavatel o této přeměně informoval a toto opatření s ní projednal. Vznikne-li však odborové organizaci porušením povinnosti zaměstnavatele informovat ji o uvedené přeměně a tuto přeměnu s ní před její účinností projednat škoda, může odborová organizace uplatnit právo na její náhradu"
+
 #### Volba zástupců (odst. 1) — fakultativnost
 
 Odst. 1 zdůrazňuje **dispozitivní charakter** volby zaměstnaneckých zástupců neodborové povahy: zaměstnanci si **mohou** (nikoli musí) zvolit radu zaměstnanců, případně zástupce pro BOZP. Volba je dobrovolná a iniciovaná zaměstnanci podle § 283 odst. 1 (návrh nejméně jedné třetiny zaměstnanců v pracovním poměru). Neexistuje žádný zákonný impuls k tomu, aby zaměstnanci tyto orgány zřídili; bez nich plní zaměstnavatel své informační a projednávací povinnosti přímo vůči zaměstnancům (§ 276 odst. 1 věta druhá), případně vůči odborové organizaci, pokud u něj působí.
@@ -702,6 +709,11 @@ Pokud soud vyslovil neplatnost voleb, konají se **opakované volby**:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 5054/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4366FCE03D36790DC1257F2C001F9302?openDocument) — 26. 10. 2015, kat. A
+  > „Okolnost, zda u zaměstnavatele působí odborová organizace a její orgán, jehož členem je (byl v průběhu doby jednoho roku před výpovědí) zaměstnanec, kterému byla zaměstnavatelem dána výpověď z pracovního poměru, a zda tedy zaměstnavatel byl povinen požádat odborovou organizaci o předchozí souhlas k výpovědi, je třeba zjišťovat ke dni doručení výpovědi zaměstnanci k tomuto dni je třeba zkoumat i splnění podmínky působení odborové organizace u zaměstnavatele spočívající v tom, aby alespoň tři její členové byli u zaměstnavatele v pracovním poměru"
+
 #### Univerzální oprávnění (odst. 1)
 
 Odborové organizace jsou oprávněny jednat **v pracovněprávních vztazích, včetně kolektivního vyjednávání**, **za podmínek stanovených zákonem nebo sjednaných v kolektivní smlouvě**. Tato klauzule je jak **základem pravomocí**, tak **odkazem na další omezení**: rozsah oprávnění určuje zákon (zejména § 286 odst. 3) nebo dohoda v kolektivní smlouvě.
@@ -804,6 +816,11 @@ Toto pravidlo má **silný dopad** v praxi:
 > *- h) záležitosti uvedené v § 280.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 4952/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C7AAE173E5DAF24C1257F2C00204357?openDocument) — 21. 10. 2015, kat. A
+  > „Po účinnosti přeměny zaměstnavatele spočívající ve fúzi sloučením, při níž dochází k převodu činnosti nebo úkolů zaměstnavatele anebo jejich části k jinému zaměstnavateli, jenž má za následek přechod práv a povinností z pracovněprávních vztahů, se odborová organizace působící u zaměstnavatele nemůže úspěšně domáhat, aby ji přejímající zaměstnavatel o této přeměně informoval a toto opatření s ní projednal. Vznikne-li však odborové organizaci porušením povinnosti zaměstnavatele informovat ji o uvedené přeměně a tuto přeměnu s ní před její účinností projednat škoda, může odborová organizace uplatnit právo na její náhradu"
 
 #### Rozšířený katalog informování (odst. 1)
 

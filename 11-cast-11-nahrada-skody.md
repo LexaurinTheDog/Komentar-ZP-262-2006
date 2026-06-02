@@ -69,6 +69,11 @@ Odstavec 2 zakotvuje zvláštní oprávnění zaměstnavatele k **vnitřní kont
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3555/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DFEE3571745D1076C1257D96002AEB00?openDocument) — 29. 10. 2014, kat. A
+  > „Předpoklady odpovědnosti zaměstnance za nesplnění povinnosti k odvrácení škody podle ustanovení § 251 odst. 1 zák. práce, která představuje sankci za porušení právní povinnosti zaměstnance stanovené v § 249 zák. práce, jsou vznik škody, porušení povinnosti upozornit na hrozící škodu, popřípadě proti ní zakročit, příčinná souvislost mezi vznikem škody a porušením povinnosti upozornit na hrozící škodu, popřípadě proti ní zakročit, zavinění alespoň ve formě vědomé nedbalosti a skutečnost, že škodu není možné uhradit jinak. Jsou-li splněny podmínky odpovědnosti zaměstnance za škodu způsobenou zaměstnavateli uvedené v ustanovení § 250 odst. 1 zák. práce, je vyloučena odpovědnost zaměstnance za nesplnění povinnosti k odvrácení téže škody podle ustanovení § 251 odst. 1 zák. práce"
+
 #### Trojice povinností zaměstnance
 
 Ustanovení § 249 zakládá **tři kumulativní preventivní povinnosti** zaměstnance, které jsou na rozdíl od § 248 (organizační prevence zaměstnavatele) **osobní prevencí** jednotlivého zaměstnance:
@@ -114,6 +119,15 @@ Generální prevenční povinnost zaměstnance podle § 249 je **konkretizací �
 > *(3) Zaměstnavatel je povinen prokázat zavinění zaměstnance, s výjimkou případů uvedených v § 252 a 255.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1316/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B6CF648E1AF0D525C12588E300192789?openDocument) — 26. 7. 2022, kat. A
+  > „Jen proto, že prekludovalo právo podnikatele domáhat se toho, aby zástupcovo jednání bylo prohlášeno za učiněné na jeho účet, nebo (jednal-li zástupce na cizí účet) toho, aby mu bylo postoupeno právo na odměnu nebo aby mu byla vydána odměna již poskytnutá (§ 432 odst. 2 o. z.), nezaniká právo na náhradu škody způsobené podnikateli porušením zákazu konkurence jeho zástupcem. Toto právo na náhradu škody nemusí být uplatněno ve lhůtách uvedených v ustanovení § 432 odst. 2 o. z"
+- *NS* [21 Cdo 1924/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5357F870600F527C1257E3B002FDB28?openDocument) — 9. 3. 2015, kat. A
+  > „Závisí-li způsob plnění obecné prevenční povinnosti zcela na úvaze zaměstnance, lze mu vytýkat porušení této povinnosti, je-li jeho počínání ve zjevném rozporu s obecnou zkušeností samotná skutečnost, že zaměstnanec měl možnost volby jiného (možná vhodnějšího) postupu a že přes zaměstnancem zvolené opatření, které nebylo ve zjevném rozporu s obecnou zkušeností, došlo ke vzniku škody na majetku, k závěru o porušení obecné prevenční povinnosti nepostačuje"
+- *NS* [21 Cdo 3555/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DFEE3571745D1076C1257D96002AEB00?openDocument) — 29. 10. 2014, kat. A
+  > „Předpoklady odpovědnosti zaměstnance za nesplnění povinnosti k odvrácení škody podle ustanovení § 251 odst. 1 zák. práce, která představuje sankci za porušení právní povinnosti zaměstnance stanovené v § 249 zák. práce, jsou vznik škody, porušení povinnosti upozornit na hrozící škodu, popřípadě proti ní zakročit, příčinná souvislost mezi vznikem škody a porušením povinnosti upozornit na hrozící škodu, popřípadě proti ní zakročit, zavinění alespoň ve formě vědomé nedbalosti a skutečnost, že škodu není možné uhradit jinak. Jsou-li splněny podmínky odpovědnosti zaměstnance za škodu způsobenou zaměstnavateli uvedené v ustanovení § 250 odst. 1 zák. práce, je vyloučena odpovědnost zaměstnance za nesplnění povinnosti k odvrácení téže škody podle ustanovení § 251 odst. 1 zák. práce"
 
 #### Čtyři kumulativní předpoklady obecné odpovědnosti
 
@@ -217,6 +231,11 @@ Toto vyloučení je systémově navázáno na § 266 (právo zaměstnance na ná
 > *(5) Zaměstnanec se zprostí povinnosti nahradit schodek zcela nebo zčásti, jestliže prokáže, že schodek vznikl zcela nebo zčásti bez jeho zavinění, zejména, že mu bylo zanedbáním povinnosti zaměstnavatele znemožněno se svěřenými hodnotami nakládat.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2536/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A3A7ECAA41F62B44C1257D35003506C3?openDocument) — 17. 7. 2014, kat. A
+  > „Vyúčtování hodnot, které byly svěřeny zaměstnanci na základě dohody o odpovědnosti k ochraně hodnot svěřených zaměstnanci k vyúčtování, může být provedeno nejen tím, že zaměstnanec předá hodnoty a účetní doklady zaměstnavateli (jeho jinému zaměstnanci), který „fyzický stav“ hodnot bezprostředně po jejich předání porovná se stavem účetním, ale i jiným způsobem stanoveným zaměstnavatelem, který je způsobilý vést k závěru o tom, zda na hodnotách svěřených zaměstnanci vznikl schodek. Takovým způsobem vyúčtování svěřených hodnot může být i jejich uložení zaměstnancem na určité místo, z něhož zaměstnavatel (jeho jiný zaměstnanec) hodnoty později převezme, a to za podmínek určených zaměstnavatelem tak, aby byla zajištěna průkaznost vyúčtování"
 
 #### Povaha DOÚH — speciální skutková podstata se zpřísněným režimem
 
@@ -442,6 +461,13 @@ Závazek z DOSV zaniká:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 4659/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F87AFF39856E27FC125817F003C68E9?openDocument) — 1. 6. 2017, kat. A
+  > „Pohledávku zaměstnavatele vůči zaměstnanci z pracovněprávního vztahu nelze zajistit směnkou"
+- *NS* [21 Cdo 3555/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DFEE3571745D1076C1257D96002AEB00?openDocument) — 29. 10. 2014, kat. A
+  > „Předpoklady odpovědnosti zaměstnance za nesplnění povinnosti k odvrácení škody podle ustanovení § 251 odst. 1 zák. práce, která představuje sankci za porušení právní povinnosti zaměstnance stanovené v § 249 zák. práce, jsou vznik škody, porušení povinnosti upozornit na hrozící škodu, popřípadě proti ní zakročit, příčinná souvislost mezi vznikem škody a porušením povinnosti upozornit na hrozící škodu, popřípadě proti ní zakročit, zavinění alespoň ve formě vědomé nedbalosti a skutečnost, že škodu není možné uhradit jinak. Jsou-li splněny podmínky odpovědnosti zaměstnance za škodu způsobenou zaměstnavateli uvedené v ustanovení § 250 odst. 1 zák. práce, je vyloučena odpovědnost zaměstnance za nesplnění povinnosti k odvrácení téže škody podle ustanovení § 251 odst. 1 zák. práce"
+
 #### Skutečná škoda a způsob náhrady (odst. 1)
 
 Zaměstnanec je povinen nahradit **skutečnou škodu** — tj. zmenšení majetkového stavu zaměstnavatele odpovídající hodnotě poškozené nebo zničené věci v okamžiku poškození (vazba na § 272). Pojem skutečné škody vylučuje **ušlý zisk** s výjimkou škody způsobené úmyslně (odst. 3).
@@ -495,6 +521,11 @@ Je-li k náhradě škody **společně zavázáno více zaměstnanců**, neuplat�
 > *Při určení výše náhrady škody podle § 251 se přihlédne zejména k okolnostem, které bránily splnění povinnosti, a k významu škody pro zaměstnavatele. Výše náhrady škody však nesmí přesáhnout částku rovnající se trojnásobku průměrného měsíčního výdělku zaměstnance.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3555/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DFEE3571745D1076C1257D96002AEB00?openDocument) — 29. 10. 2014, kat. A
+  > „Předpoklady odpovědnosti zaměstnance za nesplnění povinnosti k odvrácení škody podle ustanovení § 251 odst. 1 zák. práce, která představuje sankci za porušení právní povinnosti zaměstnance stanovené v § 249 zák. práce, jsou vznik škody, porušení povinnosti upozornit na hrozící škodu, popřípadě proti ní zakročit, příčinná souvislost mezi vznikem škody a porušením povinnosti upozornit na hrozící škodu, popřípadě proti ní zakročit, zavinění alespoň ve formě vědomé nedbalosti a skutečnost, že škodu není možné uhradit jinak. Jsou-li splněny podmínky odpovědnosti zaměstnance za škodu způsobenou zaměstnavateli uvedené v ustanovení § 250 odst. 1 zák. práce, je vyloučena odpovědnost zaměstnance za nesplnění povinnosti k odvrácení téže škody podle ustanovení § 251 odst. 1 zák. práce"
 
 #### Snížený limit — 3násobek průměrného měsíčního výdělku
 
@@ -575,7 +606,6 @@ Zjistí-li se, že schodek (nebo jeho část) byl zaviněn **konkrétním zaměs
 
 Algoritmus § 260 je **lex specialis** k § 257 odst. 5 (poměrné dělení podle míry zavinění): u společné DOÚH se zavinění **presumuje stejně u všech**, a proto se rozhodující kritérium přesouvá na poměr výdělků a postavení (vedoucí × řadový zaměstnanec). Moderační právo soudu podle § 264 se uplatňuje i zde — soud může výši individuálního podílu (i celého schodku) přiměřeně snížit.
 
-
 ---
 
 ### § 261 — Zaměstnanec stižený duševní poruchou a jednání proti dobrým mravům
@@ -649,6 +679,11 @@ Pojem **dobrých mravů** se vykládá ve shodě s § 2 odst. 3 OZ (zákaz výko
 > *(3) Výši požadované náhrady škody a obsah dohody o způsobu její náhrady, s výjimkou náhrady nepřesahující 1 000 Kč, je zaměstnavatel povinen projednat s odborovou organizací.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3976/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79214101001110BAC1257ED7003020BA?openDocument) — 6. 8. 2015, kat. A
+  > „Jestliže zaměstnavatel bez věcných důvodů zaměstnanci stanoví či s ním sjedná odměnu za práci, která je v porovnání s ostatními zaměstnanci vykonávajícími stejnou práci nebo práci stejné hodnoty v rozporu se zásadou rovného zacházení, jde o porušení právní povinnosti zaměstnanec, který byl nerovným zacházením postižen, má právo domáhat se náhrady takto vzniklé újmy podle ustanovení § 265 odst. 2 zák. práce"
 
 #### Procedura uplatnění nároku (odst. 1)
 
@@ -726,6 +761,15 @@ Projednání není souhlasem — odborová organizace nemá právo veta. Jde o p
 > *(3) Zaměstnavatel není povinen nahradit zaměstnanci škodu na dopravním prostředku, kterého použil při plnění pracovních úkolů nebo v přímé souvislosti s ním bez jeho souhlasu, ani škodu, která vznikne na nářadí, zařízeních a předmětech zaměstnance potřebných pro výkon práce, které použil bez jeho souhlasu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 5825/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF199BC59E98349DC12582780026308E?openDocument) — 30. 1. 2018, kat. A
+  > „Nepřevedl-li zaměstnavatel zaměstnance, který nemůže konat dosavadní práci pro pracovní úraz, nemoc z povolání nebo ohrožení nemocí z povolání, na jinou vhodnou práci (popřípadě převedl-li zaměstnance na jinou vhodnou práci bez jeho souhlasu a nebylo-li jeho pracovní zařazení u zaměstnavatele vyřešeno dohodou ani dodatečně), je povinen rozvázat s ním pracovní poměr výpovědí z důvodů uvedených v ustanovení § 52 písm. d) zák. práce nebo dohodou z týchž důvodů. Nesplní-li zaměstnavatel tuto povinnost, je oprávněn z těchto důvodů rozvázat pracovní poměr výpovědí zaměstnanec, aniž by to bylo na újmu jeho práva na odstupné podle ustanovení § 67 odst. 2 zák. práce"
+- *NS* [21 Cdo 2863/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3CFDECA9113C64AFC12580020025CEEF?openDocument) — 26. 5. 2016, kat. A
+  > „Porušením zásady rovného zacházení při odměňování za práci je též jednání zaměstnavatele spočívající v tom, že zaměstnanci nevyplatí pro nesplnění některé z podmínek stanovených vnitřním předpisem pobídkovou složku mzdy, kterou naopak vyplatil ostatním svým zaměstnancům odměňovaným za práci stejným způsobem, přestože ani tito zaměstnanci nesplnili stejnou podmínku stanovenou pro její vyplacení. Za škodu způsobenou zaměstnanci tímto jednáním, které je porušením právní povinnosti, zaměstnavatel odpovídá podle ustanovení § 265 odst. 2 zákoníku práce"
+- *NS* [21 Cdo 3976/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79214101001110BAC1257ED7003020BA?openDocument) — 6. 8. 2015, kat. A
+  > „Jestliže zaměstnavatel bez věcných důvodů zaměstnanci stanoví či s ním sjedná odměnu za práci, která je v porovnání s ostatními zaměstnanci vykonávajícími stejnou práci nebo práci stejné hodnoty v rozporu se zásadou rovného zacházení, jde o porušení právní povinnosti zaměstnanec, který byl nerovným zacházením postižen, má právo domáhat se náhrady takto vzniklé újmy podle ustanovení § 265 odst. 2 zák. práce"
 
 #### Předpoklady obecné odpovědnosti zaměstnavatele (odst. 1)
 
@@ -1105,6 +1149,11 @@ Norma předchází **dvojímu odškodnění** za totéž období a současně za
 > *(6) Náhrada za ztrátu na výdělku po skončení dočasné pracovní neschopnosti přísluší zaměstnanci nejdéle do konce kalendářního měsíce, v němž dovršil věk 65 let nebo důchodový věk, je-li důchodový věk vyšší než 65 let, anebo do data přiznání starobního důchodu z důchodového pojištění.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2341/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FBA5DD8180CF7772C125854400160932?openDocument) — 15. 1. 2020, kat. A
+  > „Promlčení práv na jednotlivá plnění vyplývajících z nároku zaměstnance na náhradu za ztrátu na výdělku po skončení pracovní neschopnosti z důvodu pracovního úrazu a vzniklých v době po 31. 12. 2013 se řídí ustanoveními § 609-653 o. z., i když k pracovnímu úrazu zaměstnance a vzniku práva na náhradu za ztrátu na výdělku po skončení pracovní neschopnosti došlo před 1. 1. 2014. Zaměstnanci, kterému byl přiznán invalidní důchod pro invaliditu třetího stupně a který po pracovním úrazu nevykonává pracovní činnost, přísluší náhrada za ztrátu na výdělku po skončení pracovní neschopnosti (při uznání invalidity) ve výši rozdílu mezi průměrným výdělkem před vznikem škody a invalidním důchodem pobíraným z téhož důvodu k výdělku ve výši minimální mzdy se nepřihlíží"
 
 #### Tzv. „**renta**" — dlouhodobá náhrada za ztrátu výdělku (odst. 1)
 
@@ -1781,6 +1830,11 @@ Odst. 2 ukládá soudu **zohlednit** výši jednorázové náhrady přiznané po
 > *Nepromlčují se práva zaměstnance na náhradu za ztrátu na výdělku z důvodu pracovního úrazu nebo nemoci z povolání nebo jiné škody nebo nemajetkové újmy na zdraví než z důvodu pracovního úrazu nebo nemoci z povolání a práva na náhradu nákladů na výživu pozůstalých. Práva na jednotlivá plnění z nich vyplývající se však promlčují.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2341/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FBA5DD8180CF7772C125854400160932?openDocument) — 15. 1. 2020, kat. A
+  > „Promlčení práv na jednotlivá plnění vyplývajících z nároku zaměstnance na náhradu za ztrátu na výdělku po skončení pracovní neschopnosti z důvodu pracovního úrazu a vzniklých v době po 31. 12. 2013 se řídí ustanoveními § 609-653 o. z., i když k pracovnímu úrazu zaměstnance a vzniku práva na náhradu za ztrátu na výdělku po skončení pracovní neschopnosti došlo před 1. 1. 2014. Zaměstnanci, kterému byl přiznán invalidní důchod pro invaliditu třetího stupně a který po pracovním úrazu nevykonává pracovní činnost, přísluší náhrada za ztrátu na výdělku po skončení pracovní neschopnosti (při uznání invalidity) ve výši rozdílu mezi průměrným výdělkem před vznikem škody a invalidním důchodem pobíraným z téhož důvodu k výdělku ve výši minimální mzdy se nepřihlíží"
 
 #### Klíčové pravidlo nepromlčitelnosti
 

@@ -243,6 +243,11 @@ Odst. 7 zavádí princip **„continuous improvement"**: opatření je třeba **
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 5825/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF199BC59E98349DC12582780026308E?openDocument) — 30. 1. 2018, kat. A
+  > „Nepřevedl-li zaměstnavatel zaměstnance, který nemůže konat dosavadní práci pro pracovní úraz, nemoc z povolání nebo ohrožení nemocí z povolání, na jinou vhodnou práci (popřípadě převedl-li zaměstnance na jinou vhodnou práci bez jeho souhlasu a nebylo-li jeho pracovní zařazení u zaměstnavatele vyřešeno dohodou ani dodatečně), je povinen rozvázat s ním pracovní poměr výpovědí z důvodů uvedených v ustanovení § 52 písm. d) zák. práce nebo dohodou z týchž důvodů. Nesplní-li zaměstnavatel tuto povinnost, je oprávněn z těchto důvodů rozvázat pracovní poměr výpovědí zaměstnanec, aniž by to bylo na újmu jeho práva na odstupné podle ustanovení § 67 odst. 2 zák. práce"
+
 #### Zákaz zakázaných a nepřiměřených prací (odst. 1 písm. a)
 
 Norma promítá do operativního chování zaměstnavatele dva oddělené zákazy:

@@ -36,6 +36,17 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2000/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDAA1626838F7FE8C1258BF70052AA6E?openDocument) — 20. 11. 2024, kat. A
+  > „Výše škody způsobené zaměstnanci postiženému nerovným zacházením při poskytování mzdy se určí jako rozdíl mezi mzdou zaměstnance, kterému byla v rozporu se zásadou rovného zacházení stanovena, určena nebo s ním byla sjednána vyšší mzda než postiženému zaměstnanci, který vykonává stejnou práci nebo práci stejné hodnoty, a mzdou postiženého zaměstnance. Je-li zaměstnanců, kterým byla za těchto okolností stanovena, určena nebo s nimi byla sjednána vyšší mzda, více a není-li výše jejich mzdy stejná, je výše škody dána rozdílem mezi mzdou zaměstnance, kterému byla stanovena, určena nebo s ním byla sjednána nejvyšší mzda, a mzdou postiženého zaměstnance"
+- *NS* [21 Cdo 3955/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C73EA1911537E57AC12585CF0023CEFF?openDocument) — 20. 7. 2020, kat. A
+  > „Z hlediska zásady rovného odměňování podle ustanovení § 110 zák. práce nejsou pro posouzení, zda se v konkrétním případě jedná o stejnou práci nebo o práci stejné hodnoty, významné (nepředstavují komparační kritérium ve smyslu ustanovení § 110 odst. 2 zák. práce) sociálněekonomické podmínky a jim odpovídající výše nákladů na uspokojování životních potřeb v místě, kde zaměstnanec na základě pracovní smlouvy pro zaměstnavatele vykonává práci"
+- *NS* [21 Cdo 3976/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79214101001110BAC1257ED7003020BA?openDocument) — 6. 8. 2015, kat. A
+  > „Jestliže zaměstnavatel bez věcných důvodů zaměstnanci stanoví či s ním sjedná odměnu za práci, která je v porovnání s ostatními zaměstnanci vykonávajícími stejnou práci nebo práci stejné hodnoty v rozporu se zásadou rovného zacházení, jde o porušení právní povinnosti zaměstnanec, který byl nerovným zacházením postižen, má právo domáhat se náhrady takto vzniklé újmy podle ustanovení § 265 odst. 2 zák. práce"
+- *NS* [21 Cdo 3989/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B862ED4AB8F31E8FC1257B080048A833?openDocument) — 20. 12. 2012, kat. A
+  > „Prokáže-li zaměstnanec ve sporu o zaplacení mzdy, že mu vznikl pracovní poměr, ubrání se zaměstnavatel proti zaměstnancově tvrzení, že pro něho v určité době vykonal práci, jen jestliže bude tvrdit a prokáže-li, že podle jím vedené evidence pracovní doby zaměstnanec v této době nepracoval zaměstnanec má za takového stavu věci právo na mzdu, bude-li tvrdit a prokáže-li, že evidence pracovní doby vedená zaměstanavatelem neodpovídá skutečnosti a že opravdu vykonal pro zaměstnavatele práci"
+
 #### Trichotomie odměňování (odst. 1)
 
 § 109 je **základním definičním ustanovením** celé Části šesté. Otevírá tzv. **trichotomii peněžitých plnění** za práci v pracovněprávních vztazích: **mzda — plat — odměna z dohody**. Tato trichotomie není pouze terminologickou hříčkou, nýbrž vyjadřuje **tři odlišné právní režimy** odměňování, které se v dalších hlavách Části šesté liší co do míry kogence, kontraktní volnosti, vázanosti na podzákonné normy a způsobu valorizace. Zaměstnanec má **subjektivní právo** na peněžité plnění (případně na peněžité plnění s naturální složkou), jež vzniká samotným vykonáním práce — nikoliv až okamžikem splatnosti (§ 141) ani okamžikem výplaty (§ 142). Splatnost je až další fází právního života pohledávky na mzdu/plat/odměnu z dohody.
@@ -93,6 +104,15 @@ Odměna z dohody je **třetí kategorií** peněžitého plnění a vztahuje se 
 > *(5) Pracovní výkonnost se posuzuje podle intenzity a kvality prováděných prací, pracovních schopností a pracovní způsobilosti a výsledky práce se posuzují podle množství a kvality.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2000/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDAA1626838F7FE8C1258BF70052AA6E?openDocument) — 20. 11. 2024, kat. A
+  > „Výše škody způsobené zaměstnanci postiženému nerovným zacházením při poskytování mzdy se určí jako rozdíl mezi mzdou zaměstnance, kterému byla v rozporu se zásadou rovného zacházení stanovena, určena nebo s ním byla sjednána vyšší mzda než postiženému zaměstnanci, který vykonává stejnou práci nebo práci stejné hodnoty, a mzdou postiženého zaměstnance. Je-li zaměstnanců, kterým byla za těchto okolností stanovena, určena nebo s nimi byla sjednána vyšší mzda, více a není-li výše jejich mzdy stejná, je výše škody dána rozdílem mezi mzdou zaměstnance, kterému byla stanovena, určena nebo s ním byla sjednána nejvyšší mzda, a mzdou postiženého zaměstnance"
+- *NS* [21 Cdo 3955/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C73EA1911537E57AC12585CF0023CEFF?openDocument) — 20. 7. 2020, kat. A
+  > „Z hlediska zásady rovného odměňování podle ustanovení § 110 zák. práce nejsou pro posouzení, zda se v konkrétním případě jedná o stejnou práci nebo o práci stejné hodnoty, významné (nepředstavují komparační kritérium ve smyslu ustanovení § 110 odst. 2 zák. práce) sociálněekonomické podmínky a jim odpovídající výše nákladů na uspokojování životních potřeb v místě, kde zaměstnanec na základě pracovní smlouvy pro zaměstnavatele vykonává práci"
+- *NS* [21 Cdo 3976/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/79214101001110BAC1257ED7003020BA?openDocument) — 6. 8. 2015, kat. A
+  > „Jestliže zaměstnavatel bez věcných důvodů zaměstnanci stanoví či s ním sjedná odměnu za práci, která je v porovnání s ostatními zaměstnanci vykonávajícími stejnou práci nebo práci stejné hodnoty v rozporu se zásadou rovného zacházení, jde o porušení právní povinnosti zaměstnanec, který byl nerovným zacházením postižen, má právo domáhat se náhrady takto vzniklé újmy podle ustanovení § 265 odst. 2 zák. práce"
 
 #### Princip rovného odměňování (odst. 1)
 
@@ -1563,6 +1583,11 @@ Pravidla jsou **dispozitivní** — strany se mohou dohodnout jinak (typicky u D
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 238/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/86E3EB2350EAF6FDC12584610018E5DC?openDocument) — 21. 5. 2019, kat. A
+  > „Jednostranné započtení pohledávky zaměstnavatele na náhradu škody proti pohledávce zaměstnance na mzdu, plat, odměnu z dohody a náhradu mzdy nebo platu není přípustné, i kdyby byly dodrženy zákonné limity vyplývající z ustanovení § 278 a § 279 odst. 1 o.s.ř. Zaměstnavatel je oprávněn započíst svou pohledávku na náhradu škody proti pohledávce zaměstnance na mzdu, plat, odměnu z dohody a náhradu mzdy nebo platu a provést srážku (srážky) ze mzdy za účelem uspokojení svého nároku na náhradu škody jen na základě dohody o srážkách ze mzdy uzavřené se zaměstnancem"
+
 #### Zákaz postoupení (odst. 1)
 
 Právo na mzdu, plat, odměnu z dohody **nelze postoupit** (cessio) na jinou osobu. Toto pravidlo:
@@ -1620,6 +1645,11 @@ Toto omezení je zásadní ochranou — bez něj by zaměstnavatel mohl libovoln
 > *- f) odměny podle § 224 odst. 2.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 853/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/29FD2CC482BB086AC12580CD002B7E11?openDocument) — 1. 12. 2016, kat. A
+  > „Základní částka, která nesmí být při provádění výkonu rozhodnutí srážkami ze mzdy povinnému sražena z měsíční mzdy (§ 278 o. s. ř.), se od odstupného poskytnutého zaměstnanci při skončení pracovního poměru odečte tolikrát, kolik násobků průměrného výdělku odstupné poskytnuté zaměstnanci představuje"
 
 #### Legální zkratka „srážky ze mzdy" (odst. 1)
 
@@ -1714,6 +1744,11 @@ Tato kategorie umožňuje **přímé inkaso** odborových příspěvků zaměstn
 > *(3) Srážky ze mzdy zaměstnance ve prospěch zaměstnavatele za přijetí do zaměstnání, ke složení peněžních záruk nebo k úhradě smluvních pokut nejsou dovoleny. Srážky ze mzdy k náhradě škody jsou možné jen na základě dohody o srážkách ze mzdy [§ 146 písm. b)].*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 238/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/86E3EB2350EAF6FDC12584610018E5DC?openDocument) — 21. 5. 2019, kat. A
+  > „Jednostranné započtení pohledávky zaměstnavatele na náhradu škody proti pohledávce zaměstnance na mzdu, plat, odměnu z dohody a náhradu mzdy nebo platu není přípustné, i kdyby byly dodrženy zákonné limity vyplývající z ustanovení § 278 a § 279 odst. 1 o.s.ř. Zaměstnavatel je oprávněn započíst svou pohledávku na náhradu škody proti pohledávce zaměstnance na mzdu, plat, odměnu z dohody a náhradu mzdy nebo platu a provést srážku (srážky) ze mzdy za účelem uspokojení svého nároku na náhradu škody jen na základě dohody o srážkách ze mzdy uzavřené se zaměstnancem"
 
 #### Taxativní výčet zákonných srážek (odst. 1)
 
@@ -1848,7 +1883,6 @@ Pravidlo zachování pořadí brání tomu, aby zaměstnanec měnil zaměstnavat
 ### § 150 — Evidenční povinnost zaměstnavatele
 
 > **Poznámka systematiky:** § 150 je v originálu zákona zařazen pod **Hlavu VIII Díl 2 (Pořadí srážek ze mzdy)** přímo navazujícím způsobem za § 149, byť jeho obsahem je technicky **evidenční povinnost** — povinnost vést záznamy o provedených srážkách. Strukturálně tedy uzavírá celou Část šestou.
-
 
 > **§ 150**
 >

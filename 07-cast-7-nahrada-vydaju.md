@@ -14,6 +14,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2608/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DBA865E5DC14BE3C1258ADD0043AA9A?openDocument) — 23. 1. 2024, kat. A
+  > „Jsou-li zřejmá kritéria pro určení místa pravidelného pracoviště podle domněnky stanovené v § 34a zák. práce (a místo pravidelného pracoviště zaměstnance tak bylo dáno), lze je měnit pouze cestou změny obsahu pracovní smlouvy, nikoliv jednostranným pokynem, jímž zaměstnavatel stanoví počátek výkonu práce v jiném místě, než bylo dosavadní pravidelné pracoviště zaměstnance"
+- *NS* [21 Cdo 2868/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02E382C6E2B907A6C1257B4F003320A7?openDocument) — 4. 4. 2013, kat. A
+  > „Čerpání dovolené soudcem není důvodem, pro který by mu mohla být krácena podle ustanovení § 35 ,odst. 3, věty první, zákona č. 236/1995 Sb., ve znění pozdějších předpisů, víceúčelová paušální ,náhrada výdajů na reprezentaci a na odbornou literaturu"
+
 #### Generální klauzule — kogentní povinnost zaměstnavatele
 
 § 151 formuluje **základní (zastřešující) povinnost** zaměstnavatele kompenzovat zaměstnanci výdaje vzniklé v přímé souvislosti s výkonem práce. Jde o ustanovení **kogentní povahy** — povinnost nelze smluvně vyloučit ani omezit pod limity stanovené dalšími ustanoveními části sedmé. Ekonomickým východiskem této úpravy je princip, že **náklady provozu zaměstnavatele nesmějí být přenášeny na zaměstnance**: jestliže výkon práce vyžaduje, aby zaměstnanec cestoval, ubytoval se mimo bydliště, používal vlastní nářadí nebo vynakládal mimořádné životní náklady, jde svojí ekonomickou podstatou o náklady zaměstnavatele, jež musí být zaměstnanci kompenzovány.
@@ -64,6 +71,11 @@ Toto rozlišení vychází z hospodárnosti veřejných prostředků — u veře
 > *- g) výkonu práce v zahraničí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2608/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DBA865E5DC14BE3C1258ADD0043AA9A?openDocument) — 23. 1. 2024, kat. A
+  > „Jsou-li zřejmá kritéria pro určení místa pravidelného pracoviště podle domněnky stanovené v § 34a zák. práce (a místo pravidelného pracoviště zaměstnance tak bylo dáno), lze je měnit pouze cestou změny obsahu pracovní smlouvy, nikoliv jednostranným pokynem, jímž zaměstnavatel stanoví počátek výkonu práce v jiném místě, než bylo dosavadní pravidelné pracoviště zaměstnance"
 
 #### Numerus clausus kvalifikovaných cest
 

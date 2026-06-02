@@ -334,6 +334,11 @@ Zastavení úlev je odlišný institut od zániku povinnosti uhradit náklady z 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3382/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/99DE67140DF1061BC125872E0015FC71?openDocument) — 19. 5. 2021, kat. A
+  > „Účinnost přijetí návrhu na uzavření smlouvy ve smyslu ustanovení § 1745 o. z. může být dohodou stran pracovněprávního vztahu určena k jinému okamžiku než k okamžiku, kdy vyjádření souhlasu s obsahem návrhu dojde navrhovateli smlouvy. Takovým jiným okamžikem může být i okamžik podpisu písemného návrhu smlouvy (podepsaného navrhovatelem) stranou, které je návrh určen. To platí i v případě návrhu smlouvy, pro kterou zákoník práce vyžaduje písemnou formu. K odlišnému ujednání stran o určení okamžiku účinnosti přijetí návrhu na uzavření smlouvy může dojít nejen před předložením nabídky navrhovatelem straně, které je návrh určen návrh takového ujednání může být obsažen i v samotné nabídce"
+
 #### Podstata kvalifikační dohody
 
 Kvalifikační dohoda je **typový synallagmatický kontrakt pracovněprávní povahy** uzavíraný v souvislosti se zvyšováním (popř. prohlubováním — odst. 2) kvalifikace s charakteristickou strukturou plnění:

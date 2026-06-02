@@ -979,6 +979,11 @@ Judikatura SDEU (rozsudek C-518/15 Matzak, C-580/19 Stadt Offenbach) upozorňuje
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3989/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B862ED4AB8F31E8FC1257B080048A833?openDocument) — 20. 12. 2012, kat. A
+  > „Prokáže-li zaměstnanec ve sporu o zaplacení mzdy, že mu vznikl pracovní poměr, ubrání se zaměstnavatel proti zaměstnancově tvrzení, že pro něho v určité době vykonal práci, jen jestliže bude tvrdit a prokáže-li, že podle jím vedené evidence pracovní doby zaměstnanec v této době nepracoval zaměstnanec má za takového stavu věci právo na mzdu, bude-li tvrdit a prokáže-li, že evidence pracovní doby vedená zaměstanavatelem neodpovídá skutečnosti a že opravdu vykonal pro zaměstnavatele práci"
+
 #### Bezpodmínečná evidenční povinnost (odst. 1)
 
 § 96 ukládá zaměstnavateli **kogentní povinnost** vést u **každého zaměstnance** podrobnou evidenci pracovní doby. Evidence musí vyznačovat **začátek i konec** každé z následujících složek:

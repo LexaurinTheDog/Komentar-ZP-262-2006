@@ -172,6 +172,11 @@ Náklady na vstupní prohlídku hradí podle § 59 odst. 2 zákona č. 373/2011 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 1054/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE84EB42998B0E3BC1257F6C004C38DA?openDocument) — 17. 12. 2015, kat. A
+  > „Počínaje dnem 1.1.2008 se pracovní poměr vedoucích zaměstnanců uvedených v § 33 odst. 3 zák. práce (ve znění účinném od 1.1.2008) považuje za založený jmenováním, i když pracovní poměr vznikl v době do 31.12.2007 na základě pracovní smlouvy, popřípadě i když se považuje ve smyslu § 364 odst. 3 zák. práce za založený pracovní smlouvou"
+
 #### Pracovní smlouva jako základní (a takřka výlučný) titul (odst. 1)
 
 Odst. 1 zakotvuje **dvoumodelové schéma** vzniku pracovního poměru: standardní titul = **pracovní smlouva** (dvoustranné právní jednání), výjimečné tituly = **jmenování** (jednostranné jednání zaměstnavatele — odst. 3) a volba (předpoklad smlouvy — odst. 2). Pracovní smlouva je tedy obecným titulem; jmenování je výjimkou, jejíž rozsah je vymezen taxativně (odst. 3) a kogentně — strany se nemohou domluvit, že pracovní poměr vznikne jmenováním tam, kde to zákon nestanoví.
@@ -305,6 +310,11 @@ Odst. 5 přikazuje, aby každá strana **obdržela jedno vyhotovení** smlouvy. 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2608/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DBA865E5DC14BE3C1258ADD0043AA9A?openDocument) — 23. 1. 2024, kat. A
+  > „Jsou-li zřejmá kritéria pro určení místa pravidelného pracoviště podle domněnky stanovené v § 34a zák. práce (a místo pravidelného pracoviště zaměstnance tak bylo dáno), lze je měnit pouze cestou změny obsahu pracovní smlouvy, nikoliv jednostranným pokynem, jímž zaměstnavatel stanoví počátek výkonu práce v jiném místě, než bylo dosavadní pravidelné pracoviště zaměstnance"
+
 #### Smysl institutu — vázanost cestovních náhrad na obec
 
 § 34a řeší klíčovou otázku **pro účely cestovních náhrad** (§§ 151–189 ZP — viz pozdější kapitola): od kterého bodu se počítá pracovní cesta a vznikají cestovní náhrady (jízdné, stravné, ubytování)? Bez tohoto vymezení by hrozila právní nejistota a riziko zneužití (např. sjednání místa výkonu práce „Česká republika" by mohlo znamenat, že žádné pracovní cesty by nikdy nevznikaly — vše by bylo v rámci sjednaného místa).
@@ -379,6 +389,11 @@ Smysl zákazu:
 > *(5) Zkušební doba se prodlužuje o pracovní dny zaměstnance, v nichž během zkušební doby neodpracoval celou směnu z důvodu překážky v práci, čerpání dovolené nebo neomluveného zameškání práce.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 3046/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AB2E7735B43C30DC1257D880063EAB2?openDocument) — 24. 9. 2014, kat. A
+  > „Uzavře-li zaměstnanec z důvodu převodu činnosti zaměstnavatele nebo části činnosti zaměstnavatele nebo převodu úkolů zaměstnavatele anebo jejich části k jinému zaměstnavateli dohodu o rozvázání pracovního poměru s dosavadním zaměstnavatelem a zároveň pracovní smlouvu s přejímajícím zaměstnavatelem, může být v této pracovní smlouvě sjednána zkušební doba. Jestliže by však účelem takového postupu ze strany přejímajícího zaměstnavatele bylo vyhnout se přechodu práv a povinností z pracovního poměru mezi zaměstnancem a dosavadním zaměstnavatelem na přejímajícího zaměstnavatele proto, aby přejímající zaměstnavatel mohl zrušit pracovní poměr se zaměstnancem ve zkušební době, kterou při přechodu práv a povinností z pracovněprávních vztahů nelze sjednat, bylo by ujednání o zkušební době pro rozpor s dobrými mravy neplatné"
 
 #### Smysl institutu — flexibilita rozvázání v počáteční fázi
 
@@ -651,6 +666,17 @@ Odkaz na § 37 odst. 3, 4 znamená:
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2697/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C0021FF23975C1DC1258A7A001B8616?openDocument) — 11. 9. 2023, kat. A
+  > „V rozporu s právní úpravou doručování obsaženou v zákoníku práce (zákonu č. 262/2006 Sb., zákoník práce, ve znění účinném do 30. 6. 2019) není, doručuje-li zaměstnavatel do vlastních rukou zaměstnance písemnost, u níž takový postup nestanoví ustanovení § 334 odst. 1 zák. práce ani smlouva nebo vnitřní předpis. Přistoupí-li zaměstnavatel v takovém případě k doručení písemnosti prostřednictvím provozovatele poštovních služeb, podléhá její doručení režimu ustanovení § 336 zák. práce, nikoli tedy obecným pravidlům dojití projevu vůle podle občanského zákoníku"
+- *NS* [21 Cdo 2862/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/314FBC1E47E738A3C12585910018D6A8?openDocument) — 31. 3. 2020, kat. A
+  > „Simulované právní jednání, při němž jednající strany navenek pouze předstírají vůli právní jednání učinit a kdy jejich projev vůle pro chybějící vážnost projevené vůle nesměřuje k vyvolání právních následků, které jsou s předstíraným projevem vůle spojeny, je právním jednáním zdánlivým (§ 552 o. z.). Ke zdánlivosti (nicotnosti) právního jednání soud přihlíží z úřední povinnosti, vyjde-li zdánlivost v řízení najevo"
+- *NS* [21 Cdo 5825/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF199BC59E98349DC12582780026308E?openDocument) — 30. 1. 2018, kat. A
+  > „Nepřevedl-li zaměstnavatel zaměstnance, který nemůže konat dosavadní práci pro pracovní úraz, nemoc z povolání nebo ohrožení nemocí z povolání, na jinou vhodnou práci (popřípadě převedl-li zaměstnance na jinou vhodnou práci bez jeho souhlasu a nebylo-li jeho pracovní zařazení u zaměstnavatele vyřešeno dohodou ani dodatečně), je povinen rozvázat s ním pracovní poměr výpovědí z důvodů uvedených v ustanovení § 52 písm. d) zák. práce nebo dohodou z týchž důvodů. Nesplní-li zaměstnavatel tuto povinnost, je oprávněn z těchto důvodů rozvázat pracovní poměr výpovědí zaměstnanec, aniž by to bylo na újmu jeho práva na odstupné podle ustanovení § 67 odst. 2 zák. práce"
+- *NS* [21 Cdo 1467/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7BE440F22F9DFBBFC1257E4A004696A8?openDocument) — 31. 3. 2015, kat. A
+  > „Rozsáhlost doplnění dokazování ve smyslu ustanovení § 213 odst. 4 o. s. ř. nevyjadřuje počet (množství) důkazů, které by měly být za odvolacího řízení provedeny, nýbrž rozsah skutečností významných pro posouzení věci, ohledně kterých je třeba za odvolacího řízení doplnit dokazování. Zcela nedostatečným dokazováním se má v tomto ustanovení na mysli stav, kdy soud prvního stupně sice provedl některé důkazy, avšak šlo o důkazy zjevně nezpůsobilé objasnit skutečnosti, které jsou pro rozhodnutí nebo řízení významné. Má-li odvolací soud za to, že mají být provedeny jiné než účastníky řízení navržené důkazy, které jsou potřebné ke zjištění skutkového stavu a které vyplývají z obsahu spisu, nemůže rozhodnutí soudu prvního stupně z tohoto důvodu zrušit v takovém případě je na odvolacím soudu, aby uvedené důkazy provedl sám"
+
 #### Obsah pracovního poměru — synallagma povinností (odst. 1)
 
 § 38 odst. 1 ZP formuluje **základní obsahový rámec pracovního poměru** — vzájemné synallagmatické (vzájemně podmíněné) povinnosti zaměstnavatele a zaměstnance.
@@ -797,6 +823,15 @@ Odst. 6 vylučuje aplikaci § 39 odst. 2 na **agenturní zaměstnávání** — 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2608/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DBA865E5DC14BE3C1258ADD0043AA9A?openDocument) — 23. 1. 2024, kat. A
+  > „Jsou-li zřejmá kritéria pro určení místa pravidelného pracoviště podle domněnky stanovené v § 34a zák. práce (a místo pravidelného pracoviště zaměstnance tak bylo dáno), lze je měnit pouze cestou změny obsahu pracovní smlouvy, nikoliv jednostranným pokynem, jímž zaměstnavatel stanoví počátek výkonu práce v jiném místě, než bylo dosavadní pravidelné pracoviště zaměstnance"
+- *NS* [21 Cdo 682/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F983E1C6C071168CC12583C8001D7C5F?openDocument) — 18. 12. 2018, kat. A
+  > „Nahrazení vlastnoručního podpisu zaměstnavatele na výpovědi z pracovního poměru mechanickými prostředky není přípustné"
+- *NS* [21 Cdo 2376/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F5ABB851623FF3DEC1257FF40025C341?openDocument) — 5. 5. 2016, kat. A
+  > „Zaměstnavatel nemůže dát výpověď z pracovního poměru podle ustanovení § 73a odst. 2 věty druhé zák. práce na základě fikce výpovědního důvodu podle ustanovení § 52 písm. c) zák. práce zaměstnanci, který byl odvolán z vedoucího pracovního místa nebo který se tohoto místa vzdal, jestliže se s ním při jeho jmenování na vedoucí pracovní místo nebo při uzavření dohody o možnosti odvolání a vzdání se vedoucího pracovního místa dohodl na tom, že v případě odvolání zaměstnance z vedoucího pracovního místa nebo vzdání se tohoto místa zaměstnancem jej zařadí na práci, kterou zaměstnanec vykonával před svým jmenováním nebo zařazením na vedoucí pracovní místo"
+
 #### Zásada konsenzuální změny (odst. 1)
 
 Odst. 1 zakotvuje **základní pravidlo soukromého práva** — pacta sunt servanda, pacta non sunt mutanda nisi consensu. Obsah pracovního poměru, jenž byl sjednán dohodou (pracovní smlouvou), může být změněn **pouze dohodou stran**.
@@ -867,6 +902,13 @@ Tato vazba zajišťuje, že zaměstnanec má **vždy aktuální písemnou dokume
 > *(7) Zaměstnavatel je povinen předem projednat se zaměstnancem důvod převedení na jinou práci a dobu, po kterou má převedení trvat; dochází-li převedením zaměstnance ke změně pracovní smlouvy, je zaměstnavatel povinen vydat mu písemné potvrzení o důvodu převedení na jinou práci a době jeho trvání, s výjimkou případů uvedených v odstavci 2 písm. c) a v odstavci 4.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 5825/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF199BC59E98349DC12582780026308E?openDocument) — 30. 1. 2018, kat. A
+  > „Nepřevedl-li zaměstnavatel zaměstnance, který nemůže konat dosavadní práci pro pracovní úraz, nemoc z povolání nebo ohrožení nemocí z povolání, na jinou vhodnou práci (popřípadě převedl-li zaměstnance na jinou vhodnou práci bez jeho souhlasu a nebylo-li jeho pracovní zařazení u zaměstnavatele vyřešeno dohodou ani dodatečně), je povinen rozvázat s ním pracovní poměr výpovědí z důvodů uvedených v ustanovení § 52 písm. d) zák. práce nebo dohodou z týchž důvodů. Nesplní-li zaměstnavatel tuto povinnost, je oprávněn z těchto důvodů rozvázat pracovní poměr výpovědí zaměstnanec, aniž by to bylo na újmu jeho práva na odstupné podle ustanovení § 67 odst. 2 zák. práce"
+- *NS* [21 Cdo 2400/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E34E0DD4913D15B0C1257F8C0030DBE3?openDocument) — 20. 1. 2016, kat. A
+  > „Podmínkou pro převedení zaměstnance na jinou vhodnou práci pro dosažení nejvyšší přípustné expozice [§ 41 odst. 1 písm. b) zák. práce] není, aby neschopnost k výkonu dosavadní práce byla vyslovena lékařským posudkem. Krajské hygienické stanici nepřísluší rozhodovat o tom, jakou práci může zaměstnanec po dosažení nejvyšší přípustné expozice vykonávat"
 
 #### Systematika § 41 — pět režimů převedení
 
@@ -1246,6 +1288,11 @@ V některých případech může doporučení pracovnělékaře dle § 45 přer�
 > *Jestliže zaměstnavatel zaměstnance převádí na jinou práci, než odpovídá pracovní smlouvě, a zaměstnanec s takovým opatřením nesouhlasí, může jej zaměstnavatel převést jen po projednání s odborovou organizací. Projednání není třeba, pokud celková doba převedení nepřesáhne 21 pracovních dnů v kalendářním roce.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [21 Cdo 2400/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E34E0DD4913D15B0C1257F8C0030DBE3?openDocument) — 20. 1. 2016, kat. A
+  > „Podmínkou pro převedení zaměstnance na jinou vhodnou práci pro dosažení nejvyšší přípustné expozice [§ 41 odst. 1 písm. b) zák. práce] není, aby neschopnost k výkonu dosavadní práce byla vyslovena lékařským posudkem. Krajské hygienické stanici nepřísluší rozhodovat o tom, jakou práci může zaměstnanec po dosažení nejvyšší přípustné expozice vykonávat"
 
 #### Procedurální ochrana — projednání
 
