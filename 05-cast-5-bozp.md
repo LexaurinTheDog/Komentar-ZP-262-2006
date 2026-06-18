@@ -28,6 +28,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 Ad 2/2022 - 79](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/744544) — 29. 5. 2025
+  > „Smyslem uvedených ustanovení zákona je ochrana zaměstnance před nebezpečím. […] S cílem ochrany života a zdraví je také nutné nahlížet na jednotlivé technické normy, které obsahují praxí prověřené standardizované postupy a požadavky, aby předešly ohrožení či porušení tohoto zájmu"
+
 #### Generální klauzule a legální zkratka „rizika" (odst. 1)
 
 § 101 odst. 1 je **generální klauzulí BOZP** v pracovněprávních vztazích. Stanoví zaměstnavateli **objektivní, absolutní a nepřevoditelnou povinnost** zajistit bezpečnost a ochranu zdraví zaměstnanců při práci. Konstrukce povinnosti je formulována funkčně — zaměstnavatel je povinen zajistit BOZP **„s ohledem na rizika"**, čímž zákon současně:
@@ -118,6 +123,13 @@ Norma je **kogentní** a jakákoli dohoda v rozporu s ní je neplatná. Souběž
 > *(7) Zaměstnavatel je povinen přizpůsobovat opatření měnícím se skutečnostem, kontrolovat jejich účinnost a dodržování a zajišťovat zlepšování stavu pracovního prostředí a pracovních podmínek.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [63 Ad 1/2023 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/712175) — 12. 6. 2023
+  > „Chráněným zájmem je bezpečnost zaměstnanců při práci a zaměstnavatel je za tímto účelem povinen v nejvyšší možné míře předcházet rizikům, tyto eliminovat a odstraňovat, a to prostřednictvím přijímání adekvátních opatření (srov. § 102 zákona č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů)"
+- *NSS* [51 Ad 1/2023 - 30](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715049) — 25. 9. 2023
+  > „Chráněným zájmem je bezpečnost zaměstnanců při práci a zaměstnavatel je za tímto účelem povinen v nejvyšší možné míře předcházet rizikům, tyto eliminovat a odstraňovat, a to prostřednictvím přijímání adekvátních opatření (srov. § 102 zákona č. 262/2006 Sb., zákoník práce, ve znění pozdějších předpisů)"
 
 #### Systémové ukotvení prevence rizik (odst. 1–2)
 
@@ -541,6 +553,11 @@ Vláda je zmocněna stanovit nařízením členění pracovních úrazů (smrtel
 > *- i) podrobit se na pokyn oprávněného vedoucího zaměstnance písemně určeného zaměstnavatelem zjištění, zda není pod vlivem alkoholu nebo jiných návykových látek.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 157/2017 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/643051) — 21. 7. 2017
+  > „[…] zaměstnanec ve smyslu ustanovení § 106 odst. 4 písm. e) zák. práce vstupuje na pracoviště zaměstnavatele pod vlivem alkoholického nápoje, nemusí být dán již pouhým požitím alkoholického nápoje, nýbrž k jeho požití musí dojít v takové míře, že má vliv na snížení duševních funkcí a celkové pohotovosti zaměstnance"
 
 #### Subjektivní práva zaměstnance (odst. 1)
 

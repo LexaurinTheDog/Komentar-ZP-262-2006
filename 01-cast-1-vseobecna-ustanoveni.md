@@ -28,7 +28,7 @@
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 385/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15FC58E848A7B9CAC1257DE30049F35B?openDocument) — 18. 12. 2014, kat. A
+- *NS* [21 Cdo 385/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15FC58E848A7B9CAC1257DE30049F35B?openDocument) — kat. A, 18. 12. 2014
   > „Právní vztah založený tím, že zaměstnavatel poskytl zaměstnanci peněžní částku k zaplacení pokuty, která byla zaměstnanci uložena příslušným orgánem za přestupek, není vztahem pracovněprávním, a to ani v případě, že se zaměstnanec přestupku dopustil při plnění svých pracovních úkolů"
 
 #### Pětice okruhů upravených zákoníkem práce
@@ -138,12 +138,12 @@ Odst. 2 je z hlediska sankčního klíčové ustanovení. Vybrané zásady (a, b
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2128/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F3B030BDBCCE803C1258551002E90D9?openDocument) — 29. 1. 2020, kat. A
-  > „Zaměstnavatelé mohou plnění běžných úkolů vyplývajících z předmětu jejich činnosti (stejně jako plnění ostatních úkolů) zajišťovat i jinak než prostřednictvím osob zaměstnávaných v základním pracovněprávním vztahu, nejde-li o výkon závislé práce na základě smluv (dohod), jimiž se zakládají jiné než pracovněprávní vztahy. Právnické a fyzické osoby provozující činnost, při které pořádají umělecká představení, mohou rozhodnout o tom, že činnost dosud zajišťovanou prostřednictvím výkonných umělců zaměstnávaných v základním pracovněprávním vztahu budou nadále zabezpečovat na základě občanskoprávních smluv (dohod) uzavíraných s výkonnými umělci (aniž by šlo o výkon závislé práce), popřípadě s menším počtem zaměstnávaných výkonných umělců při zvýšení počtu těch, kteří u nich působí na občanskoprávním základě. Takové rozhodnutí může mít povahu rozhodnutí o organizačních změnách ve smyslu…"
-- *NS* [31 Cdo 1993/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/283E7939CA3C6AEEC125848500236E7B?openDocument) — 11. 9. 2019, kat. A
-  > „Obchodním vedením akciové společnosti je organizování a řízení její běžné podnikatelské činnosti , zejména rozhodování o provozu podniku (závodu) společnosti a s tím souvisejících vnitřních záležitostech společnosti, a to bez ohledu na to, zda je vykonává samo představenstvo společnosti či samostatně představenstvem pověřený člen představenstva anebo třetí osoba"
-- *NS* [31 Cdo 4831/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/144FB53A3F318777C125827A00307B7E?openDocument) — 11. 4. 2018, kat. A
-  > „Člen statutárního orgánu obchodní korporace a tato obchodní korporace se mohou odchýlit od pravidla vyjádřeného v § 66 odst. 2 větě první obch. zák. (podle kterého se jejich vztah řídí přiměřeně ustanoveními o mandátní smlouvě) i tak, že si pro svůj vztah ujednají režim zákoníku práce. Takové ujednání (jde-li o výkon činností spadajících do působnosti statutárního orgánu) nečiní jejich vztah pracovněprávním i nadále půjde o vztah obchodněprávní, který se řídí obchodním zákoníkem a dále - v důsledku smluvního ujednání - těmi (v úvahu přicházejícími) ustanoveními zákoníku práce, jejichž použití nebrání kogentní právní normy upravující (především) postavení člena statutárního orgánu obchodní korporace a jeho vztah s obchodní korporací. Spor z manažerské smlouvy, uzavřené mezi členem představenstva akciové společnosti a touto akciovou společností, jejímž předmětem je úprava vzájemného…"
+- *NS* [21 Cdo 2128/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F3B030BDBCCE803C1258551002E90D9?openDocument) — kat. A, 29. 1. 2020
+  > „Zaměstnavatelé mohou plnění běžných úkolů vyplývajících z předmětu jejich činnosti (stejně jako plnění ostatních úkolů) zajišťovat i jinak než prostřednictvím osob zaměstnávaných v základním pracovněprávním vztahu, nejde-li o výkon závislé práce na základě smluv (dohod), jimiž se zakládají jiné než pracovněprávní vztahy. …"
+- *NS* [31 Cdo 4831/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/144FB53A3F318777C125827A00307B7E?openDocument) — kat. A, 11. 4. 2018
+  > „Člen statutárního orgánu obchodní korporace a tato obchodní korporace se mohou odchýlit od pravidla vyjádřeného v § 66 odst. 2 větě první obch. zák. (podle kterého se jejich vztah řídí přiměřeně ustanoveními o mandátní smlouvě) i tak, že si pro svůj vztah ujednají režim zákoníku práce. Takové ujednání (jde-li o výkon činností spadajících do působnosti statutárního orgánu) nečiní jejich vztah pracovněprávním i nadále půjde o vztah obchodněprávní, který se řídí obchodním zákoníkem a dále - v důsledku smluvního ujednání - těmi (v úvahu přicházejícími) ustanoveními zákoníku práce, jejichž použití nebrání kogentní právní normy upravující (především) postavení člena statutárního orgánu obchodní korporace a jeho vztah s obchodní korporací. …"
+- *NSS* [1 Azs 1/2020 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/653994) — 11. 3. 2020
+  > „Nejvyšší správní soud vymezil znaky, jež musí být naplněny, aby se dalo hovořit o závislé práci ve smyslu § 2 odst. 1 zákona č. 262/2006 Sb., zákoník práce. Těmito znaky jsou: 1) soustavnost, 2) osobní výkon práce a 3) vztah nadřízenosti a podřízenosti mezi zaměstnavatelem a zaměstnancem (kdy je práce vykonávána jménem zaměstnavatele a dle jeho pokynů)"
 
 #### Klíčový pojem celého zákoníku
 
@@ -251,12 +251,8 @@ Sjedná-li zaměstnavatel s fyzickou osobou občanskoprávní smlouvu o činnost
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2341/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FBA5DD8180CF7772C125854400160932?openDocument) — 15. 1. 2020, kat. A
-  > „Promlčení práv na jednotlivá plnění vyplývajících z nároku zaměstnance na náhradu za ztrátu na výdělku po skončení pracovní neschopnosti z důvodu pracovního úrazu a vzniklých v době po 31. 12. 2013 se řídí ustanoveními § 609-653 o. z., i když k pracovnímu úrazu zaměstnance a vzniku práva na náhradu za ztrátu na výdělku po skončení pracovní neschopnosti došlo před 1. 1. 2014. Zaměstnanci, kterému byl přiznán invalidní důchod pro invaliditu třetího stupně a který po pracovním úrazu nevykonává pracovní činnost, přísluší náhrada za ztrátu na výdělku po skončení pracovní neschopnosti (při uznání invalidity) ve výši rozdílu mezi průměrným výdělkem před vznikem škody a invalidním důchodem pobíraným z téhož důvodu k výdělku ve výši minimální mzdy se nepřihlíží"
-- *NS* [21 Cdo 4659/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F87AFF39856E27FC125817F003C68E9?openDocument) — 1. 6. 2017, kat. A
-  > „Pohledávku zaměstnavatele vůči zaměstnanci z pracovněprávního vztahu nelze zajistit směnkou"
-- *NS* [21 Cdo 389/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C77561335F5F1A6C1257DC40045A026?openDocument) — 20. 11. 2014, kat. A
-  > „V pracovněprávních vztazích je tzv. fiduciární cese pohledávky zaměstnavatele nebo zaměstnance zakázána"
+- *ÚS* [Pl.ÚS 83/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-83-06_1) — nález, 12. 3. 2008
+  > „Ústavní soud … neshledal princip delegace, jak byl zakotven v § 4 zákoníku práce ve vztahu k občanskému zákoníku, za souladný s principy právního státu (čl. 1 odst. 1 Ústavy). Zásadně platí, že občanské právo je obecným soukromým právem (jinak řečeno: občanský zákoník je obecným soukromoprávním předpisem) subsidiárně platným vůči ostatním soukromoprávním odvětvím (ostatním soukromoprávním předpisům). Předpisy upravující tato odvětví (tyto ostatní soukromoprávní předpisy) mají zásadně přednost, avšak neupravují-li určitou otázku, nastupuje obecná občanskoprávní úprava"
 
 #### Trojí struktura aplikační kaskády
 
@@ -314,10 +310,8 @@ Klíčový interpretační příkaz: i tam, kde nastoupí o.z., je třeba „pra
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 4659/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F87AFF39856E27FC125817F003C68E9?openDocument) — 1. 6. 2017, kat. A
-  > „Pohledávku zaměstnavatele vůči zaměstnanci z pracovněprávního vztahu nelze zajistit směnkou"
-- *NS* [21 Cdo 389/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4C77561335F5F1A6C1257DC40045A026?openDocument) — 20. 11. 2014, kat. A
-  > „V pracovněprávních vztazích je tzv. fiduciární cese pohledávky zaměstnavatele nebo zaměstnance zakázána"
+- *ÚS* [Pl.ÚS 83/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-83-06_1) — nález, 12. 3. 2008
+  > „Pracovní právo totiž nadále zůstává odvětvím na pomezí práva soukromého a veřejného a musí kromě vytvoření určitého prostoru pro uplatnění autonomie vůle smluvních stran rovněž zajistit některá základní a nezpochybnitelná práva zaměstnanců, a garantovat jim tak zachování základního standardu sociálních jistot. Od NZP tedy nelze očekávat, že stranám pracovněprávního vztahu poskytne bezbřehou smluvní volnost …"
 
 #### „Nepodkročitelný" a „nepřekročitelný" standard (odst. 1)
 
@@ -526,7 +520,7 @@ Stát jako zaměstnavatel je vázán nad rámec ZPr i veřejnoprávními pravidl
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 3529/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A0359968C46115DC1257ED70025DEDC?openDocument) — 11. 8. 2015, kat. A
+- *NS* [21 Cdo 3529/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4A0359968C46115DC1257ED70025DEDC?openDocument) — kat. A, 11. 8. 2015
   > „Ředitel krajského úřadu je oprávněn rozhodovat o organizačních změnách, vzhledem k nimž se může stát zaměstnanec kraje zařazený do krajského úřadu nadbytečným ve smyslu ustanovení § 52 písm. c) zák. práce, nejde-li o organizační změny, s nimiž je spojena změna celkového počtu zaměstnanců kraje zařazených do krajského úřadu, který stanovila rada kraje"
 
 #### Pojem vedoucího zaměstnance
@@ -589,14 +583,12 @@ Starý ZPr 1965 používal pojem „**vedoucí pracovník**". Nový ZPr od roku 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2000/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDAA1626838F7FE8C1258BF70052AA6E?openDocument) — 20. 11. 2024, kat. A
-  > „Výše škody způsobené zaměstnanci postiženému nerovným zacházením při poskytování mzdy se určí jako rozdíl mezi mzdou zaměstnance, kterému byla v rozporu se zásadou rovného zacházení stanovena, určena nebo s ním byla sjednána vyšší mzda než postiženému zaměstnanci, který vykonává stejnou práci nebo práci stejné hodnoty, a mzdou postiženého zaměstnance. Je-li zaměstnanců, kterým byla za těchto okolností stanovena, určena nebo s nimi byla sjednána vyšší mzda, více a není-li výše jejich mzdy stejná, je výše škody dána rozdílem mezi mzdou zaměstnance, kterému byla stanovena, určena nebo s ním byla sjednána nejvyšší mzda, a mzdou postiženého zaměstnance"
-- *NS* [21 Cdo 3858/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE68DDE9E7EECBEEC12587F2001B89DE?openDocument) — 30. 11. 2021, kat. A
-  > „Právní prostředky ochrany zaměstnance před nerovným zacházením upravuje antidiskriminační zákon"
-- *NS* [21 Cdo 3955/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C73EA1911537E57AC12585CF0023CEFF?openDocument) — 20. 7. 2020, kat. A
-  > „Z hlediska zásady rovného odměňování podle ustanovení § 110 zák. práce nejsou pro posouzení, zda se v konkrétním případě jedná o stejnou práci nebo o práci stejné hodnoty, významné (nepředstavují komparační kritérium ve smyslu ustanovení § 110 odst. 2 zák. práce) sociálněekonomické podmínky a jim odpovídající výše nákladů na uspokojování životních potřeb v místě, kde zaměstnanec na základě pracovní smlouvy pro zaměstnavatele vykonává práci"
-- *NS* [21 Cdo 2863/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3CFDECA9113C64AFC12580020025CEEF?openDocument) — 26. 5. 2016, kat. A
+- *NS* [21 Cdo 2863/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3CFDECA9113C64AFC12580020025CEEF?openDocument) — kat. A, 26. 5. 2016
   > „Porušením zásady rovného zacházení při odměňování za práci je též jednání zaměstnavatele spočívající v tom, že zaměstnanci nevyplatí pro nesplnění některé z podmínek stanovených vnitřním předpisem pobídkovou složku mzdy, kterou naopak vyplatil ostatním svým zaměstnancům odměňovaným za práci stejným způsobem, přestože ani tito zaměstnanci nesplnili stejnou podmínku stanovenou pro její vyplacení. Za škodu způsobenou zaměstnanci tímto jednáním, které je porušením právní povinnosti, zaměstnavatel odpovídá podle ustanovení § 265 odst. 2 zákoníku práce"
+- *NS* [21 Cdo 3955/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C73EA1911537E57AC12585CF0023CEFF?openDocument) — kat. A, 20. 7. 2020
+  > „Z hlediska zásady rovného odměňování podle ustanovení § 110 zák. práce nejsou pro posouzení, zda se v konkrétním případě jedná o stejnou práci nebo o práci stejné hodnoty, významné (nepředstavují komparační kritérium ve smyslu ustanovení § 110 odst. 2 zák. práce) sociálněekonomické podmínky a jim odpovídající výše nákladů na uspokojování životních potřeb v místě, kde zaměstnanec na základě pracovní smlouvy pro zaměstnavatele vykonává práci"
+- *NS* [21 Cdo 2000/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDAA1626838F7FE8C1258BF70052AA6E?openDocument) — kat. A, 20. 11. 2024
+  > „Výše škody způsobené zaměstnanci postiženému nerovným zacházením při poskytování mzdy se určí jako rozdíl mezi mzdou zaměstnance, kterému byla v rozporu se zásadou rovného zacházení stanovena, určena nebo s ním byla sjednána vyšší mzda než postiženému zaměstnanci, který vykonává stejnou práci nebo práci stejné hodnoty, a mzdou postiženého zaměstnance. …"
 
 #### Pozitivní i negativní formulace ochrany (odst. 1 a 2)
 
@@ -669,7 +661,7 @@ Porušení zákazu diskriminace zakládá:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 3858/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE68DDE9E7EECBEEC12587F2001B89DE?openDocument) — 30. 11. 2021, kat. A
+- *NS* [21 Cdo 3858/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FE68DDE9E7EECBEEC12587F2001B89DE?openDocument) — kat. A, 30. 11. 2021
   > „Právní prostředky ochrany zaměstnance před nerovným zacházením upravuje antidiskriminační zákon"
 
 #### Trojí ochrana podle § 10 ADZ
@@ -762,12 +754,8 @@ Soud nesmí pravidlo aplikovat, je-li význam jednání jasný (i když pro zam�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC885FCD08616C8CC1258666001DDB97?openDocument) — 29. 10. 2020, kat. A
-  > „V pracovněprávních vztazích smí smluvní pokuta utvrdit jen závazek zaměstnance z konkurenční doložky sjednané ve smyslu ustanovení § 310 odst. 1 zák. práce o tom, že se zaměstnanec po určitou dobu po skončení zaměstnání, nejdéle však po dobu 1 roku, zdrží výkonu výdělečné činnosti, která by byla shodná s předmětem činnosti zaměstnavatele nebo která by vůči němu měla soutěžní povahu. Ujednání smluvní pokuty k utvrzení jiných závazků zaměstnance a zaměstnavatele je zakázáno ustanovením § 346d odst. 7 zák. práce ke smluvní pokutě sjednané v rozporu s tímto zákazem se nepřihlíží (§ 346e zák. práce). Ustanovení § 19 odst. 3 zák. práce, které určuje, že neplatnost právního jednání nemůže být zaměstnanci na újmu, nezpůsobil-li neplatnost výlučně sám, se analogicky aplikuje též na zdánlivá (nicotná) pracovněprávní jednání. Tuto zásadu však nelze vykládat tak, že zaměstnanec může z neplatného…"
-- *NS* [21 Cdo 4659/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F87AFF39856E27FC125817F003C68E9?openDocument) — 1. 6. 2017, kat. A
-  > „Pohledávku zaměstnavatele vůči zaměstnanci z pracovněprávního vztahu nelze zajistit směnkou"
-- *NS* [21 Cdo 476/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9708DDFED26BAA6C1257F8C0030DC15?openDocument) — 15. 1. 2016, kat. A
-  > „Okamžité zrušení pracovního poměru učiněné zaměstnavatelem podle ustanovení § 55 odst. 1 písm. b) zák. práce z důvodu neomluveného zameškání práce není neplatné pro rozpor se zákonem jen proto, že zaměstnavatel v rozporu s § 348 odst. 3 zák. práce, ve znění účinném od 1. 1. 2012, určil, že se u zaměstnance jedná o neomluvené zameškání práce, bez projednání s odborovou organizací"
+- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC885FCD08616C8CC1258666001DDB97?openDocument) — kat. A, 29. 10. 2020
+  > „Ustanovení § 19 odst. 3 zák. práce, které určuje, že neplatnost právního jednání nemůže být zaměstnanci na újmu, nezpůsobil-li neplatnost výlučně sám, se analogicky aplikuje též na zdánlivá (nicotná) pracovněprávní jednání. Tuto zásadu však nelze vykládat tak, že zaměstnanec může z neplatného nebo zdánlivého právního jednání požadovat plnění (které mu dosud nebylo poskytnuto), i když jeho neplatnost (zdánlivost) nezpůsobil výlučně sám"
 
 #### Pracovněprávní režim neplatnosti — klíčový rys
 
@@ -824,7 +812,7 @@ Rozlišení je zásadní zejm. v souvislosti s § 72 ZPr (lhůta 2 měsíce k up
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 682/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F983E1C6C071168CC12583C8001D7C5F?openDocument) — 18. 12. 2018, kat. A
+- *NS* [21 Cdo 682/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F983E1C6C071168CC12583C8001D7C5F?openDocument) — kat. A, 18. 12. 2018
   > „Nahrazení vlastnoručního podpisu zaměstnavatele na výpovědi z pracovního poměru mechanickými prostředky není přípustné"
 
 #### Pravidlo sanace začatým plněním

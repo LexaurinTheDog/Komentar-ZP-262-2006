@@ -42,6 +42,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 2387/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-2387-10_1) — usnesení, 16. 9. 2010
+  > „V odvolacím řízení soud vyšel z obsahu ustanovení § 88 odst. 1, odst. 3 ve vztahu k ustanovení § 78 zákona č. 262/2006 Sb., zákoník práce, … a zdůraznil, že každá směna, ať již denní či noční, je samostatnou organizační a časovou jednotkou práce, v jejímž průběhu má každý zaměstnavatel povinnost poskytovat zaměstnanci přestávku, přičemž není rozhodující, o jaký provoz se jedná. … Odvolací soud při svém rozhodování respektoval … znění ustanovení § 78 odst. 1 písm. a) až g) a k) ZP, které má z hlediska § 2 odst. 1 věta první ZP kogentní povahu …"
+
 #### Funkce ustanovení — pojmový základ celé části čtvrté
 
 § 78 plní funkci **legálního slovníku**: zavádí závaznou terminologii, s níž pracují všechna další ustanovení části čtvrté i mnohá ustanovení mimo ni (zejména úprava odměňování v Části šesté, překážek v práci v Části osmé, dovolené v Části deváté). Definice jsou kogentní a smluvní strany se od nich nemohou odchýlit; mohou pouze sjednat režim výhodnější pro zaměstnance, nemohou však pozměnit obsah samotného pojmu (např. nelze sjednat, že „směnou" je i přestávka na jídlo, neboť to by bylo v rozporu s § 88 odst. 4).
@@ -981,8 +986,10 @@ Judikatura SDEU (rozsudek C-518/15 Matzak, C-580/19 Stadt Offenbach) upozorňuje
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 3989/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B862ED4AB8F31E8FC1257B080048A833?openDocument) — 20. 12. 2012, kat. A
+- *NS* [21 Cdo 3989/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B862ED4AB8F31E8FC1257B080048A833?openDocument) — kat. A, 20. 12. 2012
   > „Prokáže-li zaměstnanec ve sporu o zaplacení mzdy, že mu vznikl pracovní poměr, ubrání se zaměstnavatel proti zaměstnancově tvrzení, že pro něho v určité době vykonal práci, jen jestliže bude tvrdit a prokáže-li, že podle jím vedené evidence pracovní doby zaměstnanec v této době nepracoval zaměstnanec má za takového stavu věci právo na mzdu, bude-li tvrdit a prokáže-li, že evidence pracovní doby vedená zaměstanavatelem neodpovídá skutečnosti a že opravdu vykonal pro zaměstnavatele práci"
+- *ÚS* [II.ÚS 107/11](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-107-11_1) — usnesení, 14. 4. 2011
+  > „Zde je ovšem třeba přihlédnout k § 96 odst. 2 zákona č. 262/2006 Sb., zákoníku práce, … podle kterého na žádost zaměstnance je zaměstnavatel povinen umožnit zaměstnanci nahlédnout do jeho evidence pracovní doby a do jeho účtu mzdy a pořizovat si z nich výpisy … Je tedy věcí zaměstnance, aby si kontroloval údaje týkající se jím odpracované doby. … soud ani jinak postupovat nemohl, neboť její vedení je zaměstnavateli uloženo zákonem a jen v případě, že by bylo prokázáno, že je vedena v rozporu s realitou, by k ní nemohl přihlížet"
 
 #### Bezpodmínečná evidenční povinnost (odst. 1)
 

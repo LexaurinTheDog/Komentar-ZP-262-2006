@@ -133,7 +133,7 @@ Krok 3: Pokud existuje judikatura SDEU k dané směrnici, ta je závazným výkl
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1054/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE84EB42998B0E3BC1257F6C004C38DA?openDocument) — 17. 12. 2015, kat. A
+- *NS* [21 Cdo 1054/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CE84EB42998B0E3BC1257F6C004C38DA?openDocument) — kat. A, 17. 12. 2015
   > „Počínaje dnem 1.1.2008 se pracovní poměr vedoucích zaměstnanců uvedených v § 33 odst. 3 zák. práce (ve znění účinném od 1.1.2008) považuje za založený jmenováním, i když pracovní poměr vznikl v době do 31.12.2007 na základě pracovní smlouvy, popřípadě i když se považuje ve smyslu § 364 odst. 3 zák. práce za založený pracovní smlouvou"
 
 #### Obecné pravidlo retroaktivity nepravé (odst. 1) — okamžitá aplikace nového ZP
@@ -209,8 +209,10 @@ Odst. 4–6 představují **jedno z nejsložitějších přechodných ustanoven�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2113/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9AE56E1119D226DC125877700188445?openDocument) — 29. 7. 2021, kat. A
+- *NS* [21 Cdo 2113/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9AE56E1119D226DC125877700188445?openDocument) — kat. A, 29. 7. 2021
   > „Ve sporu o náhradu škody vzniklé zaměstnanci pracovním úrazem zahájeném po prohlášení konkursu na majetek zaměstnavatele je pasivně věcně legitimován insolvenční správce majetkové podstaty zaměstnavatele"
+- *NSS* [6 Ads 2/2011 - 66](https://www.nssoud.cz/) — 25. 5. 2011
+  > „Na rozdíl od bezpečnostních sborů jsou zaměstnavatelé podle zákoníku práce (s výjimkou organizačních složek státu) povinni platit zákonné pojištění podle vyhlášky č. 125/1993 Sb., kterou se stanoví podmínky a sazby zákonného pojištění odpovědnosti zaměstnavatele za škodu při pracovním úrazu nebo nemoci z povolání (srov. § 365 zákona č. 262/2006 Sb., zákoník práce, ve spojení s § 205d zákona č. 65/1965, zákoník práce)"
 
 #### Systémový rámec — „přežívající" právní úprava
 
@@ -479,6 +481,13 @@ Z dnešního pohledu (2026) má § 393a již **jen historickou hodnotu** — vš
 > *  - g) vyhlášky č. 288/2003 Sb., kterou se stanoví práce a pracoviště, které jsou zakázány těhotným ženám, kojícím ženám, matkám do konce devátého měsíce po porodu a mladistvým, a podmínky, za nichž mohou mladiství výjimečně tyto práce konat z důvodu přípravy na povolání.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Ad 18/2016 - 42](https://www.nssoud.cz/) — 22. 4. 2020
+  > „Zároveň nebylo nijak zasaženo do přechodných ustanovení zákoníku práce, nebylo zrušeno jeho ustanovení § 394 odst. 2, které výslovně stanoví postup při odškodňování pracovních úrazů, tj. do doby nabytí účinnosti právní úpravy úrazového pojištění (zákon č. 266/2006 Sb., o úrazovém pojištění zaměstnanců) se při odškodňování bolesti a ztížení společenského uplatnění v pracovněprávních vztazích postupuje na základě předmětné vyhlášky. Tuto skutečnost nelze vyložit jinak, než jako úmysl zákonodárce nemě[nit]…"
+- *NSS* [6 As 113/2020 - 42](https://www.nssoud.cz/) — 23. 7. 2021
+  > „Přechodné ustanovení v § 394 odst. 2 zákona č. 262/2006 Sb., zákoník práce, které na bodovou vyhlášku odkazuje, totiž nebylo v souvislosti s přijetím nového občanského zákoníku zrušeno"
 
 #### Princip přechodné platnosti exekutivních předpisů
 

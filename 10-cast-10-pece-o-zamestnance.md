@@ -20,6 +20,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Afs 80/2025 - 54](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747574) — 4. 12. 2025
+  > „FKSP tedy podle § 60 in fine zákona o rozpočtových pravidlech slouží k zajištění určitého nadstandardu péče zaměstnavatele o jeho zaměstnance; nikoli k tomu, aby z něj zaměstnavatel pořizoval vybavení, které zaměstnanci slouží primárně k výkonu jeho práce. Takové vybavení hradí zaměstnavatel z vlastních prostředků ve smyslu § 224 odst. 1 zákoníku práce a jeho okruh se liší s ohledem na konkrétní pracovní zařazení zaměstnance"
+
 #### Obecná povinnost vytvářet pracovní podmínky (odst. 1)
 
 § 224 odst. 1 obsahuje **rámcovou (programatickou) povinnost** zaměstnavatele dvojího obsahu: (i) vytvářet pracovní podmínky umožňující bezpečný výkon práce a (ii) zajišťovat pracovnělékařské služby. První složka představuje obecné vyjádření zaměstnavatelovy **prevenční povinnosti**, která je rozvedena v části páté zákoníku práce (BOZP, §§ 101 a násl.) a v zákoně č. 309/2006 Sb., o zajištění dalších podmínek bezpečnosti a ochrany zdraví při práci. Druhá složka odkazuje na zákon č. 373/2011 Sb., o specifických zdravotních službách, který v §§ 53 a násl. upravuje **pracovnělékařské služby** jako preventivní zdravotní péči zaměřenou na vstupní, periodické, mimořádné, výstupní a následné prohlídky a na poradenství v oblasti BOZP. Náklady pracovnělékařských služeb hradí zaměstnavatel; vstupní lékařskou prohlídku hradí zaměstnavatel zpravidla až po vzniku pracovního poměru (před vznikem ji hradí uchazeč, nestanoví-li jiný předpis nebo dohoda jinak).
@@ -139,6 +144,11 @@ Klíčovým systémovým rysem § 228 je, že **zaškolení/zaučení se považu
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 203/2017 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/423775) — 31. 3. 2020
+  > „…ustanovení § 229 odst. 1 zákoníku práce obsahuje obdobný pojem odborná praxe k získání praktických zkušeností a dovedností potřebných pro výkon práce a stanoví, že výkon takové praxe se považuje za výkon práce, za který přísluší mzda nebo plat. … Praxe v sobě tedy vždy musí mít určitý praktický prvek, který danému jedinci umožňuje připravit se na budoucí povolání tím, že si jeho výkon určitým způsobem vyzkouší. V závislosti na konkrétním oboru se způsob výkonu praxe může lišit, ale nikdy nemůže jít o pouhou teoretickou přípravu"
+
 #### Legální definice absolventa a přiměřenost praxe
 
 § 229 vymezuje pojem **absolvent** dvěma kumulativními kritérii (odst. 2): (i) **kvalitativní** — zaměstnanec vstupuje na práci odpovídající jeho kvalifikaci (nikoli na práci pod kvalifikací nebo zcela nesouvisející); (ii) **kvantitativní** — celková doba předchozí odborné praxe nepřesáhla **2 roky** po řádném ukončení studia. Do běhu dvouleté lhůty se **nezapočítává mateřská a rodičovská dovolená** (zákonná retence statusu absolventa).
@@ -217,6 +227,11 @@ Zvláštní právní předpis (lex specialis) má přednost před § 230 v rozsa
 > *(3) Zvláštní právní předpisy110) upravující zvyšování kvalifikace nejsou tímto zákonem dotčeny.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ads 83/2010 - 77](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/619776) — 6. 10. 2010
+  > „Z gramatického a logického významu tohoto pojmu pak lze dovodit, že jde o prohloubení, doplnění již získané kvalifikace (získané školením, odtud termín doškolení) a nikoliv o změnu hodnoty kvalifikace. … [soud] vychází z definice použité zákoníkem práce v jeho ustanovení § 230 odst. 1, podle kterého se prohlubováním kvalifikace rozumí její průběžné doplňování, kterým se nemění její podstata a které umožňuje zaměstnanci výkon sjednané práce; za prohlubování kvalifikace se považuje též její udržování a obnovování"
 
 #### Demarkační test zvyšování (odst. 1–2)
 
@@ -336,8 +351,8 @@ Zastavení úlev je odlišný institut od zániku povinnosti uhradit náklady z 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 3382/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/99DE67140DF1061BC125872E0015FC71?openDocument) — 19. 5. 2021, kat. A
-  > „Účinnost přijetí návrhu na uzavření smlouvy ve smyslu ustanovení § 1745 o. z. může být dohodou stran pracovněprávního vztahu určena k jinému okamžiku než k okamžiku, kdy vyjádření souhlasu s obsahem návrhu dojde navrhovateli smlouvy. Takovým jiným okamžikem může být i okamžik podpisu písemného návrhu smlouvy (podepsaného navrhovatelem) stranou, které je návrh určen. To platí i v případě návrhu smlouvy, pro kterou zákoník práce vyžaduje písemnou formu. K odlišnému ujednání stran o určení okamžiku účinnosti přijetí návrhu na uzavření smlouvy může dojít nejen před předložením nabídky navrhovatelem straně, které je návrh určen návrh takového ujednání může být obsažen i v samotné nabídce"
+- *NS* [21 Cdo 3382/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/99DE67140DF1061BC125872E0015FC71?openDocument) — kat. A, 19. 5. 2021
+  > „Účinnost přijetí návrhu na uzavření smlouvy ve smyslu ustanovení § 1745 o. z. může být dohodou stran pracovněprávního vztahu určena k jinému okamžiku než k okamžiku, kdy vyjádření souhlasu s obsahem návrhu dojde navrhovateli smlouvy. Takovým jiným okamžikem může být i okamžik podpisu písemného návrhu smlouvy (podepsaného navrhovatelem) stranou, které je návrh určen. To platí i v případě návrhu smlouvy, pro kterou zákoník práce vyžaduje písemnou formu"
 
 #### Podstata kvalifikační dohody
 

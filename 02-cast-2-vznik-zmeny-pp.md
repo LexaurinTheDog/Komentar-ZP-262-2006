@@ -312,7 +312,7 @@ Odst. 5 přikazuje, aby každá strana **obdržela jedno vyhotovení** smlouvy. 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2608/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DBA865E5DC14BE3C1258ADD0043AA9A?openDocument) — 23. 1. 2024, kat. A
+- *NS* [21 Cdo 2608/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DBA865E5DC14BE3C1258ADD0043AA9A?openDocument) — kat. A, 23. 1. 2024
   > „Jsou-li zřejmá kritéria pro určení místa pravidelného pracoviště podle domněnky stanovené v § 34a zák. práce (a místo pravidelného pracoviště zaměstnance tak bylo dáno), lze je měnit pouze cestou změny obsahu pracovní smlouvy, nikoliv jednostranným pokynem, jímž zaměstnavatel stanoví počátek výkonu práce v jiném místě, než bylo dosavadní pravidelné pracoviště zaměstnance"
 
 #### Smysl institutu — vázanost cestovních náhrad na obec
@@ -392,7 +392,7 @@ Smysl zákazu:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 3046/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AB2E7735B43C30DC1257D880063EAB2?openDocument) — 24. 9. 2014, kat. A
+- *NS* [21 Cdo 3046/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AB2E7735B43C30DC1257D880063EAB2?openDocument) — kat. A, 24. 9. 2014
   > „Uzavře-li zaměstnanec z důvodu převodu činnosti zaměstnavatele nebo části činnosti zaměstnavatele nebo převodu úkolů zaměstnavatele anebo jejich části k jinému zaměstnavateli dohodu o rozvázání pracovního poměru s dosavadním zaměstnavatelem a zároveň pracovní smlouvu s přejímajícím zaměstnavatelem, může být v této pracovní smlouvě sjednána zkušební doba. Jestliže by však účelem takového postupu ze strany přejímajícího zaměstnavatele bylo vyhnout se přechodu práv a povinností z pracovního poměru mezi zaměstnancem a dosavadním zaměstnavatelem na přejímajícího zaměstnavatele proto, aby přejímající zaměstnavatel mohl zrušit pracovní poměr se zaměstnancem ve zkušební době, kterou při přechodu práv a povinností z pracovněprávních vztahů nelze sjednat, bylo by ujednání o zkušební době pro rozpor s dobrými mravy neplatné"
 
 #### Smysl institutu — flexibilita rozvázání v počáteční fázi
@@ -825,12 +825,8 @@ Odst. 6 vylučuje aplikaci § 39 odst. 2 na **agenturní zaměstnávání** — 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2608/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DBA865E5DC14BE3C1258ADD0043AA9A?openDocument) — 23. 1. 2024, kat. A
+- *NS* [21 Cdo 2608/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7DBA865E5DC14BE3C1258ADD0043AA9A?openDocument) — kat. A, 23. 1. 2024
   > „Jsou-li zřejmá kritéria pro určení místa pravidelného pracoviště podle domněnky stanovené v § 34a zák. práce (a místo pravidelného pracoviště zaměstnance tak bylo dáno), lze je měnit pouze cestou změny obsahu pracovní smlouvy, nikoliv jednostranným pokynem, jímž zaměstnavatel stanoví počátek výkonu práce v jiném místě, než bylo dosavadní pravidelné pracoviště zaměstnance"
-- *NS* [21 Cdo 682/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F983E1C6C071168CC12583C8001D7C5F?openDocument) — 18. 12. 2018, kat. A
-  > „Nahrazení vlastnoručního podpisu zaměstnavatele na výpovědi z pracovního poměru mechanickými prostředky není přípustné"
-- *NS* [21 Cdo 2376/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F5ABB851623FF3DEC1257FF40025C341?openDocument) — 5. 5. 2016, kat. A
-  > „Zaměstnavatel nemůže dát výpověď z pracovního poměru podle ustanovení § 73a odst. 2 věty druhé zák. práce na základě fikce výpovědního důvodu podle ustanovení § 52 písm. c) zák. práce zaměstnanci, který byl odvolán z vedoucího pracovního místa nebo který se tohoto místa vzdal, jestliže se s ním při jeho jmenování na vedoucí pracovní místo nebo při uzavření dohody o možnosti odvolání a vzdání se vedoucího pracovního místa dohodl na tom, že v případě odvolání zaměstnance z vedoucího pracovního místa nebo vzdání se tohoto místa zaměstnancem jej zařadí na práci, kterou zaměstnanec vykonával před svým jmenováním nebo zařazením na vedoucí pracovní místo"
 
 #### Zásada konsenzuální změny (odst. 1)
 
@@ -905,9 +901,11 @@ Tato vazba zajišťuje, že zaměstnanec má **vždy aktuální písemnou dokume
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 5825/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF199BC59E98349DC12582780026308E?openDocument) — 30. 1. 2018, kat. A
+- *ÚS* [Pl.ÚS 31/24](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-31-24_1) — nález, 26. 11. 2025
+  > „Převedení zaměstnance, jenž mj. v důsledku pracovního úrazu dlouhodobě pozbyl způsobilost vykonávat svou dosavadní práci [§ 41 odst. 1 písm. b) zákoníku práce], na vhodnou jinou práci, a to i bez jeho souhlasu (§ 41 odst. 3 zákoníku práce), nelze považovat za ústavně reprobovanou nucenou práci. Výkon takové práce, ač nemusí být nutně dobrovolný, totiž není vynucován pod pohrůžkou trestu a zaměstnanec není povinen nést nepřiměřeně tíživé břemeno. Zaměstnanec může být převeden pouze na práci odpovídající svému zdravotnímu stavu, schopnostem a v co největším rozsahu i kvalifikaci; po odpadnutí důvodů převedení je zaměstnavatel povinen zařadit zaměstnance podle pracovní smlouvy…"
+- *NS* [21 Cdo 5825/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF199BC59E98349DC12582780026308E?openDocument) — kat. A, 30. 1. 2018
   > „Nepřevedl-li zaměstnavatel zaměstnance, který nemůže konat dosavadní práci pro pracovní úraz, nemoc z povolání nebo ohrožení nemocí z povolání, na jinou vhodnou práci (popřípadě převedl-li zaměstnance na jinou vhodnou práci bez jeho souhlasu a nebylo-li jeho pracovní zařazení u zaměstnavatele vyřešeno dohodou ani dodatečně), je povinen rozvázat s ním pracovní poměr výpovědí z důvodů uvedených v ustanovení § 52 písm. d) zák. práce nebo dohodou z týchž důvodů. Nesplní-li zaměstnavatel tuto povinnost, je oprávněn z těchto důvodů rozvázat pracovní poměr výpovědí zaměstnanec, aniž by to bylo na újmu jeho práva na odstupné podle ustanovení § 67 odst. 2 zák. práce"
-- *NS* [21 Cdo 2400/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E34E0DD4913D15B0C1257F8C0030DBE3?openDocument) — 20. 1. 2016, kat. A
+- *NS* [21 Cdo 2400/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/E34E0DD4913D15B0C1257F8C0030DBE3?openDocument) — kat. A, 20. 1. 2016
   > „Podmínkou pro převedení zaměstnance na jinou vhodnou práci pro dosažení nejvyšší přípustné expozice [§ 41 odst. 1 písm. b) zák. práce] není, aby neschopnost k výkonu dosavadní práce byla vyslovena lékařským posudkem. Krajské hygienické stanici nepřísluší rozhodovat o tom, jakou práci může zaměstnanec po dosažení nejvyšší přípustné expozice vykonávat"
 
 #### Systematika § 41 — pět režimů převedení

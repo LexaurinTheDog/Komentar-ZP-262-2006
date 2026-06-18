@@ -1218,7 +1218,7 @@ Místo nečinnosti v období prostoje nebo přerušení může zaměstnavatel za
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2745/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7BF08DB880268656C1257CF500356299?openDocument) — 27. 5. 2014, kat. A
+- *NS* [21 Cdo 2745/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7BF08DB880268656C1257CF500356299?openDocument) — kat. A, 27. 5. 2014
   > „Vedoucí zaměstnanec, který byl odvolán z pracovního místa nebo který se tohoto místa vzdal a pro kterého zaměstnavatel nemá jinou práci odpovídající jeho zdravotnímu stavu a kvalifikaci nebo který takovou práci nabídnutou mu zaměstnavatelem odmítl, nemá nárok na náhradu mzdy nebo platu pro překážku v práci na straně zaměstnavatele, jestliže byl zvolen členem zastupitelstva obce nebo starostou a jestliže byl pro výkon těchto veřejných funkcí dlouhodobě uvolněn"
 
 #### Zbytkové ustanovení s plnou náhradou — průměrný výdělek (100 %)

@@ -82,14 +82,10 @@ NS sp. zn. 21 Cdo 612/2014 dovodil, že nepřiměřená norma spotřeby práce, 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 1267/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DAF440DF477B9B8CC12583350036F2E6?openDocument) — 14. 8. 2018, kat. A
-  > „Zvukový nebo obrazový záznam, který se týká člověka nebo jeho projevů osobní povahy a který byl pořízen soukromou osobou bez vědomí nahrávané osoby, lze použít jako důkaz v občanském soudním řízení pouze tam, kde má vést k prokázání skutečnosti, kterou není možné prokázat jinak (pomocí důkazů, které nezasahují do absolutních osobnostních práv dotčené osoby), a kde i další okolnosti případu vedou k závěru, že nelze upřednostnit právo na ochranu osobnosti dotčené osoby před právem na spravedlivý proces toho, komu je použití důkazu zvukovým či obrazovým záznamem týkajícím se této osoby nebo jejích projevů osobní povahy na prospěch"
-- *NS* [21 Cdo 1467/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7BE440F22F9DFBBFC1257E4A004696A8?openDocument) — 31. 3. 2015, kat. A
-  > „Rozsáhlost doplnění dokazování ve smyslu ustanovení § 213 odst. 4 o. s. ř. nevyjadřuje počet (množství) důkazů, které by měly být za odvolacího řízení provedeny, nýbrž rozsah skutečností významných pro posouzení věci, ohledně kterých je třeba za odvolacího řízení doplnit dokazování. Zcela nedostatečným dokazováním se má v tomto ustanovení na mysli stav, kdy soud prvního stupně sice provedl některé důkazy, avšak šlo o důkazy zjevně nezpůsobilé objasnit skutečnosti, které jsou pro rozhodnutí nebo řízení významné. Má-li odvolací soud za to, že mají být provedeny jiné než účastníky řízení navržené důkazy, které jsou potřebné ke zjištění skutkového stavu a které vyplývají z obsahu spisu, nemůže rozhodnutí soudu prvního stupně z tohoto důvodu zrušit v takovém případě je na odvolacím soudu, aby uvedené důkazy provedl sám"
-- *NS* [21 Cdo 1924/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5357F870600F527C1257E3B002FDB28?openDocument) — 9. 3. 2015, kat. A
-  > „Závisí-li způsob plnění obecné prevenční povinnosti zcela na úvaze zaměstnance, lze mu vytýkat porušení této povinnosti, je-li jeho počínání ve zjevném rozporu s obecnou zkušeností samotná skutečnost, že zaměstnanec měl možnost volby jiného (možná vhodnějšího) postupu a že přes zaměstnancem zvolené opatření, které nebylo ve zjevném rozporu s obecnou zkušeností, došlo ke vzniku škody na majetku, k závěru o porušení obecné prevenční povinnosti nepostačuje"
-- *NS* [21 Cdo 2596/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB104F2147009777C1257AA6003C0C6F?openDocument) — 17. 10. 2012, kat. A
+- *NS* [21 Cdo 2596/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB104F2147009777C1257AA6003C0C6F?openDocument) — kat. A, 17. 10. 2012
   > „Útok na majetek zaměstnavatele, ať už přímý (např. krádeží, poškozováním, zneužitím apod.) nebo nepřímý (např. pokusem odčerpat část majetku zaměstnavatele bez odpovídajícího protiplnění), představuje z hlediska vymezení relativně neurčité hypotézy § 55 odst. 1 písm. b) zák. práce tak významnou okolnost, že zpravidla již sama o sobě postačuje pro závěr o porušení povinnosti zaměstnance vyplývající z právních předpisů vztahujících se k jím vykonávané práci zvlášť hrubým způsobem"
+- *NS* [21 Cdo 1924/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A5357F870600F527C1257E3B002FDB28?openDocument) — kat. A, 9. 3. 2015
+  > „Závisí-li způsob plnění obecné prevenční povinnosti zcela na úvaze zaměstnance, lze mu vytýkat porušení této povinnosti, je-li jeho počínání ve zjevném rozporu s obecnou zkušeností samotná skutečnost, že zaměstnanec měl možnost volby jiného (možná vhodnějšího) postupu a že přes zaměstnancem zvolené opatření, které nebylo ve zjevném rozporu s obecnou zkušeností, došlo ke vzniku škody na majetku, k závěru o porušení obecné prevenční povinnosti nepostačuje"
 
 #### Smysl katalogu základních povinností
 
@@ -156,9 +152,7 @@ Porušení povinností podle § 301 představuje **kontraktuální delikt** (por
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 630/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0CBC6E673D762095C1257F7600413EFB?openDocument) — 17. 12. 2015, kat. A
-  > „Výpověď z pracovního poměru podanou zaměstnavatelem podle § 52 písm. h) zák. práce je třeba ve lhůtách uvedených v § 57 zák. práce nejen učinit, ale i zaměstnanci řádně doručit"
-- *NS* [21 Cdo 5126/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46846EF55362CB68C1257F3E004C5AB1?openDocument) — 15. 10. 2015, kat. A
+- *NS* [21 Cdo 5126/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/46846EF55362CB68C1257F3E004C5AB1?openDocument) — kat. A, 15. 10. 2015
   > „Okolnost, že zaměstnanec, který byl uznán dočasně práce neschopným, neoznačil místo svého pobytu údaji potřebnými k tomu, aby zaměstnavateli umožnil kontrolu, zda dodržuje svou povinnost zdržovat se v době dočasné pracovní neschopnosti v místě pobytu a dodržovat dobu a rozsah povolených vycházek, není důvodem pro rozvázání pracovního poměru výpovědí podle ustanovení § 52 písm. h) zák. práce"
 
 #### Historický kontext a smysl
@@ -505,6 +499,11 @@ Porušení § 304 odst. 1 (výkon shodné výdělečné činnosti bez souhlasu) 
 > *(5) Jestliže zaměstnanci vzniklo na základě vnitřního předpisu právo ze základního pracovněprávního vztahu uvedeného v § 3, zejména mzdové, platové nebo ostatní právo v pracovněprávních vztazích, nemá zrušení vnitřního předpisu vliv na trvání a uspokojení tohoto práva.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 83/06](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-83-06_1) — nález, 12. 3. 2008
+  > „Vnitřní předpis je hromadným pokynem zaměstnavatele, kterým specifikuje povinnosti zaměstnanců, obecně stanovených kogentními právními normami, se zřetelem na zvláštní podmínky konkrétního zaměstnavatele. Jde o projev práva znamenajícího realizaci iuris disponendi. Vnitřní předpisy jsou považovány za lokální prameny pracovního práva"
 
 #### Pojmové ukotvení — co je vnitřní předpis
 
@@ -959,7 +958,7 @@ Pojem „**dostatečný předstih**" je neurčitý — judikatura zatím tento p
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [31 Cdo 2955/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C1CA5D076E758BEBC1258AA10047B541?openDocument) — 13. 12. 2023, kat. A
+- *NS* [31 Cdo 2955/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C1CA5D076E758BEBC1258AA10047B541?openDocument) — kat. A, 13. 12. 2023
   > „Zaměstnavatel může odstoupit od konkurenční doložky po dobu trvání pracovního poměru zaměstnance i na základě smluvního ujednání, podle kterého je zaměstnavatel v uvedené době oprávněn od konkurenční doložky odstoupit bez uvedení důvodu nebo z jakéhokoliv důvodu, popřípadě i na základě jinak obdobně sjednané možnosti odstoupení. V řízení, v němž se zaměstnanec po zaměstnavateli domáhá zaplacení peněžitého vyrovnání z konkurenční doložky, je však soud povinen poskytnout ochranu základním právům a legitimním zájmům zaměstnance, prokáže-li se, že zaměstnavatel jednal svévolně nebo zneužil své smluvně zakotvené možnosti odstoupit od konkurenční doložky"
 
 #### Smysl institutu
@@ -1327,7 +1326,7 @@ NS sp. zn. 21 Cdo 1493/2005: nárok na úpravu posudku je nárokem na splnění 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2005/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2182A5E0A12258FCC1257E8C0025D030?openDocument) — 21. 5. 2015, kat. A
+- *NS* [21 Cdo 2005/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2182A5E0A12258FCC1257E8C0025D030?openDocument) — kat. A, 21. 5. 2015
   > „Pracovní smlouva není neplatná pro omyl zaměstnavatele, nesdělil-li mu zaměstnanec, na něhož se podle zákona hledí, jako by nebyl odsouzen, při jejím uzavírání pravdivou informaci o svém odsouzení za trestný čin"
 
 #### Architektonika ustanovení
@@ -1558,6 +1557,11 @@ Dohodu lze rozvázat:
 > *Základní pracovněprávní vztah uvedený v § 3 nemůže být mezi manžely nebo partnery51a).*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 231/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-231-10_1) — nález, 12. 7. 2011
+  > „…platný právní řád obsahuje toliko ustanovení § 318 zákona č. 262/2006 Sb., zákoník práce, který stanoví, že „[p]racovněprávní vztah uvedený v § 3 větě druhé [zákoníku práce] nemůže být mezi manžely nebo partnery.". Toto ustanovení zakazuje existenci pracovněprávního vztahu (ať již založeného pracovní smlouvou, jmenováním či některou z dohod o pracích konaných mimo pracovní poměr) mezi mužem a ženou, kteří vstoupili do svazku manželského, a mezi osobami stejného pohlaví, které vstoupily do partnerství"
 
 #### Smysl zákazu
 
@@ -2081,7 +2085,7 @@ Lze očekávat, že judikatura (od r. 2024 a později) bude tento institut inten
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 936/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BDC1760326C43B43C1257A4E006A4676?openDocument) — 7. 4. 2011, kat. A
+- *NS* [21 Cdo 936/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/BDC1760326C43B43C1257A4E006A4676?openDocument) — kat. A, 7. 4. 2011
   > „Právo zaměstnance na náhradu za bolest a ztížení společenského uplatnění, které vzniklo od 1. 1. 2007, smrtí zaměstnance nezaniká v plné výši se stává předmětem dědění a přechází na toho, komu tato pohledávka podle výsledku dědického řízení připadla"
 
 #### Anomálie číslování
@@ -2160,10 +2164,8 @@ Logika: zaměstnavatel nemůže své zatím neuplatněné nároky (typicky náro
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 565/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C237E7758DDCB8EC1258C0C0052AF08?openDocument) — 10. 12. 2024, kat. A
-  > „Za dohodu o mimosoudním jednání ve smyslu ustanovení § 647 o. z. je třeba považovat právní jednání, z něhož vyplývá shodná (oboustranná) vůle stran vést jednání o určitém právu nebo o okolnostech jej zakládajících, jehož cílem je vyřešit situaci jinak než podáním žaloby k soudu. Taková dohoda může být uzavřena nejen výslovně, ale i jiným způsobem nevzbuzujícím pochybnost o tom, co jednající osoby chtěly projevit. Uzavření dohody o mimosoudním jednání mezi zaměstnavatelem a zaměstnancem nemá vliv na původní délku dvouměsíční prekluzivní lhůty k podání žaloby o neplatnost rozvázání pracovního poměru (§ 72 zák. práce), která v době této překážky neběží (nezačne běžet) a jejíž běh pokračuje až po odpadnutí překážky tím, že zaměstnavatel nebo zaměstnanec výslovně odmítne v mimosoudním jednání pokračovat zbývá-li po odpadnutí překážky méně než 5 dnů do uplynutí lhůty, neskončí tato lhůta…"
-- *NS* [21 Cdo 630/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0CBC6E673D762095C1257F7600413EFB?openDocument) — 17. 12. 2015, kat. A
-  > „Výpověď z pracovního poměru podanou zaměstnavatelem podle § 52 písm. h) zák. práce je třeba ve lhůtách uvedených v § 57 zák. práce nejen učinit, ale i zaměstnanci řádně doručit"
+- *NS* [21 Cdo 565/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C237E7758DDCB8EC1258C0C0052AF08?openDocument) — kat. A, 10. 12. 2024
+  > „Uzavření dohody o mimosoudním jednání mezi zaměstnavatelem a zaměstnancem nemá vliv na původní délku dvouměsíční prekluzivní lhůty k podání žaloby o neplatnost rozvázání pracovního poměru (§ 72 zák. práce), která v době této překážky neběží (nezačne běžet) a jejíž běh pokračuje až po odpadnutí překážky tím, že zaměstnavatel nebo zaměstnanec výslovně odmítne v mimosoudním jednání pokračovat zbývá-li po odpadnutí překážky méně než 5 dnů do uplynutí lhůty, neskončí tato lhůta dříve než za 10 dnů ode dne, kdy začala znovu běžet"
 
 #### Distinkce prekluze vs. promlčení
 
@@ -2251,8 +2253,8 @@ Pokud zaměstnavatel zjistí neoprávněnou výplatu:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 565/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C237E7758DDCB8EC1258C0C0052AF08?openDocument) — 10. 12. 2024, kat. A
-  > „Za dohodu o mimosoudním jednání ve smyslu ustanovení § 647 o. z. je třeba považovat právní jednání, z něhož vyplývá shodná (oboustranná) vůle stran vést jednání o určitém právu nebo o okolnostech jej zakládajících, jehož cílem je vyřešit situaci jinak než podáním žaloby k soudu. Taková dohoda může být uzavřena nejen výslovně, ale i jiným způsobem nevzbuzujícím pochybnost o tom, co jednající osoby chtěly projevit. Uzavření dohody o mimosoudním jednání mezi zaměstnavatelem a zaměstnancem nemá vliv na původní délku dvouměsíční prekluzivní lhůty k podání žaloby o neplatnost rozvázání pracovního poměru (§ 72 zák. práce), která v době této překážky neběží (nezačne běžet) a jejíž běh pokračuje až po odpadnutí překážky tím, že zaměstnavatel nebo zaměstnanec výslovně odmítne v mimosoudním jednání pokračovat zbývá-li po odpadnutí překážky méně než 5 dnů do uplynutí lhůty, neskončí tato lhůta…"
+- *NS* [21 Cdo 565/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C237E7758DDCB8EC1258C0C0052AF08?openDocument) — kat. A, 10. 12. 2024
+  > „Uzavření dohody o mimosoudním jednání mezi zaměstnavatelem a zaměstnancem nemá vliv na původní délku dvouměsíční prekluzivní lhůty k podání žaloby o neplatnost rozvázání pracovního poměru (§ 72 zák. práce), která v době této překážky neběží (nezačne běžet) a jejíž běh pokračuje až po odpadnutí překážky tím, že zaměstnavatel nebo zaměstnanec výslovně odmítne v mimosoudním jednání pokračovat zbývá-li po odpadnutí překážky méně než 5 dnů do uplynutí lhůty, neskončí tato lhůta dříve než za 10 dnů ode dne, kdy začala znovu běžet"
 
 #### Smysl institutu — ochrana proti hraničním situacím
 
@@ -2336,13 +2338,9 @@ Tedy: ZP má specifickou úpravu, jež je **lex specialis** vůči obecné úpra
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2697/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C0021FF23975C1DC1258A7A001B8616?openDocument) — 11. 9. 2023, kat. A
+- *NS* [21 Cdo 2697/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C0021FF23975C1DC1258A7A001B8616?openDocument) — kat. A, 11. 9. 2023
   > „V rozporu s právní úpravou doručování obsaženou v zákoníku práce (zákonu č. 262/2006 Sb., zákoník práce, ve znění účinném do 30. 6. 2019) není, doručuje-li zaměstnavatel do vlastních rukou zaměstnance písemnost, u níž takový postup nestanoví ustanovení § 334 odst. 1 zák. práce ani smlouva nebo vnitřní předpis. Přistoupí-li zaměstnavatel v takovém případě k doručení písemnosti prostřednictvím provozovatele poštovních služeb, podléhá její doručení režimu ustanovení § 336 zák. práce, nikoli tedy obecným pravidlům dojití projevu vůle podle občanského zákoníku"
-- *NS* [21 Cdo 630/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0CBC6E673D762095C1257F7600413EFB?openDocument) — 17. 12. 2015, kat. A
-  > „Výpověď z pracovního poměru podanou zaměstnavatelem podle § 52 písm. h) zák. práce je třeba ve lhůtách uvedených v § 57 zák. práce nejen učinit, ale i zaměstnanci řádně doručit"
-- *NS* [21 Cdo 3663/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDC20B7EB765E6C4C1257EA400301FDF?openDocument) — 23. 6. 2015, kat. A
-  > „Zdržuje-li se zaměstnanec po dobu dovolené, dočasné pracovní neschopnosti, péče o člena své domácnosti, vojenské služby nebo z jiných podobných důvodů na jiné, jeho zaměstnavateli dosud neznámé adrese, zaměstnavatel může (smí) v této době doručovat zaměstnanci své písemnosti prostřednictvím provozovatele poštovních služeb jen na tuto "dočasnou adresu" doručení na jinou adresu je neúčinné, i kdyby se na ní zaměstnanec jinak (v jiné době) zdržoval. Zaměstnavatel se dozví o adrese zaměstnance, na kterou mu může (smí) doručovat své písemnosti (§ 336 odst. 1 zák. práce), nejen z oznámení zaměstnance samotného, ale i z jakýchkoliv jiných věrohodných (spolehlivých) zdrojů, například od jiných zaměstnanců, od příbuzných zaměstnance, od poskytovatelů zdravotnických služeb nebo od orgánů veřejné moci"
-- *NS* [21 Cdo 3278/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F3715FE11F0D293C1257A4E0067BDCB?openDocument) — 24. 11. 2011, kat. A
+- *NS* [21 Cdo 3278/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F3715FE11F0D293C1257A4E0067BDCB?openDocument) — kat. A, 24. 11. 2011
   > „Písemnost uvedenou v ustanovení § 334 odst. 1 zák. práce zaměstnavatel nedoručil zaměstnanci do vlastních rukou, jestliže mu jen umožnil, aby se seznámil s obsahem písemnosti, a jestliže mu předal pouze reprodukci písemnosti s grafickým napodobením podpisu"
 
 #### Smysl ustanovení — vymezení rozsahu zvláštní úpravy
@@ -2528,9 +2526,9 @@ Datové schránky (DS) podle zákona č. 300/2008 Sb., o elektronických úkonec
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2697/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C0021FF23975C1DC1258A7A001B8616?openDocument) — 11. 9. 2023, kat. A
+- *NS* [21 Cdo 2697/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C0021FF23975C1DC1258A7A001B8616?openDocument) — kat. A, 11. 9. 2023
   > „V rozporu s právní úpravou doručování obsaženou v zákoníku práce (zákonu č. 262/2006 Sb., zákoník práce, ve znění účinném do 30. 6. 2019) není, doručuje-li zaměstnavatel do vlastních rukou zaměstnance písemnost, u níž takový postup nestanoví ustanovení § 334 odst. 1 zák. práce ani smlouva nebo vnitřní předpis. Přistoupí-li zaměstnavatel v takovém případě k doručení písemnosti prostřednictvím provozovatele poštovních služeb, podléhá její doručení režimu ustanovení § 336 zák. práce, nikoli tedy obecným pravidlům dojití projevu vůle podle občanského zákoníku"
-- *NS* [21 Cdo 3663/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDC20B7EB765E6C4C1257EA400301FDF?openDocument) — 23. 6. 2015, kat. A
+- *NS* [21 Cdo 3663/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDC20B7EB765E6C4C1257EA400301FDF?openDocument) — kat. A, 23. 6. 2015
   > „Zdržuje-li se zaměstnanec po dobu dovolené, dočasné pracovní neschopnosti, péče o člena své domácnosti, vojenské služby nebo z jiných podobných důvodů na jiné, jeho zaměstnavateli dosud neznámé adrese, zaměstnavatel může (smí) v této době doručovat zaměstnanci své písemnosti prostřednictvím provozovatele poštovních služeb jen na tuto "dočasnou adresu" doručení na jinou adresu je neúčinné, i kdyby se na ní zaměstnanec jinak (v jiné době) zdržoval. Zaměstnavatel se dozví o adrese zaměstnance, na kterou mu může (smí) doručovat své písemnosti (§ 336 odst. 1 zák. práce), nejen z oznámení zaměstnance samotného, ale i z jakýchkoliv jiných věrohodných (spolehlivých) zdrojů, například od jiných zaměstnanců, od příbuzných zaměstnance, od poskytovatelů zdravotnických služeb nebo od orgánů veřejné moci"
 
 #### Klasické doručování poštou — subsidiární
@@ -2659,9 +2657,7 @@ Hlava XV je rozdělena do **dvou dílů**:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 4659/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F87AFF39856E27FC125817F003C68E9?openDocument) — 1. 6. 2017, kat. A
-  > „Pohledávku zaměstnavatele vůči zaměstnanci z pracovněprávního vztahu nelze zajistit směnkou"
-- *NS* [21 Cdo 3046/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AB2E7735B43C30DC1257D880063EAB2?openDocument) — 24. 9. 2014, kat. A
+- *NS* [21 Cdo 3046/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7AB2E7735B43C30DC1257D880063EAB2?openDocument) — kat. A, 24. 9. 2014
   > „Uzavře-li zaměstnanec z důvodu převodu činnosti zaměstnavatele nebo části činnosti zaměstnavatele nebo převodu úkolů zaměstnavatele anebo jejich části k jinému zaměstnavateli dohodu o rozvázání pracovního poměru s dosavadním zaměstnavatelem a zároveň pracovní smlouvu s přejímajícím zaměstnavatelem, může být v této pracovní smlouvě sjednána zkušební doba. Jestliže by však účelem takového postupu ze strany přejímajícího zaměstnavatele bylo vyhnout se přechodu práv a povinností z pracovního poměru mezi zaměstnancem a dosavadním zaměstnavatelem na přejímajícího zaměstnavatele proto, aby přejímající zaměstnavatel mohl zrušit pracovní poměr se zaměstnancem ve zkušební době, kterou při přechodu práv a povinností z pracovněprávních vztahů nelze sjednat, bylo by ujednání o zkušební době pro rozpor s dobrými mravy neplatné"
 
 #### Implementace směrnice 2001/23/ES — TUPE
@@ -2747,7 +2743,7 @@ NS ČR:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 4952/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C7AAE173E5DAF24C1257F2C00204357?openDocument) — 21. 10. 2015, kat. A
+- *NS* [21 Cdo 4952/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0C7AAE173E5DAF24C1257F2C00204357?openDocument) — kat. A, 21. 10. 2015
   > „Po účinnosti přeměny zaměstnavatele spočívající ve fúzi sloučením, při níž dochází k převodu činnosti nebo úkolů zaměstnavatele anebo jejich části k jinému zaměstnavateli, jenž má za následek přechod práv a povinností z pracovněprávních vztahů, se odborová organizace působící u zaměstnavatele nemůže úspěšně domáhat, aby ji přejímající zaměstnavatel o této přeměně informoval a toto opatření s ní projednal. Vznikne-li však odborové organizaci porušením povinnosti zaměstnavatele informovat ji o uvedené přeměně a tuto přeměnu s ní před její účinností projednat škoda, může odborová organizace uplatnit právo na její náhradu"
 
 #### Informování a projednání jako podmínka přechodu
@@ -3220,8 +3216,8 @@ Pracovní právo vychází z předpokladu **nerovnosti smluvních stran** — za
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC885FCD08616C8CC1258666001DDB97?openDocument) — 29. 10. 2020, kat. A
-  > „V pracovněprávních vztazích smí smluvní pokuta utvrdit jen závazek zaměstnance z konkurenční doložky sjednané ve smyslu ustanovení § 310 odst. 1 zák. práce o tom, že se zaměstnanec po určitou dobu po skončení zaměstnání, nejdéle však po dobu 1 roku, zdrží výkonu výdělečné činnosti, která by byla shodná s předmětem činnosti zaměstnavatele nebo která by vůči němu měla soutěžní povahu. Ujednání smluvní pokuty k utvrzení jiných závazků zaměstnance a zaměstnavatele je zakázáno ustanovením § 346d odst. 7 zák. práce ke smluvní pokutě sjednané v rozporu s tímto zákazem se nepřihlíží (§ 346e zák. práce). Ustanovení § 19 odst. 3 zák. práce, které určuje, že neplatnost právního jednání nemůže být zaměstnanci na újmu, nezpůsobil-li neplatnost výlučně sám, se analogicky aplikuje též na zdánlivá (nicotná) pracovněprávní jednání. Tuto zásadu však nelze vykládat tak, že zaměstnanec může z neplatného…"
+- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC885FCD08616C8CC1258666001DDB97?openDocument) — kat. A, 29. 10. 2020
+  > „V pracovněprávních vztazích smí smluvní pokuta utvrdit jen závazek zaměstnance z konkurenční doložky sjednané ve smyslu ustanovení § 310 odst. 1 zák. práce o tom, že se zaměstnanec po určitou dobu po skončení zaměstnání, nejdéle však po dobu 1 roku, zdrží výkonu výdělečné činnosti, která by byla shodná s předmětem činnosti zaměstnavatele nebo která by vůči němu měla soutěžní povahu. Ujednání smluvní pokuty k utvrzení jiných závazků zaměstnance a zaměstnavatele je zakázáno ustanovením § 346d odst. 7 zák. práce ke smluvní pokutě sjednané v rozporu s tímto zákazem se nepřihlíží (§ 346e zák. práce)"
 
 #### Systém speciálních zákazů — ochrana zaměstnance
 
@@ -3293,8 +3289,8 @@ Toto je výrazná **odchylka od občanského práva**, kde je smluvní pokuta b�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC885FCD08616C8CC1258666001DDB97?openDocument) — 29. 10. 2020, kat. A
-  > „V pracovněprávních vztazích smí smluvní pokuta utvrdit jen závazek zaměstnance z konkurenční doložky sjednané ve smyslu ustanovení § 310 odst. 1 zák. práce o tom, že se zaměstnanec po určitou dobu po skončení zaměstnání, nejdéle však po dobu 1 roku, zdrží výkonu výdělečné činnosti, která by byla shodná s předmětem činnosti zaměstnavatele nebo která by vůči němu měla soutěžní povahu. Ujednání smluvní pokuty k utvrzení jiných závazků zaměstnance a zaměstnavatele je zakázáno ustanovením § 346d odst. 7 zák. práce ke smluvní pokutě sjednané v rozporu s tímto zákazem se nepřihlíží (§ 346e zák. práce). Ustanovení § 19 odst. 3 zák. práce, které určuje, že neplatnost právního jednání nemůže být zaměstnanci na újmu, nezpůsobil-li neplatnost výlučně sám, se analogicky aplikuje též na zdánlivá (nicotná) pracovněprávní jednání. Tuto zásadu však nelze vykládat tak, že zaměstnanec může z neplatného…"
+- *NS* [21 Cdo 4451/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/AC885FCD08616C8CC1258666001DDB97?openDocument) — kat. A, 29. 10. 2020
+  > „Ujednání smluvní pokuty k utvrzení jiných závazků zaměstnance a zaměstnavatele je zakázáno ustanovením § 346d odst. 7 zák. práce ke smluvní pokutě sjednané v rozporu s tímto zákazem se nepřihlíží (§ 346e zák. práce). Ustanovení § 19 odst. 3 zák. práce, které určuje, že neplatnost právního jednání nemůže být zaměstnanci na újmu, nezpůsobil-li neplatnost výlučně sám, se analogicky aplikuje též na zdánlivá (nicotná) pracovněprávní jednání"
 
 #### Sankce nicotnosti
 
@@ -3397,10 +3393,8 @@ Pozn.: ZP používá vlastní pojem domácnosti, který se mírně liší od dom
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 476/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9708DDFED26BAA6C1257F8C0030DC15?openDocument) — 15. 1. 2016, kat. A
+- *NS* [21 Cdo 476/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9708DDFED26BAA6C1257F8C0030DC15?openDocument) — kat. A, 15. 1. 2016
   > „Okamžité zrušení pracovního poměru učiněné zaměstnavatelem podle ustanovení § 55 odst. 1 písm. b) zák. práce z důvodu neomluveného zameškání práce není neplatné pro rozpor se zákonem jen proto, že zaměstnavatel v rozporu s § 348 odst. 3 zák. práce, ve znění účinném od 1. 1. 2012, určil, že se u zaměstnance jedná o neomluvené zameškání práce, bez projednání s odborovou organizací"
-- *NS* [21 Cdo 2868/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/02E382C6E2B907A6C1257B4F003320A7?openDocument) — 4. 4. 2013, kat. A
-  > „Čerpání dovolené soudcem není důvodem, pro který by mu mohla být krácena podle ustanovení § 35 ,odst. 3, věty první, zákona č. 236/1995 Sb., ve znění pozdějších předpisů, víceúčelová paušální ,náhrada výdajů na reprezentaci a na odbornou literaturu"
 
 #### Fikce výkonu práce (odst. 1)
 

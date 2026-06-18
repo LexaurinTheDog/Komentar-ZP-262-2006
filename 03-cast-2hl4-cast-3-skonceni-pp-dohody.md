@@ -91,7 +91,7 @@ Smrt zaměstnavatele — fyzické osoby — řeší § 342 odst. 1: PP zaniká, 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 3165/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1A2C1E74414073C4C1257D55004AF215?openDocument) — 19. 8. 2014, kat. A
+- *NS* [21 Cdo 3165/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1A2C1E74414073C4C1257D55004AF215?openDocument) — kat. A, 19. 8. 2014
   > „Účastník právního vztahu projevuje vůli konkludentně, jen jestliže ji nevyjádřil výslovně. Projevil-li účastník výslovně určitou svou vůli, je nepřípustné dovozovat, že by snad konkludentně vyjádřil vůli opačnou (odlišnou), ledaže by tím dával najevo (právem aprobovanou) změnu své dříve vyjádřené vůle"
 
 #### Charakter a obsah dohody
@@ -156,13 +156,11 @@ Pokud je důvod uvedený v dohodě **organizační** [§ 52 písm. a)–c)] nebo
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [31 Cdo 833/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/20AFD12F02D28576C125888B002F8707?openDocument) — 8. 6. 2022, kat. A
-  > „Při rozvázání pracovního poměru, který byl založen pracovní smlouvou, jež má vztah k právu různých zemí a v níž bylo sjednáno místo výkonu práce v České republice, nesmí být zaměstnanec v důsledku volby rozhodného práva podle čl. 3 odst. 1 Úmluvy o právu rozhodném pro smluvní závazkové vztahy, uveřejněné sdělením Ministerstva zahraničních věcí č. 64/2006 Sb. m. s., zbaven ochrany, kterou poskytují kogentní ustanovení zákoníku práce o obsahových náležitostech výpovědi z pracovního poměru ze strany zaměstnavatele a o stanovených výpovědních důvodech"
-- *NS* [21 Cdo 682/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F983E1C6C071168CC12583C8001D7C5F?openDocument) — 18. 12. 2018, kat. A
+- *NS* [31 Cdo 833/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/20AFD12F02D28576C125888B002F8707?openDocument) — kat. A, 8. 6. 2022
+  > „Při rozvázání pracovního poměru, který byl založen pracovní smlouvou, jež má vztah k právu různých zemí a v níž bylo sjednáno místo výkonu práce v České republice, nesmí být zaměstnanec v důsledku volby rozhodného práva podle čl. 3 odst. 1 Úmluvy o právu rozhodném pro smluvní závazkové vztahy … zbaven ochrany, kterou poskytují kogentní ustanovení zákoníku práce o obsahových náležitostech výpovědi z pracovního poměru ze strany zaměstnavatele a o stanovených výpovědních důvodech"
+- *NS* [21 Cdo 682/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F983E1C6C071168CC12583C8001D7C5F?openDocument) — kat. A, 18. 12. 2018
   > „Nahrazení vlastnoručního podpisu zaměstnavatele na výpovědi z pracovního poměru mechanickými prostředky není přípustné"
-- *NS* [21 Cdo 630/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0CBC6E673D762095C1257F7600413EFB?openDocument) — 17. 12. 2015, kat. A
-  > „Výpověď z pracovního poměru podanou zaměstnavatelem podle § 52 písm. h) zák. práce je třeba ve lhůtách uvedených v § 57 zák. práce nejen učinit, ale i zaměstnanci řádně doručit"
-- *NS* [21 Cdo 3278/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F3715FE11F0D293C1257A4E0067BDCB?openDocument) — 24. 11. 2011, kat. A
+- *NS* [21 Cdo 3278/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/9F3715FE11F0D293C1257A4E0067BDCB?openDocument) — kat. A, 24. 11. 2011
   > „Písemnost uvedenou v ustanovení § 334 odst. 1 zák. práce zaměstnavatel nedoručil zaměstnanci do vlastních rukou, jestliže mu jen umožnil, aby se seznámil s obsahem písemnosti, a jestliže mu předal pouze reprodukci písemnosti s grafickým napodobením podpisu"
 
 #### Písemnost jako podmínka existence (odst. 1) — sankce zdánlivosti
@@ -318,22 +316,14 @@ Výpověď podle § 51a je **výpovědí zaměstnance**, nikoli zaměstnavatele 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [31 Cdo 833/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/20AFD12F02D28576C125888B002F8707?openDocument) — 8. 6. 2022, kat. A
-  > „Při rozvázání pracovního poměru, který byl založen pracovní smlouvou, jež má vztah k právu různých zemí a v níž bylo sjednáno místo výkonu práce v České republice, nesmí být zaměstnanec v důsledku volby rozhodného práva podle čl. 3 odst. 1 Úmluvy o právu rozhodném pro smluvní závazkové vztahy, uveřejněné sdělením Ministerstva zahraničních věcí č. 64/2006 Sb. m. s., zbaven ochrany, kterou poskytují kogentní ustanovení zákoníku práce o obsahových náležitostech výpovědi z pracovního poměru ze strany zaměstnavatele a o stanovených výpovědních důvodech"
-- *NS* [21 Cdo 1096/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/EF9E3587DA3757F0C1258793001E434C?openDocument) — 26. 8. 2021, kat. A
-  > „Lékařský posudek vydaný poskytovatelem pracovnělékařských služeb a rozhodnutí příslušného správního orgánu, který lékařský posudek přezkoumává, nelze ani za právní úpravy účinné od 1. 11. 2017 považovat za rozhodnutí, z něhož by mohl soud bez dalšího vycházet v občanském soudním řízení ve smyslu ustanovení § 135 odst. 2 o. s. ř"
-- *NS* [21 Cdo 2128/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F3B030BDBCCE803C1258551002E90D9?openDocument) — 29. 1. 2020, kat. A
-  > „Zaměstnavatelé mohou plnění běžných úkolů vyplývajících z předmětu jejich činnosti (stejně jako plnění ostatních úkolů) zajišťovat i jinak než prostřednictvím osob zaměstnávaných v základním pracovněprávním vztahu, nejde-li o výkon závislé práce na základě smluv (dohod), jimiž se zakládají jiné než pracovněprávní vztahy. Právnické a fyzické osoby provozující činnost, při které pořádají umělecká představení, mohou rozhodnout o tom, že činnost dosud zajišťovanou prostřednictvím výkonných umělců zaměstnávaných v základním pracovněprávním vztahu budou nadále zabezpečovat na základě občanskoprávních smluv (dohod) uzavíraných s výkonnými umělci (aniž by šlo o výkon závislé práce), popřípadě s menším počtem zaměstnávaných výkonných umělců při zvýšení počtu těch, kteří u nich působí na občanskoprávním základě. Takové rozhodnutí může mít povahu rozhodnutí o organizačních změnách ve smyslu…"
-- *NS* [21 Cdo 5825/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF199BC59E98349DC12582780026308E?openDocument) — 30. 1. 2018, kat. A
-  > „Nepřevedl-li zaměstnavatel zaměstnance, který nemůže konat dosavadní práci pro pracovní úraz, nemoc z povolání nebo ohrožení nemocí z povolání, na jinou vhodnou práci (popřípadě převedl-li zaměstnance na jinou vhodnou práci bez jeho souhlasu a nebylo-li jeho pracovní zařazení u zaměstnavatele vyřešeno dohodou ani dodatečně), je povinen rozvázat s ním pracovní poměr výpovědí z důvodů uvedených v ustanovení § 52 písm. d) zák. práce nebo dohodou z týchž důvodů. Nesplní-li zaměstnavatel tuto povinnost, je oprávněn z těchto důvodů rozvázat pracovní poměr výpovědí zaměstnanec, aniž by to bylo na újmu jeho práva na odstupné podle ustanovení § 67 odst. 2 zák. práce"
-- *NS* [21 Cdo 968/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3835FFD1E04B82AC125803B00461166?openDocument) — 26. 7. 2016, kat. A
-  > „Návrhem na ústavní ošetřování ve smyslu ustanovení § 53 odst. 1 písm. a) zák. práce je třeba rozumět doporučení ošetřujícího lékaře k přijetí do ústavní péče není zapotřebí, aby doporučení konkretizovalo zařízení, v němž má ústavní ošetřování probíhat"
-- *NS* [21 Cdo 3240/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/230376ACC823BAE8C125803A003C083D?openDocument) — 14. 7. 2016, kat. A
+- *NS* [31 Cdo 833/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/20AFD12F02D28576C125888B002F8707?openDocument) — kat. A, 8. 6. 2022
+  > „Při rozvázání pracovního poměru, který byl založen pracovní smlouvou, jež má vztah k právu různých zemí a v níž bylo sjednáno místo výkonu práce v České republice, nesmí být zaměstnanec v důsledku volby rozhodného práva podle čl. 3 odst. 1 Úmluvy o právu rozhodném pro smluvní závazkové vztahy … zbaven ochrany, kterou poskytují kogentní ustanovení zákoníku práce o obsahových náležitostech výpovědi z pracovního poměru ze strany zaměstnavatele a o stanovených výpovědních důvodech"
+- *NS* [21 Cdo 2128/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F3B030BDBCCE803C1258551002E90D9?openDocument) — kat. A, 29. 1. 2020
+  > „Zaměstnavatelé mohou plnění běžných úkolů vyplývajících z předmětu jejich činnosti (stejně jako plnění ostatních úkolů) zajišťovat i jinak než prostřednictvím osob zaměstnávaných v základním pracovněprávním vztahu, nejde-li o výkon závislé práce na základě smluv (dohod), jimiž se zakládají jiné než pracovněprávní vztahy. … Takové rozhodnutí může mít povahu rozhodnutí o organizačních změnách ve smyslu …"
+- *NS* [21 Cdo 5825/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF199BC59E98349DC12582780026308E?openDocument) — kat. A, 30. 1. 2018
+  > „Nepřevedl-li zaměstnavatel zaměstnance, který nemůže konat dosavadní práci pro pracovní úraz, nemoc z povolání nebo ohrožení nemocí z povolání, na jinou vhodnou práci …, je povinen rozvázat s ním pracovní poměr výpovědí z důvodů uvedených v ustanovení § 52 písm. d) zák. práce nebo dohodou z týchž důvodů. Nesplní-li zaměstnavatel tuto povinnost, je oprávněn z těchto důvodů rozvázat pracovní poměr výpovědí zaměstnanec, aniž by to bylo na újmu jeho práva na odstupné podle ustanovení § 67 odst. 2 zák. práce"
+- *NS* [21 Cdo 3240/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/230376ACC823BAE8C125803A003C083D?openDocument) — kat. A, 14. 7. 2016
   > „Zaměstnavatel nemůže dát zaměstnanci výpověď z pracovního poměru z důvodu nesplňování předpokladů stanovených právními předpisy pro výkon sjednané práce podle ustanovení § 52 písm. f) zák. práce, jestliže zaměstnanec tyto předpoklady nesplňuje jen ve vztahu k jednomu z více sjednaných druhů práce"
-- *NS* [21 Cdo 1862/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F6DAC138F9760A76C1257FFD0030DD13?openDocument) — 25. 5. 2016, kat. A
-  > „Nařídí-li soud v řízení, jehož účastníkem je právnická osoba, výslech fyzické osoby, které byla právnickou osobou udělena prokura (prokuristy), o okolnostech týkajících se této právnické osoby, musí být tato fyzická osoba vyslechnuta jako svědeka a nikoliv jako účastník řízení"
-- *NS* [21 Cdo 2376/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F5ABB851623FF3DEC1257FF40025C341?openDocument) — 5. 5. 2016, kat. A
-  > „Zaměstnavatel nemůže dát výpověď z pracovního poměru podle ustanovení § 73a odst. 2 věty druhé zák. práce na základě fikce výpovědního důvodu podle ustanovení § 52 písm. c) zák. práce zaměstnanci, který byl odvolán z vedoucího pracovního místa nebo který se tohoto místa vzdal, jestliže se s ním při jeho jmenování na vedoucí pracovní místo nebo při uzavření dohody o možnosti odvolání a vzdání se vedoucího pracovního místa dohodl na tom, že v případě odvolání zaměstnance z vedoucího pracovního místa nebo vzdání se tohoto místa zaměstnancem jej zařadí na práci, kterou zaměstnanec vykonával před svým jmenováním nebo zařazením na vedoucí pracovní místo"
 
 #### Systematika výpovědních důvodů — tři skupiny
 
@@ -437,8 +427,8 @@ Prekluzivní lhůty pro tuto výpověď stanoví **§ 57** (1 měsíc subjektivn
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 968/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3835FFD1E04B82AC125803B00461166?openDocument) — 26. 7. 2016, kat. A
-  > „Návrhem na ústavní ošetřování ve smyslu ustanovení § 53 odst. 1 písm. a) zák. práce je třeba rozumět doporučení ošetřujícího lékaře k přijetí do ústavní péče není zapotřebí, aby doporučení konkretizovalo zařízení, v němž má ústavní ošetřování probíhat"
+- *NS* [21 Cdo 968/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/C3835FFD1E04B82AC125803B00461166?openDocument) — kat. A, 26. 7. 2016
+  > „Návrhem na ústavní ošetřování ve smyslu ustanovení § 53 odst. 1 písm. a) zák. práce je třeba rozumět doporučení ošetřujícího lékaře k přijetí do ústavní péče; není zapotřebí, aby doporučení konkretizovalo zařízení, v němž má ústavní ošetřování probíhat"
 
 #### Účel ochranné doby a sankce za porušení
 
@@ -528,18 +518,10 @@ Pokud byla výpověď platně dána před nástupem mateřské/otcovské/rodičo
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2697/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C0021FF23975C1DC1258A7A001B8616?openDocument) — 11. 9. 2023, kat. A
-  > „V rozporu s právní úpravou doručování obsaženou v zákoníku práce (zákonu č. 262/2006 Sb., zákoník práce, ve znění účinném do 30. 6. 2019) není, doručuje-li zaměstnavatel do vlastních rukou zaměstnance písemnost, u níž takový postup nestanoví ustanovení § 334 odst. 1 zák. práce ani smlouva nebo vnitřní předpis. Přistoupí-li zaměstnavatel v takovém případě k doručení písemnosti prostřednictvím provozovatele poštovních služeb, podléhá její doručení režimu ustanovení § 336 zák. práce, nikoli tedy obecným pravidlům dojití projevu vůle podle občanského zákoníku"
-- *NS* [21 Cdo 1267/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DAF440DF477B9B8CC12583350036F2E6?openDocument) — 14. 8. 2018, kat. A
-  > „Zvukový nebo obrazový záznam, který se týká člověka nebo jeho projevů osobní povahy a který byl pořízen soukromou osobou bez vědomí nahrávané osoby, lze použít jako důkaz v občanském soudním řízení pouze tam, kde má vést k prokázání skutečnosti, kterou není možné prokázat jinak (pomocí důkazů, které nezasahují do absolutních osobnostních práv dotčené osoby), a kde i další okolnosti případu vedou k závěru, že nelze upřednostnit právo na ochranu osobnosti dotčené osoby před právem na spravedlivý proces toho, komu je použití důkazu zvukovým či obrazovým záznamem týkajícím se této osoby nebo jejích projevů osobní povahy na prospěch"
-- *NS* [21 Cdo 476/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9708DDFED26BAA6C1257F8C0030DC15?openDocument) — 15. 1. 2016, kat. A
+- *NS* [21 Cdo 2596/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB104F2147009777C1257AA6003C0C6F?openDocument) — kat. A, 17. 10. 2012
+  > „Útok na majetek zaměstnavatele, ať už přímý (např. krádeží, poškozováním, zneužitím apod.) nebo nepřímý (např. pokusem odčerpat část majetku zaměstnavatele bez odpovídajícího protiplnění), představuje z hlediska vymezení relativně neurčité hypotézy § 55 odst. 1 písm. b) zák. práce tak významnou okolnost, že zpravidla již sama o sobě postačuje pro závěr o porušení povinnosti zaměstnance vyplývající …"
+- *NS* [21 Cdo 476/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B9708DDFED26BAA6C1257F8C0030DC15?openDocument) — kat. A, 15. 1. 2016
   > „Okamžité zrušení pracovního poměru učiněné zaměstnavatelem podle ustanovení § 55 odst. 1 písm. b) zák. práce z důvodu neomluveného zameškání práce není neplatné pro rozpor se zákonem jen proto, že zaměstnavatel v rozporu s § 348 odst. 3 zák. práce, ve znění účinném od 1. 1. 2012, určil, že se u zaměstnance jedná o neomluvené zameškání práce, bez projednání s odborovou organizací"
-- *NS* [21 Cdo 3663/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DDC20B7EB765E6C4C1257EA400301FDF?openDocument) — 23. 6. 2015, kat. A
-  > „Zdržuje-li se zaměstnanec po dobu dovolené, dočasné pracovní neschopnosti, péče o člena své domácnosti, vojenské služby nebo z jiných podobných důvodů na jiné, jeho zaměstnavateli dosud neznámé adrese, zaměstnavatel může (smí) v této době doručovat zaměstnanci své písemnosti prostřednictvím provozovatele poštovních služeb jen na tuto "dočasnou adresu" doručení na jinou adresu je neúčinné, i kdyby se na ní zaměstnanec jinak (v jiné době) zdržoval. Zaměstnavatel se dozví o adrese zaměstnance, na kterou mu může (smí) doručovat své písemnosti (§ 336 odst. 1 zák. práce), nejen z oznámení zaměstnance samotného, ale i z jakýchkoliv jiných věrohodných (spolehlivých) zdrojů, například od jiných zaměstnanců, od příbuzných zaměstnance, od poskytovatelů zdravotnických služeb nebo od orgánů veřejné moci"
-- *NS* [21 Cdo 1467/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7BE440F22F9DFBBFC1257E4A004696A8?openDocument) — 31. 3. 2015, kat. A
-  > „Rozsáhlost doplnění dokazování ve smyslu ustanovení § 213 odst. 4 o. s. ř. nevyjadřuje počet (množství) důkazů, které by měly být za odvolacího řízení provedeny, nýbrž rozsah skutečností významných pro posouzení věci, ohledně kterých je třeba za odvolacího řízení doplnit dokazování. Zcela nedostatečným dokazováním se má v tomto ustanovení na mysli stav, kdy soud prvního stupně sice provedl některé důkazy, avšak šlo o důkazy zjevně nezpůsobilé objasnit skutečnosti, které jsou pro rozhodnutí nebo řízení významné. Má-li odvolací soud za to, že mají být provedeny jiné než účastníky řízení navržené důkazy, které jsou potřebné ke zjištění skutkového stavu a které vyplývají z obsahu spisu, nemůže rozhodnutí soudu prvního stupně z tohoto důvodu zrušit v takovém případě je na odvolacím soudu, aby uvedené důkazy provedl sám"
-- *NS* [21 Cdo 2596/2011](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/CB104F2147009777C1257AA6003C0C6F?openDocument) — 17. 10. 2012, kat. A
-  > „Útok na majetek zaměstnavatele, ať už přímý (např. krádeží, poškozováním, zneužitím apod.) nebo nepřímý (např. pokusem odčerpat část majetku zaměstnavatele bez odpovídajícího protiplnění), představuje z hlediska vymezení relativně neurčité hypotézy § 55 odst. 1 písm. b) zák. práce tak významnou okolnost, že zpravidla již sama o sobě postačuje pro závěr o porušení povinnosti zaměstnance vyplývající z právních předpisů vztahujících se k jím vykonávané práci zvlášť hrubým způsobem"
 
 #### Charakter okamžitého zrušení — mimořádný způsob (odst. 1)
 
@@ -662,7 +644,7 @@ Po marném uplynutí kterékoli lhůty důvod **prekluduje** — výpověď je n
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 630/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0CBC6E673D762095C1257F7600413EFB?openDocument) — 17. 12. 2015, kat. A
+- *NS* [21 Cdo 630/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0CBC6E673D762095C1257F7600413EFB?openDocument) — kat. A, 17. 12. 2015
   > „Výpověď z pracovního poměru podanou zaměstnavatelem podle § 52 písm. h) zák. práce je třeba ve lhůtách uvedených v § 57 zák. práce nejen učinit, ale i zaměstnanci řádně doručit"
 
 ---
@@ -747,8 +729,8 @@ Důsledek nedostatku skutkového vymezení nebo změny důvodu = **neplatnost** 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 5054/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4366FCE03D36790DC1257F2C001F9302?openDocument) — 26. 10. 2015, kat. A
-  > „Okolnost, zda u zaměstnavatele působí odborová organizace a její orgán, jehož členem je (byl v průběhu doby jednoho roku před výpovědí) zaměstnanec, kterému byla zaměstnavatelem dána výpověď z pracovního poměru, a zda tedy zaměstnavatel byl povinen požádat odborovou organizaci o předchozí souhlas k výpovědi, je třeba zjišťovat ke dni doručení výpovědi zaměstnanci k tomuto dni je třeba zkoumat i splnění podmínky působení odborové organizace u zaměstnavatele spočívající v tom, aby alespoň tři její členové byli u zaměstnavatele v pracovním poměru"
+- *NS* [21 Cdo 5054/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4366FCE03D36790DC1257F2C001F9302?openDocument) — kat. A, 26. 10. 2015
+  > „Okolnost, zda u zaměstnavatele působí odborová organizace a její orgán, jehož členem je (byl v průběhu doby jednoho roku před výpovědí) zaměstnanec, kterému byla zaměstnavatelem dána výpověď z pracovního poměru, a zda tedy zaměstnavatel byl povinen požádat odborovou organizaci o předchozí souhlas k výpovědi, je třeba zjišťovat ke dni doručení výpovědi zaměstnanci; k tomuto dni je třeba zkoumat i sp…"
 
 #### Dva režimy účasti odborů
 
@@ -992,9 +974,9 @@ Zrušení ve zkušební době je **maximálně liberalizovaným** způsobem rozv
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 5825/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF199BC59E98349DC12582780026308E?openDocument) — 30. 1. 2018, kat. A
-  > „Nepřevedl-li zaměstnavatel zaměstnance, který nemůže konat dosavadní práci pro pracovní úraz, nemoc z povolání nebo ohrožení nemocí z povolání, na jinou vhodnou práci (popřípadě převedl-li zaměstnance na jinou vhodnou práci bez jeho souhlasu a nebylo-li jeho pracovní zařazení u zaměstnavatele vyřešeno dohodou ani dodatečně), je povinen rozvázat s ním pracovní poměr výpovědí z důvodů uvedených v ustanovení § 52 písm. d) zák. práce nebo dohodou z týchž důvodů. Nesplní-li zaměstnavatel tuto povinnost, je oprávněn z těchto důvodů rozvázat pracovní poměr výpovědí zaměstnanec, aniž by to bylo na újmu jeho práva na odstupné podle ustanovení § 67 odst. 2 zák. práce"
-- *NS* [21 Cdo 5433/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A34125B3B695A896C1257EF200363666?openDocument) — 2. 9. 2015, kat. A
+- *NS* [21 Cdo 5825/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/DF199BC59E98349DC12582780026308E?openDocument) — kat. A, 30. 1. 2018
+  > „Nepřevedl-li zaměstnavatel zaměstnance, který nemůže konat dosavadní práci pro pracovní úraz, nemoc z povolání nebo ohrožení nemocí z povolání, na jinou vhodnou práci …, je povinen rozvázat s ním pracovní poměr výpovědí z důvodů uvedených v ustanovení § 52 písm. d) zák. práce nebo dohodou z týchž důvodů. Nesplní-li zaměstnavatel tuto povinnost, je oprávněn z těchto důvodů rozvázat pracovní poměr výpovědí zaměstnanec, aniž by to bylo na újmu jeho práva na odstupné podle ustanovení § 67 odst. 2 zák. práce"
+- *NS* [21 Cdo 5433/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A34125B3B695A896C1257EF200363666?openDocument) — kat. A, 2. 9. 2015
   > „Poskytnutím kompenzace podle ustanovení § 44b odst. 1 zákona č. 435/2004 Sb. (ve znění pozdějších předpisů) přechází právo uchazeče o zaměstnání na odstupné pobírané podle ustanovení § 67 zák. práce až do výše vyplacené kompenzace na Úřad práce"
 
 #### Funkce odstupného
@@ -1196,10 +1178,10 @@ Tento jednostranně proochranný režim odráží **vyšší konsenzuální char
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 565/2024](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2C237E7758DDCB8EC1258C0C0052AF08?openDocument) — 10. 12. 2024, kat. A
-  > „Za dohodu o mimosoudním jednání ve smyslu ustanovení § 647 o. z. je třeba považovat právní jednání, z něhož vyplývá shodná (oboustranná) vůle stran vést jednání o určitém právu nebo o okolnostech jej zakládajících, jehož cílem je vyřešit situaci jinak než podáním žaloby k soudu. Taková dohoda může být uzavřena nejen výslovně, ale i jiným způsobem nevzbuzujícím pochybnost o tom, co jednající osoby chtěly projevit. Uzavření dohody o mimosoudním jednání mezi zaměstnavatelem a zaměstnancem nemá vliv na původní délku dvouměsíční prekluzivní lhůty k podání žaloby o neplatnost rozvázání pracovního poměru (§ 72 zák. práce), která v době této překážky neběží (nezačne běžet) a jejíž běh pokračuje až po odpadnutí překážky tím, že zaměstnavatel nebo zaměstnanec výslovně odmítne v mimosoudním jednání pokračovat zbývá-li po odpadnutí překážky méně než 5 dnů do uplynutí lhůty, neskončí tato lhůta…"
-- *NS* [21 Cdo 2250/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D1C14193E482F81C125853D002C1D06?openDocument) — 19. 12. 2019, kat. A
-  > „O bezprávnou výhrůžku jde tehdy, jestliže osoba vykonávající psychický nátlak hrozí něčím, co není oprávněna učinit, nebo vyhrožuje tím, co by sice byla oprávněna učinit, avšak prostřednictvím výhrůžky si vynucuje něco, k čemu být použita nesmí. Dovolání se neplatnosti právního jednání ve smyslu § 587 odst. 1 o. z. je jednostranné právní jednání adresované druhému účastníku právního vztahu, jež vyvolává právní následky od okamžiku, kdy došlo adresátu (§ 570 odst. 1 o. z.). Lze je učinit toliko výslovně z jeho obsahu musí být patrno, že se jím uplatňuje neplatnost konkrétního právního jednání, a musí v něm být označena vada (nedostatek svobody vůle) dotčeného právního jednání, která způsobila jeho neplatnost, a to včetně vyjádření okolností, v nichž je nedostatek svobody vůle spatřován. Neplatnost právního jednání nastává s účinky ex tunc (od počátku). Namítla-li oprávněná osoba…"
+- *ÚS* [Pl.ÚS 2/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-2-08_1) — nález, 23. 4. 2008
+  > „Navíc, každé rozvázání pracovního vztahu z uvedeného důvodu je možné přezkoumat soudní cestou v rámci řízení podle § 72 zákona č. 262/2006 Sb. (zákoník práce) a tím se bránit eventuálnímu svévolnému jednání zaměstnavatele"
+- *NS* [21 Cdo 2250/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4D1C14193E482F81C125853D002C1D06?openDocument) — kat. A, 19. 12. 2019
+  > „O bezprávnou výhrůžku jde tehdy, jestliže osoba vykonávající psychický nátlak hrozí něčím, co není oprávněna učinit, nebo vyhrožuje tím, co by sice byla oprávněna učinit, avšak prostřednictvím výhrůžky si vynucuje něco, k čemu být použita nesmí. Dovolání se neplatnosti právního jednání ve smyslu § 587 odst. 1 o. z. je jednostranné právní jednání adresované druhému účastníku právního vztahu, jež vy…"
 
 #### Klíčové ustanovení o procesní ochraně
 
@@ -1261,10 +1243,10 @@ Lhůta § 72 je **speciální** vůči obecné promlčecí lhůtě 3 let (§ 629
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2376/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F5ABB851623FF3DEC1257FF40025C341?openDocument) — 5. 5. 2016, kat. A
+- *NS* [21 Cdo 2376/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F5ABB851623FF3DEC1257FF40025C341?openDocument) — kat. A, 5. 5. 2016
   > „Zaměstnavatel nemůže dát výpověď z pracovního poměru podle ustanovení § 73a odst. 2 věty druhé zák. práce na základě fikce výpovědního důvodu podle ustanovení § 52 písm. c) zák. práce zaměstnanci, který byl odvolán z vedoucího pracovního místa nebo který se tohoto místa vzdal, jestliže se s ním při jeho jmenování na vedoucí pracovní místo nebo při uzavření dohody o možnosti odvolání a vzdání se vedoucího pracovního místa dohodl na tom, že v případě odvolání zaměstnance z vedoucího pracovního místa nebo vzdání se tohoto místa zaměstnancem jej zařadí na práci, kterou zaměstnanec vykonával před svým jmenováním nebo zařazením na vedoucí pracovní místo"
-- *NS* [21 Cdo 2745/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7BF08DB880268656C1257CF500356299?openDocument) — 27. 5. 2014, kat. A
-  > „Vedoucí zaměstnanec, který byl odvolán z pracovního místa nebo který se tohoto místa vzdal a pro kterého zaměstnavatel nemá jinou práci odpovídající jeho zdravotnímu stavu a kvalifikaci nebo který takovou práci nabídnutou mu zaměstnavatelem odmítl, nemá nárok na náhradu mzdy nebo platu pro překážku v práci na straně zaměstnavatele, jestliže byl zvolen členem zastupitelstva obce nebo starostou a jestliže byl pro výkon těchto veřejných funkcí dlouhodobě uvolněn"
+- *NS* [21 Cdo 2745/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7BF08DB880268656C1257CF500356299?openDocument) — kat. A, 27. 5. 2014
+  > „Vedoucí zaměstnanec, který byl odvolán z pracovního místa nebo který se tohoto místa vzdal a pro kterého zaměstnavatel nemá jinou práci odpovídající jeho zdravotnímu stavu a kvalifikaci nebo který takovou práci nabídnutou mu zaměstnavatelem odmítl, nemá nárok na náhradu mzdy nebo platu pro překážku v práci na straně zaměstnavatele, jestliže byl zvolen členem zastupitelstva obce nebo starostou a je …"
 
 #### Specifický institut pro vedoucí zaměstnance
 
@@ -1305,7 +1287,7 @@ U právnické osoby — **statutární orgán** (jednatel, představenstvo); u f
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2376/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F5ABB851623FF3DEC1257FF40025C341?openDocument) — 5. 5. 2016, kat. A
+- *NS* [21 Cdo 2376/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F5ABB851623FF3DEC1257FF40025C341?openDocument) — kat. A, 5. 5. 2016
   > „Zaměstnavatel nemůže dát výpověď z pracovního poměru podle ustanovení § 73a odst. 2 věty druhé zák. práce na základě fikce výpovědního důvodu podle ustanovení § 52 písm. c) zák. práce zaměstnanci, který byl odvolán z vedoucího pracovního místa nebo který se tohoto místa vzdal, jestliže se s ním při jeho jmenování na vedoucí pracovní místo nebo při uzavření dohody o možnosti odvolání a vzdání se vedoucího pracovního místa dohodl na tom, že v případě odvolání zaměstnance z vedoucího pracovního místa nebo vzdání se tohoto místa zaměstnancem jej zařadí na práci, kterou zaměstnanec vykonával před svým jmenováním nebo zařazením na vedoucí pracovní místo"
 
 #### Forma a účinnost (odst. 1)
@@ -1358,8 +1340,8 @@ Pokud byl PP vedoucího zaměstnance založen nebo změněn jmenováním **na do
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [21 Cdo 2128/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F3B030BDBCCE803C1258551002E90D9?openDocument) — 29. 1. 2020, kat. A
-  > „Zaměstnavatelé mohou plnění běžných úkolů vyplývajících z předmětu jejich činnosti (stejně jako plnění ostatních úkolů) zajišťovat i jinak než prostřednictvím osob zaměstnávaných v základním pracovněprávním vztahu, nejde-li o výkon závislé práce na základě smluv (dohod), jimiž se zakládají jiné než pracovněprávní vztahy. Právnické a fyzické osoby provozující činnost, při které pořádají umělecká představení, mohou rozhodnout o tom, že činnost dosud zajišťovanou prostřednictvím výkonných umělců zaměstnávaných v základním pracovněprávním vztahu budou nadále zabezpečovat na základě občanskoprávních smluv (dohod) uzavíraných s výkonnými umělci (aniž by šlo o výkon závislé práce), popřípadě s menším počtem zaměstnávaných výkonných umělců při zvýšení počtu těch, kteří u nich působí na občanskoprávním základě. Takové rozhodnutí může mít povahu rozhodnutí o organizačních změnách ve smyslu…"
+- *NS* [21 Cdo 2128/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F3B030BDBCCE803C1258551002E90D9?openDocument) — kat. A, 29. 1. 2020
+  > „Zaměstnavatelé mohou plnění běžných úkolů vyplývajících z předmětu jejich činnosti (stejně jako plnění ostatních úkolů) zajišťovat i jinak než prostřednictvím osob zaměstnávaných v základním pracovněprávním vztahu, nejde-li o výkon závislé práce na základě smluv (dohod), jimiž se zakládají jiné než pracovněprávní vztahy"
 
 #### Princip subsidiarity dohod (odst. 1)
 
