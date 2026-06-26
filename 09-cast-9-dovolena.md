@@ -69,6 +69,42 @@ Práva podle § 211 vznikají **i v období dlouhodobých překážek v práci**
 - Zaměstnanec na rodičovské dovolené po celý kalendářní rok získá dovolenou jen v rozsahu, který odpovídá započítaným 20 týdnům (a to jen za předpokladu, že odpracoval mimo rodičovskou alespoň 12 × týdenní pracovní dobu — viz § 216 odst. 3).
 - Souběh mateřské + rodičovské: započítání mateřské nepodléhá kvótě, kvótě podléhá pouze rodičovská.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec X uzavřel se zaměstnavatelem Y (s. r. o.) dne 1. 3. 2025 souběžně dohodu o pracovní činnosti (DPČ) na 15 hodin týdně a od 1. 9. 2025 byl týmž zaměstnavatelem převeden na pracovní poměr na plný úvazek 40 h týdně. Na konci roku 2025 požaduje proplacení dovolené za celé období. Mzdová účetní namítá, že za období DPČ „dovolená nepřísluší". Důkazy: pracovní smlouva a DPČ, evidence odpracovaných hodin v obou vztazích, mzdové listy.
+
+**2. Právní otázka.** Vzniklo zaměstnanci X za období DPČ (březen–srpen 2025) právo na dovolenou, ačkoli § 211 hovoří jen o „zaměstnání v pracovním poměru"?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 211 — subjektivní právo na dovolenou vzniká ex lege zaměstnanci „v pracovním poměru".
+- *Související ustanovení téhož zákona:* § 77a–§ 77f ZP (od 1. 1. 2024 zakládají právo na dovolenou i u DPP a DPČ s fiktivní 20h týdenní pracovní dobou a prahem 80 odpracovaných hodin); § 213 (výpočet); § 216 odst. 1 (fikce nepřetržitého trvání při bezprostředně navazujícím vztahu k témuž zaměstnavateli).
+- *Související předpisy:* čl. 28 LZPS, čl. 31 odst. 2 Listiny EU, čl. 7 směrnice 2003/88/ES.
+- *Judikatura:* SDEU *BECTU* (C-173/99) a *Schultz-Hoff* (C-350/06) — placená dovolená je základním sociálním právem, jež nelze ze strany zaměstnavatele jednostranně mařit.
+
+**4. Subsumpce.** § 211 sám dohody nezmiňuje, avšak od 1. 1. 2024 odkazuje § 77a ZP na úpravu Části deváté jako podpůrnou. Za období DPČ se proto dovolená počítá z fiktivní týdenní pracovní doby 20 h: pokud X v období DPČ odpracoval alespoň 80 hodin (4 × 20 h), nárok vznikl. Za období pracovního poměru se postupuje běžně podle § 213. Díky § 216 odst. 1 se obě období považují za nepřetržité trvání vztahu k témuž zaměstnavateli.
+
+**5. Řešení.** Námitka účetní je nesprávná. X má dva dílčí nároky — za období DPČ (z 20h fikce) a za období pracovního poměru (z 40h TPD) — které se sčítají. Při skončení pracovního poměru (resp. trvá-li nevyčerpaná část) se nevyčerpaná dovolená proplatí podle § 222 odst. 2. Procesní krok: zrekonstruovat odpracované hodiny v obou vztazích a aplikovat § 213 odst. 4 (1/52 za každou odpracovanou TPD).
+
+**6. Varianty.** (a) Kdyby X v období DPČ odpracoval jen 70 hodin, vstupní práh 80 hodin by nebyl naplněn a za toto období by dovolená nevznikla. (b) Kdyby celé období bylo před 1. 1. 2024, dovolená by za DPČ nevznikla vůbec (právo měli jen zaměstnanci v pracovním poměru).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „§ 211 výslovně mluví jen o pracovním poměru, dohody nelze podřadit."* Neutralizace: § 211 je třeba číst systematicky s § 77a–§ 77f ZP účinnými od 1. 1. 2024, které právo na dovolenou u dohod výslovně zakládají a odkazují na Část devátou podpůrně.
+- *Protiargument 2: „Nárok je podmíněn žádostí či ujednáním ve smlouvě."* Neutralizace: právo vzniká ex lege při splnění hmotněprávních podmínek; ujednání zkracující dovolenou pod zákonné minimum jsou absolutně neplatná (§ 4a odst. 1, § 580 a § 588 o. z.).
+- *Slabé místo:* správné rozhraničení období DPČ vs. pracovního poměru závisí na přesné evidenci odpracovaných hodin; chybí-li, je nárok obtížně prokazatelný a důkazní břemeno o rozsahu nese zpravidla zaměstnanec.
+
+#### H. Praktický závěr
+
+Právo na dovolenou podle § 211 vzniká ex lege každému zaměstnanci v pracovním poměru a od 1. 1. 2024 (prostřednictvím § 77a–§ 77f) i pracovníkům na DPP/DPČ; je nepřevoditelné, kogentní a eurokonformně chráněné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit typ základního pracovněprávního vztahu (pracovní poměr / DPP / DPČ) a rozhodné období.
+- [ ] U dohod aplikovat fikci 20h TPD a vstupní práh 80 odpracovaných hodin (§ 77a–§ 77b).
+- [ ] Zkontrolovat, zda nedošlo k bezprostřednímu navázání vztahů u téhož zaměstnavatele (§ 216 odst. 1 — fikce nepřetržitosti).
+- [ ] Vyloučit jakékoli ujednání zkracující dovolenou pod zákonné minimum jako neplatné.
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva a dohody, evidence odpracovaných hodin, mzdové listy, kolektivní smlouva / vnitřní předpis (případné prodloužení výměry).
+
 ---
 
 ## Hlava II — Dovolená za kalendářní rok, její poměrná část a výměra dovolené
@@ -128,6 +164,42 @@ Výpočet:
 #### Drážní doprava — speciální výjimka (odst. 5)
 
 Vláda je zmocněna **nařízením** stanovit pro zaměstnance v drážní dopravě s nerovnoměrně rozvrženou pracovní dobou (§ 100 odst. 1 písm. c) ZP) podmínky, **za nichž může být poskytována dovolená v kalendářních dnech**. Jde o jedinou výjimku z 52-týdenního hodinového principu — vláda tím může reagovat na specifika nepřetržitých provozů železniční dopravy, kde se nerovnoměrné rozvrhy směn obtížně převádějí na hodinový výpočet.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně Z pracovala u základní školy zřízené obcí (školská právnická osoba) jako učitelka — pedagogická pracovnice. Od 1. 1. do 30. 6. 2025 měla plný úvazek 40 h týdně, od 1. 7. do 31. 12. 2025 přešla na kratší úvazek 20 h týdně z rodinných důvodů. V pracovní smlouvě je uvedena výměra dovolené „4 týdny". Z se na konci roku domáhá výměry 8 týdnů a správného poměrného výpočtu. Důkazy: pracovní smlouva, dodatek o zkrácení úvazku, doklad o postavení pedagogického pracovníka (§ 2 z. č. 563/2004 Sb.), evidence pracovní doby.
+
+**2. Právní otázka.** Jaká je správná výměra dovolené Z a jak se vypočte při změně délky týdenní pracovní doby v průběhu roku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 212 odst. 3 (8 týdnů pro pedagogické pracovníky) a odst. 4 (poměr při změně TPD).
+- *Související ustanovení téhož zákona:* § 213 (vznik a výpočet nároku); § 79 (délka stanovené týdenní pracovní doby); § 109 odst. 3 (okruh zaměstnavatelů s 5týdenní výměrou).
+- *Související předpisy:* zákon č. 563/2004 Sb. o pedagogických pracovnících (vymezení pedagogického pracovníka); zákon č. 111/1998 Sb. (akademičtí pracovníci).
+- *Judikatura:* obecná zásada zákazu odchýlení v neprospěch zaměstnance (§ 4a odst. 1 ZP); eurokonformní výklad čl. 7 směrnice 2003/88/ES.
+
+**4. Subsumpce.** Z je pedagogickou pracovnicí → výměra 8 týdnů (odst. 3) je kogentní, ujednání „4 týdny" je v rozsahu rozdílu neplatné (§ 580 o. z.). Změna úvazku z 40 h na 20 h spadá pod odst. 4 → rok se rozdělí na dvě období podle délky TPD a dovolená se sečte poměrně.
+
+**5. Řešení.** Výpočet: 1. 1.–30. 6. (cca 26 týdnů, 40 h): 26/52 × 8 × 40 = 160 h. 1. 7.–31. 12. (cca 26 týdnů, 20 h): 26/52 × 8 × 20 = 80 h. Celkem 240 h dovolené (po zaokrouhlení na celé hodiny nahoru dle § 216 odst. 5). Ujednání o 4 týdnech nemá účinek na zákonné minimum 8 týdnů.
+
+**6. Varianty.** (a) Kdyby Z pracovala u soukromé jazykové školy (nikoli školské právnické osoby), nebyla by pedagogickým pracovníkem ve smyslu odst. 3 a výměra by činila jen 4 týdny. (b) Kdyby byla zaměstnancem územního samosprávného celku odměňovaným platem (§ 109 odst. 3) bez pedagogického postavení, příslušela by jí výměra 5 týdnů (odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „V pracovní smlouvě byly sjednány 4 týdny, dohoda zavazuje."* Neutralizace: výměra dle odst. 1–3 je minimální a kogentní; nižší ujednání je neplatné pro rozpor se zákonem, vyšší výměru lze sjednat (prodloužit), nikoli zkrátit.
+- *Protiargument 2: „Při zkrácení úvazku se nárok celý přepočte podle nové (nižší) TPD."* Neutralizace: odst. 4 nařizuje poměr podle délky jednotlivých období, nikoli zpětný přepočet celého roku nižší sazbou — období s 40h TPD si zachovává vyšší hodinovou hodnotu dovolené.
+- *Slabé místo:* sporné může být přesné zařazení osoby jako „pedagogického pracovníka" (např. ředitel jen v rozsahu přímé pedagogické činnosti); rozhodné je faktické vykonávání přímé pedagogické činnosti dle z. č. 563/2004 Sb.
+
+#### H. Praktický závěr
+
+Výměra dovolené je kogentní minimum (4 / 5 / 8 týdnů) vázané na zaměstnavatele a kategorii zaměstnance; při změně délky týdenní pracovní doby v průběhu roku se dovolená počítá poměrně podle jednotlivých období (odst. 4).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit zaměstnavatele/zaměstnance do správné kategorie výměry (soukromý sektor / § 109 odst. 3 / pedagog či akademik).
+- [ ] Ověřit, zda smluvní výměra neklesá pod zákonné minimum (neplatnost zkrácení).
+- [ ] Při změně TPD rozdělit rok na období a sečíst dílčí nároky (odst. 4).
+- [ ] Zaokrouhlit výsledný roční nárok na celé hodiny nahoru (§ 216 odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva a dodatky, doklad o postavení pedagogického/akademického pracovníka, evidence pracovní doby, rozvrh směn, vnitřní předpis o délce TPD.
 
 ---
 
@@ -213,6 +285,44 @@ Pokud zaměstnanec odpracuje více než 52 týdnů v rozsahu týdenní pracovní
 
 Původní § 214 (před 1. 1. 2021) upravoval „dovolenou za odpracované dny". Stanovil, že zaměstnanci, který v kalendářním roce neodpracoval u téhož zaměstnavatele alespoň 60 dnů, vzniklo právo na **1/12 dovolené za kalendářní rok za každých 21 odpracovaných dnů**, pokud odpracoval alespoň 21 dnů. Toto ustanovení bylo novelou č. 285/2020 Sb. **bez náhrady zrušeno**; jeho funkci převzal § 213 odst. 3, 4 (poměrná část dovolené při odpracování 4-násobku týdenní pracovní doby).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně B má sjednán **kratší úvazek 20 h týdně** (poloviční) a výměru dovolené 5 týdnů (zaměstnavatel je územní samosprávný celek). Pracovní poměr trval po celý kalendářní rok 2025 nepřetržitě, podle rozvrhu směn odpracovala plnou kratší týdenní pracovní dobu po celých 52 týdnů. Mzdová účtárna jí vyčíslila dovolenou na „100 hodin". B namítá, že kolegyně na plný 40h úvazek se stejnou 5týdenní výměrou má dovolenou „dvakrát delší", a ptá se, zda to není diskriminace. Důkazy: pracovní smlouva (sjednaná kratší TPD), rozvrh směn, evidence odpracované doby, vnitřní mzdový předpis, mzdové listy.
+
+**2. Právní otázka.** Jak se podle § 213 odst. 1 a 2 vypočte délka dovolené za kalendářní rok u zaměstnance s kratší týdenní pracovní dobou a je výsledek (poloviční počet hodin oproti plnému úvazku) v souladu se zásadou rovného zacházení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 213 odst. 1 (plný nárok = TPD × výměra) a odst. 2 (u kratší TPD náleží dovolená odpovídající této kratší době).
+- *Související ustanovení téhož zákona:* § 79 a § 79a (stanovená a kratší týdenní pracovní doba); § 212 odst. 1 a 2 (výměra — 4 týdny obecně, 5 týdnů u zaměstnavatelů podle § 109 odst. 3, tj. veřejná sféra, 8 týdnů u pedagogických a akademických pracovníků); § 216 odst. 5 (zaokrouhlení na celé hodiny nahoru); § 348 odst. 1 (doby považované za výkon práce).
+- *Související předpisy:* čl. 7 směrnice 2003/88/ES (právo na placenou dovolenou v délce nejméně 4 týdnů); zásada rovného zacházení a zákazu diskriminace zaměstnanců na kratší úvazek (klauzule 4 rámcové dohody o částečném pracovním úvazku, směrnice 97/81/ES).
+- *Judikatura:* k povaze nároku na placenou dovolenou jako zásady sociálního práva Unie *Schultz-Hoff* (C-350/06); k zásadě „pro rata temporis" u zaměstnanců na kratší úvazek SDEU obecně vychází z toho, že poměrné krácení nároku odvozené od rozsahu odpracované doby diskriminací není (zůstává-li hodinová sazba dovolené i odměny stejná). Konkrétní výpočet je však dán textem zákona.
+
+**4. Subsumpce.** B splňuje všechny tři znaky plného nároku dle odst. 1 ve spojení s odst. 2: (a) nepřetržité trvání pracovního poměru k témuž zaměstnavateli po celý rok; (b) výkon práce po dobu 52 týdnů; (c) v rozsahu **kratší** týdenní pracovní doby, která na ni připadala (20 h). Norma proto přiznává dovolenou ve výši **kratší TPD × výměra = 20 h × 5 týdnů = 100 h**. Tvrzená diskriminace není znakem normy — hodinová logika § 213 naopak zaručuje, že B má za každou odpracovanou hodinu **stejný poměrný nárok** jako kolegyně na plný úvazek (5/52 odpracované doby). Nižší absolutní počet hodin odpovídá nižšímu rozsahu odpracované doby.
+
+**5. Řešení.** Vyčíslení 100 hodin je **správné**. Plný úvazek 40 h × 5 týdnů = 200 h, poloviční úvazek 20 h × 5 týdnů = 100 h; poměr nároků (1:2) přesně kopíruje poměr odpracované doby (1:2). To je naopak realizace zásady rovného zacházení, nikoli její porušení — právě stará úprava „dovolené ve dnech" zaměstnance na kratší denní úvazek znevýhodňovala. Praktický krok: zaměstnavatel doloží výpočet B písemně s odkazem na § 213 odst. 2; výsledek se zaokrouhlí na celé hodiny nahoru (§ 216 odst. 5 — zde je 100 h již celé číslo). Riziko: zaměňování „kratší týdenní pracovní doby" sjednané individuálně se „zkrácením stanovené týdenní pracovní doby" pod 40 h bez snížení mzdy, jež platí pro všechny zaměstnance stejně a tvoří pak základ výpočtu výměry.
+
+**6. Varianty.** (a) Kdyby B nastoupila až **1. 10. 2025** a odpracovala jen 13 týdnů, nevznikl by plný nárok, ale poměrná část dle odst. 3 a 4: 13 × (1/52) × 20 h × 5 = 25 h. (b) Kdyby šlo o **pedagogickou pracovnici** s 8týdenní výměrou (§ 212 odst. 2) na plný úvazek po celý rok: 40 h × 8 = 320 h dovolené.
+
+#### G. Protiargumenty a rizika
+
+- **„Poloviční nárok v hodinách je diskriminace zaměstnance na kratší úvazek."** Neutralizace: zásada rovného zacházení (klauzule 4 rámcové dohody, čl. 7 směrnice 2003/88/ES) vyžaduje stejné zacházení *pro rata temporis*, nikoli stejný absolutní rozsah. Hodinová logika § 213 garantuje stejnou poměrnou sazbu (5/52 odpracované doby) bez ohledu na délku úvazku — právě to je její účel a výhoda oproti zrušené úpravě „ve dnech".
+- **„Zaměstnanec odpracoval celý rok, tedy přesně 52 týdnů — proč se počítá s překážkami?"** Slabé místo: kalendářní rok má 52 týdnů a 1–2 dny a obsahuje svátky i dovolenou; podmínka „52 týdnů výkonu práce" se proto naplňuje i prostřednictvím dob považovaných za výkon práce (§ 348 odst. 1) a započítávaných překážek (§ 216 odst. 2, 3). Bez tohoto započtení by plný nárok nevznikl prakticky nikomu.
+- **Riziko záměny pojmů.** „Stanovená týdenní pracovní doba", „kratší týdenní pracovní doba" sjednaná individuálně a „zkrácená stanovená týdenní pracovní doba bez snížení mzdy" vedou k odlišnému základu výpočtu. Chybějící zdroj: § 213 sám pojmy nedefinuje, je nutné je dohledat v úpravě pracovní doby v části čtvrté ZP.
+
+#### H. Praktický závěr
+
+Dovolená za kalendářní rok se od 1. 1. 2021 počítá v hodinách jako **týdenní pracovní doba × výměra**; u kratší TPD se použije tato kratší doba (odst. 2). Plný nárok vzniká při 52 odpracovaných „týdnech", poměrná část při alespoň 4 odpracovaných „týdnech" (1/52 za každý další); výsledek se zaokrouhlí na celé hodiny nahoru.
+
+**Checklist (advokát / soud / správní orgán / zaměstnavatel):**
+- [ ] Zjistit **týdenní pracovní dobu** zaměstnance (stanovená 40/37,5 h, nebo kratší sjednaná) a její základ.
+- [ ] Určit správnou **výměru** dle § 212: 4 týdny obecně / 5 týdnů u zaměstnavatelů podle § 109 odst. 3 (veřejná sféra) / 8 týdnů pedagogičtí a akademičtí pracovníci.
+- [ ] Ověřit **nepřetržité trvání** pracovního poměru k témuž zaměstnavateli v daném roce (§ 216 odst. 1).
+- [ ] Spočítat počet „odpracovaných týdnů" včetně dob považovaných za výkon práce (§ 348 odst. 1) a započítávaných překážek (§ 216 odst. 2, 3).
+- [ ] Aplikovat správný vzorec: plný nárok (TPD × výměra) vs. poměrná část (počet týdnů / 52 × TPD × výměra).
+- [ ] **Zaokrouhlit** výsledný roční nárok na celé hodiny nahoru (§ 216 odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva (sjednaná TPD a její rozsah), vnitřní mzdový/pracovní předpis (výměra, délka TPD), rozvrh směn, evidence odpracované pracovní doby, mzdové listy, doklad o postavení zaměstnavatele podle § 109 odst. 3 (pro 5týdenní výměru).
+
 #### § 214 (zrušený) — důvody novelizace
 
 Důvodová zpráva k novele č. 285/2020 Sb. uvedla několik důvodů zrušení dovolené za odpracované dny:
@@ -222,6 +332,42 @@ Důvodová zpráva k novele č. 285/2020 Sb. uvedla několik důvodů zrušení 
 3. **Diskriminace zaměstnanců na kratší úvazek** — dovolená ve dnech znamenala u poloviční úvazku poloviční nárok v hodinách (5 dnů dovolené při 4h denní pracovní době = 20 h proti 40 h při 8h denní pracovní době), což odporovalo unijní zásadě stejného zacházení.
 
 Hodinová logika tyto nesouladnosti odstranila.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec A se 40h týdenní pracovní dobou a 4týdenní výměrou nastoupil do pracovního poměru 1. 7. 2025 a pracoval do konce roku. Podle rozvrhu směn odpracoval 26 plných týdnů. Zaměstnavatel mu sdělil, že „za půl roku má nárok jen na 2 dny dovolené". A namítá, že to neodpovídá. Důkazy: pracovní smlouva, rozvrh směn, evidence odpracované doby, mzdové listy.
+
+**2. Právní otázka.** Jaký je správný rozsah poměrné části dovolené zaměstnance, který v kalendářním roce odpracoval 26 týdnů z 52?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 213 odst. 3 (vstupní práh 4 týdnů pro poměrnou část) a odst. 4 (výpočet 1/52 za každý odpracovaný týden).
+- *Související ustanovení téhož zákona:* § 212 (výměra); § 216 odst. 2, 3 (započítávání překážek a vstupní podmínka 12 týdnů); § 216 odst. 5 (zaokrouhlení); § 348 odst. 1 (doby považované za výkon práce).
+- *Související předpisy:* čl. 7 směrnice 2003/88/ES (eurokonformní výklad).
+- *Judikatura:* SDEU *Schultz-Hoff* (C-350/06) a *KHS* (C-214/10) k povaze nároku; pro výpočet je rozhodný text zákona.
+
+**4. Subsumpce.** A nesplnil 52 týdnů (odst. 1), avšak odpracoval více než vstupní práh 4 týdnů (odst. 3) → vzniká poměrná část. Výpočet podle odst. 4: počet odpracovaných týdnů (26) × 1/52 × výměra (4) × TPD (40 h).
+
+**5. Řešení.** 26 × (1/52) × 4 × 40 h = 26/52 × 160 h = 80 hodin dovolené (tj. 10 osmihodinových směn, nikoli „2 dny"). Tvrzení zaměstnavatele je hrubě chybné. Procesní krok: doložit počet odpracovaných týdnů z rozvrhu a evidence a vyčíslit nárok; zaokrouhlit na celé hodiny nahoru.
+
+**6. Varianty.** (a) Kdyby A odpracoval jen 3 týdny (méně než vstupní práh 4 týdnů dle odst. 3), nárok na dovolenou by vůbec nevznikl. (b) Kdyby podle rozvrhu odpracoval více než 52 týdnů (např. 53), za každý další týden by se dovolená prodloužila o 1/52 ročního nároku (odst. 5).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Nárok se počítá ve dnech jako dříve (1/12 za 21 dnů)."* Neutralizace: od 1. 1. 2021 (novela č. 285/2020 Sb.) byl § 214 zrušen a nárok se počítá výhradně v hodinách v poměru k TPD (1/52 za odpracovaný týden); denní logika platí jen reziduálně u tropických oblastí (§ 215 odst. 4 písm. f).
+- *Protiargument 2: „Do 52 týdnů se započítají jen skutečně odpracované týdny."* Neutralizace: do odpracované doby se v omezeném rozsahu započítávají i některé překážky (§ 216 odst. 2 — kvóta 20-násobku) a doby považované za výkon práce (§ 348 odst. 1, např. mateřská, svátky, čerpaná dovolená).
+- *Slabé místo:* správnost výpočtu stojí na přesné evidenci odpracovaných „týdnů" v rozsahu TPD; u nerovnoměrných rozvrhů je nutné pečlivě určit, kdy byla TPD naplněna.
+
+#### H. Praktický závěr
+
+§ 213 je jádrem 52-týdenního principu: plný nárok vzniká po 52 odpracovaných týdnech (TPD × výměra), poměrná část po alespoň 4 týdnech (1/52 za každý odpracovaný týden), nadlimitní práce nad 52 týdnů nárok dále navyšuje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjistit počet odpracovaných „týdnů" v rozsahu TPD (vč. započítaných překážek dle § 216 odst. 2 a dob dle § 348 odst. 1).
+- [ ] Ověřit splnění vstupního prahu 4 týdnů (jinak nárok nevzniká).
+- [ ] Aplikovat vzorec 1/52 × TPD × výměra × počet týdnů (odst. 4), případně navýšení dle odst. 5.
+- [ ] Zaokrouhlit roční nárok na celé hodiny nahoru (§ 216 odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** rozvrh směn, evidence odpracované doby a překážek, pracovní smlouva (výměra, TPD), mzdové listy.
 
 ---
 
@@ -233,6 +379,41 @@ V současném znění zákoníku práce (konsolidace k 1. 1. 2026) **§ 213a v �
 - **Nezapočítává se jako výkon práce pro účely dovolené:** § 348 odst. 1 ZP, který vyjmenovává doby považované za výkon práce (mj. mateřská dovolená, dočasná pracovní neschopnost vzniklá v důsledku pracovního úrazu), dobu dlouhodobé péče **neuvádí** — tato doba se proto započítává pouze v rámci kvóty 20-násobku týdenní pracovní doby podle § 216 odst. 2 (jako jiná důležitá osobní překážka v práci podle § 199 ZP).
 
 Účelem zařazení dlouhodobé péče do § 191a ZP (novelizace zákonem č. 310/2017 Sb. s účinností od 1. 6. 2018) bylo navázat na dávku „**dlouhodobé ošetřovné**" z nemocenského pojištění (§ 41a a násl. zákona č. 187/2006 Sb. o nemocenském pojištění). Zaměstnanec, který poskytuje dlouhodobou péči osobě potřebující ošetření po hospitalizaci (max. 90 dnů), má v pracovním právu **zákonný nárok na uvolnění z práce** a v sociálním právu nárok na **dávku ve výši 60 % redukovaného denního vyměřovacího základu**.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec B nastoupil na dovolenou od pondělí. Ve středu téhož týdne začal poskytovat dlouhodobou péči blízké osobě po hospitalizaci (s nárokem na dlouhodobé ošetřovné dle § 41a zákona o nemocenském pojištění) a tato péče trvala 8 týdnů. Zaměstnavatel tvrdí, že dovolená „proběhla" a B si ji nemůže dočerpat. Důkazy: rozhodnutí o potřebě dlouhodobé péče, žádost o dávku, oznámení zaměstnavateli, evidence dovolené.
+
+**2. Právní otázka.** Přerušuje poskytování dlouhodobé péče čerpanou dovolenou a započítává se doba dlouhodobé péče jako výkon práce pro účely vzniku nároku na dovolenou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* poznámka k § 213a — dlouhodobá péče není v Části deváté samostatně upravena, ale promítá se do více ustanovení.
+- *Související ustanovení téhož zákona:* § 191a (překážka v práci z důvodu dlouhodobé péče); § 219 odst. 1 (přerušení dovolené dlouhodobou péčí, ledaže zaměstnanec požádá o pokračování); § 216 odst. 2 písm. d) ve spojení s § 199 (kvóta 20-násobku); § 348 odst. 1 (doby považované za výkon práce — dlouhodobou péči neuvádí).
+- *Související předpisy:* § 41a a násl. zákona č. 187/2006 Sb. o nemocenském pojištění (dlouhodobé ošetřovné).
+- *Judikatura:* eurokonformní zásada, že dovolená nemůže být zmařena překážkou na straně zaměstnance (SDEU *Pereda* C-277/08).
+
+**4. Subsumpce.** Poskytování dlouhodobé péče je výslovně uvedeno v § 219 odst. 1 jako důvod přerušení čerpané dovolené. Pro vznik nároku se však dlouhodobá péče neuvádí v § 348 odst. 1, a proto se započítává jen v rámci kvóty 20-násobku TPD podle § 216 odst. 2 písm. d) (jako jiná důležitá osobní překážka dle § 199).
+
+**5. Řešení.** Dovolená B se okamžikem nástupu dlouhodobé péče (středa) přerušila — nevyčerpaná část se nespotřebovala a B ji dočerpá později (k přerušení by nedošlo jen tehdy, kdyby B požádal o pokračování v čerpání dovolené). Tvrzení zaměstnavatele je nesprávné. Pro vznik příštího nároku se doba 8 týdnů dlouhodobé péče započte jako výkon práce jen do kvóty 20-násobku a jen při splnění vstupní podmínky odpracování 12 týdnů (§ 216 odst. 3).
+
+**6. Varianty.** (a) Kdyby B výslovně požádal o pokračování v čerpání dovolené během péče, dovolená by se nepřerušila a běžela by dál. (b) Kdyby šlo o vlastní dočasnou pracovní neschopnost B, dovolená by se přerušila vždy a bez možnosti volby pokračovat.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Dovolená už byla určena, takže proběhla bez ohledu na péči."* Neutralizace: § 219 odst. 1 zakládá ex lege přerušení dovolené nástupem dlouhodobé péče; určení dovolené nemá přednost před zákonným přerušením.
+- *Protiargument 2: „Doba dlouhodobé péče se započítá do nároku jako odpracovaná."* Neutralizace: § 348 odst. 1 ji mezi doby považované za výkon práce neuvádí; započítává se jen v rámci kvóty 20-násobku (§ 216 odst. 2 písm. d) a při splnění prahu 12 týdnů (odst. 3).
+- *Slabé místo:* § 213a v platném znění neexistuje — argumentace se musí opřít o § 191a, § 219 a § 216; chybné odkazování na „§ 213a" by oslabilo podání.
+
+#### H. Praktický závěr
+
+Dlouhodobá péče není v Části deváté samostatně upravena (§ 213a neexistuje); pro dovolenou má dvojí účinek — je důvodem přerušení čerpané dovolené (§ 219 odst. 1) a pro vznik nároku se započítává jen omezeně v rámci kvóty 20-násobku (§ 216 odst. 2 písm. d, odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Při souběhu dovolené a dlouhodobé péče posoudit přerušení podle § 219 odst. 1 (a možnost žádosti o pokračování).
+- [ ] Pro vznik nároku započíst dobu péče jen do kvóty 20-násobku a ověřit splnění prahu 12 týdnů (§ 216 odst. 3).
+- [ ] Odkazovat na § 191a, § 219, § 216 — nikoli na neexistující § 213a.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí/doklad o potřebě dlouhodobé péče, žádost o dlouhodobé ošetřovné, oznámení zaměstnavateli, evidence dovolené a odpracované doby.
 
 ---
 
@@ -347,11 +528,83 @@ Výjimky z odst. 8 (kdy se naopak za výkon práce dodatková dovolená neztrác
 - Práce v tropických oblastech (odst. 4 písm. f) — pro tu platí vlastní systém poměru;
 - Práce pod zemí (odst. 1) — pro tu odst. 8 neplatí, započítávají se i překážky v práci v běžném režimu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec C pracuje celý kalendářní rok u těžební společnosti v uranovém dole pod zemí při těžbě nerostů (40h TPD); současně je při této práci vystaven nepříznivým účinkům ionizujícího záření. V dubnu byl 6 týdnů v dočasné pracovní neschopnosti (běžná nemoc, nikoli pracovní úraz). Zaměstnavatel mu přiznal jen jednu dodatkovou dovolenou a dobu DPN do ní plně započetl. Důkazy: pracovní smlouva, popis pracoviště a expozice, dozimetrické záznamy, evidence DPN a odpracované doby.
+
+**2. Právní otázka.** Má C nárok na jednu, nebo dvě dodatkové dovolené, a jak se na dodatkovou dovolenou promítá doba DPN?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 215 odst. 1 (práce pod zemí), odst. 3 (souběh dvou nároků), odst. 4 písm. c) (ionizující záření), odst. 8 (omezení započítávání překážek u prací zvlášť obtížných).
+- *Související ustanovení téhož zákona:* § 212 (základní výměra); § 216 odst. 2 (kvóta překážek); § 222 odst. 5 (zákaz proplácení dodatkové dovolené); § 218 odst. 1 (přednostní určení čerpání).
+- *Související předpisy:* vyhláška MPSV o tropických oblastech (k odst. 5); předpisy o radiační ochraně (atomový zákon č. 263/2016 Sb.).
+- *Judikatura:* obecná zásada kompenzační povahy dodatkové dovolené; eurokonformní ochrana zdraví při práci.
+
+**4. Subsumpce.** C splňuje současně odst. 1 (práce pod zemí při těžbě nerostů) i odst. 4 písm. c) (ionizující záření, bez minimálního rozsahu). Podle odst. 3 se oba nároky sčítají → dvě dodatkové dovolené. Pro nárok dle odst. 4 písm. c) platí odst. 8: doba DPN se nepovažuje za výkon práce. Naproti tomu pro nárok z práce pod zemí (odst. 1) odst. 8 neplatí.
+
+**5. Řešení.** C má za celý rok 4 týdny základní + 1 týden za práci pod zemí + 1 týden za ionizující záření = 6 týdnů. U dodatkové dovolené za ionizující záření (odst. 4 písm. c) je nutné zohlednit odst. 8 — 6 týdnů DPN se nepovažuje za výkon práce, takže za tuto kategorii vznikne dovolená jen poměrně podle skutečně odpracovaných týdnů. U práce pod zemí se DPN započítává v běžném režimu. Žádnou z dodatkových dovolených nelze proplatit (§ 222 odst. 5) — zaměstnavatel ji musí přednostně nařídit.
+
+**6. Varianty.** (a) Kdyby DPN vznikla v důsledku pracovního úrazu, započítávala by se i v režimu § 216 odst. 2 plně, avšak pro odst. 4 písm. c) by odst. 8 stejně vyloučil její započtení jako výkonu práce. (b) Kdyby C vykonával obtížnou práci jen na poloviční úvazek u kategorií vyžadujících „min. ½ TPD" (např. písm. d), bylo by třeba zkoumat splnění tohoto rozsahového prahu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Lze přiznat jen jednu dodatkovou dovolenou, nároky se nesčítají."* Neutralizace: odst. 3 výslovně stanoví, že dodatková dovolená za práce zvlášť obtížné přísluší i tehdy, má-li zaměstnanec současně nárok za práce pod zemí — nároky se sčítají.
+- *Protiargument 2: „Doba DPN se do dodatkové dovolené započítává stejně jako u základní."* Neutralizace: u kategorií odst. 4 písm. a)–e) a g)–j) odst. 8 vylučuje započtení dob překážek a dob dle § 348 odst. 1; dodatková dovolená vzniká jen za skutečný výkon obtížné práce.
+- *Slabé místo:* výčet prací zvlášť obtížných je taxativní (odst. 6) — nelze jej rozšiřovat analogií; sporné zařazení činnosti pod konkrétní písmeno odst. 4 vyžaduje pečlivé prokázání podmínek (rozsah, expozice).
+
+#### H. Praktický závěr
+
+Dodatková dovolená kompenzuje výkon prací pod zemí a prací zvlášť obtížných z taxativního výčtu (odst. 4); nároky se mohou sčítat (odst. 3), u většiny kategorií se však překážky v práci nezapočítávají (odst. 8) a dodatkovou dovolenou nelze nikdy proplatit (§ 222 odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda činnost spadá pod odst. 1 (práce pod zemí) a/nebo některé písmeno odst. 4 (taxativní výčet) a zda je splněn rozsahový práh (často „min. ½ TPD").
+- [ ] Při souběhu obou titulů sečíst nároky (odst. 3).
+- [ ] U kategorií odst. 4 písm. a)–e) a g)–j) vyloučit ze započtení doby překážek a doby dle § 348 odst. 1 (odst. 8).
+- [ ] Zajistit reálné vyčerpání (přednostně), nikoli proplacení (§ 222 odst. 5, § 218 odst. 1).
+
+**Typicky rozhodné důkazy / podklady:** popis pracoviště a charakteru práce, dozimetrické/expoziční záznamy, evidence rozsahu výkonu obtížné práce, evidence překážek v práci, pracovní smlouva.
+
 ---
 
 ### § 214 — zrušen (poznámka)
 
 **§ 214 byl zrušen** novelou zákoníku práce č. 285/2020 Sb. s účinností od 1. ledna 2021. Před zrušením upravoval **dovolenou za odpracované dny** jako třetí kategorii vedle dovolené za kalendářní rok a její poměrné části. Důvody zrušení a systémové dopady viz výklad k § 213. Aktuální konsolidace zákoníku práce k 1. 1. 2026 § 214 neobsahuje.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec D odpracoval u zaměstnavatele v roce 2020 celkem 30 kalendářních dnů (krátkodobá brigáda na pracovní poměr), přičemž nesplnil podmínky pro dovolenou za kalendářní rok ani poměrnou část podle tehdejšího § 213. Spor o doplatek náhrady za nevyčerpanou dovolenou se řeší až nyní (2026). Současně srovnatelný zaměstnanec E odpracoval stejných 30 dnů v roce 2025. Důkazy: pracovní smlouvy, evidence odpracovaných dnů, mzdové listy z obou let.
+
+**2. Právní otázka.** Podle jakého právního stavu se posoudí nárok D (rok 2020) a nárok E (rok 2025), zmizel-li institut „dovolené za odpracované dny"?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 214 ve znění do 31. 12. 2020 (dovolená za odpracované dny — 1/12 za každých 21 odpracovaných dnů, min. 21 dnů) vs. jeho zrušení od 1. 1. 2021.
+- *Související ustanovení téhož zákona:* § 213 odst. 3, 4 (poměrná část s vstupním prahem 4 týdnů — nástupce funkce zrušeného § 214); přechodná ustanovení novely č. 285/2020 Sb.
+- *Související předpisy:* zásada časové působnosti norem (nárok se posuzuje podle práva účinného v rozhodném období jeho vzniku).
+- *Judikatura:* obecná zásada, že vznik a rozsah pracovněprávního nároku na dovolenou se řídí úpravou účinnou v kalendářním roce, za nějž nárok vznikl.
+
+**4. Subsumpce.** Nárok D vznikl (či nevznikl) v roce 2020 — posuzuje se podle § 214 ve znění do 31. 12. 2020: 30 odpracovaných dnů ≥ 21 dnů → vznikl nárok na 1/12 dovolené za každých 21 dnů (tj. 1/12). Nárok E za rok 2025 se posuzuje podle § 213 odst. 3, 4: rozhoduje, zda E odpracoval alespoň 4 týdny TPD; pokud 30 kalendářních dnů nepokrývá 4 odpracované „týdny" TPD, nárok nevznikne vůbec.
+
+**5. Řešení.** Pro D platí starý § 214 (1/12 dovolené). Pro E platí nový režim — institut „za odpracované dny" zanikl; pokud nedosáhl vstupního prahu 4 týdnů, dovolená nevznikne, byť by za stejný počet dnů v roce 2020 nárok měl. Procesní krok: u D vyčíslit nárok dle staré úpravy a proplatit (§ 222 odst. 2 ve znění té doby); u E ověřit naplnění prahu 4 týdnů.
+
+**6. Varianty.** (a) Kdyby D odpracoval jen 18 dnů, ani podle starého § 214 by nárok nevznikl (práh 21 dnů). (b) Kdyby E při nerovnoměrném rozvrhu odpracoval ve 30 kalendářních dnech plnou TPD ve 4 a více týdnech, vznikl by mu nárok na poměrnou část podle § 213 odst. 4.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Zrušený § 214 lze použít i na rok 2025, protože je pro zaměstnance výhodnější."* Neutralizace: § 214 byl zrušen bez náhrady k 1. 1. 2021; na nároky vzniklé od 2021 se aplikuje výhradně § 213 — výhodnost staré úpravy nezakládá její další použitelnost.
+- *Protiargument 2: „Nový režim je vždy přísnější, takže krátí i staré nároky."* Neutralizace: nároky z období do 31. 12. 2020 se řídí tehdejším právem (zákaz pravé retroaktivity); novou úpravou je nelze zpětně zkrátit.
+- *Slabé místo:* u sporů na pomezí let je rozhodné přesné určení, ve kterém kalendářním roce nárok vznikl; chybná volba rozhodného znění zákona vede k chybnému výsledku.
+
+#### H. Praktický závěr
+
+§ 214 (dovolená za odpracované dny) byl zrušen k 1. 1. 2021; jeho funkci převzala poměrná část dovolené dle § 213 odst. 3, 4 s vyšším vstupním prahem (4 týdny). Nároky se posuzují podle úpravy účinné v roce jejich vzniku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit kalendářní rok vzniku nároku a podle něj zvolit rozhodné znění zákona (do 31. 12. 2020 § 214, od 1. 1. 2021 § 213).
+- [ ] Pro nároky do 2020 aplikovat 1/12 za každých 21 odpracovaných dnů (min. 21 dnů).
+- [ ] Pro nároky od 2021 ověřit vstupní práh 4 týdnů TPD (jinak nárok nevzniká).
+- [ ] Nepřenášet starou ani novou úpravu zpětně mezi obdobími (zákaz retroaktivity).
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva, evidence odpracovaných dnů/hodin v rozhodném roce, mzdové listy, rozvrh směn.
 
 ---
 
@@ -439,6 +692,42 @@ Speciální pravidlo pro zaměstnance, kteří jsou **dlouhodobě plně uvolněn
 **Pravidlo zaokrouhlování ve prospěch zaměstnance:** dovolená vypočtená podle § 213 nebo § 215 se vždy zaokrouhluje na **celé hodiny nahoru**, nikdy směrem dolů. Aplikuje se na celkový roční nárok, nikoliv na jednotlivé dílčí výpočty.
 
 **Příklad:** zaměstnanec se 40h úvazkem, 4týdenní výměrou, odpracoval 27 týdnů: 27 × (1/52) × 160 = 83,08 h → zaokrouhleno na **84 hodin**.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec F (40h TPD, 4týdenní výměra) nastoupil do pracovního poměru 1. 9. 2025. K 30. 9. 2025 utrpěl pracovní úraz a do konce roku byl v dočasné pracovní neschopnosti. Mimo dobu DPN odpracoval v roce 2025 pouze 4 týdny. Zaměstnavatel tvrdí, že protože DPN vznikla z pracovního úrazu, započítá se celé období DPN do nároku na dovolenou (a F tak má téměř plný roční nárok). Důkazy: záznam o pracovním úrazu, doklady o DPN, evidence odpracované doby, pracovní smlouva.
+
+**2. Právní otázka.** Započítá se F doba DPN z pracovního úrazu jako výkon práce pro účely dovolené, jestliže mimo dobu překážky odpracoval jen 4 týdny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 216 odst. 2 písm. a) (DPN — kvóta 20-násobku, s výjimkou DPN z pracovního úrazu, jež se započítává plně) a odst. 3 (vstupní podmínka odpracování 12-násobku TPD).
+- *Související ustanovení téhož zákona:* § 213 odst. 3, 4 (poměrná část); § 348 odst. 1 (doby považované za výkon práce); § 216 odst. 1 (fikce nepřetržitosti) a odst. 5 (zaokrouhlení).
+- *Související předpisy:* § 271a a násl. ZP (náhrady při pracovním úrazu — kontext); čl. 7 směrnice 2003/88/ES.
+- *Judikatura:* SDEU *Schultz-Hoff* (C-350/06) — dlouhodobá nemoc nesmí vést k zániku nároku, avšak vznik nároku se řídí podmínkami vnitrostátního práva.
+
+**4. Subsumpce.** Ačkoli DPN z pracovního úrazu je dle odst. 2 písm. a) vyňata z kvóty 20-násobku (započítává se plně), uplatní se odst. 3: překážky podle odst. 2 se započítávají jen tehdy, jestliže zaměstnanec mimo dobu jejich trvání odpracoval alespoň 12-násobek TPD. F odpracoval jen 4 týdny < 12 týdnů → vstupní podmínka není splněna.
+
+**5. Řešení.** Tvrzení zaměstnavatele je nesprávné. Protože F mimo dobu DPN neodpracoval 12 týdnů, doba DPN (byť z pracovního úrazu) se nezapočítává vůbec. Nárok se odvíjí jen ze 4 skutečně odpracovaných týdnů → poměrná část 4/52 × 4 × 40 = cca 12,31 h, zaokrouhleno na 13 hodin (§ 216 odst. 5). Procesní krok: doložit počet týdnů odpracovaných mimo překážku.
+
+**6. Varianty.** (a) Kdyby F mimo DPN odpracoval 12 a více týdnů, vstupní podmínka odst. 3 by byla splněna a doba DPN z pracovního úrazu by se započetla plně (výjimka z kvóty), čímž by nárok výrazně vzrostl. (b) Kdyby šlo o běžnou DPN (nikoli z pracovního úrazu) a F splnil práh 12 týdnů, započítala by se DPN jen do kvóty 20-násobku.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „DPN z pracovního úrazu se započítává vždy plně bez dalších podmínek."* Neutralizace: výjimka v odst. 2 písm. a) se týká jen vynětí z kvóty 20-násobku; nezbavuje zaměstnance povinnosti splnit vstupní podmínku 12 týdnů podle odst. 3.
+- *Protiargument 2: „Mezera mezi dvěma pracovními poměry u téhož zaměstnavatele přeruší kontinuitu."* Neutralizace: odst. 1 fikcí považuje bezprostředně navazující vznik nového vztahu k témuž zaměstnavateli za nepřetržité trvání (víkend mezi pátkem a pondělím kontinuitu nepřerušuje).
+- *Slabé místo:* rozlišení, které doby se počítají „mimo dobu trvání překážky", vyžaduje přesnou evidenci; u kombinovaných absencí (DPN + osobní překážky) je výpočet kvóty a prahu náročný.
+
+#### H. Praktický závěr
+
+§ 216 obsahuje dvě obranné podmínky započítávání překážek (kvóta 20-násobku v odst. 2, vstupní práh 12-násobku odpracované TPD v odst. 3), fikci nepřetržitosti vztahu (odst. 1), pravidlo pro uvolnění k veřejné funkci (odst. 4) a zaokrouhlování na celé hodiny nahoru (odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nejprve ověřit splnění vstupní podmínky odst. 3 (≥ 12-násobek TPD odpracováno mimo překážky) — bez ní se překážky nezapočítávají vůbec.
+- [ ] Teprve poté aplikovat kvótu 20-násobku (odst. 2) a její výjimky (DPN z pracovního úrazu, mateřská dle § 348 odst. 1, úsek rodičovské krytý mateřskou).
+- [ ] Zohlednit fikci nepřetržitosti při navazujících vztazích k témuž zaměstnavateli (odst. 1).
+- [ ] Roční nárok zaokrouhlit na celé hodiny nahoru (odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** evidence odpracované doby a překážek (DPN, karanténa, rodičovská, osobní překážky), záznam o pracovním úrazu, pracovní smlouvy (vč. navazujících), mzdové listy.
 
 ---
 
@@ -552,6 +841,42 @@ Na **ostatní překážky v práci** na straně zaměstnance (typicky § 191 a �
 
 **Eurokonformní pozadí:** Soudní dvůr EU v rozsudku *Land Tirol* (C-486/08) potvrdil, že požadavek vyčerpat dovolenou v souvislosti s mateřskou / rodičovskou dovolenou je v souladu s unijním právem, a v *Maistrellis* a *Riežniece* zdůraznil, že odepření této možnosti by mohlo zaměstnankyním ztížit slaďování pracovního a rodinného života.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel ústně sdělil zaměstnanci G v pátek, že od pondělí (tj. 3 dny předem) nastupuje na týdenní dovolenou, neboť „není práce". G měl na následující víkend předem zaplacený nevratný zájezd. Po nástupu na dovolenou jej zaměstnavatel v úterý telefonicky odvolal zpět do práce kvůli zakázce; G musel zrušit zájezd se stornopoplatkem 12 000 Kč. Důkazy: záznam komunikace o určení dovolené, doklad o zaplaceném zájezdu a stornopoplatku, evidence docházky.
+
+**2. Právní otázka.** Bylo určení dovolené platné a má G nárok na náhradu nákladů spojených s odvoláním z dovolené?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 217 odst. 1 (písemné oznámení 14 dnů předem, vážení oprávněných zájmů zaměstnance) a odst. 3 (náhrada nákladů při změně určení nebo odvolání z dovolené).
+- *Související ustanovení téhož zákona:* § 218 (povinnost vyčerpat v roce vzniku); § 334 a násl. (forma písemnosti); § 250 a násl. (náhrada škody — kontext); § 217 odst. 4, 5 (zákaz/garance v době překážek).
+- *Související předpisy:* čl. 7 směrnice 2003/88/ES; eurokonformní výklad regeneračního účelu dovolené.
+- *Judikatura:* SDEU *Maschek* (C-341/15) a *Ministerio de Justicia* k souvislé části dovolené; judikatura NS k odpovědnosti za škodu při odvolání z dovolené.
+
+**4. Subsumpce.** Určení dovolené nebylo písemné a nebylo oznámeno alespoň 14 dnů předem (jen 3 dny) → vada určení; G nebyl povinen na takto určenou dovolenou bez svého souhlasu nastoupit. Odvolání G z probíhající dovolené naplňuje hypotézu odst. 3 — náklady vznikly bez zavinění G.
+
+**5. Řešení.** Určení dovolené je vadné (ústní, mimo 14denní lhůtu) — G mohl jeho akceptaci odmítnout. Pokud na dovolenou přesto nastoupil a byl z ní odvolán, má podle odst. 3 nárok na náhradu prokazatelných nákladů, které mu bez zavinění vznikly (stornopoplatek 12 000 Kč). Procesní krok: uplatnit náhradu nákladů, případně žalovat na neplatnost určení / náhradu škody.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel určil dovolenou písemně a 14 dnů předem a poté G odvolal, určení by bylo platné, avšak nárok na náhradu nákladů dle odst. 3 by zůstal. (b) Kdyby si G zájezd objednal až poté, co věděl, že dovolená dosud nebyla řádně určena, mohla by být podmínka „bez zavinění zaměstnance" zpochybněna.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Ústní určení dovolené je platné, písemnost je jen pořádková."* Neutralizace: odst. 1 ukládá písemné oznámení 14 dnů předem; nesplnění zakládá vadu, pro kterou zaměstnanec není povinen na dovolenou nastoupit a může se bránit.
+- *Protiargument 2: „Náhrada nákladů nepřísluší, protože zaměstnavatel měl provozní důvod."* Neutralizace: odst. 3 váže náhradu na změnu určení / odvolání z dovolené bez zavinění zaměstnance, nikoli na zavinění zaměstnavatele — provozní důvod nárok nevylučuje.
+- *Slabé místo:* výše a nevratnost nákladů musí být doložena (storno doklady, doklad o platbě); spornost „zavinění zaměstnance" lze omezit prokázáním, že se zaměstnanec na písemně určenou dovolenou legitimně spoléhal.
+
+#### H. Praktický závěr
+
+Dobu čerpání dovolené určuje zaměstnavatel písemně a alespoň 14 dnů předem s povinností zvážit oprávněné zájmy zaměstnance a garantovat alespoň jednu souvislou 2týdenní část; při změně určení nebo odvolání z dovolené hradí zaměstnanci vzniklé náklady (odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit písemnost a dodržení 14denní lhůty oznámení (nebo dohodu o kratší lhůtě).
+- [ ] Zkontrolovat zachování souvislé 2týdenní části (odst. 1) a respektování zákazů/garancí v době překážek (odst. 4, 5).
+- [ ] Při odvolání/změně určení doložit a uplatnit náhradu nákladů bez zavinění zaměstnance (odst. 3).
+- [ ] U předjímaného čerpání (odst. 2) počítat s rizikem vrácení náhrady, nesplní-li zaměstnanec podmínky (§ 222 odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** písemné určení dovolené (žádanka, e-mail), evidence docházky, doklady o nevratných nákladech (zájezd, letenky, storno), korespondence o odvolání z dovolené.
+
 ---
 
 ### § 218 — Čerpání v roce vzniku a převod do dalšího roku
@@ -638,6 +963,42 @@ Dovolená se zásadně čerpá **v celých směnách**. Odst. 6 umožňuje **vý
 
 **Výjimka z minima poloviny směny:** zbývající **nevyčerpaná část** dovolené, jež je kratší než polovina směny, lze čerpat i v menším rozsahu. Praktický příklad: zaměstnanci zbývají 3 hodiny dovolené (po čerpání hlavní dovolené); lze je vyčerpat odpolední odchod o 3 hodiny dříve.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec H (soukromý sektor, výměra 5 týdnů dle kolektivní smlouvy: 4 týdny zákonné + 1 týden smluvní) nevyčerpal v roce 2024 celou dovolenou. Zaměstnavatel mu do 30. 6. 2025 neurčil čerpání zbývající dovolené z roku 2024. H chce dovolenou vyčerpat sám od 21. 7. 2025. Zaměstnavatel namítá, že o čerpání rozhoduje výhradně on. Důkazy: evidence nevyčerpané dovolené z roku 2024, kolektivní smlouva, doklad o (ne)určení čerpání do 30. 6. 2025, písemné oznámení H o nástupu.
+
+**2. Právní otázka.** Může si zaměstnanec H sám určit čerpání nevyčerpané dovolené z roku 2024, neurčil-li ji zaměstnavatel do 30. 6. 2025, a jaká část dovolené mohla být vůbec převedena?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 218 odst. 1 (vyčerpání v roce vzniku), odst. 2 (převod části nad 4, resp. 6 týdnů na písemnou žádost), odst. 3 (mezní lhůta do konce následujícího roku) a odst. 4 (subsidiární právo zaměstnance po 30. 6.).
+- *Související ustanovení téhož zákona:* § 217 (určení čerpání zaměstnavatelem); § 222 odst. 2 (proplacení jen při skončení); § 218 odst. 5 (posun lhůty při DPN/mateřské/rodičovské).
+- *Související předpisy:* čl. 7 směrnice 2003/88/ES.
+- *Judikatura:* SDEU *Max-Planck-Gesellschaft* (C-684/16) a *Kreuziger* (C-619/16) — dovolená nepropadá, neupozornil-li zaměstnavatel zaměstnance; *KHS* (C-214/10) k přiměřené době převodu.
+
+**4. Subsumpce.** Zaměstnavatel do 30. 6. 2025 čerpání neurčil → podle odst. 4 vzniká právo určit čerpání i zaměstnanci H, splní-li písemné oznámení alespoň 14 dnů předem. Pokud jde o převod části nad 4 týdny (zde smluvní 5. týden), bylo by k převodu třeba písemné žádosti H podle odst. 2; zbytek se řídí odst. 3 (povinnost zaměstnavatele určit do konce 2025).
+
+**5. Řešení.** H může 14 dnů předem písemně oznámit nástup dovolené od 21. 7. 2025 a zaměstnavatel je povinen to respektovat (odst. 4); námitka „rozhoduji výhradně já" je po marném uplynutí 30. 6. neudržitelná. Procesní krok: doložit, že zaměstnavatel do 30. 6. čerpání neurčil, a podat písemné oznámení s 14denním předstihem.
+
+**6. Varianty.** (a) Kdyby H nemohl dovolenou vyčerpat ani do konce 2025 kvůli DPN nebo mateřské/rodičovské, lhůta se posune na dobu po skončení překážky (odst. 5). (b) Kdyby šlo o zaměstnance se 4týdenní výměrou bez smluvního navýšení, nebylo by možné převést žádnou část základní dovolené (odst. 2 — převod jen nad 4 týdny).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „O čerpání rozhoduje vždy jen zaměstnavatel."* Neutralizace: po marném uplynutí 30. 6. následujícího roku zakládá odst. 4 subsidiární právo zaměstnance určit čerpání (písemně, 14 dnů předem).
+- *Protiargument 2: „Nevyčerpaná dovolená propadla uplynutím doby."* Neutralizace: dle eurokonformní judikatury (*Max-Planck-Gesellschaft*, *Kreuziger*) dovolená nepropadá, dokud zaměstnavatel zaměstnance prokazatelně neupozornil na hrozící konec doby čerpání a neumožnil mu ji vyčerpat.
+- *Slabé místo:* zaměstnanec musí prokázat, že do 30. 6. čerpání nebylo určeno, a dodržet formální náležitosti oznámení; provozní důvody zaměstnavatele mohou termín modifikovat, byť ne nárok samotný.
+
+#### H. Praktický závěr
+
+Dovolená se má vyčerpat v roce vzniku (odst. 1); nad 4 (resp. 6) týdnů lze část převést na písemnou žádost zaměstnance (odst. 2) nejpozději do konce následujícího roku (odst. 3); neurčí-li zaměstnavatel čerpání do 30. 6. následujícího roku, určit jej může i zaměstnanec (odst. 4).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda zaměstnavatel určil čerpání do 30. 6. následujícího roku; pokud ne, aktivovat subsidiární právo zaměstnance (odst. 4).
+- [ ] Rozlišit zákonnou výměru a smluvní navýšení — převést lze jen část nad 4 (resp. 6) týdnů (odst. 2, písemná žádost).
+- [ ] Při DPN/mateřské/rodičovské počítat s posunem mezní lhůty (odst. 5).
+- [ ] Dodržet písemnou formu a 14denní předstih oznámení.
+
+**Typicky rozhodné důkazy / podklady:** evidence nevyčerpané dovolené, kolektivní smlouva/vnitřní předpis (výměra), doklad o (ne)určení čerpání do 30. 6., písemná žádost o převod, písemné oznámení o nástupu.
+
 ---
 
 ### § 219 — Přerušení dovolené a souběh se svátkem
@@ -687,6 +1048,42 @@ Dovolená se zásadně čerpá **v celých směnách**. Odst. 6 umožňuje **vý
 
 Pokud zaměstnavatel zaměstnanci určil **náhradní volno** za práci přesčas nebo za práci ve svátek tak, že by připadlo do doby dovolené, **je povinen určit mu náhradní volno na jiný den**. Tato úprava brání tomu, aby se náhradní volno „rozpustilo" v dovolené — obě formy volna mají samostatnou funkci (dovolená = regenerace, náhradní volno = kompenzace dříve odvedené práce navíc) a nesmí se překrývat.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec J čerpal dovolenou v délce jednoho týdne (pondělí–neděle, 5 pracovních dnů). V úterý téhož týdne připadl státní svátek (8. května), který je jinak jeho obvyklým pracovním dnem. Ve čtvrtek J náhle onemocněl a byl uznán dočasně práce neschopným po zbytek týdne. Zaměstnavatel mu z dovolené odečetl celých 5 dnů. Důkazy: rozvrh směn, určení dovolené, doklad o DPN (od čtvrtka), kalendář svátků.
+
+**2. Právní otázka.** Kolik dnů dovolené se J skutečně započítá, připadl-li do dovolené státní svátek a vznikla-li během dovolené dočasná pracovní neschopnost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 219 odst. 1 (přerušení dovolené dočasnou pracovní neschopností) a odst. 2 (svátek v obvyklý pracovní den se do dovolené nezapočítává).
+- *Související ustanovení téhož zákona:* § 91 odst. 4 (práce ve svátek — výjimka z odst. 2); § 218 (dočerpání přerušené části); § 217 (určení čerpání).
+- *Související předpisy:* zákon č. 245/2000 Sb. o státních svátcích a ostatních svátcích; § 39 zákona č. 187/2006 Sb. o nemocenském pojištění (kontext ošetřování).
+- *Judikatura:* eurokonformní zásada, že souběh dovolené s nemocí maří regeneraci a vede k jejímu přerušení (SDEU *Pereda* C-277/08, *ANGED* C-78/11).
+
+**4. Subsumpce.** Úterní státní svátek je obvyklým pracovním dnem J → podle odst. 2 se do dovolené nezapočítává (a nejde o případ § 91 odst. 4). DPN vzniklá ve čtvrtek přerušuje dovolenou podle odst. 1 → dny čtvrtek a pátek (pracovní) se do dovolené nezapočítávají a J si je dočerpá později.
+
+**5. Řešení.** Z pěti pracovních dnů se započítají pouze pondělí a středa = 2 dny dovolené. Úterní svátek (odst. 2) a čtvrtek–pátek kryté DPN (odst. 1) se nezapočítávají. Odečtení celých 5 dnů je nesprávné. Procesní krok: opravit evidenci dovolené a vrátit J neoprávněně odečtené 3 dny do zůstatku.
+
+**6. Varianty.** (a) Kdyby J byl podle § 91 odst. 4 povinen ve svátek směnu odpracovat a čerpání dovolené v tento den bylo určeno na jeho žádost, svátek by se do dovolené započetl. (b) Kdyby místo DPN šlo o ošetřování fyzické osoby (§ 39 ZNP), dovolená by se přerušila také, ledaže by J požádal o pokračování v jejím čerpání.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Svátek během dovolené se do ní normálně započítává."* Neutralizace: odst. 2 výslovně stanoví, že svátek připadající na obvyklý pracovní den se do dovolené nezapočítává (s úzkou výjimkou § 91 odst. 4 na žádost zaměstnance).
+- *Protiargument 2: „Dovolená již byla určena, proto DPN na ní nic nemění."* Neutralizace: odst. 1 zakládá ex lege přerušení dovolené dočasnou pracovní neschopností; dny kryté DPN se nespotřebují a dočerpají se později.
+- *Slabé místo:* je třeba doložit, že svátek připadl na obvyklý pracovní den (rozvrh směn) a přesný počátek DPN; u nepřetržitých provozů s prací ve svátek (§ 91 odst. 4) je posouzení složitější.
+
+#### H. Praktický závěr
+
+Dovolenou přerušují zákonem vyjmenované překážky (DPN, karanténa, mateřská/otcovská/rodičovská, dlouhodobá péče, ošetřování, vojenské cvičení), u některých s možností požádat o pokračování (odst. 1); svátek připadající na obvyklý pracovní den se do dovolené nezapočítává (odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vyloučit z dovolené dny svátku připadající na obvyklý pracovní den (odst. 2), nejde-li o výjimku § 91 odst. 4 na žádost zaměstnance.
+- [ ] Při vzniku překážky během dovolené posoudit přerušení (odst. 1) a u karantény/péče/ošetřování/vojenského cvičení i možnost žádosti o pokračování.
+- [ ] Přerušenou (nespotřebovanou) část dovolené vrátit do zůstatku a určit dočerpání.
+- [ ] Náhradní volno za přesčas/svátek nepřekrývat s dovolenou (odst. 2 věta druhá).
+
+**Typicky rozhodné důkazy / podklady:** rozvrh směn, určení dovolené, doklady o překážce (DPN, karanténa, ošetřování), kalendář svátků, evidence dovolené.
+
 ---
 
 ### Díl 3 — Hromadné čerpání dovolené
@@ -726,6 +1123,42 @@ Hromadné čerpání **konzumuje** část roční dovolené zaměstnance — zap
 
 Hromadné čerpání nesmí mařit účel dovolené — zaměstnavatel ho nesmí používat k „nucenému proplacení" dovolené, mařit dvoutýdenní garantovanou souvislou část (§ 217 odst. 1) nebo bránit zaměstnanci ve volbě jiných období dovolené pro osobní účely. Soudní dvůr EU v rozsudku *Wienex* a *Stadt Wuppertal* (C-588/14) potvrdil, že hromadné čerpání je v souladu s unijním právem pouze za podmínky, že **regenerační účel dovolené není narušen**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní podnik K (s působící odborovou organizací, bez rady zaměstnanců) plánuje na srpen třítýdenní celozávodní odstávku výroby kvůli generální opravě technologie a chce na celé toto období nařídit hromadné čerpání dovolené všem zaměstnancům. S odbory dohodu o hromadném čerpání neuzavřel. Zaměstnanec L namítá, že nucené tři týdny dovolené mu znemožní vyčerpat souvislou dovolenou v jím preferovaném termínu. Důkazy: oznámení o hromadném čerpání, doklad o provozní nezbytnosti (plán opravy), stanovisko odborové organizace, evidence dovolené.
+
+**2. Právní otázka.** Mohl zaměstnavatel K nařídit hromadné čerpání dovolené v délce 3 týdnů bez dohody s odborovou organizací?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 220 (hromadné čerpání — dohoda s odbory, souhlas rady zaměstnanců, provozní nezbytnost, max. 2 týdny / 4 týdny u uměleckých souborů).
+- *Související ustanovení téhož zákona:* § 217 (určení čerpání a 2týdenní souvislá část); § 281 a násl. (rada zaměstnanců); § 218 (vyčerpání v roce vzniku).
+- *Související předpisy:* čl. 7 směrnice 2003/88/ES.
+- *Judikatura:* SDEU *Stadt Wuppertal* (C-588/14) — hromadné čerpání je přípustné, jen není-li narušen regenerační účel dovolené.
+
+**4. Subsumpce.** § 220 podmiňuje hromadné čerpání (i) dohodou s odborovou organizací (působí-li u zaměstnavatele), (ii) souhlasem rady zaměstnanců (existuje-li), (iii) provozní nezbytností, a (iv) limitem max. 2 týdnů. K odbory dohodu neuzavřel a navíc překročil dvoutýdenní limit (nařídil 3 týdny, aniž jde o umělecký soubor).
+
+**5. Řešení.** Hromadné čerpání je vadné ve dvou ohledech: chybí dohoda s odborovou organizací a je překročen zákonný limit 2 týdnů. Zaměstnavatel může hromadně určit nejvýše 2 týdny a jen po dohodě s odbory; zbývající týden odstávky musí řešit jinak (individuální určení dle § 217, překážka na straně zaměstnavatele s náhradou mzdy apod.). Procesní krok: domáhat se neúčinnosti vadného určení nad rámec 2 týdnů a respektování práva na individuální dovolenou.
+
+**6. Varianty.** (a) Kdyby šlo o umělecký soubor (divadlo), byl by přípustný limit 4 týdny. (b) Kdyby u K nepůsobily ani odbory, ani rada zaměstnanců, mohl by hromadné čerpání určit sám, avšak stále jen do 2 týdnů a jen při provozní nezbytnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Provozní odstávka opravňuje k libovolně dlouhému hromadnému čerpání."* Neutralizace: limit 2 týdnů (4 týdny u uměleckých souborů) je kogentní a nelze jej prodloužit ani kolektivní smlouvou, ani souhlasem zaměstnanců.
+- *Protiargument 2: „Souhlas odborů lze nahradit souhlasy jednotlivých zaměstnanců."* Neutralizace: § 220 vyžaduje kolektivní dohodu s odborovou organizací; individuální souhlasy ji nenahrazují.
+- *Slabé místo:* zaměstnavatel musí prokázat reálnou provozní nezbytnost (nikoli pouhou vhodnost); současně nesmí hromadným čerpáním zmařit garanci souvislé 2týdenní části dovolené (§ 217 odst. 1).
+
+#### H. Praktický závěr
+
+Hromadné čerpání dovolené vyžaduje dohodu s odborovou organizací a souhlas rady zaměstnanců (existují-li), provozní nezbytnost a nesmí přesáhnout 2 týdny (4 týdny u uměleckých souborů); překročení podmínek činí určení vadným.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit existenci dohody s odborovou organizací a souhlasu rady zaměstnanců (působí-li u zaměstnavatele).
+- [ ] Doložit provozní nezbytnost (nikoli pouhou vhodnost).
+- [ ] Dodržet limit 2 týdnů (4 týdny u uměleckých souborů) — kogentní, neprodloužitelný.
+- [ ] Nezmařit garanci souvislé 2týdenní části individuální dovolené (§ 217 odst. 1).
+
+**Typicky rozhodné důkazy / podklady:** oznámení o hromadném čerpání, dohoda s odbory / stanovisko rady zaměstnanců, doklad o provozní nezbytnosti (plán odstávky/opravy), evidence dovolené.
+
 ---
 
 ### Díl 4 — Změna zaměstnání
@@ -761,6 +1194,42 @@ Hromadné čerpání nesmí mařit účel dovolené — zaměstnavatel ho nesmí
 #### Praktický význam
 
 V praxi se § 221 používá zřídka — pro zaměstnavatele je administrativně jednodušší (a pro odcházejícího zaměstnance finančně srovnatelné) proplatit dovolenou náhradou mzdy a u nového zaměstnavatele začít od nuly. Institut má smysl typicky v koncernech nebo skupinách, kde zaměstnanci přecházejí mezi spřízněnými společnostmi a kde je organizační kontinuita žádoucí.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec M končí 31. 7. 2025 pracovní poměr u zaměstnavatele P1 a od 1. 8. 2025 nastupuje k zaměstnavateli P2 (spřízněná společnost ve skupině). U P1 mu zbývá nevyčerpaná dovolená 40 hodin. M chce, aby mu tuto dovolenou poskytl až nový zaměstnavatel P2 (např. během září), místo aby ji P1 proplatil. Důkazy: pracovní smlouvy u P1 i P2, evidence nevyčerpané dovolené, žádost M, dohoda mezi P1 a P2 o úhradě náhrady.
+
+**2. Právní otázka.** Za jakých podmínek může nový zaměstnavatel P2 poskytnout M dovolenou, na niž vzniklo právo u dosavadního zaměstnavatele P1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 221 (přenos dovolené při změně zaměstnání — žádost zaměstnance před skončením u dosavadního zaměstnavatele, dohoda zaměstnavatelů o úhradě, týž kalendářní rok).
+- *Související ustanovení téhož zákona:* § 222 odst. 2 (jinak proplacení při skončení); § 213 (vznik nároku u P2); § 218 (čerpání).
+- *Související předpisy:* obecná úprava závazků (o. z.) pro dohodu mezi zaměstnavateli o úhradě.
+- *Judikatura:* eurokonformní zásada zachování nároku na dovolenou; pro fakultativní přenos je rozhodný text § 221.
+
+**4. Subsumpce.** § 221 umožňuje (fakultativně — „může") přenos dovolené, jsou-li kumulativně splněny tři podmínky: (i) žádost M nejpozději před skončením poměru u P1, (ii) dohoda P1 a P2 o výši úhrady náhrady za část, na niž u P2 právo nevzniklo, (iii) změna zaměstnání v témže kalendářním roce (zde 2025). Přenos není povinností P2.
+
+**5. Řešení.** Přenos je možný jen tehdy, požádá-li M včas (před 31. 7.) a dohodnou-li se P1 a P2 na úhradě; P2 přitom poskytnutí dovolené může odmítnout (fakultativní povaha). Odmítne-li P2, postupuje se standardně — P1 proplatí nevyčerpanou dovolenou náhradou mzdy (§ 222 odst. 2) a u P2 vznikne samostatný nárok dle § 213. Procesní krok: podat včasnou žádost a iniciovat dohodu mezi zaměstnavateli.
+
+**6. Varianty.** (a) Kdyby M požádal až po skončení poměru u P1, přenos by již nebyl možný a P1 by musel dovolenou proplatit. (b) Kdyby ke změně zaměstnání došlo až v roce 2026, přenos podle § 221 (vázaný na týž kalendářní rok) by byl vyloučen.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Nový zaměstnavatel je povinen převzít nevyčerpanou dovolenou."* Neutralizace: § 221 je fakultativní („může") — P2 poskytnutí může odmítnout; pak nastupuje proplacení dle § 222 odst. 2.
+- *Protiargument 2: „Žádost stačí podat kdykoli během roku."* Neutralizace: žádost musí být podána nejpozději před skončením pracovního poměru u dosavadního zaměstnavatele; pozdější žádost přenos vylučuje.
+- *Slabé místo:* přenos závisí na dohodě obou zaměstnavatelů o úhradě — bez ní nelze provést; institut je v praxi vzácný a má smysl hlavně v koncernech/skupinách.
+
+#### H. Praktický závěr
+
+§ 221 umožňuje (fakultativně) přenést nevyčerpanou dovolenou k novému zaměstnavateli, jsou-li splněny tři podmínky (včasná žádost zaměstnance, dohoda zaměstnavatelů o úhradě, táž kalendářní rok); jinak se nevyčerpaná dovolená proplácí při skončení (§ 222 odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Podat žádost o přenos nejpozději před skončením poměru u dosavadního zaměstnavatele.
+- [ ] Zajistit dohodu mezi zaměstnavateli o výši úhrady náhrady (bez ní přenos nelze).
+- [ ] Ověřit, že ke změně zaměstnání dochází v témže kalendářním roce.
+- [ ] Pro případ odmítnutí novým zaměstnavatelem počítat se standardním proplacením dle § 222 odst. 2.
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouvy u dosavadního i nového zaměstnavatele, evidence nevyčerpané dovolené, žádost zaměstnance, dohoda zaměstnavatelů o úhradě náhrady.
 
 ---
 
@@ -828,6 +1297,42 @@ Náhrada za nevyčerpanou dovolenou se vyplácí ve stejné výši jako náhrada
 
 **Praktický důsledek:** pokud zaměstnanec rezignuje a má 5 dnů dodatkové dovolené, zaměstnavatel **musí** mu před skončením pracovního poměru tuto dovolenou nařídit (§ 218 odst. 1) a nemůže ji proplatit ani po dohodě.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec N (40h TPD, 4týdenní výměra) ukončil pracovní poměr dohodou k 31. 5. 2025. Měl nevyčerpáno 160 hodin základní dovolené a navíc 40 hodin dodatkové dovolené (pracoval pod zemí). Zaměstnavatel mu při skončení proplatil základní i dodatkovou dovolenou náhradou mzdy. Současně N v posledních měsících čerpal zálohovou dovolenou podle § 217 odst. 2, na niž mu nakonec právo nevzniklo (nesplnil podmínky), a tuto náhradu mu zaměstnavatel chce strhnout. Důkazy: dohoda o skončení, evidence nevyčerpané základní a dodatkové dovolené, mzdové listy, doklad o zálohové dovolené.
+
+**2. Právní otázka.** Bylo správné proplatit dodatkovou dovolenou penězi a může zaměstnavatel požadovat vrácení náhrady za zálohovou dovolenou, na niž N právo nezískal?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 222 odst. 2 (proplacení nevyčerpané dovolené jen při skončení), odst. 3 (výše = průměrný výdělek), odst. 4 (povinnost vrátit neoprávněně vyplacenou náhradu) a odst. 5 (zákaz proplácení dodatkové dovolené).
+- *Související ustanovení téhož zákona:* § 215 (dodatková dovolená); § 217 odst. 2 (zálohové čerpání); § 218 odst. 1 (přednostní určení); § 146–147, § 144a (srážky ze mzdy); § 351 a násl. (průměrný výdělek).
+- *Související předpisy:* čl. 7 odst. 2 směrnice 2003/88/ES (proplacení jen při skončení).
+- *Judikatura:* SDEU *BECTU* (C-173/99), *Bollacke* (C-118/13) — proplácení dovolené v trvajícím poměru je v rozporu s unijním právem; nárok přechází i na pozůstalé při úmrtí.
+
+**4. Subsumpce.** Základní dovolenou (160 h) lze při skončení proplatit (odst. 2, 3). Dodatkovou dovolenou (40 h) však proplatit nelze nikdy (odst. 5) — měla být vyčerpána přednostně (§ 218 odst. 1). Náhradu za zálohovou dovolenou, na niž N nevzniklo právo, je N povinen vrátit (odst. 4), avšak srážka ze mzdy podléhá pravidlům § 146–147 ZP.
+
+**5. Řešení.** Proplacení dodatkové dovolené bylo protiprávní — zaměstnavatel ji měl před skončením nařídit k vyčerpání; tuto vadu nelze zhojit zpětně, avšak fakticky N peníze obdržel a dovolenou nevyčerpal. Vrácení náhrady za zálohovou dovolenou je podle odst. 4 důvodné, ale jen při dodržení pravidel o srážkách (souhlas zaměstnance dle § 146 nebo exekuční titul). Procesní krok: vyčíslit oprávněně proplacenou základní dovolenou, oddělit neproplatitelnou dodatkovou a zálohovou složku a srážky provést zákonně.
+
+**6. Varianty.** (a) Kdyby N v průběhu trvajícího pracovního poměru žádal proplatit dovolenou místo čerpání, nárok by nevznikl (odst. 2 — jen při skončení). (b) Kdyby N zemřel před vyčerpáním dovolené, nárok na proplacení základní dovolené by přešel na pozůstalé (eurokonformně dle *Bollacke*).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Dodatkovou dovolenou lze při skončení také proplatit jako základní."* Neutralizace: odst. 5 absolutně zakazuje proplacení dodatkové dovolené; musí být vždy vyčerpána, a to přednostně (§ 218 odst. 1).
+- *Protiargument 2: „Vyplacenou náhradu lze jednostranně strhnout z poslední mzdy."* Neutralizace: byť odst. 4 zakládá povinnost vrácení, samotná srážka ze mzdy vyžaduje dodržení § 146–147 ZP (souhlas zaměstnance nebo exekuční titul, ochrana nezabavitelné částky).
+- *Slabé místo:* výše náhrady stojí na správném výpočtu průměrného výdělku za rozhodné čtvrtletí (§ 351 a násl.); chyby ve složkách mzdy (zahrnutí/vyloučení příplatků, prémií) zakládají spory.
+
+#### H. Praktický závěr
+
+Dovolená je placená průměrným výdělkem (odst. 1); nevyčerpanou základní dovolenou lze proplatit jen při skončení pracovního poměru (odst. 2, 3), dodatkovou dovolenou nelze proplatit nikdy (odst. 5) a neoprávněně vyplacenou náhradu je zaměstnanec povinen vrátit (odst. 4) za dodržení pravidel o srážkách.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Oddělit základní dovolenou (proplatitelnou při skončení) od dodatkové (neproplatitelné — § 218 odst. 1 přednostní vyčerpání).
+- [ ] Proplacení vázat výhradně na skončení pracovního poměru (odst. 2).
+- [ ] Náhradu počítat z průměrného výdělku za rozhodné čtvrtletí (§ 351 a násl.).
+- [ ] Vrácení neoprávněné náhrady (odst. 4) provádět jen postupem dle § 146–147 ZP.
+
+**Typicky rozhodné důkazy / podklady:** doklad o skončení pracovního poměru, evidence nevyčerpané základní a dodatkové dovolené, mzdové listy a výpočet průměrného výdělku, doklad o zálohovém čerpání, souhlas se srážkou.
+
 ---
 
 ### § 222a — Mezinárodní vyslání
@@ -856,6 +1361,42 @@ Směrnice o vysílání pracovníků stanoví **„tvrdé jádro"** pracovních 
 #### Praktická aplikace
 
 V praxi se § 222a uplatňuje zřídka — typicky u stavebních firem vysílajících zaměstnance na dlouhodobé zakázky do Německa, Rakouska nebo skandinávských zemí. Vyžaduje pečlivou administraci souběhu nároků a doklady o tom, jakou náhradu poskytl hostitelský stát.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Český zaměstnavatel — stavební firma S — vyslal zaměstnance O k výkonu montážních prací do Rakouska na dobu 5 měsíců v rámci nadnárodního poskytování služeb (směrnice 96/71/ES). Podle rakouských předpisů (a kolektivních smluv stavebnictví) vznikl O nárok na náhradu za dovolenou, kterou mu zčásti poskytl/proplatil rakouský systém. O po návratu požaduje od S plnou náhradu za dovolenou i podle českého práva za celé období vyslání. Důkazy: smlouva o vyslání, doklady o plnění poskytnutém v Rakousku (Urlaubsentgelt), evidence odpracované doby, srovnání české a rakouské úpravy.
+
+**2. Právní otázka.** Je český zaměstnavatel S povinen poskytnout O náhradu za dovolenou za období vyslání i tehdy, obdržel-li O náhradu za dovolenou již podle práva hostitelského státu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 222a (vyloučení dvojího plnění — česká náhrada nepřísluší v rozsahu, v jakém náhrada za dovolenou přísluší podle práva státu vyslání).
+- *Související ustanovení téhož zákona:* § 222 (náhrada za dovolenou obecně); § 319 a násl. (vysílání a aplikace tvrdého jádra podmínek); § 213 (vznik nároku).
+- *Související předpisy:* směrnice 96/71/ES a 2018/957/EU o vysílání pracovníků (tvrdé jádro vč. minimální placené dovolené, čl. 3 odst. 1 písm. b); zásada favor laboris.
+- *Judikatura:* judikatura SDEU k vysílání pracovníků (aplikace výhodnější úpravy hostitelského státu na tvrdé jádro podmínek).
+
+**4. Subsumpce.** Náhrada za dovolenou patří do „tvrdého jádra" podmínek hostitelského státu. O obdržel v Rakousku náhradu za dovolenou podle tamních předpisů → podle § 222a česká náhrada nepřísluší v rozsahu, v jakém ji již kryje rakouské plnění. Český zaměstnavatel doplácí pouze případný rozdíl, je-li česká úprava výhodnější.
+
+**5. Řešení.** S není povinen poskytnout O náhradu duplicitně. Pokud rakouské plnění dosahuje nebo přesahuje úroveň českého nároku, česká náhrada za období vyslání nepřísluší (§ 222a). Je-li česká úprava výhodnější, doplatí S jen rozdíl. Procesní krok: zdokumentovat výši a rozsah náhrady poskytnuté v Rakousku a porovnat ji s českým nárokem; doplatit pouze diferenci.
+
+**6. Varianty.** (a) Kdyby hostitelský stát žádnou náhradu za dovolenou neposkytl (např. nárok podle tamního práva nevznikl), § 222a by se neuplatnil a O by náležela plná česká náhrada. (b) Kdyby česká úprava byla výrazně výhodnější než rakouská, S by doplatil rozdíl mezi oběma úpravami.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Za období vyslání náleží plná česká náhrada bez ohledu na plnění v zahraničí."* Neutralizace: § 222a výslovně vylučuje českou náhradu v rozsahu, v jakém náhrada za dovolenou přísluší podle práva státu vyslání — jde o zákaz dvojího plnění.
+- *Protiargument 2: „Stačí jen plnění hostitelského státu, český rozdíl se nedoplácí."* Neutralizace: zásada favor laboris a § 222a vylučují jen duplicitu, nikoli doplatek rozdílu, je-li česká úprava výhodnější.
+- *Slabé místo:* srovnání obou úprav vyžaduje doklady o tom, jakou náhradu a v jakém rozsahu poskytl hostitelský stát; bez nich nelze rozsah vyloučení/doplatku spolehlivě určit. Institut se v praxi uplatňuje zřídka a je administrativně náročný.
+
+#### H. Praktický závěr
+
+§ 222a zabraňuje dvojímu plnění náhrady za dovolenou při vyslání do jiného členského státu EU: česká náhrada nepřísluší v rozsahu, v jakém ji kryje právo státu vyslání; doplácí se jen případný rozdíl, je-li česká úprava výhodnější.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda jde o vyslání v rámci nadnárodního poskytování služeb do jiného členského státu EU (směrnice 96/71/ES).
+- [ ] Zjistit, zda a v jakém rozsahu poskytl hostitelský stát náhradu za dovolenou.
+- [ ] Vyloučit českou náhradu v rozsahu krytém zahraničním plněním (§ 222a) a doplatit jen rozdíl (favor laboris).
+- [ ] Zdokumentovat srovnání obou úprav pro případ kontroly/sporu.
+
+**Typicky rozhodné důkazy / podklady:** smlouva/dohoda o vyslání, doklady o náhradě za dovolenou poskytnuté v hostitelském státě, evidence odpracované doby, srovnání české a zahraniční úpravy minimální dovolené.
 
 ---
 
@@ -925,6 +1466,42 @@ Restriktivní úprava krácení v § 223 je v dobrém souladu s judikaturou SDEU
 - **Zachovává minimální dvoutýdenní garanci** (umožňující skutečnou regeneraci).
 
 Česká úprava § 223 všechny tři kritéria splňuje.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec R (40h TPD, 4týdenní výměra, roční nárok 160 h) byl u zaměstnavatele v pracovním poměru po celý kalendářní rok 2025. Během roku se opakovaně bez omluvy nedostavoval do práce — celkem nasčítal 100 hodin neomluvené absence (zčásti celé směny, zčásti pozdní příchody po 30 minutách). Zaměstnavatel mu chce zkrátit dovolenou na nulu a navíc započítat i 16 hodin neomluvené absence z prosince 2024. Důkazy: evidence docházky, rozhodnutí zaměstnavatele o (ne)omluvenosti absence (§ 348 odst. 3), rozvrh směn, mzdové listy.
+
+**2. Právní otázka.** O kolik a za jaké období může zaměstnavatel zkrátit dovolenou R a jaká je minimální garantovaná zbytková dovolená?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 223 odst. 1 (krácení jen za neomluveně zameškané hodiny, sčítání kratších částí směn), odst. 2 (jen za absenci téhož roku) a odst. 3 (minimální garance 2 týdnů při celoročním pracovním poměru).
+- *Související ustanovení téhož zákona:* § 348 odst. 3 (posouzení omluvenosti absence); § 213 (rozsah nároku); § 52 písm. g), § 55 odst. 1 písm. b) (výpověď / okamžité zrušení); § 250 a násl. (náhrada škody).
+- *Související předpisy:* čl. 7 směrnice 2003/88/ES; čl. 28 LZPS.
+- *Judikatura:* SDEU *Schultz-Hoff*, *Pereda*, *NEW* — právo na placenou dovolenou je nedotknutelným základním sociálním právem, jeho omezení musí být proporcionální.
+
+**4. Subsumpce.** Krátit lze pouze za neomluveně zameškané hodiny roku 2025 (odst. 1, 2) → 100 hodin z roku 2025 lze započítat (vč. sečtených pozdních příchodů), 16 hodin z roku 2024 nikoli (zákaz přenosu sankce, odst. 2). Současně platí garance odst. 3: při celoročním pracovním poměru musí zbýt nejméně 2 týdny (80 hodin).
+
+**5. Řešení.** Z ročního nároku 160 h by krácení o 100 h vedlo na 60 h, což je pod garantovaným minimem 80 h (2 týdny). Proto lze dovolenou zkrátit jen na 80 hodin — minimální dvoutýdenní garance je kogentní a absencí ji nelze prolomit. Absenci z prosince 2024 nelze pro rok 2025 použít vůbec. Procesní krok: vyčíslit neomluvené hodiny roku 2025, provést krácení po hodinách, zastavit se na 80 h; samostatně zvážit kázeňské důsledky (výpověď/okamžité zrušení) a náhradu škody.
+
+**6. Varianty.** (a) Kdyby pracovní poměr R netrval celý kalendářní rok, garance 2 týdnů dle odst. 3 by se neuplatnila a krácení by mohlo jít i pod 80 h. (b) Kdyby absence byla omluvená (např. dodatečně doložená DPN), nešlo by o důvod krácení vůbec a posouzení omluvenosti dle § 348 odst. 3 by se změnilo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1: „Za rozsáhlou neomluvenou absenci lze dovolenou seškrtat až na nulu."* Neutralizace: odst. 3 garantuje při celoročním pracovním poměru minimálně 2 týdny (80 h) dovolené; pod toto minimum krátit nelze.
+- *Protiargument 2: „Lze krátit i za jiné absence (DPN, rodičovská) nebo za absenci z minulého roku."* Neutralizace: od 1. 1. 2021 je jediným důvodem krácení neomluvená absence (odst. 1) a jen za tentýž kalendářní rok (odst. 2); ostatní překážky se řeší nezapočítáním do odpracované doby (§ 216 odst. 2), nikoli krácením.
+- *Slabé místo:* posouzení (ne)omluvenosti absence je v pravomoci zaměstnavatele (§ 348 odst. 3), ale je přezkoumatelné soudem; chybná kvalifikace omluvitelné absence jako neomluvené činí krácení neoprávněným a zakládá nárok na doplatek/náhradu.
+
+#### H. Praktický závěr
+
+Dovolenou lze krátit výhradně za neomluveně zameškané hodiny téhož kalendářního roku (po hodinách, se sčítáním kratších částí směn); při pracovním poměru trvajícím celý rok musí zaměstnanci zůstat alespoň 2 týdny dovolené (kogentní eurokonformní minimum).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Krátit jen za neomluvenou absenci (odst. 1) — nikoli za DPN, karanténu, rodičovskou apod.
+- [ ] Použít pouze absenci vzniklou v témže kalendářním roce (odst. 2 — zákaz přenosu sankce).
+- [ ] Krátit po hodinách a sečíst i kratší části směn; respektovat minimální 2týdenní garanci při celoročním poměru (odst. 3).
+- [ ] Posouzení omluvenosti opřít o § 348 odst. 3 a počítat s jeho soudní přezkoumatelností; zvážit souběžné kázeňské postupy (§ 52 písm. g, § 55).
+
+**Typicky rozhodné důkazy / podklady:** evidence docházky a neomluvených absencí, rozvrh směn, rozhodnutí o (ne)omluvenosti absence, mzdové listy, případná dokumentace porušení pracovních povinností.
 
 ---
 

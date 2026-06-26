@@ -89,6 +89,43 @@ Krok 3: Pokud existuje judikatura SDEU k dané směrnici, ta je závazným výkl
 
 § 4b odst. 3 pak zavádí **kvalifikovanou jednosměrnou odchylku** pro ustanovení v § 363: zde **lze odchylku učinit pouze ve prospěch zaměstnance**. Zaměstnavatel se tedy nemůže smluvně vyhnout zákonné minimální ochraně transponované z evropského práva (např. minimálního odpočinku, maximální týdenní pracovní doby, ochrany před výpovědí v ochranné době).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec pracoval u zaměstnavatele v nerovnoměrně rozvrženém vyrovnávacím období, které zaměstnavatel jednostranně (vnitřním předpisem) stanovil na 40 týdnů. Zaměstnanci v důsledku toho v některých týdnech průměrná týdenní pracovní doba přesáhla zákonný limit. Zaměstnanec se domáhá určení, že rozvržení je neplatné, a požaduje doplacení mzdy a příplatků za přesčas. Zaměstnavatel namítá, že § 78 odst. 1 písm. m) ZP připouští období „nejvýše 52 týdnů" a že 40 týdnů je v jeho rámci. Zaměstnanec namítá, že tento horní strop „52 týdnů" může vymezit jen kolektivní smlouva, nikoli vnitřní předpis. Důkazy: vnitřní předpis o rozvržení pracovní doby, rozvrhy směn, evidence odpracované doby, mzdové listy.
+
+**2. Právní otázka.** Je třeba § 78 odst. 1 písm. m) ZP (resp. jeho část zařazenou do § 363) vykládat eurokonformně tak, že prodloužení vyrovnávacího období nad 26 týdnů smí provést výhradně kolektivní smlouva, takže jednostranné prodloužení vnitřním předpisem je neplatné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 363 ZP — taxativní výčet ustanovení provádějících unijní směrnice; obsahuje výslovně partii § 78 odst. 1 písm. m) ve znění „za období nejvýše 26 týdnů" a věty „Jen kolektivní smlouva může toto období vymezit nejvýše na 52 týdnů po sobě jdoucích."
+- *Související ustanovení téhož zákona:* § 4b odst. 3 ZP (od ustanovení v § 363 se lze odchýlit jen ve prospěch zaměstnance); § 78 odst. 1 písm. m), § 79, § 79a (referenční období podle směrnice 2003/88/ES).
+- *Související předpisy:* směrnice 2003/88/ES o úpravě pracovní doby (čl. 16 — referenční období, čl. 19 — strop 12 měsíců jen kolektivní smlouvou nebo dohodou sociálních partnerů).
+- *Judikatura:* doktrína eurokonformního výkladu *Marleasing* (C-106/89) a její meze *Pupino* (C-105/03), *Dominguez* (C-282/10) — soud volí v rámci možného doslovného významu výklad nejvíce souladný se směrnicí; SDEU k pojmu pracovní doby (např. *Jaeger* C-151/02, *SIMAP* C-303/98) jako vodítko k výkladu referenčního období.
+
+**4. Subsumpce.** Sporná partie § 78 odst. 1 písm. m) je v § 363 výslovně uvedena, takže jde o eurokonformně vykládané a současně jednostranně kogentní ustanovení (§ 4b odst. 3). Směrnice 2003/88/ES v čl. 19 dovoluje prodloužení referenčního období nad standardní hranici jen kolektivní smlouvou nebo dohodou sociálních partnerů. Text zákona („Jen kolektivní smlouva může…") je s tímto požadavkem v souladu a nepřipouští jiný výklad — prodloužení vnitřním předpisem nad 26 týdnů je odchylkou v neprospěch zaměstnance.
+
+**5. Řešení.** Soud určí, že prodloužení vyrovnávacího období nad 26 týdnů provedené pouhým vnitřním předpisem je neplatné pro rozpor s § 78 odst. 1 písm. m) vykládaným eurokonformně (§ 363) a s § 4b odst. 3 ZP. Rozhodným obdobím tak zůstává zákonných 26 týdnů; v týdnech, kde byl tento rámec při přepočtu překročen, vzniká nárok na příplatek/náhradu za práci přesčas. Procesně: vyžádat rozvrhy a evidenci doby, znalecký přepočet průměrné týdenní doby; zvážit i podnět inspekci práce (přestupek dle zákona č. 251/2005 Sb.).
+
+**6. Varianty.** (a) Prodloužení na 40 týdnů by bylo sjednáno **kolektivní smlouvou** — pak je v souladu se zákonem i směrnicí a nárok zaniká. (b) Sporná partie by v § 363 uvedena nebyla — pak by povinnost eurokonformního výkladu existovala jen v obecné formě (zásada loajální spolupráce) a argumentace zákazem prodloužení vnitřním předpisem by byla podstatně slabší.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „doslovné znění připouští 52 týdnů":* zaměstnavatel tvrdí, že strop 52 týdnů je obecný a způsob jeho zavedení není podstatný. Neutralizace: § 363 zařadil do eurokonformního katalogu právě větu „Jen kolektivní smlouva může…", čímž je výhrada kolektivní smlouvy součástí povinně eurokonformně vykládaného jádra; jiný výklad by byl *contra* směrnici 2003/88/ES.
+- *Protiargument mezí eurokonformního výkladu (contra legem):* odpůrce může tvrdit, že eurokonformní výklad nesmí jít proti jasnému textu. Neutralizace: zde se text a směrnice nerozcházejí — výklad je naopak *secundum legem*; meze *Dominguez/Pupino* se neuplatní.
+- *Slabé místo:* určení škody/příplatku vyžaduje přesný přepočet a kvalitní evidenci doby; chybí-li věrohodná evidence (§ 96 ZP), nese důkazní riziko zpravidelně zaměstnavatel, ale výši nároku je nutné prokázat.
+
+#### H. Praktický závěr
+
+V praxi § 363 funguje jako **rozhodovací filtr**: nejprve se zjistí, zda konkrétní ustanovení (nebo jeho přesně vymezená věta/slovní spojení) je v § 363 uvedeno; pokud ano, platí povinný eurokonformní výklad a odchylka je přípustná jen ve prospěch zaměstnance (§ 4b odst. 3). Katalog je taxativní — nelze jej libovolně rozšiřovat ani zužovat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dotčené ustanovení (nebo jen jeho konkrétní věta/slova) výslovně uvedeno v § 363?
+- [ ] Pokud ano: kterou směrnici transponuje (poznámka pod čarou) a existuje k ní judikatura SDEU?
+- [ ] Jde o odchylku v neprospěch zaměstnance? Pak je neplatná (§ 4b odst. 3).
+- [ ] Lze požadovaný výklad dosáhnout v rámci možného doslovného významu (meze *Pupino/Dominguez*)?
+- [ ] U selektivní transpozice: spadá sporná věta/slovní spojení do eurokonformní partie, nebo do navazující české části?
+
+**Typicky rozhodné důkazy / podklady:** znění § 363 v účinné verzi, text a preambule relevantní směrnice, judikatura SDEU, vnitřní předpisy/kolektivní smlouva, evidence pracovní doby, mzdové listy.
+
 ---
 
 ## Hlava I — Přechodná ustanovení
@@ -195,6 +232,43 @@ Odst. 4–6 představují **jedno z nejsložitějších přechodných ustanoven�
 
 > **Soudní praxe:** Nejvyšší soud opakovaně potvrdil, že nároky z úrazů před 1. 1. 1993 se i ve 21. století posuzují podle starého ZP (zejména § 195 a násl. ZP č. 65/1965 Sb., § 446 a násl. dříve platného OZ a vyhlášek č. 32/1965 Sb. a navazujících); valorizační mechanismus se však řídí nařízeními vlády vydanými již podle nového ZP (§ 271u nového ZP a navazující nařízení vlády o úpravě náhrady za ztrátu na výdělku). Konkrétní spisové značky závisí na konkrétním sporu a v komentáři je nelze paušálně přiřazovat; čtenář je odkázán na soudní vyhledávání podle ASPI/NS.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vedoucí odboru obecního úřadu byl do funkce v roce 2005 jmenován podle § 27 odst. 4 starého ZP. V roce 2025 chce zaměstnavatel (obec) skončit jeho pracovní poměr. Personalistka navrhuje „odvolání z funkce" bez udání důvodu. Zaměstnanec namítá, že jeho pracovní poměr se od 1. 1. 2007 podle § 364 odst. 3 ZP považuje za založený pracovní smlouvou, a nelze jej proto odvolat. Zaměstnavatel oponuje, že jde o vedoucího úředníka územního samosprávného celku, na nějž se vztahuje zákon č. 312/2002 Sb. Důkazy: jmenovací dekret z roku 2005, organizační řád úřadu, popis pracovní pozice, zákonná úprava vedoucích úředníků.
+
+**2. Právní otázka.** Vztahuje se na konkrétní pracovní poměr výjimka z konverze podle § 364 odst. 3 písm. b) ZP (vedoucí úředník a vedoucí úřadu) — tj. zůstal pracovní poměr poměrem založeným jmenováním (s možností odvolání), nebo se konvertoval na poměr založený smlouvou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 364 odst. 3 ZP — fikce, že pracovní poměry založené volbou/jmenováním podle starého ZP se považují za založené pracovní smlouvou, s výjimkami v písm. a)–j).
+- *Související ustanovení téhož zákona:* § 33 odst. 3 ZP (jmenování jako způsob vzniku poměru jen u zákonem vymezených pozic); § 73, § 73a ZP (odvolání z vedoucího místa a postup po odvolání); § 52 písm. c) ZP (nadbytečnost).
+- *Související předpisy:* zákon č. 312/2002 Sb., o úřednících územních samosprávných celků (zvláštní úprava vzniku a skončení pracovního poměru vedoucích úředníků); zákon č. 128/2000 Sb., o obcích.
+- *Judikatura:* NS 21 Cdo 1054/2015 (citováno výše) — pracovní poměr vedoucích zaměstnanců uvedených v § 33 odst. 3 ZP ve znění od 1. 1. 2008 se považuje za založený jmenováním, i když dříve vznikl smlouvou nebo byl podle § 364 odst. 3 považován za založený smlouvou.
+
+**4. Subsumpce.** Funkce „vedoucí úředník" územního samosprávného celku spadá pod výjimku § 364 odst. 3 písm. b). Konverze na pracovní poměr založený smlouvou se proto neuplatní; ve spojení s pozdějším vývojem (§ 33 odst. 3 ZP a zvláštní zákon č. 312/2002 Sb., jak potvrzuje NS 21 Cdo 1054/2015) jde i nadále o pracovní poměr na vedoucí pozici s režimem odvolání podle § 73. Klíčové je posoudit, zda popis funkce skutečně naplňuje pojem vedoucího úředníka dle § 2 odst. 5 zákona č. 312/2002 Sb.
+
+**5. Řešení.** Je-li zaměstnanec vedoucím úředníkem ve smyslu zákona č. 312/2002 Sb., může být z vedoucího místa odvolán (i bez udání důvodu); odvoláním však pracovní poměr nekončí — nutno postupovat podle § 73a ZP (nabídka jiné práce, případně výpověď pro nadbytečnost § 52 písm. c) s odstupným). Pokud by funkce naopak pod žádnou z výjimek písm. a)–j) nespadala, platí konverze a „odvolání" by bylo neúčinné; poměr by bylo nutné rozvázat běžnými způsoby (dohoda, výpověď, okamžité zrušení).
+
+**6. Varianty.** (a) Šlo by o vedoucího řadového oddělení bez postavení vedoucího úředníka dle zvláštního zákona — konverze podle odst. 3 by se uplatnila a odvolání by bylo vyloučeno. (b) Pracovní poměr by býval vznikl **volbou** do funkce, která dnes pod žádnou výjimku nespadá — opět by nastala konverze na poměr založený smlouvou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „jakmile bylo jmenování, lze odvolat":* zaměstnavatel směšuje historický způsob vzniku poměru s jeho dnešním režimem. Neutralizace: rozhodující je, zda funkce spadá do výjimek § 364 odst. 3 písm. a)–j) a do § 33 odst. 3 ZP; mimo ně fikce smlouvy vylučuje odvolání.
+- *Protiargument záměny odvolání a skončení poměru:* i u výjimek platí, že odvolání ukončuje jen výkon funkce, nikoli pracovní poměr (§ 73a). Riziko neplatného rozvázání, pokud zaměstnavatel rovnou „propustí".
+- *Slabé místo:* hranice mezi vedoucím úředníkem (zvláštní zákon) a běžným vedoucím zaměstnancem může být sporná; chybí-li jasný organizační řád a popis funkce, je subsumpce nejistá.
+
+#### H. Praktický závěr
+
+§ 364 zajišťuje plynulý přechod ze starého ZP na nový: nové vztahy se řídí novým ZP i pokud vznikly před 1. 1. 2007 (odst. 1, nepravá retroaktivita), dokonané právní úkony před tímto datem se posuzují podle starého ZP (odst. 2), pracovní poměry z volby/jmenování se konvertují na smluvní s výjimkami pro veřejný sektor (odst. 3) a u úrazů/nemocí z povolání před 1. 1. 1993 trvá režim dosavadních předpisů (odst. 4–6).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vznikl posuzovaný vztah/úkon před, nebo po 1. 1. 2007? (rozhraní odst. 1 vs. odst. 2)
+- [ ] Jde-li o dokonaný úkon před 1. 1. 2007: posuzuje se podle starého ZP, i když účinky nastaly později.
+- [ ] U poměrů z volby/jmenování: spadá funkce do některé výjimky § 364 odst. 3 písm. a)–j)? Ověř i § 33 odst. 3 ZP a zvláštní zákon.
+- [ ] U úrazů/nemocí před 1. 1. 1993: aplikuje se dosavadní hmotné právo; kdo je dnes subjektem povinným k plnění (odst. 4–6)?
+- [ ] Nezaměnit „odvolání z funkce" se „skončením pracovního poměru" (§ 73a).
+
+**Typicky rozhodné důkazy / podklady:** jmenovací dekret / volební akt, datum a obsah pracovněprávního úkonu, organizační řád a popis funkce, doklady o úrazu/nemoci a o subjektu povinném k náhradě, rozhodnutí o zrušení/likvidaci zaměstnavatele.
+
 ---
 
 ### § 365 — Zákonné pojištění odpovědnosti zaměstnavatele za škodu při pracovním úrazu nebo nemoci z povolání
@@ -270,6 +344,43 @@ Zákon č. 266/2006 Sb., o úrazovém pojištění zaměstnanců, měl zavést *
 
 Dnes (2026) se nepředpokládá nabytí účinnosti zákona č. 266/2006 Sb. ani v dohledné budoucnosti — politická diskuse směřuje k **úplné rekodifikaci** úrazového pojištění zaměstnanců, nikoliv k zachování koncepce z roku 2006. § 365 nového ZP proto fakticky **funguje jako trvalá úprava**, ač byl koncipován jako přechodná norma.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec utrpěl v roce 1990 závažný pracovní úraz; zaměstnavatel (tehdejší státní podnik) mu vyplácel náhradu za ztrátu na výdělku. V roce 2024 byl na současného právního nástupce zaměstnavatele prohlášen konkurs. Poškozený podává po prohlášení konkursu žalobu o doplacení a valorizaci renty. Sporné je, kdo je pasivně legitimován a podle jakého pojistitele se plní. Důkazy: doklady o úrazu z roku 1990, dosavadní rozhodnutí/dohody o náhradě, doklad o pojištění odpovědnosti, usnesení o prohlášení konkursu.
+
+**2. Právní otázka.** Kdo je ve sporu o náhradu škody z pracovního úrazu zahájeném po prohlášení konkursu pasivně věcně legitimován, a který pojistitel kryje plnění u úrazu vzniklého před 1. 1. 1993, resp. po něm — s ohledem na § 365 ZP a přežívající § 205d starého ZP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 365 ZP — prodlužuje platnost § 205d zákona č. 65/1965 Sb. a vyhlášky č. 125/1993 Sb.; stanoví dualitu pojistitelů (Kooperativa pro úrazy do 31. 12. 1992, Česká pojišťovna pro úrazy od 1. 1. 1993) a limit správní režie 4 %.
+- *Související ustanovení téhož zákona:* § 269 a násl. ZP (odpovědnost zaměstnavatele za škodu při pracovním úrazu); § 271a–271j ZP (náhradové instituty); § 364 odst. 4–6 ZP (úrazy před 1. 1. 1993).
+- *Související předpisy:* § 205d zákona č. 65/1965 Sb.; vyhláška č. 125/1993 Sb.; insolvenční zákon č. 182/2006 Sb. (pasivní legitimace insolvenčního správce); zákon č. 266/2006 Sb. (dosud neúčinný).
+- *Judikatura:* NS 21 Cdo 2113/2020 (citováno výše) — po prohlášení konkursu je pasivně legitimován insolvenční správce majetkové podstaty zaměstnavatele; NSS 6 Ads 2/2011-66 — zaměstnavatelé podle ZP (krom organizačních složek státu) jsou povinni platit zákonné pojištění podle vyhlášky č. 125/1993 Sb.
+
+**4. Subsumpce.** Úraz z roku 1990 spadá do agendy pojistitele pro úrazy vzniklé do 31. 12. 1992 (Kooperativa). Současně po prohlášení konkursu na zaměstnavatele přechází pasivní legitimace ve sporu na insolvenčního správce (NS 21 Cdo 2113/2020). Existence zákonného pojištění podle § 365 ve spojení s § 205d starého ZP znamená, že fakticky plnění poskytuje pojistitel; valorizace renty se řídí nařízeními vlády vydanými již podle nového ZP (§ 271u).
+
+**5. Řešení.** Žalobu je třeba směřovat proti insolvenčnímu správci (pasivní legitimace), s tím, že krytí poskytuje pojistitel podle § 205d ve spojení s § 365 ZP — pro úraz z roku 1990 Kooperativa. Soud přizná doplacení a valorizaci podle platných nařízení vlády o úpravě náhrady za ztrátu na výdělku. Procesně: doložit nepřetržitý průběh nároku, vyžádat součinnost pojistitele (oznámení škodní události), zvážit přistoupení/oznámení sporu pojišťovně.
+
+**6. Varianty.** (a) Úraz by se stal v roce 1995 — pojistitelem by byla Česká pojišťovna (úrazy od 1. 1. 1993). (b) Zaměstnavatelem by byla organizační složka státu — ta zákonné pojištění neplatí (NSS 6 Ads 2/2011-66) a plnění by šlo z rozpočtu, nikoli z pojištění u Kooperativy/České pojišťovny.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „§ 205d je zrušen spolu se starým ZP":* odpůrce tvrdí, že po § 395 ZP nelze § 205d aplikovat. Neutralizace: § 365 ZP přežívající platnost § 205d výslovně zachoval „do dne nabytí účinnosti jiné právní úpravy", který dosud nenastal (zákon č. 266/2006 Sb. je neúčinný).
+- *Protiargument záměny pojistitele:* riziko žaloby proti nesprávnému pojistiteli; rozhodující je **datum vzniku** úrazu/zjištění nemoci (hranice 31. 12. 1992 / 1. 1. 1993), nikoli kdy se nárok uplatňuje.
+- *Slabé místo:* pasivní legitimace se mění podle procesní situace (běžný zaměstnavatel × insolvenční správce × nástupce po zrušení dle § 364 odst. 6); chybná identifikace žalovaného vede k zamítnutí.
+
+#### H. Praktický závěr
+
+§ 365 udržuje v chodu celý systém zákonného pojištění odpovědnosti zaměstnavatele tím, že prodlužuje platnost § 205d starého ZP a vyhlášky č. 125/1993 Sb. Pojištění vzniká ze zákona při zaměstnání byť jediného zaměstnance (vč. DPP/DPČ); klíčové je rozlišení dvou pojistitelů podle data úrazu a limit správní režie 4 % (§ 365 odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vznikl pracovní úraz / byla zjištěna nemoc z povolání do 31. 12. 1992 (Kooperativa), nebo od 1. 1. 1993 (Česká pojišťovna)?
+- [ ] Je zaměstnavatel subjektem povinným platit zákonné pojištění (pozor: organizační složky státu nikoli)?
+- [ ] Nedošlo ke změně pasivní legitimace (konkurs → insolvenční správce; zrušení zaměstnavatele → nástupce dle § 364 odst. 6)?
+- [ ] Byla pojistiteli řádně oznámena škodní událost?
+- [ ] Valorizace renty podle aktuálního nařízení vlády (§ 271u ZP)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o pracovním úrazu / nemoci z povolání s datem vzniku, dosavadní rozhodnutí a dohody o náhradě, doklad o zákonném pojištění, usnesení insolvenčního soudu, nařízení vlády o valorizaci, vyhláška č. 125/1993 Sb.
+
 ---
 
 ## Hlava I, Díl 1 (Pojištění odpovědnosti a zvláštní ustanovení o povinnosti nahradit škodu a nemajetkovou újmu — §§ 391–393)
@@ -343,6 +454,43 @@ Pro tyto situace platí **obecná občanskoprávní odpovědnost** (§ 2910 a n�
 
 Pro **vysokoškolské studenty** (odst. 4) výjimka neplatí — § 391 odst. 6 odkazuje výslovně jen na školský zákon a netýká se zákona č. 111/1998 Sb., o vysokých školách.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Žák střední odborné školy během praktického vyučování v autoservisu, který je smluvním pracovištěm školy, z nedbalosti poškodí při manipulaci zvedákem zákazníkovo vozidlo (škoda 180 000 Kč). Autoservis škodu uhradil zákazníkovi a nyní ji vymáhá po žákovi (resp. po jeho zákonném zástupci). Žák namítá, že je chráněn limity náhrady škody jako zaměstnanec a že škoda vznikla při plnění úkolů praktického vyučování. Důkazy: smlouva školy o praktickém vyučování, deník praxe, protokol o škodě, doklad o uhrazení škody zákazníkovi, zjištění míry zavinění žáka.
+
+**2. Právní otázka.** Řídí se odpovědnost žáka za škodu způsobenou třetí osobě při praktickém vyučování režimem ZP (§ 391 odst. 1 ve spojení s § 250 a násl. ZP) včetně limitu náhrady, ačkoli mezi žákem a autoservisem není pracovní poměr?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 391 odst. 1 ZP — žáci SŠ a studenti VOŠ/VŠ odpovídají za škodu způsobenou při (praktickém) vyučování škole, resp. třetí osobě, u níž se praktické vyučování koná.
+- *Související ustanovení téhož zákona:* § 250 a násl. ZP (obecná odpovědnost zaměstnance za škodu — zavinění, limit náhrady); § 257 ZP (rozsah náhrady a limit 4,5násobku průměrného výdělku); § 271k ZP (pojem pracovního úrazu — relevantní pro opačný směr odst. 3).
+- *Související předpisy:* zákon č. 561/2004 Sb., školský zákon (praktické vyučování, § 65 a násl.); občanský zákoník č. 89/2012 Sb. (subsidiárně, zejména § 2918 — pro odst. 6 distanční výuku).
+- *Judikatura:* obecné zásady odpovědnosti zaměstnance za škodu (subjektivní odpovědnost, povinnost zaměstnavatele prokázat zavinění a výši škody) — analogicky aplikované na žáka; nosný závěr: ochranné limity náhrady svědčí i osobě v postavení strukturálně srovnatelném se zaměstnancem.
+
+**4. Subsumpce.** Škoda vznikla při praktickém vyučování u třetí osoby (autoservis), tedy v rozsahu § 391 odst. 1 věty o odpovědnosti vůči osobě, u níž se praktické vyučování uskutečňuje. Aplikuje se režim § 250 a násl. ZP: odpovědnost je subjektivní (zavinění), výši škody a zavinění prokazuje poškozený, náhrada je limitována. Specifikem je obtížné určení „průměrného výdělku" žáka, který mzdu nepobírá.
+
+**5. Řešení.** Autoservis se může na žákovi hojit jen v rozsahu prokázaného zavinění a v mezích limitu náhrady analogicky podle § 257 ZP (4,5násobek — soudy modifikují výpočet podle hypotetického výdělku/odměny žáka, příp. podle stipendií). Plnou škodu 180 000 Kč zpravidla nelze přiznat, byla-li způsobena z nedbalosti. Procesně: prokázat protiprávnost, zavinění a příčinnou souvislost; posoudit, zda škoda nevznikla spíše porušením povinností provozovatele (nedostatečné poučení, dohled).
+
+**6. Varianty.** (a) Žák by škodu způsobil úmyslně — limit náhrady se neuplatní a hradí se škoda v plné výši (vč. ušlého zisku). (b) Ke škodě by došlo při **distančním prvku výuky** (odst. 6) — § 391 by se nepoužil a odpovědnost by se řídila obecně občanským zákoníkem (§ 2910 a násl.).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „není pracovní poměr, platí plná občanskoprávní odpovědnost":* odpůrce tvrdí, že žák odpovídá podle OZ bez limitů. Neutralizace: § 391 odst. 1 výslovně podřazuje vztah pod ZP; tím se aktivují ochranné prvky odpovědnosti zaměstnance vč. limitu náhrady.
+- *Protiargument výpočtu limitu:* sporné je, z čeho počítat „průměrný výdělek" žáka. Riziko: bez výdělku je limit obtížně určitelný; soud volí modifikovaný výpočet — argumentaci je třeba podložit (stipendia, odměny za produktivní práci dle § 122 ZP).
+- *Slabé místo:* hranice „praktické vyučování / přímá souvislost s ním" může být sporná; u jednání mimo rámec výuky by se režim ZP nepoužil.
+
+#### H. Praktický závěr
+
+§ 391 zakládá *sui generis* odpovědnost mimo pracovní poměr ve dvou směrech: žák/student → škola/třetí osoba (odst. 1) a škola/třetí osoba/VŠ → žák/student vč. odškodnění úrazu (odst. 3–4). Pro mladší skupiny (MŠ, ZŠ, ZUŠ) platí jen směr škola → dítě (odst. 2). Distanční prvky výuky jsou z odst. 1–3 vyňaty (odst. 6), nikoli však pro vysokoškolské studenty (odst. 4).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] O jakou kategorii jde (žák SŠ/VOŠ/VŠ × dítě MŠ/žák ZŠ/ZUŠ)? Tomu odpovídá použitelný odstavec.
+- [ ] Vznikla škoda při (praktickém) vyučování / studiu / praxi nebo v přímé souvislosti s ním?
+- [ ] U škody způsobené žákem: zavinění (nedbalost × úmysl), limit náhrady analogicky § 257 ZP.
+- [ ] U úrazu žáka/studenta: aplikovat náhradové instituty § 271a a násl. ZP; kdo odpovídá (škola × třetí osoba × VŠ × jménem státu organizační složka)?
+- [ ] Nejde o distanční prvek výuky podle § 25a školského zákona (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o praktickém vyučování / dokument o studiu a praxi, deník praxe a rozvrh, protokol o škodě/úrazu, doklad o míře zavinění, podklady pro výpočet limitu (stipendia, odměny § 122 ZP), zřizovací listina (u organizační složky státu).
+
 ---
 
 ### § 392 — Odpovědnost u osob v jiných veřejných nebo speciálních pozicích
@@ -371,6 +519,43 @@ Odpovědnost se řídí příslušnými pravidly ZP o odpovědnosti zaměstnance
 Odst. 2 chrání **specifickou kategorii zranitelných osob** — osoby se zdravotním postižením, které ještě nejsou v pracovním poměru, ale **připravují se na budoucí povolání** podle zvláštních předpisů (zejména zákon č. 435/2004 Sb., o zaměstnanosti, § 72 a násl. — chráněné dílny, příprava k práci osob se zdravotním postižením; zákon č. 561/2004 Sb. — speciální školy).
 
 Subjekt, **u něhož se příprava provádí** (chráněná dílna, podnik provádějící přípravu, speciální škola), odpovídá za **pracovní úraz nebo nemoc z povolání** vzniklou při přípravě — ve stejném režimu jako zaměstnavatel za pracovní úraz svého zaměstnance (§ 269 a násl. ZP a § 365 ZP, tedy s krytím zákonným pojištěním).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Přísedící okresního soudu, který tuto veřejnou funkci vykonává vedle svého civilního zaměstnání, utrpí na cestě k jednacímu dni v budově soudu úraz (pád na schodišti soudu), s následnou pracovní neschopností a trvalými následky. Domáhá se odškodnění jako pracovního úrazu. Soud (stát) namítá, že přísedící není v pracovním poměru a nárok na odškodnění pracovního úrazu mu nesvědčí. Důkazy: doklad o ustanovení přísedícím, předvolání k jednacímu dni, lékařská dokumentace o úrazu, záznam o úrazu.
+
+**2. Právní otázka.** Odpovídá subjekt, pro nějž je osoba plnící veřejnou funkci činná (zde stát/soud), za škodu vzniklou úrazem při výkonu funkce podle § 392 odst. 1 ZP v režimu pracovního úrazu, ačkoli mezi nimi není pracovní poměr?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 392 odst. 1 ZP — vzájemná odpovědnost mezi osobami plnícími veřejné funkce / funkcionáři odborové organizace a tím, pro koho jsou činni; odst. 2 — osoby se zdravotním postižením v přípravě na povolání.
+- *Související ustanovení téhož zákona:* § 265 a násl. ZP (odpovědnost zaměstnavatele za škodu); § 269 a násl. a § 271k ZP (pracovní úraz a jeho odškodnění); § 250 a násl. ZP (opačný směr — odpovědnost funkcionáře za škodu); § 365 ZP (zákonné pojištění).
+- *Související předpisy:* zákon č. 6/2002 Sb., o soudech a soudcích (přísedící); zákon č. 219/2000 Sb., o majetku ČR (jednání jménem státu); zákon č. 435/2004 Sb., o zaměstnanosti, § 72 a násl. (příprava k práci osob se zdravotním postižením — k odst. 2).
+- *Judikatura:* nosný závěr — osoba činná ve veřejné funkci požívá při úrazu ochrany jako zaměstnanec; odpovědný je subjekt, pro nějž byla činná. (Konkrétní spisové značky nutno ověřit dle okolností; v komentáři je neuvádím smyšleně.)
+
+**4. Subsumpce.** Přísedící je osobou plnící veřejnou funkci ve smyslu § 392 odst. 1. Úraz vznikl při výkonu funkce (účast na jednacím dni) v přímé souvislosti s ní. Subjektem, pro nějž byl činný, je stát (soud). Odpovědnost se proto řídí pravidly ZP o odpovědnosti zaměstnavatele za pracovní úraz (§ 269 a násl., § 271a a násl.), bez nutnosti pracovního poměru.
+
+**5. Řešení.** Přísedícímu náleží odškodnění pracovního úrazu (náhrada za ztrátu na výdělku, bolestné, ztížení společenského uplatnění) podle § 271a a násl. ZP; pasivně odpovídá stát jednající příslušnou organizační složkou (soud). Procesně: opatřit záznam o úrazu, lékařské posudky (bolestné, ZSU), doložit příčinnou souvislost s výkonem funkce; uplatnit nárok u organizační složky státu, případně žalobou.
+
+**6. Varianty.** (a) Úraz by se stal mimo výkon funkce (např. soukromá návštěva soudu) — chybí souvislost s výkonem funkce a § 392 by se nepoužil. (b) Místo přísedícího by šlo o **osobu se zdravotním postižením v přípravě na povolání** (odst. 2) — za úraz při přípravě by odpovídal subjekt, u nějž se příprava provádí (chráněná dílna), opět v režimu pracovního úrazu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bez pracovního poměru není pracovní úraz":* stát namítá neexistenci pracovního poměru. Neutralizace: § 392 odst. 1 zakládá odpovědnost právě pro situace mimo pracovní poměr; pracovní poměr není podmínkou.
+- *Protiargument souvislosti s výkonem funkce:* odpůrce může zpochybnit, že úraz vznikl „při výkonu funkce nebo v přímé souvislosti s ní". Neutralizace: doložit časovou, místní a věcnou souvislost (předvolání, konání jednacího dne, prostory soudu).
+- *Slabé místo:* okruh „veřejných funkcí" je vymezen negativně (mimo osoby pod zvláštním zákonem — soudci, státní zástupci, úředníci dle služebního zákona); zařazení konkrétní osoby může být sporné a vyžaduje rozbor zvláštních předpisů.
+
+#### H. Praktický závěr
+
+§ 392 rozšiřuje pracovněprávní odpovědnostní režim na osoby plnící veřejné funkce a odborové funkcionáře (odst. 1, oba směry) a na osoby se zdravotním postižením v přípravě na povolání (odst. 2). Klíčové je vždy určit subjekt, „pro koho byli činni", a souvislost události s výkonem funkce/přípravy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o osobu plnící veřejnou funkci nebo funkcionáře odborové organizace (a není upravena zvláštním zákonem)?
+- [ ] Vznikla škoda/úraz při výkonu funkce nebo v přímé souvislosti s ní?
+- [ ] Kdo je subjektem, „pro koho byli činni" (obec, kraj, stát, odborová organizace)?
+- [ ] U odst. 2: jde o osobu se zdravotním postižením v přípravě na povolání dle zvláštních předpisů, a kdo přípravu provádí?
+- [ ] Uplatnit náhradové instituty § 271a a násl. ZP (úraz) / limity § 257 ZP (škoda způsobená funkcionářem).
+
+**Typicky rozhodné důkazy / podklady:** doklad o ustanovení do funkce / o přípravě na povolání, předvolání / rozvrh činnosti, záznam o úrazu, lékařské posudky, doklad o subjektu odpovědném za škodu, zvláštní předpis upravující postavení dané osoby.
 
 ---
 
@@ -419,6 +604,43 @@ Pro všechny tyto osoby se uplatní:
 
 > **Praktická poznámka:** Dobrovolný hasič JSDH obce, který utrpí úraz při zásahu, má nárok proti obci na plnou náhradu škody podle ZP. Obec je za úraz odpovědná podle § 393 odst. 1; zákonné pojištění odpovědnosti obce za škodu při pracovním úrazu (u České pojišťovny) pokryje plnění (§ 365). Pozor však: současně může nastat **konkurence se zvláštním nárokem podle zákona č. 320/2015 Sb. o HZS ČR** (jednorázové mimořádné odškodnění z rozpočtu Ministerstva vnitra) — oba nároky se v principu nevylučují, ale provádí se započtení podle § 271s a § 271t ZP, aby nedošlo k duplicitnímu plnění.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Člen jednotky sboru dobrovolných hasičů obce (JSDH) byl povolán k zásahu u požáru a při něm utrpěl popáleniny a zlomeninu (dlouhodobá pracovní neschopnost, trvalé následky). Domáhá se po obci náhrady škody jako z pracovního úrazu — náhrady za ztrátu na výdělku, bolestného a ztížení společenského uplatnění. Současně mu bylo z rozpočtu Ministerstva vnitra přiznáno jednorázové mimořádné odškodnění podle zákona o HZS. Obec namítá, že již dostal plnění od státu. Důkazy: rozkaz/záznam o výjezdu JSDH, doklad o členství v jednotce, lékařská dokumentace, doklad o plnění z rozpočtu MV, doklad o zákonném pojištění obce.
+
+**2. Právní otázka.** Má dobrovolný hasič vůči obci nárok na plné odškodnění pracovního úrazu podle § 393 odst. 1 ZP, a jak se k tomuto nároku vztahuje souběžné jednorázové mimořádné odškodnění poskytnuté podle zvláštního předpisu (zákon č. 320/2015 Sb.)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 393 ZP — přiznává status pracovního úrazu osobám mimo pracovní poměr (dobrovolní hasiči, báňské záchranné sbory, osoby na výzvu velitele zásahu, dobrovolní pomocníci obce, členové družstev, dárci krve, členové Horské služby aj.); odpovídá ten, u koho je sbor zřízen / pro koho byli činni.
+- *Související ustanovení téhož zákona:* § 271k ZP (pojem pracovního úrazu); § 271a–271j ZP (náhradové instituty); § 271s, § 271t ZP (zápočet jiných plnění); § 365 ZP (zákonné pojištění odpovědnosti).
+- *Související předpisy:* zákon č. 133/1985 Sb., o požární ochraně (§ 68 — JSDH); zákon č. 320/2015 Sb., o HZS (jednorázové mimořádné odškodnění z rozpočtu MV); zákon č. 239/2000 Sb., o integrovaném záchranném systému.
+- *Judikatura:* nosný závěr — osoby vyjmenované v § 393 požívají při úrazu plné ochrany jako při pracovním úrazu, odpovědný je subjekt, u nějž je sbor zřízen / pro nějž byly činny; souběžná plnění se započítávají, aby nedošlo k duplicitě.
+
+**4. Subsumpce.** Dobrovolný hasič JSDH je osobou podle § 393 odst. 1; úraz vznikl při činnosti ve sboru (zásah). Odpovědným subjektem je obec, u níž je sbor zřízen. Náhrada se řídí instituty § 271a a násl. ZP a je kryta zákonným pojištěním obce (§ 365). Jednorázové mimořádné odškodnění podle zákona č. 320/2015 Sb. má jinou povahu (z rozpočtu MV) — nároky se v principu nevylučují, ale provádí se zápočet podle § 271s a § 271t ZP.
+
+**5. Řešení.** Obec (resp. její pojistitel podle § 365) poskytne hasiči plnou náhradu škody z pracovního úrazu podle § 271a a násl. ZP; souběžné jednorázové mimořádné odškodnění z rozpočtu MV se nezapočítává paušálně, nýbrž jen v rozsahu, v jakém kryje tytéž složky újmy, aby nedošlo k dvojímu plnění (§ 271s, § 271t). Procesně: oznámit škodní událost pojistiteli obce, doložit záznam o úrazu a lékařské posudky, vyčíslit jednotlivé náhradové složky a zohlednit již poskytnutá plnění.
+
+**6. Varianty.** (a) Úraz by utrpěl **dárce krve** při odběru — odpovědným subjektem by bylo zařízení transfúzní služby (odst. 4), nikoli obec. (b) Šlo by o osobu, která pomáhala při povodni jen z vlastní iniciativy bez výzvy a vědomí velitele zásahu — nesplnila by podmínky odst. 2 a nárok na odškodnění pracovního úrazu by jí nevznikl.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „dostal plnění od státu, další nenáleží":* obec namítá konzumpci nároku. Neutralizace: nároky podle § 393 ZP a podle zákona č. 320/2015 Sb. mají odlišný právní základ; vylučuje se jen duplicita téže složky újmy zápočtem (§ 271s, § 271t), nikoli nárok jako celek.
+- *Protiargument absence „pracovního úrazu":* odpůrce tvrdí, že bez pracovního poměru nejde o pracovní úraz. Neutralizace: § 393 je rozšiřujícím ustanovením pojmu pracovního úrazu (§ 271k) právě pro osoby mimo pracovní poměr.
+- *Slabé místo:* u osob podle odst. 2 a 3 je nutné prokázat výzvu / pokyn / vědomí příslušného orgánu nebo velitele zásahu; spontánní výpomoc bez tohoto prvku ochranu nezakládá.
+
+#### H. Praktický závěr
+
+§ 393 přiznává status a odškodnění pracovního úrazu osobám činným ve veřejně prospěšné sféře mimo pracovní poměr. Vždy je třeba určit konkrétní kategorii (odst. 1–4), odpovědný subjekt a u plnění z více titulů provést zápočet, aby nedošlo k duplicitě.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá poškozený do některé kategorie § 393 odst. 1–4 (hasič JSDH, báňský záchranář, osoba na výzvu velitele zásahu, dobrovolník obce, člen družstva, dárce krve, člen Horské služby aj.)?
+- [ ] U odst. 2 a 3: byla dána výzva / pokyn / vědomí příslušného orgánu nebo velitele zásahu?
+- [ ] Kdo je odpovědným subjektem (obec u JSDH; transfúzní zařízení u dárce krve; Horská služba; družstvo; zaměstnavatel, který pověřil)?
+- [ ] Aplikovat náhradové instituty § 271a a násl. ZP a krytí zákonným pojištěním (§ 365).
+- [ ] Provést zápočet souběžných plnění (§ 271s, § 271t) — typicky jednorázové odškodnění dle zákona č. 320/2015 Sb.
+
+**Typicky rozhodné důkazy / podklady:** doklad o členství v jednotce / o činnosti, záznam o úrazu a výjezdu/zásahu, výzva nebo pokyn velitele zásahu, lékařské posudky (bolestné, ZSU), doklad o zákonném pojištění odpovědného subjektu, doklady o souběžných plněních.
+
 ---
 
 ## Hlava I, Díl 2 (Použití ustanovení o náhradě mzdy, platu nebo odměny z dohody o pracovní činnosti při dočasné pracovní neschopnosti — § 393a)
@@ -455,6 +677,42 @@ Pokud dočasná pracovní neschopnost nebo karanténa **vznikla před 1. 1. 2009
 #### Dnešní význam § 393a
 
 Z dnešního pohledu (2026) má § 393a již **jen historickou hodnotu** — všechny DPN započaté před 1. 1. 2009 jsou dávno ukončeny. § 393a však zůstává součástí kodexu, neboť **nelze retroaktivně rušit přechodná ustanovení** — pokud by se objevily dlouhodobé nároky (např. soudní spory o nepřiznané plnění z DPN z roku 2008), § 393a by stále poskytl normativní oporu pro zamítnutí nároku.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanci vznikla dočasná pracovní neschopnost dne 20. prosince 2008 a trvala do 10. února 2009. Zaměstnanec se po letech (ve sporu vyvolaném revizí mzdové agendy) domáhá náhrady mzdy podle § 192–194 ZP za dny PN spadající do období po 1. lednu 2009. Zaměstnavatel namítá, že DPN vznikla před nabytím účinnosti zákona č. 187/2006 Sb. (1. 1. 2009), a náhrada mzdy proto nepřísluší ani za dny po tomto datu. Důkazy: rozhodnutí o dočasné pracovní neschopnosti s datem vzniku, mzdové listy, evidence nepřítomnosti.
+
+**2. Právní otázka.** Přísluší náhrada mzdy podle § 192–194 ZP za dny dočasné pracovní neschopnosti spadající do roku 2009, jestliže sama DPN vznikla ještě v roce 2008 (před účinností zákona o nemocenském pojištění)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 393a ZP — § 57, § 66 odst. 1 věta druhá a § 192–194 se použijí poprvé ode dne účinnosti zákona č. 187/2006 Sb. (odst. 1); vznikla-li DPN/karanténa před tímto dnem, náhrada mzdy podle § 192–194 nepřísluší (odst. 2).
+- *Související ustanovení téhož zákona:* § 192–194 ZP (náhrada mzdy/platu při DPN hrazená zaměstnavatelem); § 57 a § 66 odst. 1 ZP (navazující pravidla).
+- *Související předpisy:* zákon č. 187/2006 Sb., o nemocenském pojištění (účinnost od 1. 1. 2009); zákon č. 262/2006 Sb. v přechodném znění platném pro roky 2007–2008.
+- *Judikatura:* nosný závěr — rozhodné je datum **vzniku** DPN, nikoli datum jednotlivých dnů PN; přechodná pravidla nelze obcházet rozdělením nemoci podle kalendáře.
+
+**4. Subsumpce.** DPN vznikla 20. 12. 2008, tj. před účinností zákona č. 187/2006 Sb. (1. 1. 2009). Podle § 393a odst. 2 ZP proto náhrada mzdy podle § 192–194 nepřísluší po celou dobu této DPN, **včetně dnů spadajících do roku 2009**. Pravidlo je „dělící podle data vzniku DPN", nikoli podle jednotlivých dnů.
+
+**5. Řešení.** Nárok na náhradu mzdy podle § 192–194 ZP se zamítne; za celou DPN započatou v roce 2008 se postupuje podle úpravy účinné před 1. 1. 2009 (nemocenské hradila OSSZ, zaměstnavatel se finančně nepodílel). Procesně: doložit rozhodnutí o DPN s datem vzniku; klíčový je tento jediný údaj.
+
+**6. Varianty.** (a) DPN by vznikla 2. ledna 2009 — pak by se § 192–194 ZP již plně použily a náhrada mzdy za prvních zákonem stanovených dnů by zaměstnanci náležela. (b) Spor by se týkal nikoli náhrady mzdy, ale zákazu okamžitého zrušení v ochranné době (§ 66 odst. 1 věta druhá) — i ten se podle odst. 1 použije až od účinnosti zákona o nemocenském pojištění.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „dny v roce 2009 se řídí novou úpravou":* zaměstnanec tvrdí, že dny PN po 1. 1. 2009 zakládají nárok. Neutralizace: § 393a odst. 2 výslovně váže (ne)vznik nároku na **datum vzniku DPN**, nikoli na jednotlivé dny; cílem je vyhnout se přechodu uprostřed nemoci.
+- *Protiargument dnešní irelevance:* lze namítnout, že ustanovení je „mrtvé". Neutralizace: § 393a stále poskytuje normativní oporu pro zamítnutí dlouhodobě uplatňovaných nároků z DPN z roku 2008; přechodná ustanovení nelze retroaktivně rušit.
+- *Slabé místo:* nárok stojí a padá s prokázáním data vzniku DPN; je-li dokumentace neúplná, je třeba ji doplnit od poskytovatele zdravotních služeb / OSSZ.
+
+#### H. Praktický závěr
+
+§ 393a synchronizuje účinnost povinnosti zaměstnavatele platit náhradu mzdy při DPN (§ 192–194 ZP) s nabytím účinnosti zákona č. 187/2006 Sb. (1. 1. 2009). Rozhodným kritériem je datum vzniku DPN: vznikla-li před 1. 1. 2009, náhrada mzdy podle § 192–194 nepřísluší. Dnes má ustanovení převážně historický význam.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kdy **vznikla** dočasná pracovní neschopnost / byla nařízena karanténa (před, nebo od 1. 1. 2009)?
+- [ ] Při vzniku před 1. 1. 2009: náhrada mzdy podle § 192–194 nepřísluší ani za dny v roce 2009 (odst. 2).
+- [ ] Posuzuje se i aplikace § 57 a § 66 odst. 1 věty druhé až od účinnosti zákona o nemocenském pojištění (odst. 1)?
+- [ ] Je k dispozici rozhodnutí o DPN s jednoznačným datem vzniku?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o dočasné pracovní neschopnosti (datum vzniku), evidence nepřítomnosti, mzdové listy, doklady OSSZ o výplatě nemocenského za rozhodné období.
 
 ---
 
@@ -510,6 +768,43 @@ Většina starých předpisů uvedených v § 394 byla **postupně nahrazena nov
 | Informační systém o platech | NV 289/2002 Sb. | Nahrazeno NV 289/2002 Sb. (zůstává v platnosti) |
 
 § 394 tedy **stále má praktický význam** pro NV č. 495/2001 Sb. (OOPP, mycí prostředky, dezinfekce) — toto nařízení vlády bylo přechodným režimem § 394 udrženo „naživu" až dodnes, i když jeho zmocňovací norma (§ 133a starého ZP) je dávno zrušena. Bez § 394 by NV 495/2001 Sb. ztratilo právní základ.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel poskytl zaměstnanci osobní ochranné pracovní prostředky (OOPP) podle vlastního, velmi úsporného seznamu a odmítá poskytnout mycí a čisticí prostředky s odůvodněním, že „starý" předpis k tomu (nařízení vlády č. 495/2001 Sb.) byl vydán ještě k zákonu č. 65/1965 Sb. a je tedy zrušen. Zaměstnanec (resp. odborová organizace, příp. inspekce práce) tvrdí, že NV č. 495/2001 Sb. dosud platí na základě § 394 ZP a stanoví rozsah a podmínky poskytování OOPP. Důkazy: analýza rizik a vlastní seznam OOPP zaměstnavatele, kategorizace prací, dokumentace o přidělení OOPP, protokol inspekce práce.
+
+**2. Právní otázka.** Je nařízení vlády č. 495/2001 Sb. (OOPP, mycí, čisticí a dezinfekční prostředky) i nadále závazným prováděcím předpisem k § 104 ZP, ačkoli bylo vydáno ke zmocnění v zrušeném zákoně č. 65/1965 Sb.?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 394 ZP — do vydání nových prováděcích předpisů ke zmocněním (mj. § 104 odst. 6 — OOPP) se postupuje podle vyjmenovaných dosavadních předpisů, mezi nimi NV č. 495/2001 Sb. [písm. a)].
+- *Související ustanovení téhož zákona:* § 104 ZP (osobní ochranné pracovní prostředky, mycí a čisticí prostředky); § 105 ZP (evidence úrazů — NV č. 494/2001 Sb. / dnes NV č. 201/2010 Sb.); § 395 ZP (zrušení starého ZP).
+- *Související předpisy:* nařízení vlády č. 495/2001 Sb.; zákon č. 251/2005 Sb., o inspekci práce (sankce za neposkytnutí OOPP); zákon č. 309/2006 Sb. (další požadavky BOZP).
+- *Judikatura:* NSS 10 Ad 18/2016-42 a NSS 6 As 113/2020-42 (citováno výše) — § 394 odst. 2 ZP nebyl zrušen ani po přijetí NOZ; bodová vyhláška, na niž § 394 odst. 2 odkazuje, platí dál. Analogicky platí přežívání i ostatních předpisů uvedených v § 394 (vč. NV č. 495/2001 Sb.), dokud nejsou nahrazeny.
+
+**4. Subsumpce.** NV č. 495/2001 Sb. je výslovně uvedeno v § 394 odst. 1 písm. a) ZP. Pro zmocnění § 104 odst. 6 ZP nebylo dosud vydáno nové nařízení vlády, takže přechodný režim § 394 trvá — NV č. 495/2001 Sb. zůstává účinným prováděcím předpisem. Argument zaměstnavatele o „zrušení spolu se starým ZP" je nesprávný: § 394 tomuto následku právě zabraňuje.
+
+**5. Řešení.** Zaměstnavatel je povinen poskytovat OOPP, mycí, čisticí a dezinfekční prostředky v rozsahu a za podmínek NV č. 495/2001 Sb. ve spojení s § 104 ZP; vlastní úsporný seznam nesmí jít pod tento standard. Neposkytnutí zakládá porušení povinností na úseku BOZP a přestupek dle zákona č. 251/2005 Sb. Procesně: doložit kategorizaci prací a rizik, požadovat dodání OOPP, případně podat podnět oblastnímu inspektorátu práce.
+
+**6. Varianty.** (a) Spor by se týkal **evidence úrazů** — zde už staré NV č. 494/2001 Sb. bylo nahrazeno NV č. 201/2010 Sb., takže přechodný režim § 394 pro tuto oblast doběhl a aplikuje se nový předpis. (b) Vláda by mezitím vydala nové nařízení k § 104 odst. 6 ZP — pak by NV č. 495/2001 Sb. pozbylo přechodné opory § 394 a aplikoval by se nový předpis.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „předpis ke zrušenému zákonu nemůže platit":* zaměstnavatel směšuje zrušení zmocňovacího zákona se zrušením prováděcího předpisu. Neutralizace: § 394 ZP výslovně prodlužuje platnost vyjmenovaných předpisů do vydání nových; soudní praxe (NSS) tento mechanismus potvrzuje.
+- *Protiargument nahrazení novějším předpisem:* u některých oblastí (záznam o úrazu, katalog prací) už nové předpisy existují — je třeba ověřit, zda v dané oblasti přechodný režim ještě trvá, nebo už doběhl.
+- *Slabé místo:* § 394 je „pohyblivý" — jeho dosah se v čase zužuje tím, jak jsou staré předpisy nahrazovány; argumentace musí vycházet z **aktuálního** stavu nahrazení, nikoli z textu z roku 2006.
+
+#### H. Praktický závěr
+
+§ 394 prodlužuje platnost vyjmenovaných prováděcích předpisů vydaných k staršímu ZP až do vydání nových předpisů ke zmocněním nového ZP. Dnes má praktický význam zejména pro NV č. 495/2001 Sb. (OOPP); u jiných oblastí již byly staré předpisy nahrazeny, a přechodný režim tam doběhl.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Které zmocnění nového ZP je dotčeno (§ 104 odst. 6; § 105 odst. 7; § 137 odst. 3; § 189 odst. 6; § 238 odst. 2; § 246 odst. 2 a 4)?
+- [ ] Existuje k tomuto zmocnění již **nový** prováděcí předpis, nebo platí dále starý dle § 394?
+- [ ] U OOPP: aplikovat NV č. 495/2001 Sb. ve spojení s § 104 ZP jako závazný standard.
+- [ ] Nepodkročil zaměstnavatel zákonný rozsah poskytování OOPP / mycích prostředků?
+- [ ] Zvážit podnět inspekci práce (zákon č. 251/2005 Sb.) při neposkytnutí.
+
+**Typicky rozhodné důkazy / podklady:** kategorizace prací a analýza rizik, vnitřní seznam OOPP, dokumentace o přidělení OOPP, NV č. 495/2001 Sb. (a ověření jeho dosud platného znění), protokol inspekce práce.
 
 ---
 
@@ -632,6 +927,43 @@ Zrušení 61 předpisů by mohlo vyvolat **rozsáhlé právní vakuum**, kdyby n
 
 § 395 je **tvrdá norma** — zrušuje předpisy zcela, bez výjimky a bez podmínek. Jakákoliv „přežívající" aplikace zrušených předpisů je možná **pouze na základě výslovného zákonného ustanovení** (typicky § 365, § 394, § 364 odst. 2 a 4–6). Mimo tyto výjimky nelze zrušené předpisy nadále aplikovat ani analogicky, ani jako pomůcku výkladu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ve sporu o náhradu za ztrátu na výdělku z pracovního úrazu z roku 1988 (renta vyplácená dodnes) zaměstnavatel argumentuje analogickým použitím jednoho z předpisů zrušených § 395 ZP (např. vyhlášky č. 75/1967 Sb. o náhradě za ztrátu na výdělku po skončení pracovní neschopnosti u některých nemocí z povolání), aby snížil výši plnění. Poškozený namítá, že tento předpis byl § 395 ZP zrušen a nelze jej aplikovat ani analogicky, není-li jeho přežití výslovně zachováno (např. § 365 nebo § 394 ZP). Důkazy: doklady o úrazu z roku 1988, dosavadní rozhodnutí o rentě, znění § 395 ZP, přehled přežívajících ustanovení.
+
+**2. Právní otázka.** Lze předpis výslovně zrušený § 395 ZP nadále aplikovat (byť jen analogicky nebo jako výkladovou pomůcku), pokud jeho přežití nezachovává žádné zvláštní ustanovení (§ 364 odst. 4–6, § 365, § 394 ZP)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 395 ZP — taxativní zrušení 61 právních předpisů, vč. zákona č. 65/1965 Sb. a navazujících mzdových, cestovních a prováděcích předpisů.
+- *Související ustanovení téhož zákona:* § 364 odst. 2 a 4–6 ZP (přežívající aplikace dosavadních předpisů pro dokonané úkony a staré úrazy); § 365 ZP (přežití § 205d starého ZP); § 394 ZP (přežití vyjmenovaných prováděcích předpisů); § 271u ZP (valorizace náhrady za ztrátu na výdělku).
+- *Související předpisy:* navazující předpisy účinné od 1. 1. 2007 (NV č. 567/2006 Sb. o minimální mzdě, NV č. 564/2006 Sb. o platových poměrech aj.), které zrušené předpisy nahradily.
+- *Judikatura:* nosný závěr — zrušený předpis lze aplikovat jen tam, kde to výslovně připouští přechodné ustanovení; mimo tyto výjimky nelze zrušený předpis použít ani analogicky.
+
+**4. Subsumpce.** Předpis, na nějž se zaměstnavatel odvolává, je v § 395 ZP uveden mezi zrušenými. Jeho přežití nezachovává žádné zvláštní ustanovení (nejde o § 205d dle § 365, ani o předpis vyjmenovaný v § 394, ani o dokonaný úkon dle § 364 odst. 2). Pro nárok z úrazu z roku 1988 se uplatní dosavadní **hmotné právo platné v době vzniku úrazu** podle § 364 odst. 4–6 (zejména starý ZP a tehdejší prováděcí předpisy o náhradě škody), avšak valorizace se řídí nařízeními vlády vydanými již podle nového ZP (§ 271u).
+
+**5. Řešení.** Soud odmítne aplikaci zrušeného předpisu mimo výslovně zachované výjimky. Pro starou rentu se použije dosavadní hmotněprávní úprava náhrady (§ 364 odst. 4–6 ve spojení s předpisy platnými v době úrazu), valorizace podle aktuálního nařízení vlády (§ 271u ZP). Procesně: vymezit, který předpis byl v době úrazu účinný a zda jeho aplikaci nezachovává § 364 odst. 4–6; valorizaci doložit platným nařízením vlády.
+
+**6. Varianty.** (a) Šlo by o aplikaci § 205d starého ZP (zákonné pojištění) — zde § 365 ZP přežití výslovně zachoval a předpis se použije. (b) Šlo by o prováděcí předpis vyjmenovaný v § 394 ZP (např. NV č. 495/2001 Sb.) — i ten by se použil díky přechodnému režimu, dokud nebude nahrazen.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „analogie zrušeného předpisu":* zaměstnavatel tvrdí, že zrušený předpis lze použít jako výkladovou pomůcku. Neutralizace: § 395 je tvrdá zrušovací norma; přežívající aplikace je možná jen na základě výslovného ustanovení (§ 364 odst. 4–6, § 365, § 394), jinak je vyloučena i analogie.
+- *Protiargument kontinuity náhrady:* odpůrce může směšovat hmotněprávní základ nároku (dosavadní právo dle § 364 odst. 4–6) s valorizací (nová nařízení vlády). Neutralizace: rozlišit tyto dvě roviny — jádro nároku podle starého práva, valorizace podle § 271u ZP.
+- *Slabé místo:* u velmi starých nároků je třeba přesně rekonstruovat, který předpis byl v době úrazu účinný; chybná identifikace vede k nesprávnému výpočtu.
+
+#### H. Praktický závěr
+
+§ 395 je tvrdé zrušovací ustanovení rušící celý komplex 61 pracovněprávních předpisů z let 1965–2005. Přežívající aplikace zrušeného předpisu je možná jen tam, kde to výslovně připouští jiné přechodné ustanovení (§ 364 odst. 2 a 4–6, § 365, § 394 ZP); mimo ně nelze zrušený předpis použít ani analogicky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dotčený předpis uveden v taxativním výčtu § 395 (tj. zrušen)?
+- [ ] Existuje výslovné ustanovení zachovávající jeho přežití (§ 364 odst. 2 / odst. 4–6, § 365, § 394)?
+- [ ] Pokud ne: zrušený předpis nelze aplikovat ani analogicky — najít navazující účinný předpis.
+- [ ] U starých úrazů/nemocí: oddělit hmotněprávní základ (dosavadní právo) od valorizace (nařízení vlády dle § 271u ZP).
+- [ ] Ověřit, který předpis byl účinný v rozhodné době vzniku nároku.
+
+**Typicky rozhodné důkazy / podklady:** znění § 395 ZP, přehled přežívajících ustanovení (§ 364, § 365, § 394), doklady o vzniku nároku a rozhodné době, dosavadní rozhodnutí/dohody, aktuální nařízení vlády o valorizaci.
+
 ---
 
 ### § 396 — Účinnost
@@ -667,6 +999,43 @@ V současném (konsolidovaném) znění ZP je § 238 odst. 1 již **bez tohoto p
 #### Význam § 396 odst. 2 dnes
 
 Z dnešního pohledu má § 396 odst. 2 **pouze historicko-srovnávací hodnotu** — zachycuje moment přechodu od starého paternalistického přístupu („ochrana žen prostřednictvím zákazu") k modernímu antidiskriminačnímu přístupu („ochrana před skutečnými riziky pro reprodukční zdraví bez ohledu na pohlaví, s výjimkou těhotenství a kojení"). Ustanovení dokumentuje, jakým způsobem zákonodárce v roce 2006 anticipoval budoucí dereformu mezinárodního závazku.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Důlní společnost chce v roce 2007 zaměstnat ženu (důlní inženýrku) na práci v podzemí hlubinného dolu. Personální oddělení se ptá, zda platí zákaz zaměstnávání žen podzemními pracemi. V téže době (jaro 2008) probíhá řízení o vypovězení Úmluvy MOP č. 45. Sporné je, od kdy přesně přestal pro ženu platit plošný zákaz podle § 238 odst. 1 ZP. Důkazy: pracovní zařazení a popis prací v podzemí, znění Úmluvy MOP č. 45 (č. 441/1990 Sb.), doklad o datu účinnosti vypovězení úmluvy, znění § 238 odst. 1 ZP před a po změně.
+
+**2. Právní otázka.** Ke kterému okamžiku pozbylo § 238 odst. 1 ZP (v původním znění s plošným zákazem ženských podzemních prací) platnosti — a jaký režim zaměstnávání žen podzemními pracemi platí po tomto okamžiku podle § 396 odst. 2 ZP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 396 ZP — účinnost zákona k 1. 1. 2007 (odst. 1); § 238 odst. 1 pozbývá platnosti dnem účinnosti vypovězení Úmluvy MOP č. 45 (odst. 2).
+- *Související ustanovení téhož zákona:* § 238 odst. 1 ZP (zákaz prací ohrožujících mateřství); § 246 odst. 1 ZP (zákaz podzemních prací pro mladistvé — zachován); § 363 ZP (eurokonformní výklad ustanovení o ochraně těhotných a kojících).
+- *Související předpisy:* Úmluva MOP č. 45 (č. 441/1990 Sb.); směrnice 76/207/EHS, nyní 2006/54/ES (rovné zacházení mužů a žen); vyhláška č. 288/2003 Sb., posléze vyhláška č. 180/2015 Sb. (zakázané práce a pracoviště).
+- *Judikatura:* SDEU C-203/03 *Komise proti Rakousku* — plošný zákaz zaměstnávat ženy podzemními pracemi je v rozporu se zásadou rovného zacházení mužů a žen.
+
+**4. Subsumpce.** § 238 odst. 1 ZP v původním znění obsahoval plošný zákaz, jehož mezinárodním podkladem byla Úmluva MOP č. 45. Podle § 396 odst. 2 ZP toto ustanovení pozbylo platnosti **dnem účinnosti vypovězení úmluvy** (po uplynutí roční čekací lhůty MOP, přede dnem 30. května 2008). Po tomto okamžiku již plošný zákaz neplatí; zákaz se vztahuje jen na konkrétní rizikové práce vymezené prováděcím předpisem, bez kategorického omezení podle pohlaví (krom ochrany těhotenství a kojení).
+
+**5. Řešení.** Před účinností vypovězení úmluvy plošný zákaz pro ženu trval; po něm lze ženu na podzemní práci zaměstnat za podmínky, že nejde o práci zakázanou prováděcím předpisem z důvodu ochrany mateřství (těhotenství, kojení). Procesně: zjistit přesné datum účinnosti vypovězení Úmluvy MOP č. 45; posoudit konkrétní práci podle aktuální vyhlášky o zakázaných pracích (dnes vyhláška č. 180/2015 Sb.); u těhotné/kojící zaměstnankyně uplatnit zvláštní omezení.
+
+**6. Varianty.** (a) Šlo by o **mladistvého** zaměstnance — zákaz podzemních prací zůstává zachován podle § 246 odst. 1 ZP bez ohledu na vypovězení úmluvy. (b) Zaměstnankyně by byla těhotná nebo kojící — i po zrušení plošného zákazu platí zákaz konkrétních prací ohrožujících mateřství (§ 238 odst. 1 v platném znění a prováděcí vyhláška).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zákaz platí, dokud existuje úmluva":* odpůrce tvrdí, že dokud ČR úmluvu neměla vypovězenou, plošný zákaz trval. To je pro období **do** účinnosti vypovězení správné; § 396 odst. 2 však výslovně váže pozbytí platnosti § 238 odst. 1 na den účinnosti vypovězení — po něm zákaz odpadá.
+- *Protiargument kolize mezinárodního a unijního práva:* před vypovězením úmluvy existoval rozpor mezi závazkem z MOP č. 45 a zásadou rovného zacházení (SDEU C-203/03). Neutralizace: kolizi vyřešil sám zákonodárce vypovězením úmluvy, čímž § 238 odst. 1 v plošné podobě zanikl.
+- *Slabé místo:* přesné datum účinnosti vypovězení je rozhodující a je třeba je doložit; rovněž je nutné odlišit zánik plošného zákazu od trvajících zákazů na ochranu mateřství a mladistvých.
+
+#### H. Praktický závěr
+
+§ 396 stanoví účinnost zákoníku práce k 1. 1. 2007 (odst. 1) a obsahuje zvláštní pravidlo, podle nějž § 238 odst. 1 ZP pozbyl platnosti dnem účinnosti vypovězení Úmluvy MOP č. 45 (odst. 2). Tím se přešlo od plošného zákazu ženských podzemních prací k antidiskriminačnímu modelu (zákaz jen konkrétních rizikových prací, ochrana mateřství a mladistvých). Dnes má odst. 2 převážně historicko-srovnávací hodnotu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posuzuje se situace před, nebo po účinnosti vypovězení Úmluvy MOP č. 45 (přede dnem 30. 5. 2008)?
+- [ ] Po tomto datu: plošný zákaz ženských podzemních prací neplatí — aplikovat aktuální vyhlášku o zakázaných pracích (vyhláška č. 180/2015 Sb.).
+- [ ] Jde o těhotnou/kojící zaměstnankyni? Pak platí zvláštní zákaz prací ohrožujících mateřství (§ 238 odst. 1 v platném znění).
+- [ ] Jde o mladistvého? Zákaz podzemních prací trvá podle § 246 odst. 1 ZP.
+- [ ] Ověřit účinnost zákona jako celku (1. 1. 2007, odst. 1) pro intertemporální posouzení.
+
+**Typicky rozhodné důkazy / podklady:** popis konkrétní práce v podzemí, doklad o datu účinnosti vypovězení Úmluvy MOP č. 45, znění § 238 odst. 1 ZP v rozhodné době, aktuální vyhláška o zakázaných pracích, u zaměstnankyně doklad o těhotenství/kojení.
 
 ---
 

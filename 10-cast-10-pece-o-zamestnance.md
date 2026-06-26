@@ -39,6 +39,42 @@ Specifickou kategorií je odměna **při prvním skončení pracovního poměru*
 
 Odst. 2 byl rovněž historicky vykládán v souvislosti se **zákazem poskytování jiných peněžitých plnění zaměstnancům nesouvisejících s výkonem práce** — ustanovení slouží jako vodítko k rozlišení, které benefity jsou v souladu s principem rovného zacházení a zákazem diskriminace (§§ 16, 110 ZP) a které by mohly být problematické.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský úřad (organizační složka — příspěvková organizace) zařadil úřednici jako referentku do kanceláře vybavené pouze sdíleným počítačem; brýle na zrakovou náročnost u monitoru, ergonomickou klávesnici a samostatný telefon si zaměstnankyně pořídila sama a žádá proplacení. Současně z FKSP úřad zaměstnankyni odmítl poskytnout příspěvek na monitor s odkazem, že „není kapacita". Účastníci: zaměstnavatel (příspěvková organizace), zaměstnankyně, vedoucí ekonom. Důkazy: pracovní smlouva (druh práce), kategorizace práce podle zákona o ochraně veřejného zdraví, doklad o nákupu pomůcek, vnitřní předpis o FKSP.
+
+**2. Právní otázka.** Které vybavení musí zaměstnavatel hradit z vlastních prostředků podle § 224 odst. 1 jako součást „pracovních podmínek umožňujících bezpečný výkon práce", a co naopak smí (či nesmí) být pořizováno z FKSP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 224 odst. 1 — povinnost vytvářet pracovní podmínky pro bezpečný výkon práce a zajišťovat pracovnělékařské služby.
+- *Související ustanovení téhož zákona:* §§ 101 a násl. (prevence BOZP rozvádějící odst. 1), § 269 (objektivní odpovědnost za pracovní úraz/nemoc z povolání), § 225 (spolurozhodování o FKSP).
+- *Související předpisy:* zákon č. 309/2006 Sb. (další podmínky BOZP), zákon č. 373/2011 Sb. (pracovnělékařské služby, §§ 53 a násl.), zákon č. 218/2000 Sb. / § 60 (FKSP), vyhláška č. 114/2002 Sb. o FKSP.
+- *Judikatura:* NSS 8 Afs 80/2025-54 — vybavení sloužící primárně k výkonu práce hradí zaměstnavatel z vlastních prostředků podle § 224 odst. 1, nikoli z FKSP, který slouží jen k nadstandardu péče; okruh se liší podle konkrétního pracovního zařazení.
+
+**4. Subsumpce.** Monitor, ergonomická klávesnice a brýle pro práci u zobrazovací jednotky jsou prostředky sloužící primárně k výkonu sjednané práce a k její bezpečnosti — spadají tedy pod „pracovní podmínky umožňující bezpečný výkon práce" (§ 224 odst. 1) a musí být hrazeny z prostředků zaměstnavatele. Naopak FKSP (nadstandard) na ně nesmí být použit. Sporné je, zda telefon je „pracovním" prostředkem — záleží na tom, zda druh práce vyžaduje telefonický kontakt.
+
+**5. Řešení.** Zaměstnankyně má nárok na proplacení pracovních pomůcek nutných k bezpečnému výkonu práce (monitor, ergonomická klávesnice, brýle pro práci u monitoru v rozsahu daném pracovnělékařskou službou) z prostředků zaměstnavatele, a to bez ohledu na stav FKSP. Procesně: vznese nárok písemně, doloží doklady, při odmítnutí se obrátí na inspektorát práce, případně podá žalobu na náhradu vynaložených nákladů. Riziko: hranice „primárně k výkonu práce" je sporná u věcí dvojího užití (chytrý telefon).
+
+**6. Varianty.** (a) Šlo-li by o relaxační masážní křeslo do odpočinkové místnosti, jde o nadstandard — lze hradit z FKSP, nikoli povinně ze zdrojů zaměstnavatele. (b) Pořídila-li by si zaměstnankyně dražší designovou variantu pomůcky nad nezbytný standard, nárok je jen do výše nezbytných nákladů.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že vybavení je „komfortní", nikoli nezbytné.* Neutralizace: rozhodující je, zda věc slouží primárně výkonu práce a její bezpečnosti (NSS 8 Afs 80/2025-54); u zobrazovacích jednotek a brýlí navíc nastupují požadavky BOZP a pracovnělékařských služeb — nejde o komfort, ale o zákonný standard.
+- *Námitka rozpočtového omezení („není kapacita FKSP").* Neutralizace: povinnost podle § 224 odst. 1 je nezávislá na FKSP; nedostatek fondu nemůže být důvodem k nezajištění bezpečných pracovních podmínek.
+- *Slabé místo:* u věcí dvojího užití (telefon, oděv) je hranice mezi pracovním prostředkem a osobní potřebou neostrá — nárok je nutné individualizovat podle konkrétního druhu práce.
+
+#### H. Praktický závěr
+
+§ 224 odst. 1 ukládá zaměstnavateli z vlastních prostředků zajistit vše, co primárně slouží bezpečnému výkonu sjednané práce a pracovnělékařské služby; nadstandard se řeší přes FKSP/sociální fond (§ 225). Fakultativní odměny (odst. 2) jsou právem, nikoli povinností, a musí respektovat zákaz diskriminace.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Slouží sporná věc primárně k výkonu práce a jeho bezpečnosti, nebo jde o nadstandard?
+- [ ] Je vstupní/periodická pracovnělékařská prohlídka zajištěna a hrazena podle pravidel?
+- [ ] Pochází plnění z prostředků zaměstnavatele (§ 224/1), nebo z FKSP (§ 225)?
+- [ ] U odměn podle odst. 2: je dodržen princip rovného zacházení (§ 16, § 110)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva s druhem práce, kategorizace práce, doklady o nákladech, vnitřní předpis o FKSP/sociálním fondu, posudek pracovnělékařské služby.
+
 ---
 
 ### § 225 — Spolurozhodování o FKSP s odborovou organizací
@@ -59,6 +95,42 @@ Odst. 2 byl rovněž historicky vykládán v souvislosti se **zákazem poskytov�
 
 Není-li u zaměstnavatele odborová organizace, není koho do spolurozhodování zapojit; zaměstnavatel rozhoduje sám, neboť rada zaměstnanců ani zástupce pro BOZP nemají k FKSP zákonné kompetence (jejich oprávnění se omezují na § 281 ZP — informování a projednání).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ředitel městské příspěvkové organizace (vytvářející FKSP) sám, bez souhlasu odborové organizace působící u zaměstnavatele, schválil roční rozpočet čerpání FKSP a vyplatil z něj příspěvky na rekreaci jen vedoucím pracovníkům. Odborová organizace namítá, že rozhodnutí je neplatné, neboť o čerpání FKSP se má spolurozhodovat. Účastníci: zaměstnavatel (příspěvková organizace), základní odborová organizace, dotčení zaměstnanci. Důkazy: zápis o (ne)projednání s odbory, vnitřní předpis/zásady FKSP, doklady o čerpání.
+
+**2. Právní otázka.** Je rozhodnutí zaměstnavatele o přídělu do FKSP a o jeho čerpání platné, bylo-li učiněno bez souhlasu odborové organizace, ač u zaměstnavatele odborová organizace působí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 225 — spolurozhodování (codecisio) s odborovou organizací o přídělu do FKSP a o jeho čerpání.
+- *Související ustanovení téhož zákona:* §§ 279, 280 (informování a projednání jako slabší formy účasti), § 281 (oprávnění rady zaměstnanců — bez kompetence k FKSP), § 286 (působení odborové organizace).
+- *Související předpisy:* zákon č. 218/2000 Sb. a č. 250/2000 Sb. (rozpočtová pravidla), vyhláška č. 114/2002 Sb. o FKSP.
+- *Judikatura:* obecně přijímaný závěr, že u spolurozhodování je souhlas odborů hmotněprávní podmínkou platnosti právního jednání zaměstnavatele (na rozdíl od projednání, kde postačí dát příležitost vyjádřit se).
+
+**4. Subsumpce.** U zaměstnavatele odborová organizace působí → naplněna hypotéza § 225. Příděl i čerpání FKSP spadají pod předmět spolurozhodování. Souhlas odborů nebyl dán → chybí podmínka platnosti. Sporné může být, zda dílčí výplata je samostatným jednáním, nebo součástí schváleného rozpočtu.
+
+**5. Řešení.** Schválení rozpočtu čerpání i jednotlivé výplaty bez souhlasu odborové organizace jsou stiženy vadou (neplatností) pro absenci spolurozhodování; odbory se mohou domáhat zdržení se čerpání a nápravy, zaměstnavatel má rozpočet projednat a schválit společně s odbory. Procesně: odborová organizace uplatní námitku, případně žalobu; výběrové zvýhodnění jen vedoucích navíc zakládá riziko porušení rovného zacházení.
+
+**6. Varianty.** (a) Pokud by u zaměstnavatele žádná odborová organizace nepůsobila, rozhoduje zaměstnavatel sám (rada zaměstnanců ani zástupce pro BOZP k FKSP kompetenci nemají). (b) Šlo-li by o soukromého zaměstnavatele se „sociálním fondem" podle vnitřního předpisu, § 225 se neuplatní a režim určuje vnitřní předpis.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že šlo jen o „projednání", které proběhlo.* Neutralizace: § 225 výslovně užívá institut spolurozhodování, tedy vyžaduje souhlas, nikoli pouhé projednání podle §§ 279–280.
+- *Námitka, že odbory souhlas bezdůvodně odpírají a blokují provoz fondu.* Neutralizace: řešením je vyjednávání a případně postup podle zásad FKSP/kolektivní smlouvy; jednostranné obejití spolurozhodování však platnost nezaloží.
+- *Slabé místo:* zákon přesně nestanoví procesní následek absence souhlasu (zda absolutní, či relativní neplatnost) — argumentace musí vyjít z povahy spolurozhodování a z rozpočtových pravidel.
+
+#### H. Praktický závěr
+
+§ 225 je jednou z mála situací silné účasti odborů — souhlas odborové organizace je podmínkou platného rozhodnutí o přídělu do FKSP i o jeho čerpání. Týká se jen subjektů vytvářejících FKSP (stát, ÚSC a jimi zřizované příspěvkové organizace), nikoli soukromých zaměstnavatelů.
+
+**Checklist (advokát / soud / zaměstnavatel / odbory):**
+- [ ] Vytváří zaměstnavatel FKSP podle zvláštního předpisu (jde o veřejný sektor)?
+- [ ] Působí u zaměstnavatele odborová organizace?
+- [ ] Byl k přídělu i k čerpání FKSP udělen souhlas odborů (spolurozhodování), ne jen projednání?
+- [ ] Je čerpání v souladu se zásadami rovného zacházení (§ 16)?
+
+**Typicky rozhodné důkazy / podklady:** zásady/statut FKSP, kolektivní smlouva, zápisy z jednání s odborovou organizací, doklady o přídělu a čerpání fondu.
+
 ---
 
 ### § 226 — Úschova osobních věcí
@@ -74,6 +146,42 @@ Není-li u zaměstnavatele odborová organizace, není koho do spolurozhodován�
 § 226 zakládá **specifickou prevenční povinnost** zaměstnavatele zajistit úschovu věcí, které zaměstnanec **obvykle** nosí do zaměstnání. Pojem „obvykle" je třeba vykládat objektivně: jde o věci přiměřené povaze pracoviště, povolání a vnějším okolnostem (zimní svršky, deštníky, obyčejné mobilní telefony, peněženky obvyklé hodnoty, dokumenty osobní povahy). **Nezahrnuje** mimořádně cenné věci (klenoty, drahé hodinky, větší peněžní obnosy nesouvisející s výkonem práce, sportovní vybavení), pokud zaměstnavatel takovou úschovu výslovně neumožnil.
 
 Splnění této povinnosti se typicky realizuje zřízením **šaten s uzamykatelnými skříňkami**, kanceláří s uzamykatelnými stoly, případně centrální úschovny. Porušení § 226 zakládá objektivní odpovědnost zaměstnavatele za škodu na věcech podle § 267 ZP — odpovědnost za škodu na odložených věcech, která je **bezvýhradná u věcí obvyklých** a omezená u věcí, jež zaměstnanec do zaměstnání obvykle nenosí (do výše 10 000 Kč, nepřevzal-li je zaměstnavatel do zvláštní úschovy).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanci kanceláře byla v zaměstnání ze zamčené šatní skříňky odcizena zimní bunda a peněženka s 1 500 Kč; současně mu zmizely drahé hodinky v hodnotě 60 000 Kč, které toho dne výjimečně přinesl do práce a nechal v zásuvce stolu. Zaměstnavatel poskytl jen uzamykatelné skříňky v šatně, kam zaměstnankyně/zaměstnanci odkládali svršky. Účastníci: zaměstnanec (poškozený), zaměstnavatel. Důkazy: oznámení škodní události, fotodokumentace skříňky a stopy násilného vniknutí, doklady o hodnotě věcí, svědci o obvyklém odkládání věcí.
+
+**2. Právní otázka.** Za které z odcizených věcí odpovídá zaměstnavatel z titulu porušení povinnosti zajistit bezpečnou úschovu věcí, jež zaměstnanec obvykle nosí do zaměstnání (§ 226), a v jakém rozsahu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 226 — povinnost zajistit bezpečnou úschovu svršků a osobních předmětů obvykle nošených do zaměstnání.
+- *Související ustanovení téhož zákona:* § 267 (objektivní odpovědnost za škodu na odložených věcech — bezvýhradná u věcí obvyklých, limit 10 000 Kč u věcí neobvyklých nepřevzatých do zvláštní úschovy), § 268 (uplatnění práva), § 224 odst. 1 (obecná prevence).
+- *Související předpisy:* § 2945 OZ (odpovědnost za odložené věci — obecný režim jako interpretační vodítko).
+- *Judikatura:* ustálená praxe rozlišuje věci „obvyklé" (plná objektivní odpovědnost) a věci mimořádně cenné nepřevzaté do zvláštní úschovy (limit).
+
+**4. Subsumpce.** Zimní bunda a peněženka obvyklé hodnoty jsou věcmi, které zaměstnanec do zaměstnání obvykle nosí → plná objektivní odpovědnost (§ 226 ve spojení s § 267 odst. 1). Drahé hodinky (60 000 Kč) jsou věcí mimořádné hodnoty, kterou zaměstnanec obvykle nenosí; nebyla-li převzata do zvláštní úschovy, odpovědnost je omezena (§ 267 odst. 2 — do 10 000 Kč). Splnění povinnosti zajistit „bezpečnou" úschovu je sporné, pokrývá-li skříňka jen svršky.
+
+**5. Řešení.** Zaměstnavatel odpovídá v plné výši za bundu a peněženku obvyklé hodnoty; za hodinky jen do limitu (10 000 Kč), nepřevzal-li je výslovně do zvláštní úschovy. Procesně: zaměstnanec ohlásí škodu bez zbytečného odkladu (zpravidla do 15 dnů od zjištění), doloží hodnotu a okolnosti odložení; zaměstnavatel se nemůže zprostit objektivní odpovědnosti u věcí obvyklých.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel pro cenné věci zřídil trezor/zvláštní úschovu a zaměstnanec ji nevyužil, odpovědnost za hodinky by byla vyloučena/omezena dle podmínek úschovy. (b) Kdyby šlo o pracovní notebook, šlo by spíše o věc svěřenou k výkonu práce a režim by se posuzoval podle pravidel o náhradě škody na svěřených hodnotách, nikoli § 226.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že povinnost splnil zřízením skříněk.* Neutralizace: povinnost je „zajistit bezpečnou úschovu" — pouhé skříňky bez reálné ochrany (snadno vypáčitelné) nemusí standard naplnit; rozhodující je faktická bezpečnost úschovy obvyklých věcí.
+- *Námitka spoluzavinění zaměstnance (neuzamkl skříňku).* Neutralizace: u prokázaného spoluzavinění se náhrada poměrně krátí (§ 270 ZP), nezaniká však objektivní odpovědnost za obvyklé věci.
+- *Slabé místo:* pojem „obvykle nosí" je hodnotový a závisí na povaze pracoviště a na prokázání, co zaměstnanec do práce skutečně běžně nosil.
+
+#### H. Praktický závěr
+
+§ 226 ukládá zaměstnavateli zajistit bezpečnou úschovu obvyklých věcí a je hmotněprávním základem objektivní odpovědnosti za škodu na odložených věcech (§ 267). U mimořádně cenných věcí je odpovědnost limitovaná, ledaže byly převzaty do zvláštní úschovy.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Jde o věc, kterou zaměstnanec do zaměstnání obvykle nosí (obvyklá hodnota)?
+- [ ] Zajistil zaměstnavatel reálně bezpečné místo úschovy (nejen formálně)?
+- [ ] U cenné věci: byla převzata do zvláštní úschovy (trezor)?
+- [ ] Ohlásil poškozený škodu včas a doložil hodnotu i okolnosti odložení?
+
+**Typicky rozhodné důkazy / podklady:** protokol o škodní události, fotodokumentace místa úschovy a poškození, doklady o hodnotě věcí, svědecké výpovědi, vnitřní pravidla o úschově/trezoru.
 
 ---
 
@@ -108,6 +216,42 @@ Splnění této povinnosti se typicky realizuje zřízením **šaten s uzamykate
 
 Klíčová **systémová odlišnost** mezi prohlubováním a zvyšováním kvalifikace je vodítkem pro řešení mnoha praktických otázek (kdo hradí kurs, zda jde o výkon práce nebo o překážku v práci, zda lze sjednat kvalifikační dohodu, zda lze účast uložit). Demarkační kritérium spočívá v tom, zda dochází ke **změně hodnoty kvalifikace** (zvyšování) nebo jen k jejímu udržování/doplňování v rámci téže úrovně (prohlubování) — viz §§ 230 odst. 1 a 231 odst. 1.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní podnik zavádí novou robotizovanou linku a chce u dosavadního operátora „proškolení" na její obsluhu. Spor je o to, zda jde o prohlubování kvalifikace (výkon práce, hradí zaměstnavatel, lze uložit), nebo o zvyšování kvalifikace (překážka v práci s náhradou mzdy), případně o zaškolení podle § 228. Účastníci: zaměstnavatel, operátor, personalista. Důkazy: popis sjednaného druhu práce, obsah a délka přípravy, certifikát/osvědčení, zda se mění úroveň kvalifikace.
+
+**2. Právní otázka.** Pod kterou ze čtyř kategorií odborného rozvoje (§ 227) konkrétní vzdělávací akce spadá a jaké z toho plynou důsledky pro úhradu nákladů, povahu doby (výkon práce vs. překážka) a možnost uložení účasti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 227 — demonstrativní katalog čtyř forem odborného rozvoje (zaškolení/zaučení, odborná praxe absolventů, prohlubování, zvyšování kvalifikace).
+- *Související ustanovení téhož zákona:* § 228 (zaškolení), § 229 (praxe absolventů), § 230 (prohlubování — výkon práce, hradí zaměstnavatel), §§ 231–233 (zvyšování — překážka v práci s náhradou mzdy), §§ 234–235 (kvalifikační dohoda).
+- *Související předpisy:* zvláštní předpisy o celoživotním vzdělávání profesí (zákon č. 95/2004 Sb. aj.).
+- *Judikatura:* demarkační kritérium „změna hodnoty kvalifikace" (zvyšování) versus „udržení/doplnění bez změny podstaty" (prohlubování) — viz výklad u § 230 a § 231.
+
+**4. Subsumpce.** Zařazení akce závisí na tom, zda se mění podstata/hodnota kvalifikace. Školení obsluhy nového stroje téhož typu výroby u dosavadního operátora podstatu kvalifikace nemění → prohlubování (§ 230) = výkon práce, hradí zaměstnavatel, lze uložit. Pokud by linka vyžadovala získání nové formální kvalifikace/oprávnění zvedající úroveň, šlo by o zvyšování (§ 231). Zaškolení (§ 228) by se uplatnilo u nového/převáděného zaměstnance.
+
+**5. Řešení.** Správné zařazení je výchozím krokem pro vše ostatní: u prohlubování zaměstnavatel účast uloží jako pracovní pokyn, hradí náklady a doba je výkonem práce (přesah mimo pracovní dobu = přesčas). Procesně: zaměstnavatel doloží obsah a účel přípravy a zařadí ji do plánu vzdělávání; chybné zařazení jako „zvyšování" by zbytečně aktivovalo režim náhrady mzdy a vyloučilo možnost uložit účast.
+
+**6. Varianty.** (a) Kdyby školení vedlo k získání svářečského/jeřábnického oprávnění, které operátor dosud neměl a které posouvá jeho kvalifikaci, šlo by o zvyšování. (b) Kdyby šlo o nově přijatého pracovníka bez kvalifikace, nastoupil by režim zaškolení podle § 228 (výkon práce).
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnanec namítne, že jde o zvyšování kvalifikace (chce náhradu mzdy a kvalifikační dohodu).* Neutralizace: rozhodující je, zda se mění podstata/hodnota kvalifikace; pouhé osvojení obsluhy nového nástroje v rámci téhož druhu práce je prohlubováním.
+- *Zaměstnavatel zařadí jako „prohlubování" i akci fakticky zvyšující kvalifikaci, aby ji mohl uložit.* Neutralizace: zařazení je objektivní, nikoli na vůli stran; soud posoudí materiální obsah přípravy.
+- *Slabé místo:* hraniční případy (kombinace doplnění i posunu kvalifikace) vyžadují individuální posouzení a mohou být sporné.
+
+#### H. Praktický závěr
+
+§ 227 je klasifikační normou: správné zařazení akce do jedné ze čtyř kategorií předurčuje úhradu nákladů, povahu doby (výkon práce vs. překážka) a možnost uložit účast. Demarkační kritérium je materiální — změna hodnoty/podstaty kvalifikace.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Mění akce podstatu/hodnotu kvalifikace (zvyšování), nebo ji jen udržuje/doplňuje (prohlubování)?
+- [ ] Jde o nově nastupujícího/převáděného zaměstnance bez kvalifikace (zaškolení § 228)?
+- [ ] Jde o absolventa do 2 let praxe (§ 229)?
+- [ ] Plynou ze zařazení správné důsledky pro náklady, povahu doby a možnost uložení?
+
+**Typicky rozhodné důkazy / podklady:** popis druhu práce, obsah a rozsah vzdělávací akce, osvědčení/certifikát, plán vzdělávání, doklad o (ne)změně formální kvalifikace.
+
 ---
 
 ### § 228 — Zaškolení a zaučení
@@ -131,6 +275,42 @@ Klíčová **systémová odlišnost** mezi prohlubováním a zvyšováním kvali
 #### Pracovněprávní povaha
 
 Klíčovým systémovým rysem § 228 je, že **zaškolení/zaučení se považuje za výkon práce** (fictio iuris) — zaměstnanci tedy přísluší mzda nebo plat (nikoli náhrada mzdy), zaškolení se započítává do pracovní doby, započítává se i do odpracované doby pro účely dovolené (§ 216 ZP) a do podkladu pro průměrný výdělek (§ 351 ZP). Tato charakteristika odlišuje zaškolení od zvyšování kvalifikace (§ 232 — pracovní volno s náhradou mzdy jako překážka v práci).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec přijatý jako pomocný skladník bez předchozí praxe je první den postaven k vysokozdvižnému vozíku a samostatné manipulaci bez jakékoli instruktáže; po týdnu způsobí škodu. Současně zaměstnavatel v důsledku reorganizace převedl jiného pracovníka na novou linku odlišné technologie, rovněž bez zaškolení. Účastníci: oba zaměstnanci, zaměstnavatel, vedoucí provozu. Důkazy: pracovní smlouvy, záznam o (ne)provedeném zaškolení, protokol o škodě, rozvrh a popis nové práce.
+
+**2. Právní otázka.** Měl zaměstnavatel povinnost zaměstnance zaškolit/zaučit podle § 228, a jaké důsledky má, že tak neučinil — zejména pro odpovědnost za škodu a pro odměňování doby zaškolení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 228 — povinnost zaškolit/zaučit zaměstnance vstupujícího bez kvalifikace (odst. 1) a převáděného z důvodů na straně zaměstnavatele, je-li to nezbytné (odst. 2); zaškolení je výkonem práce.
+- *Související ustanovení téhož zákona:* § 216 (započtení do odpracované doby pro dovolenou), § 351 (průměrný výdělek), § 41 (převedení na jinou práci), § 250/§ 257 (náhrada škody zaměstnancem a její moderace), § 103 odst. 2 (povinnost zajistit školení o BOZP).
+- *Související předpisy:* zákon č. 309/2006 Sb. (BOZP), zákon č. 258/2000 Sb. (kategorizace prací).
+- *Judikatura:* na zaškolení se nahlíží jako na výkon práce s plnou mzdou; absence zaškolení může zakládat spoluzavinění zaměstnavatele na vzniklé škodě.
+
+**4. Subsumpce.** Skladník nastoupil bez kvalifikace pro daný druh práce → naplněn odst. 1 (povinnost zaškolit, zaškolení je výkonem práce). Převedený pracovník na novou technologii → odst. 2, je-li zaškolení nezbytné. Zaměstnavatel povinnost nesplnil. Vznik škody bez instruktáže zakládá spoluzavinění zaměstnavatele (§ 270 ZP) a snižuje rozsah náhrady po zaměstnanci.
+
+**5. Řešení.** Doba zaškolení/zaučení je výkonem práce s nárokem na mzdu/plat a započítává se do pracovní i odpracované doby. Při škodě způsobené nezaškoleným zaměstnancem se náhrada krátí pro spoluzavinění zaměstnavatele, který porušil § 228 (a § 103). Procesně: zaměstnavatel měl provést a doložit zaškolení; jeho absenci nese k své tíži.
+
+**6. Varianty.** (a) Kdyby zaměstnanec již měl relevantní kvalifikaci a zkušenost pro shodný druh práce, povinnost zaškolení podle odst. 2 by nebyla „nezbytná" a nevznikla by. (b) Kdyby šlo o absolventa do 2 let praxe, nastoupil by souběžně režim odborné praxe podle § 229.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že zaškolení nebylo „nezbytné".* Neutralizace: u odst. 1 (vstup bez kvalifikace) je povinnost bezvýhradná; test nezbytnosti se týká jen odst. 2 (převedení) a posuzuje se objektivně podle specifik nové práce.
+- *Námitka, že zaměstnanec měl škodě sám zabránit.* Neutralizace: u nezaškoleného pracovníka nelze plně přičítat následek jemu; uplatní se spoluzavinění zaměstnavatele (§ 270) a moderace náhrady (§ 257).
+- *Slabé místo:* rozsah a forma „zaučení" nejsou zákonem detailně určeny — adekvátnost se prokazuje obtížně a individuálně.
+
+#### H. Praktický závěr
+
+§ 228 zakládá kogentní povinnost zaškolit/zaučit dvě skupiny zaměstnanců; doba zaškolení je výkonem práce s plnou mzdou. Opomenutí zaškolení oslabuje pozici zaměstnavatele při náhradě škody i při hodnocení výkonu.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Nastoupil zaměstnanec bez kvalifikace pro sjednaný druh práce (odst. 1)?
+- [ ] Jde o převedení z důvodů na straně zaměstnavatele a je zaškolení nezbytné (odst. 2)?
+- [ ] Byla doba zaškolení odměněna jako výkon práce (mzda/plat, ne náhrada)?
+- [ ] Existuje záznam o provedeném zaškolení a o školení BOZP?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva s druhem práce, plán/záznam zaškolení, doklad o školení BOZP, protokol o případné škodě, rozvrh směn.
 
 ---
 
@@ -160,6 +340,42 @@ Pojem „odpovídající kvalifikaci" je interpretován vstřícně — postaču
 Zaměstnavatel je povinen zajistit **přiměřenou** odbornou praxi — tedy individualizovanou s ohledem na druh práce, předchozí teoretické vzdělání a praktické dovednosti absolventa. „Přiměřenost" je nutno hodnotit objektivně; nestačí absolventa zařadit a očekávat plný výkon, pokud zjevně potřebuje vedení a praktické osvojení. Odborná praxe se rovněž **považuje za výkon práce** se všemi důsledky obdobnými § 228.
 
 V praxi absolventská praxe často zahrnuje **mentoring** zkušenějšího kolegy, postupné zařazení do složitějších úkolů a strukturovaný plán adaptace; v některých profesích je formalizována zvláštními předpisy (advokátní koncipientura — zákon č. 85/1996 Sb., notářský koncipient — zákon č. 358/1992 Sb., justiční čekatel — zákon č. 6/2002 Sb., lékař v rámci specializačního vzdělávání — zákon č. 95/2004 Sb.).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Čerstvý absolvent právnické fakulty (ukončené studium před 8 měsíci, předtím rok pracoval na DPČ jako asistent) nastoupil jako advokátní koncipient. Žádá, aby mu zaměstnavatel zajistil odbornou praxi (mentoring, postupné zadávání náročnějších věcí) a aby doba byla odměňována. Zaměstnavatel tvrdí, že koncipient „už není absolvent", neboť před studiem i během něj pracoval. Účastníci: absolvent, advokát-zaměstnavatel. Důkazy: diplom s datem ukončení, doklady o předchozí praxi a jejím rozsahu, popis druhu práce.
+
+**2. Právní otázka.** Je zaměstnanec „absolventem" ve smyslu § 229 odst. 2 (a má tedy nárok na zajištění přiměřené odborné praxe jako výkonu práce), zejména nedosáhla-li celková doba jeho odborné praxe po ukončení studia 2 let?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 229 — povinnost zabezpečit absolventům přiměřenou odbornou praxi; legální definice absolventa (práce odpovídající kvalifikaci + praxe do 2 let, bez započtení mateřské/rodičovské).
+- *Související ustanovení téhož zákona:* § 228 (zaškolení), § 216 a § 351 (započítání doby a průměrný výdělek), § 234 (kvalifikační dohoda — k případnému dalšímu vzdělávání).
+- *Související předpisy:* zákon č. 85/1996 Sb. (advokátní koncipientura), č. 358/1992 Sb. (notářský koncipient), č. 6/2002 Sb. (justiční čekatel), č. 95/2004 Sb. (specializační vzdělávání lékařů).
+- *Judikatura:* NSS 10 A 203/2017-32 — odborná praxe musí mít praktický prvek umožňující přípravu na povolání jeho reálným výkonem; nikdy nejde o pouhou teoretickou přípravu.
+
+**4. Subsumpce.** Práce koncipienta odpovídá právnické kvalifikaci → kvalitativní znak splněn. Od ukončení studia uplynulo 8 měsíců; do dvouleté lhůty se počítá celková předchozí odborná praxe — je nutné zjistit, zda předchozí činnost (DPČ asistent) byla „odbornou praxí" a v jakém rozsahu. I tak součet zjevně nedosahuje 2 let → kvantitativní znak splněn → jde o absolventa.
+
+**5. Řešení.** Zaměstnavatel je povinen zajistit přiměřenou (individualizovanou) odbornou praxi s reálným praktickým prvkem; tato doba je výkonem práce s nárokem na mzdu/plat. Procesně: absolvent doloží datum ukončení a rozsah předchozí praxe; zaměstnavatel sestaví adaptační plán s mentoringem a postupným zařazením. Riziko: spor o to, co vše se započítává do „2 let odborné praxe".
+
+**6. Varianty.** (a) Kdyby zaměstnanec před nástupem odpracoval ve své odbornosti více než 2 roky, status absolventa by zanikl a § 229 by se neuplatnil. (b) Kdyby byl zařazen na práci zcela neodpovídající kvalifikaci, nešlo by o absolventskou praxi podle § 229.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že předchozí brigády vyčerpaly status absolventa.* Neutralizace: rozhoduje, zda šlo o „odbornou praxi" a její celková doba; běžné studentské brigády bez odborného charakteru se nezapočítají automaticky a součet nesmí dosáhnout 2 let.
+- *Námitka, že postačí zaměstnance zařadit a očekávat výkon.* Neutralizace: „přiměřenost" praxe je objektivní a vyžaduje reálnou praktickou přípravu (NSS 10 A 203/2017-32), nikoli pouhé formální zařazení.
+- *Slabé místo:* zákon nestanoví konkrétní obsah ani délku praxe — adekvátnost se posuzuje individuálně a může být sporná.
+
+#### H. Praktický závěr
+
+§ 229 ukládá zajistit absolventům (do 2 let praxe, na práci odpovídající kvalifikaci) přiměřenou odbornou praxi s reálným praktickým obsahem; tato doba je výkonem práce. Mateřská a rodičovská dovolená se do dvouleté lhůty nezapočítává.
+
+**Checklist (advokát / soud / zaměstnavatel / absolvent):**
+- [ ] Odpovídá druh práce kvalifikaci absolventa?
+- [ ] Nedosáhla celková odborná praxe od ukončení studia 2 let (bez mateřské/rodičovské)?
+- [ ] Má praxe reálný praktický prvek (ne jen teorii)?
+- [ ] Je doba praxe odměňována jako výkon práce?
+
+**Typicky rozhodné důkazy / podklady:** diplom s datem ukončení, doklady o předchozí odborné praxi a jejím rozsahu, popis druhu práce, adaptační/mentoringový plán.
 
 ---
 
@@ -212,6 +428,42 @@ Odst. 2 zakládá **dvojstranné právní vztahy**:
 
 Zvláštní právní předpis (lex specialis) má přednost před § 230 v rozsahu, v němž obsahuje vlastní úpravu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel nařídí programátorovi (jehož druh práce zahrnuje vývoj v dané technologii) absolvovat dvoudenní certifikační kurs nové verze frameworku, a to o víkendu mimo pracovní dobu. Programátor odmítá s tím, že jde o „studium" a že kurs si má hradit a absolvovat ve volnu sám. Zaměstnavatel hrozí, že nesplnění pokynu posoudí jako porušení povinností. Účastníci: zaměstnavatel, programátor. Důkazy: popis sjednaného druhu práce, pozvánka a obsah kursu, rozvrh pracovní doby, doklad o ceně kursu.
+
+**2. Právní otázka.** Jde o prohlubování kvalifikace (§ 230) s důsledky výkonu práce a úhrady nákladů zaměstnavatelem a možností uložit účast, a jaké jsou důsledky nařízení kursu mimo pracovní dobu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 230 — prohlubování kvalifikace (průběžné doplňování bez změny podstaty), povinnost zaměstnance i oprávnění zaměstnavatele uložit účast; výkon práce; náklady hradí zaměstnavatel.
+- *Související ustanovení téhož zákona:* § 301 písm. a) (povinnost plnit pokyny), § 52 písm. g) / § 55 odst. 1 písm. b) (porušení povinností), § 93 a § 114 (přesčas a příplatky/náhradní volno), § 234 odst. 2 (kvalifikační dohoda při prohlubování od 75 000 Kč — pak nelze uložit).
+- *Související předpisy:* zvláštní předpisy o periodickém vzdělávání profesí (§ 95/2004 Sb., 96/2004 Sb., 563/2004 Sb., 247/2000 Sb.).
+- *Judikatura:* NSS 6 Ads 83/2010-77 — prohlubování je doplnění/doškolení bez změny hodnoty kvalifikace (na rozdíl od zvyšování).
+
+**4. Subsumpce.** Kurs nové verze frameworku v rámci téže technologie nemění podstatu kvalifikace → prohlubování (§ 230 odst. 1). Účast lze uložit jako pracovní pokyn (§ 230 odst. 2, § 301). Je výkonem práce (odst. 3), náklady hradí zaměstnavatel (odst. 4). Nařízení mimo pracovní dobu → jde o práci přesčas se všemi důsledky (§ 93, § 114). Předpokládané náklady pod 75 000 Kč → kvalifikační dohoda se nevyžaduje a uložení je přípustné.
+
+**5. Řešení.** Programátor je povinen pokyn splnit; náklady kursu nese zaměstnavatel a doba je výkonem práce. Za víkendovou účast mu náleží mzda a příplatek za přesčas, popř. náhradní volno. Procesně: zaměstnavatel vydá pokyn, uhradí kurs a vykáže přesčas; odmítnutí bez vážného důvodu by mohlo být porušením povinností. Riziko: prosadit prohlubování mimo pracovní dobu lze jen v mezích limitů přesčasů.
+
+**6. Varianty.** (a) Kdyby kurs vedl k získání nové formální kvalifikace zvyšující úroveň (např. zcela nová odbornost), šlo by o zvyšování (§ 231) a režim by se změnil na překážku v práci s náhradou mzdy. (b) Kdyby předpokládané náklady prohlubování dosáhly 75 000 Kč a strany uzavřely kvalifikační dohodu, účast by již nešlo uložit (§ 234 odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnanec namítne, že jde o „studium", které si má hradit sám.* Neutralizace: prohlubování je výkon práce a náklady kogentně hradí zaměstnavatel (§ 230 odst. 3 a 4); spoluúčast je možná jen u nadstandardní, finančně náročnější formy.
+- *Zaměstnavatel nařídí rozsáhlé prohlubování trvale mimo pracovní dobu.* Neutralizace: jde o přesčas vázaný limity (§ 93) a nárok na příplatek/náhradní volno (§ 114); nelze obcházet pravidla o pracovní době.
+- *Slabé místo:* hranice mezi prohlubováním a zvyšováním je hodnotová; u kursů vedoucích k certifikátu může být sporné, zda nejde o změnu hodnoty kvalifikace.
+
+#### H. Praktický závěr
+
+§ 230 činí z prohlubování kvalifikace povinnost zaměstnance i oprávnění zaměstnavatele uložit účast; je výkonem práce, náklady hradí zaměstnavatel. Realizace mimo pracovní dobu je přesčasem. Zvláštní předpisy o periodickém vzdělávání mají přednost.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Nemění se podstata kvalifikace a slouží akce výkonu sjednané práce (prohlubování)?
+- [ ] Byla účast uložena jako pokyn (§ 301) — a nejde o případ kvalifikační dohody nad 75 000 Kč?
+- [ ] Hradí náklady zaměstnavatel; je doba odměněna jako výkon práce?
+- [ ] Při akci mimo pracovní dobu: je vykázán přesčas a příplatek/náhradní volno?
+
+**Typicky rozhodné důkazy / podklady:** popis druhu práce, obsah a cena kursu, pokyn k účasti, rozvrh pracovní doby a evidence přesčasů, doklady o úhradě nákladů.
+
 ---
 
 ### Zvýšení kvalifikace a kvalifikační dohoda — §§ 231–235
@@ -250,6 +502,42 @@ Soulad s potřebou zaměstnavatele může být prokazován různými způsoby �
 #### Vztah ke zvláštním předpisům (odst. 3)
 
 Odst. 3 ponechává nedotčené zvláštní úpravy zvyšování kvalifikace — typicky systém specializačního vzdělávání lékařů (zákon č. 95/2004 Sb.), zvyšování kvalifikace pedagogů (zákon č. 563/2004 Sb.), kvalifikační zkoušky úředníků územních samosprávných celků (zákon č. 312/2002 Sb.).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Účetní zaměstnankyně se přihlásí k navazujícímu magisterskému studiu ekonomie. Zaměstnavatel o studiu ví, nebránil mu a opakovaně tolerizoval její nepřítomnost na zkouškách, formální souhlas však nikdy nevydal. Po roce zaměstnankyně žádá úlevy podle § 232 zpětně i do budoucna; zaměstnavatel namítá, že studium není „v souladu s jeho potřebou", a tedy nejde o zvyšování kvalifikace. Účastníci: zaměstnankyně, zaměstnavatel. Důkazy: korespondence o studiu, e-maily o tolerování absencí, popis druhu práce a personálních potřeb zaměstnavatele.
+
+**2. Právní otázka.** Jde o „zvyšování kvalifikace" ve smyslu § 231 (zejména je splněna podmínka souladu s potřebou zaměstnavatele), a lze mlčení zaměstnavatele, který o studiu ví a nebrání mu, považovat za konkludentní souhlas?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 231 — zvýšení kvalifikace jako změna hodnoty kvalifikace (vč. získání/rozšíření); podmínka souladu s potřebou zaměstnavatele.
+- *Související ustanovení téhož zákona:* § 232 (úlevy při zvyšování), § 233 (zastavení úlev), §§ 234–235 (kvalifikační dohoda), § 230 (prohlubování — pro odlišení).
+- *Související předpisy:* zákon č. 95/2004 Sb., č. 563/2004 Sb., č. 312/2002 Sb. (zvláštní úpravy zvyšování kvalifikace); § 546 a násl. OZ (konkludentní právní jednání).
+- *Judikatura:* NSS 6 Ads 83/2010-77 — odlišení zvyšování od prohlubování podle „změny hodnoty kvalifikace"; výklad inklinuje k uznání konkludentního souhlasu při vědomém nebránění studiu.
+
+**4. Subsumpce.** Přechod na vyšší (magisterský) stupeň je „změnou hodnoty kvalifikace" → znak zvyšování splněn. Podmínka souladu s potřebou zaměstnavatele je sporná; lze ji dovodit z toho, že zaměstnavatel o studiu věděl, nebránil mu a fakticky umožňoval absence — to indikuje konkludentní souhlas. Pokud studium odpovídá druhu práce a personálním potřebám, podmínka je naplněna.
+
+**5. Řešení.** Je-li dán (byť konkludentní) soulad s potřebou zaměstnavatele, jde o zvyšování kvalifikace a zaměstnankyni náleží úlevy podle § 232 (do budoucna spolehlivě; zpětně jen v rozsahu, který lze doložit). Procesně: zaměstnankyně doloží vědomost a toleranci zaměstnavatele; do budoucna je vhodné soulad formalizovat (souhlas, plán vzdělávání, kvalifikační dohoda). Riziko: bez písemného souhlasu nese důkazní břemeno o konkludentním souladu zaměstnanec.
+
+**6. Varianty.** (a) Kdyby studium nesouviselo s druhem práce ani s potřebami zaměstnavatele a ten by jej výslovně odmítl podpořit, nešlo by o zvyšování kvalifikace s nárokem na úlevy. (b) Kdyby zvláštní předpis vyžadoval novou úroveň kvalifikace pro výkon dosavadní práce, soulad s potřebou by byl dán i bez výslovného souhlasu.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne absenci výslovného souhlasu.* Neutralizace: zákon výslovný souhlas nevyžaduje; postačí objektivní soulad s potřebou, který lze dovodit i z konkludentního jednání (vědomé nebránění, tolerování absencí).
+- *Námitka, že jde jen o prohlubování.* Neutralizace: přechod na vyšší stupeň vzdělání je změnou hodnoty kvalifikace (§ 231 odst. 1), nikoli pouhým doplněním bez změny podstaty (§ 230, NSS 6 Ads 83/2010-77).
+- *Slabé místo:* „soulad s potřebou zaměstnavatele" je neurčitý pojem; bez dokumentace je jeho prokázání nejisté.
+
+#### H. Praktický závěr
+
+§ 231 vymezuje zvyšování kvalifikace testem „změny hodnoty kvalifikace" a podmínkou souladu s potřebou zaměstnavatele; teprve splnění obou otevírá úlevy podle § 232. Soulad lze prokázat i konkludentně, ale v praxi je třeba jej zdokumentovat.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Jde o změnu hodnoty kvalifikace (vyšší stupeň, získání/rozšíření)?
+- [ ] Je studium v souladu s potřebou zaměstnavatele (výslovně či konkludentně)?
+- [ ] Je soulad zdokumentován (souhlas, plán vzdělávání, kvalifikační dohoda)?
+- [ ] Neupravuje zvyšování pro danou profesi zvláštní předpis (přednost)?
+
+**Typicky rozhodné důkazy / podklady:** korespondence o studiu a jeho podpoře, plán vzdělávání, popis druhu práce a personálních potřeb, případná kvalifikační dohoda, potvrzení o studiu.
 
 ---
 
@@ -297,6 +585,42 @@ Vysoký rozsah 40 dnů u státní závěrečné, rigorózní (medicína/veterin�
 
 Pro **přijímací zkoušku** přísluší volno v nezbytně nutném rozsahu (odst. 2), avšak **bez náhrady mzdy** (odst. 3). Stejný režim (volno bez náhrady) se vztahuje na **opravné zkoušky** (pokud zaměstnanec neuspěl v řádném termínu — sankční prvek) a na **promoce a obdobné ceremoniály** (slavnostní akt, který není nezbytný pro získání kvalifikace).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec se souhlasem zaměstnavatele studuje navazující magisterské studium (zvyšování kvalifikace v souladu s potřebou zaměstnavatele). Před státní závěrečnou zkouškou a obhajobou diplomové práce žádá o pracovní volno: 10 dnů na diplomovou práci a 2 dny na každou ze dvou dílčích státních zkoušek. Zaměstnavatel chce poskytnout jen „pár dnů dovolené" a tvrdí, že volno nad rámec výuky není povinné. Účastníci: zaměstnanec, zaměstnavatel. Důkazy: potvrzení o studiu a o termínech zkoušek, doklad o charakteru programu (VŠ), souhlas se zvyšováním kvalifikace.
+
+**2. Právní otázka.** V jakém rozsahu náleží zaměstnanci pracovní volno s náhradou mzdy podle § 232 odst. 1 na přípravu a vykonání zkoušek a na diplomovou práci, a co naopak spadá pod volno bez náhrady (odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 232 — katalog úlev (volno s náhradou mzdy ve výši průměrného výdělku) podle účelu; přijímací/opravné zkoušky a promoce bez náhrady.
+- *Související ustanovení téhož zákona:* § 231 (pojem zvyšování), § 233 (zastavení úlev), § 199 odst. 2 (jiné překážky v práci), § 351 (průměrný výdělek), § 230 odst. 3 (kontrast — prohlubování jako výkon práce).
+- *Související předpisy:* zvláštní předpisy o zvyšování kvalifikace (přednost); kolektivní smlouva/vnitřní předpis (mohou poskytnout více).
+- *Judikatura:* úlevy podle § 232 jsou minimálním zákonným standardem (lze rozšířit, ne zúžit).
+
+**4. Subsumpce.** Studium je zvyšováním kvalifikace se souhlasem → aktivují se úlevy § 232. Na diplomovou práci náleží 10 pracovních dnů [odst. 1 písm. d)], na každou dílčí státní zkoušku (VŠ) 2 pracovní dny [písm. b)] — celkem tedy 10 + 2 + 2 dny volna s náhradou mzdy. Volno na vyučování náleží v nezbytně nutném rozsahu [písm. a)]. Naopak na promoci by náhrada nenáležela (odst. 3).
+
+**5. Řešení.** Zaměstnanec má nárok na placené pracovní volno v uvedeném rozsahu jako překážku v práci (náhrada ve výši průměrného výdělku), nikoli na čerpání dovolené. Zaměstnavatel nesmí nárok krátit pod zákonný standard. Procesně: zaměstnanec doloží termíny a charakter zkoušek; zaměstnavatel volno poskytne a vykáže jako překážku v práci. Riziko: záměna magisterské státní zkoušky za „státní závěrečnou zkoušku" s 40 dny (ta je vyhrazena medicíně/veterině/hygieně a doktorské zkoušce).
+
+**6. Varianty.** (a) Šlo-li by o státní rigorózní zkoušku v oblasti lékařství nebo o státní doktorskou zkoušku, náleželo by 40 pracovních dnů [písm. e)]. (b) Šlo-li by o přijímací nebo opravnou zkoušku, náleželo by volno v nezbytném rozsahu, ale bez náhrady mzdy (odst. 2 a 3).
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že je povinen poskytnout jen volno na výuku.* Neutralizace: odst. 1 výslovně přiznává volno i na přípravu/vykonání zkoušek a na závěrečné práce v pevně daném rozsahu; jde o minimální standard, který nelze zúžit.
+- *Námitka, že zaměstnanec má čerpat dovolenou.* Neutralizace: jde o překážku v práci s náhradou mzdy, nikoli o dovolenou; nucené čerpání dovolené místo úlev je v rozporu s § 232.
+- *Slabé místo:* správné podřazení typu zkoušky pod písmena a)–e) bývá sporné (zejména hranice 40denního volna).
+
+#### H. Praktický závěr
+
+§ 232 stanoví minimální placené úlevy při zvyšování kvalifikace odstupňované podle účelu; přijímací a opravné zkoušky a promoce jsou bez náhrady. Kolektivní smlouva či vnitřní předpis mohou poskytnout více.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Jde o zvyšování kvalifikace (souhlas/soulad s potřebou)?
+- [ ] Pod které písmeno odst. 1 spadá daný úkon (a jaký je rozsah dnů)?
+- [ ] Jde o úkon bez náhrady mzdy (přijímací/opravná zkouška, promoce)?
+- [ ] Je volno poskytnuto jako překážka v práci, nikoli jako dovolená?
+
+**Typicky rozhodné důkazy / podklady:** potvrzení o studiu a termínech zkoušek, doklad o typu programu/zkoušky, souhlas se zvyšováním kvalifikace, kolektivní smlouva/vnitřní předpis o případných vyšších úlevách.
+
 ---
 
 ### § 233 — Sledování průběhu zvyšování kvalifikace a zastavení úlev
@@ -324,6 +648,42 @@ a) **Dlouhodobá nezpůsobilost** pro výkon práce, pro kterou si zaměstnanec 
 b) **Neplnění podstatných povinností** při zvyšování kvalifikace bez zavinění zaměstnavatele a bez vážného důvodu na straně zaměstnance — typicky opakované neúčasti na výuce, opakované neúspěšné pokusy o zkoušku, dlouhodobé zanedbávání studia. Kritéria jsou kumulativní: **(i) absence zavinění zaměstnavatele**, **(ii) delší doba**, **(iii) absence vážného důvodu** na straně zaměstnance.
 
 Zastavení úlev je odlišný institut od zániku povinnosti uhradit náklady z kvalifikační dohody (§ 235 odst. 3) — zastavení úlev znamená, že zaměstnavatel nadále nemusí poskytovat pracovní volno s náhradou, ale studium může pokračovat z iniciativy a na účet zaměstnance.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec se souhlasem zaměstnavatele studuje a čerpá úlevy podle § 232. Během dvou semestrů se však opakovaně neúčastní výuky, dvakrát se bez omluvy nedostaví ke zkoušce a studijní výsledky stagnují, aniž by k tomu měl vážný důvod. Zaměstnavatel chce přestat poskytovat placené volno. Účastníci: zaměstnavatel, zaměstnanec. Důkazy: výpis studijních výsledků, evidence absencí, korespondence o vážných důvodech (jejich absence), případný lékařský posudek.
+
+**2. Právní otázka.** Jsou splněny taxativní podmínky § 233 písm. b) pro zastavení poskytování pracovních úlev (neplnění podstatných povinností při zvyšování kvalifikace bez zavinění zaměstnavatele a bez vážného důvodu po delší dobu)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 233 — oprávnění sledovat průběh studia; taxativní důvody zastavení úlev [písm. a) dlouhodobá nezpůsobilost, písm. b) neplnění podstatných povinností].
+- *Související ustanovení téhož zákona:* § 232 (úlevy), § 235 odst. 3 (zánik povinnosti úhrady — odlišný institut), § 52 písm. d) a e) (dlouhodobá nezpůsobilost — výkladová analogie k „dlouhodobosti").
+- *Související předpisy:* GDPR (čl. 6 — právní základ pro sledování studia); zvláštní předpisy o studiu.
+- *Judikatura:* taxativní povaha důvodů zastavení úlev — mimo ně nelze úlevy jednostranně odejmout.
+
+**4. Subsumpce.** Kritéria písm. b) jsou kumulativní: (i) absence zavinění zaměstnavatele — naplněna; (ii) delší doba — dva semestry stagnace splňují; (iii) absence vážného důvodu na straně zaměstnance — je-li doložena. Opakované neúčasti a nedostavení se ke zkoušce jsou neplněním podstatných povinností při zvyšování kvalifikace → podmínky pro zastavení úlev splněny.
+
+**5. Řešení.** Zaměstnavatel je oprávněn zastavit poskytování úlev podle § 232; studium tím nekončí, může pokračovat z iniciativy a na náklady zaměstnance. Procesně: zaměstnavatel zdokumentuje neplnění a absenci vážných důvodů, dá zaměstnanci možnost se vyjádřit a sdělí mu zastavení úlev. Zastavení úlev je nutné odlišit od (případného) nároku na úhradu nákladů z kvalifikační dohody (§ 235 odst. 3). Riziko: prokázání „delší doby" a absence vážného důvodu.
+
+**6. Varianty.** (a) Kdyby zaměstnanec doložil vážný důvod (např. závažné onemocnění), podmínky písm. b) by nebyly splněny a úlevy by trvaly. (b) Kdyby se zaměstnanec bez svého zavinění stal dlouhodobě nezpůsobilým pro práci, pro kterou si kvalifikaci zvyšuje, šlo by o důvod podle písm. a) — s návazností na § 235 odst. 3 písm. a) (nevznik povinnosti úhrady).
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnanec namítne, že neúspěch u zkoušek je běžnou součástí studia.* Neutralizace: rozhoduje soustavnost a absence vážného důvodu po delší dobu, nikoli ojedinělý neúspěch; jde o neplnění podstatných povinností.
+- *Námitka zásahu do soukromí sledováním studia.* Neutralizace: § 233 zakládá oprávnění monitoringu; musí být přiměřené a v souladu s GDPR (oprávněný zájem/plnění povinnosti).
+- *Slabé místo:* pojmy „delší doba" a „vážný důvod" jsou neurčité; zaměstnavatel nese důkazní břemeno o jejich naplnění.
+
+#### H. Praktický závěr
+
+§ 233 dovoluje sledovat průběh zvyšování kvalifikace a jen ze dvou taxativních důvodů zastavit poskytování úlev. Zastavení úlev neukončuje studium ani samo o sobě nezakládá povinnost úhrady nákladů (to řeší § 235).
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Jde o některý z taxativních důvodů [písm. a) dlouhodobá nezpůsobilost, písm. b) neplnění povinností]?
+- [ ] U písm. b): je dána absence zavinění zaměstnavatele, delší doba i absence vážného důvodu?
+- [ ] Byl zaměstnanec o zastavení úlev informován a měl možnost se vyjádřit?
+- [ ] Respektuje sledování studia zásady ochrany osobních údajů?
+
+**Typicky rozhodné důkazy / podklady:** výpis studijních výsledků, evidence účasti a zkoušek, korespondence o (ne)vážných důvodech, případný lékařský posudek, doklad o informování o zastavení úlev.
 
 ---
 
@@ -388,6 +748,42 @@ c) **Druhy nákladů a celkovou částku**, kterou bude zaměstnanec povinen uhr
 
 **Forma písemná** je obligatorní (odst. 4). Nedodržení písemné formy způsobuje neplatnost (§ 582 OZ, § 20 ZP — s tím, že zákoník práce upravuje speciální pravidla relativní/absolutní neplatnosti dle § 19–20 ZP). Praktický důsledek: ústní dohoda o kvalifikační „investici" zaměstnavatele není vymahatelná jako kvalifikační dohoda, byť mohou existovat dílčí nároky podle obecných pravidel (např. z bezdůvodného obohacení, § 2991 OZ, pokud by zaměstnanec získal majetkový prospěch).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel a zaměstnanec podepíší písemnou kvalifikační dohodu: zaměstnavatel umožní a zaplatí MBA studium (náklady ~300 000 Kč), zaměstnanec se zaváže setrvat 7 let od zvýšení kvalifikace, jinak uhradí náklady. Dohoda druh kvalifikace popisuje jako „další manažerské vzdělávání" a neuvádí celkovou částku nákladů. Zaměstnanec po získání titulu odejde po 2 letech. Účastníci: zaměstnavatel, zaměstnanec. Důkazy: text kvalifikační dohody, doklady o vynaložených nákladech, datum získání titulu, datum skončení poměru.
+
+**2. Právní otázka.** Je kvalifikační dohoda platná a v jakém rozsahu vymahatelná, je-li sjednaná doba setrvání 7 let (nad zákonný strop) a chybí-li celková částka nákladů a dostatečně určitý druh kvalifikace?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 234 — náležitosti kvalifikační dohody (druh kvalifikace a způsob, doba setrvání do 5 let, druhy a celková částka nákladů), písemná forma; počátek závazku od zvýšení kvalifikace.
+- *Související ustanovení téhož zákona:* § 235 (poměrné snížení, zánik povinnosti úhrady), § 310 (konkurenční doložka — funkční srovnání), § 19–20 ZP (neplatnost), § 346d (omezení postihu zaměstnance).
+- *Související předpisy:* § 580, § 588, § 1745 OZ; § 2991 OZ (bezdůvodné obohacení — subsidiárně).
+- *Judikatura:* NS 21 Cdo 3382/2020 — účinnost přijetí návrhu lze vázat na okamžik podpisu návrhu druhou stranou i u smluv vyžadujících písemnou formu.
+
+**4. Subsumpce.** Doba 7 let překračuje kogentní strop 5 let → v přesahu částečná neplatnost; vymahatelných je max. 5 let. Chybějící celková částka nákladů činí ujednání o úhradě v této části neurčitým/neplatným → sankci úhrady nelze vymáhat. Neurčitý druh kvalifikace oslabuje platnost náležitosti podle písm. a). Závazek počíná od získání titulu; odchod po 2 letech ze sjednaných (max. 5) zakládá poměrnou povinnost — jen je-li částka platně sjednána.
+
+**5. Řešení.** Bez platně sjednané celkové částky nákladů zaměstnavatel nárok na jejich úhradu z kvalifikační dohody nevymůže (zbývá jen případné bezdůvodné obohacení dle obecných pravidel, prokáže-li majetkový prospěch). Při platně sjednané částce by se doba krátila na 5 let a úhrada by se poměrně snížila podle skutečně odpracované části (§ 235 odst. 2). Procesně: rozhodují přesné datum zvýšení kvalifikace a doložené náklady. Riziko: vady náležitostí jdou k tíži zaměstnavatele.
+
+**6. Varianty.** (a) Kdyby šlo o prohlubování kvalifikace s náklady alespoň 75 000 Kč, dohodu lze uzavřít, ale prohloubení pak nelze uložit (§ 234 odst. 2). (b) Kdyby dohoda byla jen ústní, nebyla by jako kvalifikační dohoda vymahatelná pro nedostatek písemné formy (odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že vůle stran byla jasná i bez uvedení částky.* Neutralizace: § 234 odst. 3 písm. c) vyžaduje celkovou částku jako podstatnou náležitost; bez ní je sankční ujednání neurčité a nevymahatelné.
+- *Námitka, že 7letý závazek je platný, souhlasil-li s ním zaměstnanec.* Neutralizace: 5 let je kogentní strop, který nelze prolomit ani souhlasem; přesah je neplatný.
+- *Slabé místo:* hranice mezi „neurčitým" a „dostatečně určitým" vymezením druhu kvalifikace a nákladů je sporná a závisí na konkrétní formulaci dohody.
+
+#### H. Praktický závěr
+
+§ 234 podmiňuje vymahatelnost kvalifikační dohody písemnou formou a třemi podstatnými náležitostmi (druh kvalifikace a způsob, doba setrvání do 5 let, druhy a celková částka nákladů). Závazek setrvání počíná od zvýšení kvalifikace; vady náležitostí jdou k tíži zaměstnavatele.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Je dohoda písemná a obsahuje všechny tři podstatné náležitosti?
+- [ ] Nepřekračuje doba setrvání 5 let (jinak přesah neplatný)?
+- [ ] Je uvedena konkrétní celková částka nákladů (jinak sankce nevymahatelná)?
+- [ ] Je správně určen počátek závazku (od zvýšení kvalifikace)?
+
+**Typicky rozhodné důkazy / podklady:** text kvalifikační dohody, doklady o vynaložených nákladech, doklad o získání kvalifikace s datem, doklad o skončení pracovního poměru a jeho důvodu.
+
 ---
 
 ### § 235 — Doplňující pravidla k povinnosti úhrady nákladů
@@ -440,6 +836,42 @@ c) **Zaměstnanec nemůže vykonávat práci podle lékařského posudku** — p
 
 d) **Zaměstnavatel nevyužíval kvalifikaci** v posledních 12 měsících po dobu nejméně 6 měsíců — sankce za to, že zaměstnavatel investoval do kvalifikace, ale zaměstnance neuplatnil v práci odpovídající této kvalifikaci. Smysl ustanovení vyplývá z účelové vazby kvalifikační dohody na zájem zaměstnavatele o získanou kvalifikaci — pokud zájem zanikne, není důvod sankcionovat zaměstnance.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec uzavřel platnou kvalifikační dohodu (závazek setrvat 5 let, jinak uhradit 200 000 Kč nákladů studia). Po získání titulu jej zaměstnavatel po dobu 8 měsíců z posledních 12 nezařadil na práci odpovídající nové kvalifikaci a poté dal zaměstnanci výpověď pro nadbytečnost. Zaměstnavatel přesto požaduje úhradu nákladů. Účastníci: zaměstnavatel, zaměstnanec. Důkazy: kvalifikační dohoda, doklad o získání kvalifikace, evidence zařazení/druhu vykonávané práce v posledním roce, výpověď a její důvod.
+
+**2. Právní otázka.** Vznikla zaměstnanci povinnost uhradit náklady z kvalifikační dohody, skončil-li poměr výpovědí pro nadbytečnost [§ 52 písm. c)] a zaměstnavatel navíc po nejméně 6 měsíců z posledních 12 nevyužíval získanou kvalifikaci (§ 235 odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 235 — zastavení běhu doby (odst. 1), poměrné snížení (odst. 2), taxativní důvody nevzniku povinnosti úhrady (odst. 3).
+- *Související ustanovení téhož zákona:* § 234 (kvalifikační dohoda), § 52 písm. a)–e) a g) (výpovědní důvody), § 196 (rodičovská dovolená), § 233 (zastavení úlev).
+- *Související předpisy:* zákon č. 373/2011 Sb. (lékařské posudky), zákon č. 187/2006 Sb. (souvislosti).
+- *Judikatura:* taxativní povaha důvodů odst. 3; účelová vazba dohody na zájem zaměstnavatele o získanou kvalifikaci.
+
+**4. Subsumpce.** Nastávají dva nezávislé důvody nevzniku povinnosti: (i) odst. 3 písm. d) — zaměstnavatel nevyužíval kvalifikaci v posledních 12 měsících po dobu nejméně 6 měsíců (zde 8 měsíců); (ii) odst. 3 písm. b) — pracovní poměr skončil výpovědí danou zaměstnavatelem, která není výpovědí pro porušení povinností [nadbytečnost § 52 písm. c) sem spadá]. Každý z důvodů samostatně vylučuje povinnost úhrady.
+
+**5. Řešení.** Povinnost úhrady nákladů vůbec nevznikla — naplnění byť jediného z taxativních důvodů odst. 3 [zde dokonce dvou: písm. b) i d)] vylučuje nárok zaměstnavatele. Procesně: zaměstnanec doloží důvod výpovědi (nadbytečnost) a/nebo nevyužívání kvalifikace; zaměstnavatel nárok neunese. Riziko pro zaměstnavatele: snaha překvalifikovat výpověď na důvod podle § 52 písm. g) by musela být skutkově podložena.
+
+**6. Varianty.** (a) Kdyby zaměstnanec odešel sám (výpovědí zaměstnance) nebo byl propuštěn pro porušení povinností [§ 52 písm. g)], žádný z důvodů odst. 3 by se neuplatnil a povinnost úhrady by (poměrně) trvala. (b) Kdyby do doby setrvání spadla rodičovská dovolená matky dítěte, tato doba by se podle odst. 1 nezapočítávala (běh „zamrzá").
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že zaměstnanec kvalifikaci získal a má ji „vrátit".* Neutralizace: účelem dohody je zájem zaměstnavatele o kvalifikaci; pokud ji sám nevyužíval [písm. d)] nebo poměr ukončil [písm. b)], povinnost úhrady ze zákona nevzniká.
+- *Námitka, že nadbytečnost byla jen „zástěrkou".* Neutralizace: rozhoduje skutečný důvod skončení; účelové překvalifikování na § 52 písm. g) nese důkazní břemeno zaměstnavatel.
+- *Slabé místo:* prokázání „nevyužívání kvalifikace po dobu 6 měsíců" závisí na evidenci skutečně přidělované práce.
+
+#### H. Praktický závěr
+
+§ 235 koriguje tvrdost kvalifikační dohody: doba setrvání se za určitých situací nezapočítává (odst. 1), částečné splnění vede k poměrnému snížení (odst. 2) a v taxativně vymezených případech povinnost úhrady vůbec nevzniká (odst. 3). Stačí naplnit jediný z důvodů odst. 3.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Je dán některý taxativní důvod nevzniku povinnosti úhrady (odst. 3)?
+- [ ] Jak skončil pracovní poměr a z jakého důvodu [§ 52 písm. a)–e), g)]?
+- [ ] Využíval zaměstnavatel kvalifikaci (test 6 z 12 měsíců)?
+- [ ] Při částečném splnění: je náhrada poměrně snížena (odst. 2) a započítává se doba správně (odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** kvalifikační dohoda, doklad o získání kvalifikace, evidence přidělované práce v posledním roce, dokument o skončení poměru a jeho důvodu, doklady o nákladech.
+
 ---
 
 ## Hlava III — Stravování zaměstnanců
@@ -489,6 +921,42 @@ Pro **organizační složky státu, příspěvkové organizace, územní samospr
 
 Odst. 3 dovoluje fakultativně rozšířit zvýhodněné (dotované) stravování i na osoby, které aktuálně nepracují: **bývalé zaměstnance v důchodu**, **zaměstnance na dovolené**, **zaměstnance v dočasné pracovní neschopnosti**. Toto rozšíření vyžaduje výslovné ujednání v kolektivní smlouvě nebo vnitřním předpisu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Logistický sklad provozuje nepřetržitý třísměnný režim. Pracovníci noční směny namítají, že nemají žádnou možnost se najíst — k dispozici je jen automat s nápoji, závodní jídelna je v noci zavřená a v okolí není žádné otevřené stravovací zařízení. Zaměstnavatel tvrdí, že stravování „neposkytuje", protože to nemá v kolektivní smlouvě. Účastníci: zaměstnanci nočních směn, zaměstnavatel, odborová organizace. Důkazy: rozvrh směn, popis dostupných prostor a možností stravování, kolektivní smlouva/vnitřní předpis.
+
+**2. Právní otázka.** Splnil zaměstnavatel povinnost „umožnit zaměstnancům ve všech směnách stravování" podle § 236 odst. 1, zajistil-li jen automat s nápoji a v noci nedostupnou jídelnu — a je rozdíl mezi „umožnit" a „poskytovat" stravování?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 236 — povinnost umožnit stravování ve všech směnách (odst. 1, s výjimkou pracovní cesty); fakultativní poskytování stravování (odst. 2); zvýhodněné stravování pro vybrané kategorie (odst. 3).
+- *Související ustanovení téhož zákona:* § 88 (přestávka v práci na jídlo a oddech — min. 30 minut), §§ 163, 176 (stravné při pracovní cestě), § 224 odst. 1 (pracovní podmínky).
+- *Související předpisy:* vyhlášky č. 84/2005 Sb. a č. 430/2001 Sb. (závodní stravování ve veřejném sektoru); § 6 odst. 9 písm. b) a § 24 odst. 2 písm. j) zákona č. 586/1992 Sb. (daňový režim).
+- *Judikatura:* rozlišení „umožnit" (vytvořit podmínky) vs. „poskytovat" (zajistit jídlo) jako základ výkladu rozsahu povinnosti.
+
+**4. Subsumpce.** Povinnost „umožnit" znamená vytvořit podmínky, aby se zaměstnanec mohl najíst (přiměřená přestávka, vhodný prostor, informování o možnostech) — vztahuje se i na noční směny. Automat jen s nápoji a nedostupná jídelna při absenci jakékoli reálné možnosti se najíst nemusí standard „umožnit" naplnit. „Poskytovat" jídlo zaměstnavatel povinen není (to jen dle odst. 2), ale „umožnit" ano.
+
+**5. Řešení.** Zaměstnavatel musí i v noci vytvořit reálnou možnost stravování — typicky vyhrazený prostor s ohřevem/uchováním jídla, přiměřenou přestávku podle § 88 a informování o možnostech; nestačí pouhý nápojový automat při jinak nedostupném stravování. Procesně: zaměstnanci/odbory uplatní nárok, případně podnět inspektorátu práce. Riziko: rozsah „umožnění" je flexibilní a posuzuje se podle místních podmínek.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel zřídil ohřívárnu s lednicí a mikrovlnnou troubou a poskytl přestávku, povinnost „umožnit" by byl splnil i bez závodní jídelny. (b) Kdyby šlo o zaměstnance na pracovní cestě, povinnost podle § 236 odst. 1 by se neuplatnila (nahrazuje ji stravné).
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že stravování „neposkytuje", protože není v kolektivní smlouvě.* Neutralizace: odst. 1 ukládá stravování „umožnit" bez ohledu na kolektivní smlouvu; ta je relevantní jen pro fakultativní „poskytování" podle odst. 2.
+- *Námitka, že noční směny jsou výjimkou.* Neutralizace: zákon výslovně hovoří o „všech směnách", tedy včetně nočních, víkendových a svátečních.
+- *Slabé místo:* obsah povinnosti „umožnit" není přesně kvantifikován; míra dostatečnosti opatření je sporná a závisí na konkrétních místních možnostech.
+
+#### H. Praktický závěr
+
+§ 236 odst. 1 ukládá zaměstnavateli ve všech směnách stravování umožnit (vytvořit podmínky), nikoli poskytovat; poskytování jídla a jeho dotace jsou fakultativní (odst. 2 a 3) a navázané na kolektivní smlouvu/vnitřní předpis. Daňové předpisy zůstávají nedotčeny.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Je ve všech směnách (vč. nočních) reálná možnost se najíst (prostor, přestávka, informace)?
+- [ ] Rozlišuje zaměstnavatel správně „umožnit" (povinné) a „poskytovat" (fakultativní)?
+- [ ] Je poskytování/zvýhodnění stravování zakotveno v kolektivní smlouvě/vnitřním předpisu (odst. 2, 3)?
+- [ ] Jde o zaměstnance na pracovní cestě (pak nahrazuje stravné)?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh směn, popis dostupných stravovacích možností a prostor, kolektivní smlouva/vnitřní předpis, doklady o přestávkách, daňové doklady ke stravování.
+
 ---
 
 ## Hlava IV — Zvláštní pracovní podmínky některých zaměstnanců
@@ -513,6 +981,42 @@ Odst. 3 dovoluje fakultativně rozšířit zvýhodněné (dotované) stravován�
 - **Příspěvek na podporu zaměstnávání osob se zdravotním postižením** — § 78 zákona o zaměstnanosti.
 
 § 237 ZP rovněž potvrzuje povinnost zaměstnavatele **vytvářet potřebné pracovní podmínky** — typicky bezbariérovost pracoviště, pomocné technické prostředky, úpravu pracovní doby, zvýšenou míru ochrany při BOZP. Tyto povinnosti mohou být dále konkretizovány v BOZP (§ 103 a násl. ZP).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost s 40 zaměstnanci v pracovním poměru nezaměstnává žádnou osobu se zdravotním postižením a neodebírá náhradní plnění; současně odmítla upravit pracoviště uchazeči s invaliditou II. stupně (chyběl bezbariérový přístup). Úřad práce vyměřil odvod do státního rozpočtu za nesplnění povinného podílu. Účastníci: zaměstnavatel, uchazeč/zaměstnanec se zdravotním postižením, Úřad práce. Důkazy: přepočtený počet zaměstnanců, evidence náhradního plnění, dokumentace o (ne)úpravě pracoviště.
+
+**2. Právní otázka.** Jaké povinnosti zaměstnavateli plynou z odkazu § 237 ZP — zejména povinný podíl osob se zdravotním postižením a povinnost vytvářet potřebné pracovní podmínky — a kde je jejich hmotněprávní úprava?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 237 — odkazovací norma; povinnosti k zaměstnávání osob se zdravotním postižením a k vytváření pracovních podmínek stanoví zvláštní předpisy.
+- *Související ustanovení téhož zákona:* § 103 a násl. (BOZP — konkretizace pracovních podmínek), § 224 odst. 1 (obecné pracovní podmínky), § 16 (rovné zacházení, zákaz diskriminace).
+- *Související předpisy:* zákon č. 435/2004 Sb., o zaměstnanosti — § 67 (definice), § 81 (povinný podíl 4 % u zaměstnavatelů nad 25 zaměstnanců, splnění zaměstnáním/náhradním plněním/odvodem), § 75 (chráněné pracovní místo), § 78 (příspěvek); zákon č. 198/2009 Sb. (antidiskriminační zákon).
+- *Judikatura:* požadavek tzv. přiměřených opatření (reasonable accommodation) pro osoby se zdravotním postižením.
+
+**4. Subsumpce.** Zaměstnavatel má více než 25 zaměstnanců → vzniká povinný podíl 4 % (§ 81 zákona o zaměstnanosti). Nesplnění zaměstnáním ani náhradním plněním → vzniká povinnost odvodu. Odmítnutí přiměřené úpravy pracoviště uchazeči se ZP může být porušením povinnosti vytvářet potřebné pracovní podmínky (§ 237 ZP) a může zakládat diskriminaci (§ 16 ZP, antidiskriminační zákon).
+
+**5. Řešení.** Hmotněprávní povinnosti vyplývají ze zákona o zaměstnanosti (povinný podíl, jeho splnění a odvod) a z § 237 ZP ve spojení s § 103 a § 16 (vytváření podmínek, zákaz diskriminace, přiměřená opatření). Procesně: Úřad práce vymáhá odvod; uchazeč se může bránit u inspektorátu práce nebo antidiskriminační žalobou. Riziko: rozsah „přiměřených" opatření je limitován nepřiměřeným zatížením zaměstnavatele.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel měl 25 a méně zaměstnanců, povinný podíl podle § 81 by nevznikl. (b) Kdyby požadovaná úprava pracoviště představovala nepřiměřené břemeno, povinnost ji provést by mohla být vyloučena.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že § 237 ZP sám žádnou povinnost neukládá.* Neutralizace: jde o odkazovací normu; hmotněprávní povinnosti jsou v zákoně o zaměstnanosti a v antidiskriminačních a BOZP předpisech, na něž § 237 odkazuje.
+- *Námitka nákladnosti úprav pracoviště.* Neutralizace: existují příspěvky (§ 78 zákona o zaměstnanosti); povinnost je omezena testem přiměřenosti, nikoli zcela vyloučena.
+- *Slabé místo:* hranice „přiměřených opatření" a jejich vynutitelnost jsou neostré a posuzují se případ od případu.
+
+#### H. Praktický závěr
+
+§ 237 ZP je odkazovací normou: konkrétní povinnosti k zaměstnávání osob se zdravotním postižením určuje zákon o zaměstnanosti (zejména povinný podíl 4 %, náhradní plnění, odvod) a povinnost vytvářet podmínky se prolíná s BOZP a zákazem diskriminace.
+
+**Checklist (advokát / soud / zaměstnavatel / Úřad práce):**
+- [ ] Má zaměstnavatel více než 25 zaměstnanců (vznik povinného podílu)?
+- [ ] Je podíl 4 % splněn zaměstnáním, náhradním plněním, nebo odvodem?
+- [ ] Byla přijata přiměřená opatření k vytvoření pracovních podmínek (bezbariérovost, pomůcky)?
+- [ ] Nedošlo k diskriminaci z důvodu zdravotního postižení (§ 16 ZP, antidiskriminační zákon)?
+
+**Typicky rozhodné důkazy / podklady:** přepočtený počet zaměstnanců, evidence náhradního plnění/odvodu, dokumentace úprav pracoviště, posudky a doklady o zdravotním postižení, korespondence k přijetí do zaměstnání.
 
 ---
 
@@ -547,6 +1051,42 @@ Konkretizaci provádí **vyhláška Ministerstva zdravotnictví č. 180/2015 Sb.
 Odst. 2 doplňuje obecný zákaz **individualizovaným** zákazem — pro **těhotnou zaměstnankyni**, **kojící zaměstnankyni** a **zaměstnankyni-matku do konce 9. měsíce po porodu** je zakázáno vykonávat **jakoukoli práci, pro kterou nejsou podle lékařského posudku zdravotně způsobilé**. Tento zákaz je individualizovaný — lékařský posudek vydává poskytovatel pracovnělékařských služeb na základě konkrétního zdravotního stavu zaměstnankyně.
 
 Důsledkem zákazu (objektivního nebo individualizovaného) je povinnost zaměstnavatele převést zaměstnankyni na jinou vhodnou práci podle § 239 — viz následující paragraf.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Laborantka pracující s organickými rozpouštědly a karcinogeny oznámí zaměstnavateli těhotenství a předloží potvrzení od gynekologa. Zaměstnavatel ji ponechá na dosavadní práci s tím, že „lékařský posudek pracovnělékařské služby zatím nemá". Po dvou týdnech expozice se laborantka obává poškození plodu. Účastníci: těhotná zaměstnankyně, zaměstnavatel, poskytovatel pracovnělékařských služeb. Důkazy: potvrzení o těhotenství, kategorizace práce a protokoly o expozici, vyhláška o zakázaných pracích, lékařský posudek.
+
+**2. Právní otázka.** Smí zaměstnavatel ponechat těhotnou zaměstnankyni na práci spadající mezi práce zakázané těhotným podle vyhlášky č. 180/2015 Sb., dokud nemá individuální lékařský posudek, nebo je zákaz podle § 238 odst. 1 účinný bez ohledu na posudek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 238 — obecný zákaz prací ohrožujících mateřství (odst. 1, konkretizace vyhláškou) a individualizovaný zákaz prací, pro něž zaměstnankyně není zdravotně způsobilá (odst. 2).
+- *Související ustanovení téhož zákona:* § 239 (povinnost převést na jinou práci, vyrovnávací příspěvek), § 41 (převedení), § 103 (povinnosti BOZP), § 224 odst. 1.
+- *Související předpisy:* vyhláška č. 180/2015 Sb. (zakázané práce těhotným/kojícím/matkám), zákon č. 373/2011 Sb. (pracovnělékařské služby), zákon č. 187/2006 Sb. (vyrovnávací příspěvek), směrnice 92/85/EHS.
+- *Judikatura:* ochranná povaha úpravy — objektivní zákaz nezávisí na individuálním posouzení tam, kde jde o práci taxativně zakázanou.
+
+**4. Subsumpce.** Práce s organickými rozpouštědly a karcinogeny patří mezi práce zakázané těhotným zaměstnankyním podle vyhlášky → obecný zákaz podle § 238 odst. 1 je účinný okamžitě, bez potřeby individuálního posudku. Posudek podle odst. 2 je relevantní jen pro práce, které nejsou taxativně zakázané, ale mohou ohrožovat konkrétní zaměstnankyni. Setrvání na zakázané práci je proto protiprávní.
+
+**5. Řešení.** Zaměstnavatel musí těhotnou zaměstnankyni okamžitě stáhnout ze zakázané práce a převést na vhodnou práci podle § 239; nemůže čekat na posudek pracovnělékařské služby. Klesne-li bez zavinění zaměstnankyně výdělek, náleží vyrovnávací příspěvek (dávka nemocenského pojištění). Procesně: zaměstnankyně oznámí těhotenství a doloží je; zaměstnavatel bezodkladně převede. Riziko: u prací nezakázaných taxativně je nutný individuální posudek (odst. 2).
+
+**6. Varianty.** (a) Kdyby šlo o práci, která není ve vyhlášce, ale podle lékařského posudku ohrožuje konkrétní těhotenství, zákaz by nastoupil podle odst. 2 (na základě posudku). (b) Kdyby zaměstnankyně pracovala v noci, mohla by navíc požádat o převedení na denní práci (§ 239 odst. 1 věta druhá) — bezpodmínečně.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že bez posudku nemůže jednat.* Neutralizace: u prací taxativně zakázaných vyhláškou platí zákaz objektivně (§ 238 odst. 1) bez nutnosti individuálního posudku; posudek řeší jen sporné/nezakázané práce (odst. 2).
+- *Námitka, že zaměstnankyně sama souhlasila se setrváním.* Neutralizace: jde o kogentní ochranný zákaz; souhlas zaměstnankyně jej nevylučuje.
+- *Slabé místo:* zařazení konkrétní práce pod položku vyhlášky může být odborně sporné (limity expozice) a vyžaduje součinnost pracovnělékařské služby.
+
+#### H. Praktický závěr
+
+§ 238 zakazuje práce ohrožující mateřství dvojím způsobem: objektivně podle vyhlášky č. 180/2015 Sb. (bez ohledu na posudek) a individuálně podle lékařského posudku. Důsledkem je povinnost převedení podle § 239; zákaz nelze prolomit souhlasem zaměstnankyně.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnankyně):**
+- [ ] Je daná práce taxativně zakázána vyhláškou č. 180/2015 Sb. (objektivní zákaz)?
+- [ ] Pokud ne, existuje lékařský posudek o nezpůsobilosti pro konkrétní práci (odst. 2)?
+- [ ] Byla zaměstnankyně bezodkladně převedena na vhodnou práci (§ 239)?
+- [ ] Je řešen pokles výdělku (vyrovnávací příspěvek) a u noční práce převedení na denní?
+
+**Typicky rozhodné důkazy / podklady:** potvrzení o těhotenství, kategorizace práce a protokoly o expozici, vyhláška o zakázaných pracích, lékařský posudek pracovnělékařské služby, doklad o převedení.
 
 ---
 
@@ -584,6 +1124,42 @@ Vyrovnávací příspěvek v těhotenství a mateřství je dávkou **nemocensk�
 
 Dávka se poskytuje za období převedení; nárok zaniká dnem nástupu na mateřskou dovolenou (§ 195) nebo dříve při zániku převedení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Těhotná zaměstnankyně dosud pracovala na nočních směnách u výrobní linky, která je jí jako těhotné zakázána. Požádala písemně o zařazení na denní práci. Zaměstnavatel jí nabídl jen administrativní výpomoc s podstatně nižší mzdou a tvrdí, že vyšší výdělek „nemůže zajistit". Účastníci: těhotná zaměstnankyně, zaměstnavatel, ČSSZ. Důkazy: žádost o denní práci, doklad o dosavadním a novém výdělku, potvrzení o těhotenství, evidence vhodných pozic u zaměstnavatele.
+
+**2. Právní otázka.** V jakém rozsahu je zaměstnavatel povinen převést těhotnou zaměstnankyni na práci, při níž může dosahovat stejného výdělku, jak se vypořádat s poklesem výdělku (vyrovnávací příspěvek), a je žádosti o denní práci nutno bezpodmínečně vyhovět?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 239 — povinnost dočasně převést na vhodnou práci se zachováním výdělku; bezpodmínečné zařazení na denní práci na žádost těhotné pracující v noci; vyrovnávací příspěvek při poklesu výdělku bez zavinění zaměstnankyně.
+- *Související ustanovení téhož zákona:* § 238 (zákaz prací ohrožujících mateřství), § 41 odst. 1 písm. c) (převedení ze zákonných důvodů), § 242 (přestávky ke kojení — návaznost), § 195 (mateřská dovolená).
+- *Související předpisy:* zákon č. 187/2006 Sb. (§ 42 a násl. — vyrovnávací příspěvek vyplácený ČSSZ), vyhláška č. 180/2015 Sb.
+- *Judikatura:* ochranný účel — převedení i zachování výdělku jsou povinností zaměstnavatele, nikoli jeho volbou.
+
+**4. Subsumpce.** Práce je těhotné zakázána → povinnost převést (§ 239 odst. 1). Cílem je vhodná práce se zachováním výdělku; zaměstnavatel je povinen takovou pozici vyhledat. Není-li to možné a výdělek bez zavinění zaměstnankyně klesne, nastupuje vyrovnávací příspěvek (dávka nemocenského pojištění, hradí stát). Žádosti těhotné pracující v noci o denní práci je nutno vyhovět bezpodmínečně.
+
+**5. Řešení.** Zaměstnavatel musí zaměstnankyni převést na vhodnou denní práci a aktivně hledat pozici se srovnatelným výdělkem; není-li to objektivně možné, kompenzuje rozdíl vyrovnávací příspěvek z nemocenského pojištění (nikoli zaměstnavatel). Procesně: zaměstnankyně doloží žádost a výdělky; zaměstnavatel vydá podklady pro ČSSZ. Riziko: zaměstnavatel se nemůže zprostit povinnosti převedení tvrzením, že „vyšší výdělek nezajistí".
+
+**6. Varianty.** (a) Pro kojící zaměstnankyni a matku do 9. měsíce po porodu platí převedení obdobně (odst. 2). (b) Kdyby pokles výdělku byl způsoben zaviněním zaměstnankyně (např. odmítla vhodnou srovnatelnou práci), vyrovnávací příspěvek by nenáležel.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že nemá pozici se stejným výdělkem.* Neutralizace: povinnost převést trvá; rozdíl ve výdělku se řeší vyrovnávacím příspěvkem z nemocenského pojištění, nikoli ponecháním na zakázané práci.
+- *Námitka, že vyrovnávací příspěvek má platit zaměstnavatel.* Neutralizace: jde o dávku nemocenského pojištění vyplácenou ČSSZ; zaměstnavatel platí jen mzdu odpovídající nové pozici.
+- *Slabé místo:* „vhodnost" práce a „stejný výdělek" jsou relativní pojmy; dostupnost srovnatelné pozice se prokazuje obtížně.
+
+#### H. Praktický závěr
+
+§ 239 ukládá zaměstnavateli dočasně převést těhotnou (a obdobně kojící a matku do 9. měsíce) na vhodnou práci se snahou o zachování výdělku; žádosti o denní práci je nutno vyhovět bezpodmínečně. Pokles výdělku bez zavinění zaměstnankyně kryje vyrovnávací příspěvek hrazený státem.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnankyně):**
+- [ ] Je dosavadní práce zakázaná/ohrožující (§ 238) a byla zaměstnankyně převedena?
+- [ ] Hledal zaměstnavatel vhodnou práci se srovnatelným výdělkem?
+- [ ] Bylo žádosti těhotné o denní práci bezpodmínečně vyhověno?
+- [ ] Je při poklesu výdělku zajištěn vyrovnávací příspěvek (podklady pro ČSSZ)?
+
+**Typicky rozhodné důkazy / podklady:** žádost o převedení/denní práci, doklady o dosavadním a novém výdělku, potvrzení o těhotenství/kojení, evidence vhodných pozic, podklady pro ČSSZ.
+
 ---
 
 ### § 240 — Pracovní cesty a přesčas pečujících zaměstnanců
@@ -616,6 +1192,42 @@ Odst. 3 obsahuje dvojí pravidlo:
 a) **U těhotných zaměstnankyň** je práce přesčas **zakázána absolutně** — nelze ji ani nařídit, ani dohodnout. Důvodem je ochrana zdraví matky i plodu.
 
 b) **U zaměstnanců pečujících o dítě mladší než 1 rok** zaměstnavatel **nemůže nařídit** přesčas — ale **dohodou ji lze realizovat**, pokud s tím zaměstnanec souhlasí. Tato úprava poskytuje pečujícím rodičům ochranu před jednostranným zatížením, aniž by jim odepírala možnost dobrovolného přesčasu, mají-li o něj zájem.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně samoživitelka pečuje o sedmileté dítě a o matku se stupněm závislosti III, o kterou převážně sama dlouhodobě pečuje. Zaměstnavatel ji bez jejího souhlasu vyslal na třídenní pracovní cestu mimo obvod obce pracoviště a současně jí nařídil přesčas, ačkoli ona má dítě mladší než 1 rok. Účastníci: pečující zaměstnankyně, zaměstnavatel. Důkazy: cestovní příkaz, rozhodnutí o stupni závislosti pečované osoby, rodný list dítěte, evidence nařízeného přesčasu.
+
+**2. Právní otázka.** Směl zaměstnavatel vyslat pečující zaměstnankyni na pracovní cestu mimo obvod obce bez jejího souhlasu a nařídit jí přesčas, pečuje-li o dítě mladší než 1 rok (a zároveň o osobu závislou ve stupni III)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 240 — vyslání na pracovní cestu mimo obvod obce jen se souhlasem; přeložení jen na žádost; absolutní zákaz přesčasu u těhotných a zákaz nařízení přesčasu u pečujících o dítě do 1 roku.
+- *Související ustanovení téhož zákona:* § 42 (pracovní cesta), § 43 (přeložení), § 78 odst. 1 písm. i) a § 93 (práce přesčas), § 241 (úprava pracovní doby), § 350 odst. 1 (definice „osamělého").
+- *Související předpisy:* zákon č. 108/2006 Sb. (stupně závislosti II–IV); směrnice 2019/1158.
+- *Judikatura:* ochranný účel ustanovení — souhlas a zákaz nařízení přesčasu jsou kogentní zárukou ve prospěch pečujících.
+
+**4. Subsumpce.** Zaměstnankyně pečuje o dítě mladší než 9 let i o osobu závislou ve stupni III → spadá do okruhu chráněných osob (odst. 1 a 2). Vyslání na pracovní cestu mimo obvod obce vyžaduje její souhlas, který nebyl dán → nepřípustné. Pečuje-li o dítě mladší než 1 rok, nelze jí přesčas nařídit (odst. 3 věta druhá) → nařízení je neplatné.
+
+**5. Řešení.** Vyslání na pracovní cestu bez souhlasu i nařízení přesčasu jsou v rozporu s § 240; zaměstnankyně není povinna je respektovat a jejich nesplnění nelze sankcionovat. Přesčas u pečujícího o dítě do 1 roku lze realizovat jen dohodou (souhlasem), nikoli příkazem. Procesně: zaměstnankyně doloží své postavení a odmítne příkaz; při sankci se brání u inspektorátu práce/soudu. Riziko: prokázání „převážně sama dlouhodobě" u péče o závislou osobu.
+
+**6. Varianty.** (a) Kdyby zaměstnankyně byla těhotná, byl by přesčas zakázán absolutně (nelze ani dohodnout). (b) Kdyby s pracovní cestou i přesčasem dobrovolně souhlasila a dítě by bylo starší 1 roku, realizace by byla možná (přesčas lze pak i nařídit v mezích § 93).
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne provozní nutnost cesty.* Neutralizace: u chráněných pečujících osob je vyslání mimo obvod obce vázáno na souhlas bezvýhradně; provozní nutnost souhlas nenahrazuje.
+- *Námitka, že přesčas „jen nabídl".* Neutralizace: zákon zakazuje přesčas nařídit u pečujících o dítě do 1 roku; pokud šlo o příkaz (nikoli dobrovolnou dohodu), je neplatný.
+- *Slabé místo:* status „osamělého" a „převážně sama dlouhodobě pečuje" je nutné doložit; bez dokladů je ochrana sporná.
+
+#### H. Praktický závěr
+
+§ 240 chrání těhotné a pečující osoby: pracovní cestu mimo obvod obce lze nařídit jen s jejich souhlasem, přeložení jen na žádost; přesčas je u těhotných zakázán absolutně a u pečujících o dítě do 1 roku jej nelze nařídit (lze jen dohodnout).
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Spadá zaměstnanec do chráněného okruhu (těhotná, péče o dítě < 9 let, osamělý s dítětem < 15 let, péče o závislou osobu II–IV)?
+- [ ] Byl k vyslání mimo obvod obce dán souhlas (a přeložení jen na žádost)?
+- [ ] Jde o těhotnou (absolutní zákaz přesčasu) nebo o péči o dítě < 1 roku (nelze nařídit)?
+- [ ] Je případný přesčas založen dohodou, nikoli příkazem?
+
+**Typicky rozhodné důkazy / podklady:** cestovní příkaz, rodné listy dětí, rozhodnutí o stupni závislosti pečované osoby, doklad o osamělosti, evidence nařízených přesčasů a pracovních cest.
 
 ---
 
@@ -688,6 +1300,42 @@ Nevyhoví-li zaměstnavatel, je **povinen písemně odůvodnit**. Toto odůvodn�
 
 Odst. 3 (zaveden novelou č. 285/2020 Sb., transponující směrnici EU 2019/1158) chrání **flexibilitu rodičů**: bylo-li vyhověno žádosti o kratší pracovní dobu, zaměstnanec může později požádat o **obnovení původního rozsahu** (např. po nástupu dítěte do mateřské/základní školy). Zaměstnavatel není povinen automaticky vyhovět — ale nevyhoví-li, **musí písemně odůvodnit**. Symetrie s odst. 2 podporuje princip „**reverzibility**" úpravy pracovní doby.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně pečující o desetileté dítě požádala písemně o kratší pracovní dobu (30 hod./týden) a o vynechání odpoledních směn. Zaměstnavatel žádost zamítl s jednovětým odůvodněním „brání tomu provozní důvody", aniž konkretizoval jaké; ve skutečnosti by přerozdělení směn bylo možné, jen organizačně nepohodlné. Účastníci: pečující zaměstnankyně, zaměstnavatel. Důkazy: písemná žádost a písemné odůvodnění zamítnutí, rozvrh směn, údaje o personálním obsazení a zastupitelnosti.
+
+**2. Právní otázka.** Splnil zaměstnavatel podmínky pro odmítnutí žádosti podle § 241 odst. 2 — tj. existují „vážné provozní důvody" a je odůvodnění dostatečně konkrétní — nebo je zaměstnavatel povinen žádosti vyhovět?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 241 — povinnost vyhovět žádosti o kratší/jinou úpravu pracovní doby, nebrání-li tomu vážné provozní důvody; povinnost písemného odůvodnění při nevyhovění; právo žádat o obnovení (odst. 3).
+- *Související ustanovení téhož zákona:* § 80 (kratší pracovní doba), § 84 (rozvrh směn), § 241a (práce na dálku), § 16 (rovné zacházení), § 241 odst. 1 (přihlížení k potřebám).
+- *Související předpisy:* čl. 32 odst. 1 a čl. 10 odst. 2 Listiny (ochrana rodičovství a rodiny); směrnice 2019/1158; zákon č. 251/2005 Sb. (inspekce práce); zákon č. 108/2006 Sb.
+- *Judikatura:* ustálená praxe Nejvyššího soudu k § 241 ZP a nálezy Ústavního soudu — „vážné provozní důvody" se vykládají úzce; důkazní břemeno nese zaměstnavatel, který musí prokázat konkrétní nemožnost vyhovět, ne pouhou nevýhodnost.
+
+**4. Subsumpce.** Zaměstnankyně pečuje o dítě mladší 15 let → patří do okruhu oprávněných [odst. 2 písm. b)]. Žádost byla písemná → formální podmínka splněna. „Vážné provozní důvody" vyžadují konkrétní, doložitelnou nemožnost zajistit chod pracoviště; pouhá organizační nepohodlnost (možné, ale nepohodlné přerozdělení) tomuto testu nevyhovuje. Obecné odůvodnění bez konkretizace je nedostatečné a soudně přezkoumatelné.
+
+**5. Řešení.** Zaměstnavatel je povinen žádosti vyhovět, neprokáže-li konkrétní vážné provozní důvody; jednovětá fráze test nesplňuje. Procesně: zaměstnankyně se může domáhat určení neplatnosti odmítnutí, plnění (úpravy), náhrady škody a podat podnět inspektorátu práce. Důkazní břemeno o vážných provozních důvodech nese zaměstnavatel. Riziko: hranice mezi „vážným" důvodem a běžnou organizační obtíží je hodnotová.
+
+**6. Varianty.** (a) Kdyby šlo o jediného nenahraditelného specialistu, jehož nelze v provozu zastoupit ani úkoly přerozdělit, vážný provozní důvod by mohl být dán. (b) Kdyby zaměstnankyně později žádala o obnovení původní pracovní doby a zaměstnavatel nevyhověl, musel by to rovněž písemně odůvodnit (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne „provozní důvody" obecně.* Neutralizace: pojem se vykládá úzce; nutná je konkrétní, doložitelná nemožnost vyhovět, nikoli ekonomická nevýhodnost či organizační obtíž — a důkazní břemeno nese zaměstnavatel.
+- *Námitka, že úprava naruší rovnost mezi zaměstnanci.* Neutralizace: jde o zákonný nárok pečujících osob, konkretizující ústavní ochranu rodičovství; vyhovění není neoprávněným zvýhodněním.
+- *Slabé místo:* „vážnost" provozních důvodů je neurčitý pojem; výsledek soudního přezkumu závisí na konkrétních skutkových zjištěních o zastupitelnosti.
+
+#### H. Praktický závěr
+
+§ 241 odst. 2 zakládá silný subjektivní nárok pečujících osob na kratší/jinou úpravu pracovní doby, odepřitelný jen pro vážné provozní důvody, jež musí zaměstnavatel konkrétně doložit a písemně odůvodnit. Symetricky lze žádat o obnovení původní doby (odst. 3).
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Patří žadatel do okruhu oprávněných [odst. 2 písm. a)–c)] a je žádost písemná?
+- [ ] Prokázal zaměstnavatel konkrétní vážné provozní důvody (ne jen tvrzení)?
+- [ ] Je odmítnutí písemně a věcně odůvodněno (přezkoumatelně)?
+- [ ] Byla zvážena reverzibilita (žádost o obnovení podle odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** písemná žádost a písemné odůvodnění zamítnutí, rozvrh směn, údaje o personálním obsazení a zastupitelnosti, doklad o péči (rodný list dítěte, stupeň závislosti), korespondence se zaměstnavatelem.
+
 ---
 
 ### § 241a — Žádost o výkon práce na dálku
@@ -723,6 +1371,42 @@ Pojetí oprávněných je užší než v § 241 odst. 2:
 - pečující osoba o závislou osobu ve stupni II–IV.
 
 Užší věková hranice (9 let) reflektuje předpoklad, že práce na dálku je výhodná zejména v období, kdy je dítě v mladším školním věku a vyžaduje rodičovskou přítomnost; pro starší děti je nárok na úpravu pracovní doby (§ 241) považován za dostačující.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně pečující o sedmileté dítě požádala písemně o výkon práce na dálku (home office) podle § 317 s odůvodněním rodičovské péče. Zaměstnavatel žádost zamítl bez jakéhokoli odůvodnění s tím, že „na home office není nárok". Zaměstnankyně namítá, že měl alespoň písemně odůvodnit. Účastníci: pečující zaměstnankyně, zaměstnavatel. Důkazy: písemná žádost, (chybějící) písemné odůvodnění, povaha druhu práce a její proveditelnost na dálku, věk dítěte.
+
+**2. Právní otázka.** Má zaměstnankyně pečující o dítě mladší 9 let nárok na vyhovění žádosti o práci na dálku podle § 241a, nebo jen právo na písemné odůvodnění nevyhovění — a porušil zaměstnavatel zákon, neodůvodnil-li zamítnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 241a — povinnost písemně odůvodnit nevyhovění žádosti o práci na dálku u vymezených pečujících osob (těhotná, péče o dítě < 9 let, péče o závislou osobu II–IV); bez zákonného nároku na vyhovění.
+- *Související ustanovení téhož zákona:* § 317 (práce na dálku — jen dohodou stran), § 241 (kratší/jiná úprava pracovní doby — silnější nárok), § 16 (rovné zacházení).
+- *Související předpisy:* směrnice 2019/1158; zákon č. 108/2006 Sb. (stupně závislosti).
+- *Judikatura:* odlišení slabšího „procedurálního" nároku (§ 241a) od hmotněprávního nároku na úpravu pracovní doby (§ 241).
+
+**4. Subsumpce.** Zaměstnankyně pečuje o dítě mladší 9 let → patří do okruhu § 241a. Žádost byla písemná. § 241a však nezakládá nárok na vyhovění (práce na dálku vyžaduje dohodu obou stran podle § 317); zakládá pouze povinnost žádost projednat a v případě nevyhovění ji písemně odůvodnit. Absence jakéhokoli odůvodnění je porušením této povinnosti.
+
+**5. Řešení.** Zaměstnavatel není povinen práci na dálku povolit (není zde test „vážných provozních důvodů" jako u § 241), je však povinen nevyhovění písemně odůvodnit; jeho úplná absence je porušením § 241a, postižitelným inspektorátem práce. Procesně: zaměstnankyně se může domáhat poskytnutí odůvodnění a podat podnět inspekci práce; nárok na samotné povolení home office jí však nevzniká. Riziko: nelze zaměnit slabší nárok § 241a se silným nárokem § 241.
+
+**6. Varianty.** (a) Kdyby zaměstnankyně místo home office žádala o kratší/jinou úpravu pracovní doby (§ 241), měla by silný nárok odepřitelný jen pro vážné provozní důvody. (b) Kdyby dítě bylo starší 9 let, nespadala by do okruhu § 241a vůbec (zde je hranice 9 let, na rozdíl od 15 let u § 241).
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnankyně namítne nárok na home office.* Neutralizace: § 241a nárok na vyhovění nezakládá; práce na dálku je dohodou stran (§ 317). Vzniká jen právo na písemné odůvodnění nevyhovění.
+- *Zaměstnavatel tvrdí, že odůvodnění není potřeba.* Neutralizace: u žádosti vymezených pečujících osob je písemné odůvodnění nevyhovění zákonnou povinností; její absence je přestupkem.
+- *Slabé místo:* § 241a nestanoví obsahové nároky na odůvodnění ani sankci vůči samotnému zamítnutí (na rozdíl od § 241), takže vynutitelnost je omezená.
+
+#### H. Praktický závěr
+
+§ 241a dává vymezeným pečujícím osobám slabší, „procedurální" nárok: zaměstnavatel není povinen práci na dálku povolit (vyžaduje dohodu podle § 317), musí však nevyhovění žádosti písemně odůvodnit. Okruh oprávněných je užší (dítě do 9 let) než u § 241.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnanec):**
+- [ ] Patří žadatel do okruhu § 241a (těhotná, péče o dítě < 9 let, péče o závislou osobu II–IV)?
+- [ ] Byla žádost o práci na dálku písemná (§ 317)?
+- [ ] Odůvodnil zaměstnavatel případné nevyhovění písemně?
+- [ ] Nezaměňuje se slabší nárok § 241a se silným nárokem na úpravu pracovní doby (§ 241)?
+
+**Typicky rozhodné důkazy / podklady:** písemná žádost o práci na dálku, písemné odůvodnění nevyhovění, popis druhu práce a její proveditelnosti na dálku, doklad o péči (rodný list dítěte, stupeň závislosti).
 
 ---
 
@@ -767,6 +1451,42 @@ Toto pravidlo odlišuje přestávky ke kojení od **běžných přestávek na j�
 
 Zákon nepředpisuje konkrétní formu prokazování kojení. V praxi se akceptuje **prohlášení matky**; sporné případy (zda matka skutečně kojí) by se musely řešit lékařským potvrzením, ale tento postup je s ohledem na intimní povahu věci výjimečný.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně na plný úvazek kojí dvojčata, obě mladší 1 roku. Žádá zaměstnavatele o zvláštní přestávky ke kojení. Zaměstnavatel jí přiznal jen jednu půlhodinovou přestávku denně s tím, že „na víc nárok není", a odmítá ji započítat do pracovní doby. Účastníci: kojící zaměstnankyně, zaměstnavatel. Důkazy: rozsah úvazku (plný), věk a počet dětí, prohlášení o kojení, evidence pracovní doby a poskytnutých přestávek.
+
+**2. Právní otázka.** V jakém rozsahu náleží zaměstnankyni na plný úvazek kojící dvojčata mladší 1 roku zvláštní přestávky ke kojení podle § 242, a započítávají se do pracovní doby s náhradou mzdy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 242 — zvláštní přestávky ke kojení nad rámec běžných přestávek; rozsah podle délky úvazku a věku dítěte; započítání do pracovní doby a náhrada mzdy ve výši průměrného výdělku.
+- *Související ustanovení téhož zákona:* § 88 (běžné přestávky na jídlo a oddech — nezapočítávají se, kontrast), § 239 (převedení), § 351 (průměrný výdělek), § 224 odst. 1.
+- *Související předpisy:* směrnice 92/85/EHS; úmluvy MOP o ochraně mateřství.
+- *Judikatura:* ochranná povaha — přestávky ke kojení jsou placenou překážkou v práci sui generis, na rozdíl od neplacených přestávek podle § 88.
+
+**4. Subsumpce.** Plný úvazek + dítě do 1 roku → 2 půlhodinové přestávky za směnu na jedno dítě. Kojí-li dvojčata, nárok se počítá samostatně pro každé dítě → 4 půlhodinové přestávky za směnu. Přestávky se započítávají do pracovní doby (odst. 3) a náleží za ně náhrada mzdy ve výši průměrného výdělku. Přiznání jen jedné přestávky a její nezapočítání do pracovní doby je v rozporu se zákonem.
+
+**5. Řešení.** Zaměstnankyni náleží 4 půlhodinové přestávky za směnu (2 na každé z dvojčat), které se započítávají do pracovní doby a jsou placené (náhrada ve výši průměrného výdělku). Procesně: zaměstnankyně doloží plný úvazek a kojení (postačuje prohlášení); zaměstnavatel přestávky poskytne a vykáže jako placenou překážku. Riziko: po dovršení 1 roku věku se rozsah mění (v dalších 3 měsících 1 přestávka na dítě).
+
+**6. Varianty.** (a) Při kratší pracovní době alespoň v rozsahu poloviny stanovené by náležela jen 1 půlhodinová přestávka na každé dítě do 1 roku. (b) Při úvazku pod polovinu stanovené pracovní doby nárok podle § 242 nevzniká.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že přestávky se nezapočítávají do pracovní doby.* Neutralizace: na rozdíl od přestávek podle § 88 se přestávky ke kojení do pracovní doby započítávají a náleží za ně náhrada mzdy (odst. 3).
+- *Námitka, že u dvojčat náleží přestávky jen jednou.* Neutralizace: nárok se počítá na každé dítě samostatně → u dvojčat kumulativně.
+- *Slabé místo:* prokazování kojení je intimní; zákon formu nestanoví — zpravidla postačí prohlášení matky, lékařské potvrzení je výjimečné.
+
+#### H. Praktický závěr
+
+§ 242 přiznává kojící zaměstnankyni zvláštní placené přestávky nad rámec běžných přestávek; rozsah závisí na délce úvazku a věku dítěte a u více dětí se počítá samostatně. Přestávky se započítávají do pracovní doby a hradí se ve výši průměrného výdělku.
+
+**Checklist (advokát / soud / zaměstnavatel / zaměstnankyně):**
+- [ ] Pracuje zaměstnankyně na plný úvazek, nebo alespoň na polovinu stanovené doby?
+- [ ] Jaký je věk dítěte (do 1 roku / 13.–15. měsíc) a počet kojených dětí?
+- [ ] Je přiznán správný počet přestávek (u více dětí kumulativně)?
+- [ ] Jsou přestávky započteny do pracovní doby a placeny (průměrný výdělek)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o rozsahu úvazku, rodné listy dětí (věk, počet), prohlášení/potvrzení o kojení, evidence pracovní doby a poskytnutých přestávek.
+
 ---
 
 ## Hlava V — Pracovní podmínky mladistvých zaměstnanců
@@ -784,6 +1504,42 @@ Zákon nepředpisuje konkrétní formu prokazování kojení. V praxi se akceptu
 § 243 je **programatickou normou** zavádějící zvláštní ochranný režim mladistvých zaměstnanců (osob ve věku 15 až 18 let — viz § 6 ZP definující pracovněprávní subjektivitu). Mladistvý zaměstnanec je z hlediska zákoníku práce **plnoprávným zaměstnancem**, avšak s celou řadou zvláštních ochranných úprav, neboť jeho fyzický, psychický a sociální vývoj ještě není dokončen.
 
 Povinnost „vytvářet příznivé podmínky pro všestranný rozvoj" se konkretizuje v následujících paragrafech a v souvisejících předpisech (zejména vyhláška 180/2015 Sb. a školský zákon č. 561/2004 Sb.).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel přijal sedmnáctiletého učně do třísměnného provozu a zachází s ním zcela stejně jako s dospělými — bez jakékoli zvláštní úpravy pracovních podmínek, bez ohledu na jeho věk a vývoj. Učeň si stěžuje, že je přetěžován a že mu není věnována žádná zvláštní péče. Účastníci: mladistvý zaměstnanec (17 let), zaměstnavatel, zákonný zástupce. Důkazy: pracovní smlouva, rozvrh směn, popis zadávaných úkolů, záznam o instruktáži a dohledu.
+
+**2. Právní otázka.** Vyžaduje § 243 od zaměstnavatele aktivní zvláštní úpravu pracovních podmínek mladistvého zaměstnance, nebo postačí zacházet s ním jako s běžným zaměstnancem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 243 — povinnost vytvářet příznivé podmínky pro všestranný rozvoj tělesných a duševních schopností mladistvých též zvláštní úpravou jejich pracovních podmínek.
+- *Související ustanovení téhož zákona:* § 6 (pracovněprávní subjektivita, mladistvý 15–18 let), § 244 (přiměřenost prací a zvýšená péče), § 245 (zákaz nočních prací a přesčasů), § 246 (zakázané práce), § 247 (lékařské prohlídky).
+- *Související předpisy:* vyhláška č. 180/2015 Sb.; školský zákon č. 561/2004 Sb.; směrnice 94/33/ES.
+- *Judikatura:* programatická povaha § 243 konkretizovaná v navazujících ustanoveních a vyhlášce.
+
+**4. Subsumpce.** Zaměstnanec je mladistvý (17 let) → na zaměstnavatele dopadá zvláštní ochranný režim. § 243 ukládá vytvářet příznivé podmínky pro všestranný rozvoj „též zvláštní úpravou" pracovních podmínek; pouhé zacházení jako s dospělým tuto rámcovou povinnost nenaplňuje. Konkrétní obsah plyne z §§ 244–247 a vyhlášky 180/2015 Sb.
+
+**5. Řešení.** Zaměstnavatel je povinen diferencovaně upravit podmínky mladistvého: respektovat zákaz nočních prací a přesčasů (§ 245), přiměřenost prací a zvýšenou péči (§ 244), zakázané práce (§ 246) a lékařské prohlídky (§ 247). Procesně: kontrolu vykonává inspektorát práce; porušení je přestupkem. Riziko: § 243 sám o sobě je programatický, vynutitelnost se opírá o navazující konkrétní ustanovení.
+
+**6. Varianty.** (a) Kdyby zaměstnanec dosáhl 18 let, zvláštní ochranný režim mladistvých by skončil (s výjimkou prací, jejichž zákaz lze vyhláškou rozšířit do 21 let — § 246 odst. 4). (b) Kdyby mladistvý vykonával práci v rámci přípravy na povolání, uplatnily by se výjimky podle vyhlášky pod dohledem.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že mladistvý je plnoprávným zaměstnancem.* Neutralizace: ano, ale s celou řadou kogentních ochranných úprav; § 243 a navazující ustanovení vyžadují diferencovaný přístup.
+- *Námitka, že § 243 je jen proklamace bez obsahu.* Neutralizace: jeho obsah je konkretizován v §§ 244–247 a vyhlášce 180/2015 Sb., jejichž porušení je přestupkem.
+- *Slabé místo:* samotný § 243 nestanoví konkrétní povinnosti; vynutitelnost závisí na navazujících ustanoveních.
+
+#### H. Praktický závěr
+
+§ 243 je programatickou normou zavádějící zvláštní ochranný režim mladistvých (15–18 let); ukládá vytvářet příznivé podmínky pro jejich všestranný rozvoj zvláštní úpravou pracovních podmínek. Konkrétní obsah plyne z §§ 244–247 a vyhlášky č. 180/2015 Sb.
+
+**Checklist (advokát / soud / zaměstnavatel / inspektorát práce):**
+- [ ] Jde o mladistvého zaměstnance (15–18 let)?
+- [ ] Jsou pracovní podmínky diferencovaně upraveny s ohledem na věk a vývoj?
+- [ ] Jsou respektována navazující ustanovení (§§ 244–247) a vyhláška 180/2015 Sb.?
+- [ ] Je zajištěna zvýšená péče (instruktáž, dohled)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva, rozvrh směn, popis zadávaných úkolů, záznamy o instruktáži a dohledu, doklady o lékařských prohlídkách.
 
 ---
 
@@ -803,6 +1559,42 @@ Povinnost „vytvářet příznivé podmínky pro všestranný rozvoj" se konkre
 - **Typově** — některé druhy prací jsou pro mladistvé absolutně vyloučeny (§§ 245, 246 a vyhláška 180/2015 Sb.).
 
 Povinnost „**zvýšené péče při práci**" zahrnuje: detailnější instruktáž, intenzivnější dohled, časté zpětné vazby, omezení samostatného výkonu rizikových úkolů, oborné vedení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel zařadil šestnáctiletého zaměstnance s podprůměrnou fyzickou kondicí k opakované ruční manipulaci s těžkými břemeny po celou směnu, bez instruktáže a bez dohledu. Zaměstnanec po několika dnech utrpí přetížení zad. Vedle toho byl pověřen samostatnou obsluhou rizikového stroje. Účastníci: mladistvý zaměstnanec (16 let), zaměstnavatel, poskytovatel pracovnělékařských služeb. Důkazy: popis úkolů a hmotnostních limitů, posudek o zdravotní způsobilosti, záznam o instruktáži a dohledu, kategorizace práce.
+
+**2. Právní otázka.** Byly mladistvému svěřeny práce přiměřené jeho fyzickému a rozumovému rozvoji a byla mu poskytnuta zvýšená péče při práci podle § 244, nebo zaměstnavatel tuto povinnost porušil?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 244 — zaměstnávat mladistvé jen pracemi přiměřenými jejich fyzickému a rozumovému rozvoji a poskytovat jim při práci zvýšenou péči.
+- *Související ustanovení téhož zákona:* § 243 (rámcová ochrana), § 245 (zákaz nočních prací/přesčasů), § 246 (zakázané práce, limity), § 247 (lékařské prohlídky), § 103 (BOZP).
+- *Související předpisy:* vyhláška č. 180/2015 Sb. (limity ruční manipulace pro mladistvé); zákon č. 258/2000 Sb. (kategorizace prací); směrnice 94/33/ES.
+- *Judikatura:* test přiměřenosti se aplikuje individuálně (konkrétní zaměstnanec) i typově (absolutně vyloučené práce).
+
+**4. Subsumpce.** Test přiměřenosti je individuální i typový. U konkrétního 16letého zaměstnance s podprůměrnou kondicí je celosměnná manipulace s těžkými břemeny zjevně nepřiměřená a může překračovat hmotnostní limity vyhlášky → porušení § 244 i § 246. Absence instruktáže a dohledu je porušením povinnosti „zvýšené péče". Samostatná obsluha rizikového stroje odporuje požadavku omezení samostatného výkonu rizikových úkolů.
+
+**5. Řešení.** Zaměstnavatel porušil § 244 (nepřiměřené práce, absence zvýšené péče) a pravděpodobně i limity vyhlášky a § 246; je povinen zaměstnance přeřadit na přiměřenou práci, zajistit instruktáž a dohled. Porušení je přestupkem (inspekce práce) a zakládá odpovědnost za pracovní úraz (§ 269). Procesně: posoudí se posudek způsobilosti a kategorizace práce. Riziko: individuální posouzení „přiměřenosti" může být sporné.
+
+**6. Varianty.** (a) Kdyby šlo o 16letého vrcholového sportovce a práci v mezích limitů, mohla by být fyzicky náročnější práce přiměřená. (b) Kdyby zaměstnavatel zajistil intenzivní dohled, omezení rizikových úkolů a dodržení limitů, povinnost zvýšené péče i přiměřenosti by mohl splnit.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že mladistvý souhlasil.* Neutralizace: jde o kogentní ochranu; souhlas nepřiměřenost ani porušení limitů nelegalizuje.
+- *Námitka, že zvýšená péče je vágní.* Neutralizace: zahrnuje konkrétní povinnosti (instruktáž, dohled, omezení samostatného výkonu rizik); jejich absence je porušením § 244.
+- *Slabé místo:* „přiměřenost fyzickému a rozumovému rozvoji" je hodnotová a individuální; výsledek závisí na posudku a skutkových zjištěních.
+
+#### H. Praktický závěr
+
+§ 244 dovoluje svěřovat mladistvým jen práce přiměřené jejich rozvoji (test individuální i typový) a ukládá zvýšenou péči (instruktáž, dohled, omezení rizik). Porušení je přestupkem a posiluje odpovědnost za případný úraz.
+
+**Checklist (advokát / soud / zaměstnavatel / inspektorát práce):**
+- [ ] Je práce přiměřená fyzickému a rozumovému rozvoji konkrétního mladistvého?
+- [ ] Nejsou překročeny limity (vyhláška 180/2015 Sb., kategorizace práce)?
+- [ ] Byla poskytnuta zvýšená péče (instruktáž, dohled, omezení rizikových úkolů)?
+- [ ] Odpovídá zařazení posudku o zdravotní způsobilosti?
+
+**Typicky rozhodné důkazy / podklady:** popis úkolů a hmotnostních limitů, posudek o zdravotní způsobilosti, kategorizace práce, záznamy o instruktáži a dohledu, případný protokol o úrazu.
 
 ---
 
@@ -829,6 +1621,42 @@ Lehkou prací jsou:
 - A současně **nezahrnují činnost**, pro niž jsou stanoveny zvláštní podmínky jiným právním předpisem (typicky činnosti vyžadující odbornou způsobilost, řízení vozidel, obsluha strojních zařízení, manipulace s chemikáliemi).
 
 A nesmějí škodit **zdraví, vzdělávání ani morálnímu rozvoji** (např. typicky vyloučeny jsou práce v podnicích spojených s alkoholem, hazardními hrami, sexuálně laděnými službami).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Patnáctiletý žák, který dosud neukončil povinnou školní docházku, byl o hlavních prázdninách zaměstnán v obchodě s pomocnými pracemi. Zaměstnavatel jej však pověřil i obsluhou pily na dřevo a manipulací s chemickými čisticími prostředky, a to i mimo hlavní prázdniny během školního roku. Účastníci: nezletilý/mladistvý zaměstnanec (15 let, neukončená docházka), zaměstnavatel, zákonný zástupce. Důkazy: pracovní smlouva/dohoda, doklad o povinné školní docházce, kategorizace svěřených prací, rozvržení doby zaměstnání (prázdniny vs. školní rok).
+
+**2. Právní otázka.** Smí mladistvý, který neukončil povinnou školní docházku, vykonávat svěřené práce, a to jen v období hlavních prázdnin a jen jako „lehké práce" ve smyslu § 244a?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 244a — mladistvý mladší 15 let nebo neukončivší povinnou školní docházku smí v období hlavních prázdnin konat jen lehké práce (kategorie první) neškodící zdraví, vzdělávání a morálnímu rozvoji, bez činností s podmínkami dle jiných předpisů.
+- *Související ustanovení téhož zákona:* § 244 (přiměřenost), § 245, § 246 (zakázané práce), § 6 (subjektivita).
+- *Související předpisy:* zákon č. 258/2000 Sb. (§ 37 — kategorizace prací); zákon č. 561/2004 Sb. (povinná školní docházka); zákon č. 435/2004 Sb. (§ 56 — umělecká/sportovní činnost dětí); vyhláška č. 180/2015 Sb.; směrnice 94/33/ES.
+- *Judikatura:* přísný ochranný režim u osob před ukončením povinné školní docházky.
+
+**4. Subsumpce.** Zaměstnanec neukončil povinnou školní docházku → smí pracovat jen o hlavních prázdninách a jen lehké práce (kategorie první) bez činností vyžadujících zvláštní podmínky. Obsluha pily a manipulace s chemikáliemi nejsou „lehké práce" (vyšší kategorie rizik, zvláštní podmínky) → zakázané. Zaměstnání během školního roku (mimo prázdniny) je u této skupiny rovněž nepřípustné.
+
+**5. Řešení.** Zaměstnavatel smí této osobě svěřit pouze lehké práce kategorie první a jen v období hlavních prázdnin; svěření obsluhy pily a chemikálií i práce ve školním roce jsou v rozporu s § 244a. Procesně: kontrola inspektorátem práce, porušení je přestupkem; práce musí být okamžitě ukončena/přizpůsobena. Riziko: posouzení, zda konkrétní práce spadá do kategorie první a zda nejde o činnost se zvláštními podmínkami.
+
+**6. Varianty.** (a) Kdyby šlo o uměleckou, kulturní, sportovní nebo reklamní činnost dítěte, uplatnil by se zvláštní režim podle § 56 zákona o zaměstnanosti (povolení úřadu práce), nikoli běžné zaměstnání. (b) Kdyby zaměstnanec povinnou školní docházku ukončil, otevřel by se mu standardní (byť stále ochranný) režim mladistvého podle §§ 244–247.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že práce byla „lehká".* Neutralizace: „lehkou prací" je jen práce kategorie první bez činností se zvláštními podmínkami; obsluha strojů a manipulace s chemikáliemi tento rámec překračují.
+- *Námitka, že zaměstnání ve školním roce je krátké a neškodné.* Neutralizace: u osob před ukončením docházky je práce přípustná jen o hlavních prázdninách; doba školního roku je vyloučena.
+- *Slabé místo:* zařazení konkrétní práce do kategorie první a posouzení „škodlivosti vzdělávání/morálnímu rozvoji" jsou hodnotové a mohou být sporné.
+
+#### H. Praktický závěr
+
+§ 244a stanoví přísný režim pro osoby mladší 15 let nebo neukončivší povinnou školní docházku: jen lehké práce kategorie první, jen o hlavních prázdninách, bez činností se zvláštními podmínkami a bez újmy na zdraví, vzdělávání a morálním rozvoji. Umělecká/sportovní činnost dětí má vlastní režim (§ 56 zákona o zaměstnanosti).
+
+**Checklist (advokát / soud / zaměstnavatel / inspektorát práce):**
+- [ ] Ukončil zaměstnanec povinnou školní docházku, resp. je starší 15 let?
+- [ ] Jde o období hlavních prázdnin?
+- [ ] Jsou práce zařazeny do kategorie první a bez činností se zvláštními podmínkami?
+- [ ] Neškodí práce zdraví, vzdělávání a morálnímu rozvoji?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva/dohoda, doklad o povinné školní docházce, kategorizace svěřených prací, rozvržení doby zaměstnání, případné povolení úřadu práce u činnosti dětí.
 
 ---
 
@@ -859,6 +1687,42 @@ A nesmějí škodit **zdraví, vzdělávání ani morálnímu rozvoji** (např. 
 #### Povinnost poskytnout jinou práci (odst. 2)
 
 Odst. 2 řeší specifický případ: mladistvý se připravoval na povolání, jehož výkon mu je následně **zakázán** (objektivně podle vyhlášky 180/2015 Sb. nebo individuálně podle lékařského posudku). Zaměstnavatel je povinen **poskytnout mu jinou přiměřenou práci** odpovídající pokud možno jeho kvalifikaci — jde o specifickou variantu institutu převedení (§ 41 ZP) s úzce ochranným zaměřením.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Sedmnáctiletý učeň oboru cukrář pomáhal v provozu, který začíná v ranních hodinách. Zaměstnavatel jej zařadil na pravidelné noční směny (od 2:00) a navíc mu nařídil přesčas, aby „dohnal" zameškanou výrobu. Učeň namítá, že jako mladistvý nesmí pracovat v noci ani přesčas. Účastníci: mladistvý učeň (17 let), zaměstnavatel, škola/odborný výcvik. Důkazy: rozvrh směn, evidence přesčasů, doklad o věku, podklady k výchově k povolání a k nutnosti dohledu.
+
+**2. Právní otázka.** Smí mladistvý starší 16 let vykonávat noční práci a přesčas, a za jakých podmínek je výjimečně přípustná krátká noční práce z důvodu výchovy k povolání podle § 245 odst. 1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 245 — zákaz přesčasu a noční práce mladistvých; výjimka pro starší 16 let (noční práce nepřesahující 1 hodinu, je-li třeba pro výchovu k povolání, pod dohledem, s návazností na denní směnu); povinnost poskytnout jinou přiměřenou práci (odst. 2).
+- *Související ustanovení téhož zákona:* § 78 odst. 1 písm. j) (noční doba 22–6 h), § 93 (přesčas), § 244 (přiměřenost), § 246 (zakázané práce), § 41 (převedení).
+- *Související předpisy:* vyhláška č. 180/2015 Sb.; směrnice 94/33/ES; úmluvy MOP.
+- *Judikatura:* striktní výklad výjimky z nočního zákazu (úzké podmínky kumulativně).
+
+**4. Subsumpce.** Mladistvý (17 let) má absolutní zákaz přesčasu → nařízený přesčas je nepřípustný bez ohledu na důvod. Noční práce je obecně zakázána; výjimka pro starší 16 let je úzká a kumulativní: jen nepřesahuje-li 1 hodinu, je-li třeba pro výchovu k povolání, pod dohledem osoby starší 18 let a bezprostředně navazuje-li na denní směnu. Pravidelné noční směny od 2:00 tyto podmínky zjevně nesplňují → zakázané.
+
+**5. Řešení.** Pravidelné noční směny i nařízený přesčas jsou v rozporu s § 245; zaměstnavatel je povinen je zrušit. Výjimečná noční práce by byla možná jen v rozsahu do 1 hodiny navazující na denní směnu, pod dohledem a jen pro výchovu k povolání. Procesně: inspekce práce, přestupek; učeň není povinen příkaz respektovat. Riziko: posouzení, zda je krátká noční práce skutečně „třeba pro výchovu k povolání".
+
+**6. Varianty.** (a) Kdyby šlo o jednorázovou hodinovou práci bezprostředně navazující na denní směnu, pod dohledem a nezbytnou pro výchovu k povolání, byla by výjimečně přípustná. (b) Kdyby byl mladistvému následně výkon naučené práce zakázán (vyhláška/posudek), nastoupila by povinnost poskytnout jinou přiměřenou práci (odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne nutnost provozu a výchovy k povolání.* Neutralizace: výjimka z nočního zákazu je úzká a kumulativní (max. 1 hodina, dohled, návaznost na denní směnu); pravidelné noční směny ji nesplňují a přesčas je zakázán absolutně.
+- *Námitka souhlasu učně.* Neutralizace: zákazy přesčasu a noční práce jsou kogentní; souhlas mladistvého je nelegalizuje.
+- *Slabé místo:* posouzení „nezbytnosti pro výchovu k povolání" a „nezbytnosti dohledu" je hodnotové a může být sporné.
+
+#### H. Praktický závěr
+
+§ 245 zakazuje mladistvým přesčas (absolutně) a noční práci (s úzkou kumulativní výjimkou do 1 hodiny pro starší 16 let z důvodu výchovy k povolání). Je-li naučená práce mladistvému zakázána, vzniká povinnost poskytnout jinou přiměřenou práci.
+
+**Checklist (advokát / soud / zaměstnavatel / inspektorát práce):**
+- [ ] Nebyl mladistvému nařízen přesčas (absolutní zákaz)?
+- [ ] Je případná noční práce v mezích výjimky (starší 16 let, max. 1 h, dohled, návaznost na denní směnu, výchova k povolání)?
+- [ ] U osob < 15 let/neukončené docházky: není práce mezi 20. a 22. hodinou?
+- [ ] Byla při zákazu naučené práce poskytnuta jiná přiměřená práce (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh směn, evidence přesčasů a noční práce, doklad o věku, podklady k výchově k povolání a k zajištění dohledu, případný lékařský posudek.
 
 ---
 
@@ -909,6 +1773,42 @@ Zaměstnavatel **musí vést seznam mladistvých zaměstnanců** se zákonem sta
 - Pro **interní řízení BOZP** zaměstnavatele;
 - Pro **statistické a evidenční účely**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební firma zařadila několik mladistvých učňů na ražení podzemní štoly a další na práci s vysokou expozicí karcinogenům; jednomu z nich, již dvacetiletému, přidělila tutéž rizikovou práci. Firma navíc nevede žádný seznam mladistvých zaměstnanců. Při kontrole inspektorát práce zjistí stav. Účastníci: mladiství zaměstnanci, jeden zaměstnanec ve věku 20 let, zaměstnavatel, inspektorát práce. Důkazy: popis prací a expozic, kategorizace, evidence zaměstnanců, vyhláška 180/2015 Sb.
+
+**2. Právní otázka.** Které z přidělených prací jsou mladistvým absolutně zakázány (a kdy lze zákaz rozšířit i na zaměstnance do 21 let) a splnil zaměstnavatel povinnost vést seznam mladistvých zaměstnanců podle § 246 odst. 5?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 246 — absolutní zákaz prací pod zemí při těžbě/ražení (odst. 1); obecná klauzule a delegace na vyhlášku (odst. 2); kvalifikační zákazy ohrožení (odst. 3); možnost rozšíření zákazů na osoby do 21 let (odst. 4); povinnost vést seznam mladistvých (odst. 5).
+- *Související ustanovení téhož zákona:* § 244 (přiměřenost), § 245 (noční práce/přesčas), § 247 (lékařské prohlídky), § 103 (BOZP).
+- *Související předpisy:* vyhláška č. 180/2015 Sb. (vydaná v dohodě MZd, MPO, MŠMT); zákon č. 258/2000 Sb. (kategorizace); zákon č. 251/2005 Sb. (inspekce práce); úmluva MOP č. 138; směrnice 94/33/ES.
+- *Judikatura:* absolutní povaha zákazu prací pod zemí; catch-all funkce odst. 3.
+
+**4. Subsumpce.** Ražení podzemní štoly je prací pod zemí při ražení tunelů a štol → absolutní zákaz pro mladistvé (odst. 1). Práce s vysokou expozicí karcinogenům spadá pod zakázané práce dle vyhlášky (odst. 2) a u takových rizik lze zákaz vyhláškou rozšířit i na osoby 18–21 let (odst. 4) → riziková práce 20letého může být rovněž zakázána. Absence seznamu mladistvých je porušením odst. 5.
+
+**5. Řešení.** Zaměstnavatel musí mladistvé okamžitě stáhnout z prací pod zemí i z prací zakázaných vyhláškou; u karcinogenních prací prověřit rozšířený zákaz do 21 let a vést předepsaný seznam mladistvých. Porušení jsou přestupky (inspekce práce) a posilují odpovědnost za případné poškození zdraví. Procesně: posoudí se kategorizace a expozice. Riziko: rozsah rozšíření zákazu na 18–21 let je dán konkrétně vyhláškou.
+
+**6. Varianty.** (a) Kdyby mladiství vykonávali zakázané práce výjimečně z důvodu přípravy na povolání, bylo by to možné jen za podmínek vyhlášky (pod dohledem, omezeně, s lékařským dozorem). (b) Kdyby šlo o práce nad zemí mimo seznam zakázaných a v mezích limitů, zákaz by se neuplatnil.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne nedostatek pracovníků pro podzemní práce.* Neutralizace: zákaz prací pod zemí pro mladistvé je absolutní (odst. 1) a nelze jej prolomit provozní potřebou ani souhlasem.
+- *Námitka, že 20letý už není mladistvý.* Neutralizace: u vybraných rizik (karcinogeny, ionizující záření) lze zákaz vyhláškou rozšířit i na osoby do 21 let (odst. 4).
+- *Slabé místo:* konkrétní rozsah rozšířených zákazů a zařazení prací pod položky vyhlášky vyžaduje odborné posouzení a může být sporné.
+
+#### H. Praktický závěr
+
+§ 246 stanoví strukturovaný systém zákazů prací mladistvých (absolutní zákaz prací pod zemí, vyhláškou konkretizované a kvalifikační zákazy, možné rozšíření na osoby do 21 let) a povinnost vést seznam mladistvých zaměstnanců. Výjimky pro přípravu na povolání určuje vyhláška.
+
+**Checklist (advokát / soud / zaměstnavatel / inspektorát práce):**
+- [ ] Nejde o absolutně zakázané práce pod zemí (odst. 1)?
+- [ ] Nejsou práce zakázány vyhláškou 180/2015 Sb. (odst. 2) nebo kvalifikačně (odst. 3)?
+- [ ] U rizikových prací: je zákaz rozšířen i na osoby do 21 let (odst. 4)?
+- [ ] Je veden seznam mladistvých zaměstnanců s předepsaným obsahem (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** popis prací a expozic, kategorizace prací, evidence/seznam mladistvých zaměstnanců, vyhláška o zakázaných pracích, případné podmínky výjimky pro přípravu na povolání.
+
 ---
 
 ### § 247 — Lékařské prohlídky mladistvých
@@ -945,6 +1845,42 @@ Frekvence vyšetření může být **častější**, vyžaduje-li to charakter p
 #### Souvislost s ochranou před výpovědí
 
 Posudek omezující výkon dosavadní práce může vést k uplatnění **§ 41 odst. 1 písm. a) ZP** (povinnost převést na jinou práci pro zdravotní důvody) a v krajním případě k **výpovědi podle § 52 písm. e) ZP** (dlouhodobá zdravotní nezpůsobilost). Avšak u mladistvých se uplatňuje rovněž zvýšená ochrana podle § 245 odst. 2 (povinnost poskytnout jinou přiměřenou práci) a obecná ochrana před propuštěním v ochranné době (§ 53 a § 54 ZP).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel přijal šestnáctiletého učně na dohodu o provedení práce, ale neabsolvoval u něj vstupní lékařskou prohlídku ani po roce nezajistil prohlídku periodickou. Poskytovatel pracovnělékařských služeb poté vydal posudek, podle něhož učeň nesmí vykonávat dosavadní práci ze zdravotních důvodů; zaměstnavatel posudek ignoruje a ponechává jej na téže práci. Účastníci: mladistvý zaměstnanec (16 let), zaměstnavatel, poskytovatel pracovnělékařských služeb. Důkazy: dohoda o provedení práce, doklad o (ne)provedených prohlídkách, lékařský posudek, evidence přidělené práce.
+
+**2. Právní otázka.** Byl zaměstnavatel povinen zajistit u mladistvého vstupní i periodickou lékařskou prohlídku (i u DPP) a je vázán lékařským posudkem při ukládání pracovních úkolů podle § 247?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 247 — povinné prohlídky mladistvých na náklady zaměstnavatele (vstupní i u DPP/DPČ a před převedením, periodické min. 1× ročně); povinnost mladistvého podrobit se vyšetření; vázanost zaměstnavatele lékařským posudkem.
+- *Související ustanovení téhož zákona:* § 32 (vstupní prohlídka — obecně), § 41 odst. 1 písm. a) (převedení pro zdravotní důvody), § 52 písm. e) (výpověď pro zdravotní nezpůsobilost), § 53–54 (ochranná doba), § 245 odst. 2 (jiná přiměřená práce mladistvému).
+- *Související předpisy:* zákon č. 373/2011 Sb. (§ 46 — přezkum posudku u krajského úřadu; § 59); vyhláška č. 79/2013 Sb. (frekvence prohlídek mladistvých).
+- *Judikatura:* závaznost lékařského posudku pro zaměstnavatele; přezkum ve správním režimu, nikoli soudně.
+
+**4. Subsumpce.** Mladistvý zaměstnanec → vstupní prohlídka je povinná i u DPP (§ 247 rozšiřuje povinnost i na dohody mimo pracovní poměr); periodická prohlídka min. 1× ročně chybí → porušení. Lékařský posudek vylučuje dosavadní práci → zaměstnavatel je jím vázán (odst. 3) a nesmí takovou práci ukládat. Ponechání na zakázané práci je protiprávní a navíc aktivuje povinnost poskytnout jinou přiměřenou práci (§ 245 odst. 2).
+
+**5. Řešení.** Zaměstnavatel měl zajistit vstupní i periodickou prohlídku na své náklady a je vázán posudkem — musí mladistvého z dosavadní práce stáhnout a poskytnout jinou přiměřenou práci, popř. řešit převedení (§ 41). Procesně: posudek lze přezkoumat u krajského úřadu (§ 46 zákona č. 373/2011 Sb.), nikoli žalobou; u mladistvého platí zvýšená ochrana a ochranná doba (§ 53–54). Riziko: dokud posudek platí, je závazný.
+
+**6. Varianty.** (a) Kdyby šlo o dospělého zaměstnance v dohodě mimo pracovní poměr na nerizikové práci, vstupní prohlídka by povinná nebyla (na rozdíl od mladistvého). (b) Kdyby posudek vyloučil veškerou vhodnou práci a nešlo o pracovní úraz/nemoc z povolání, mohla by přicházet v úvahu výpověď podle § 52 písm. e) za respektování ochranné doby.
+
+#### G. Protiargumenty a rizika
+
+- *Zaměstnavatel namítne, že u DPP se prohlídky nedělají.* Neutralizace: u mladistvých § 247 výslovně rozšiřuje povinnost vstupní prohlídky i na DPP/DPČ — jde o lex specialis k obecné úpravě.
+- *Námitka, že posudek je „jen doporučení".* Neutralizace: lékařský posudek je pro zaměstnavatele závazný (odst. 3); přezkum probíhá u krajského úřadu, dokud však platí, musí se jím řídit.
+- *Slabé místo:* obsah a platnost posudku se mohou v čase měnit (přezkum, nový posudek), což ovlivňuje rozsah povinností.
+
+#### H. Praktický závěr
+
+§ 247 ukládá zaměstnavateli zajistit u mladistvých vstupní (i u DPP/DPČ a před převedením) a periodické (min. 1× ročně) lékařské prohlídky na své náklady a řídit se lékařským posudkem. Posudek omezující práci aktivuje povinnost poskytnout jinou přiměřenou práci (§ 245 odst. 2) a zvýšenou ochranu mladistvého.
+
+**Checklist (advokát / soud / zaměstnavatel / inspektorát práce):**
+- [ ] Byla u mladistvého provedena vstupní prohlídka (i u DPP/DPČ a před převedením) na náklady zaměstnavatele?
+- [ ] Probíhají periodické prohlídky alespoň jednou ročně (vyhláška 79/2013 Sb.)?
+- [ ] Řídí se zaměstnavatel závazným lékařským posudkem při ukládání úkolů?
+- [ ] Byla při omezení práce poskytnuta jiná přiměřená práce (§ 245 odst. 2) a respektována ochranná doba?
+
+**Typicky rozhodné důkazy / podklady:** dohoda/pracovní smlouva mladistvého, doklady o provedených prohlídkách a jejich úhradě, lékařský posudek, evidence přidělené práce, doklady o převedení/jiné přiměřené práci.
 
 ---
 

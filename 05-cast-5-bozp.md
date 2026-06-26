@@ -82,6 +82,43 @@ Odst. 6 zakotvuje **dvojí pravidlo**: (i) náklady na BOZP nese zaměstnavatel 
 
 Norma je **kogentní** a jakákoli dohoda v rozporu s ní je neplatná. Souběžně platí § 346b odst. 2 ZP — zaměstnavatel nesmí zaměstnance jakýmkoli způsobem postihovat nebo znevýhodňovat za to, že se zákonným způsobem domáhá svých práv vyplývajících z pracovněprávních vztahů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební firma A (generální dodavatel) zajišťuje rekonstrukci výrobní haly. Na pracovišti současně působí zaměstnanci firmy A, subdodavatelské firmy B (elektroinstalace) a firmy C (lešenářské práce). Firmy spolu komunikují pouze ústně na ranních poradách; písemná dohoda o koordinaci ani vzájemná písemná informace o rizicích neexistují. Zaměstnanec firmy B utrpí úraz pádem z lešení postaveného firmou C, které nemělo zábradlí v úseku, kde firma B prováděla práce. Inspektorát práce zahájí kontrolu a žádá doložení písemných informací o rizicích a dohody o koordinaci. Důkazy: záznamy z porad, e-mailová komunikace, smlouvy o dílo, dokumentace BOZP jednotlivých firem, fotodokumentace lešení, svědecké výpovědi mistrů.
+
+**2. Právní otázka.** Vznikla zaměstnavatelům na společném pracovišti povinnost podle § 101 odst. 3 i tehdy, je-li jejich součinnost upravena fakticky (ústní porady), a nese-li odpovědnost za neoplocené lešení firma C, vyvazuje to firmu B z její vlastní povinnosti chránit i zaměstnance ostatních?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 101 odst. 3–4 ZP — vzájemná **písemná** informační povinnost o rizicích a opatřeních, povinnost spolupracovat a povinnost každého zaměstnavatele organizovat své činnosti tak, aby chránily i zaměstnance druhého zaměstnavatele; § 101 odst. 5 — ochrana všech osob na pracovišti.
+- *Související ustanovení téhož zákona:* § 102 (prevence rizik), § 105 (povinnosti při úrazu vč. úrazu zaměstnance jiného zaměstnavatele), § 269–271 (odpovědnost za škodu na zdraví).
+- *Související předpisy:* zákon č. 309/2006 Sb. (koordinátor BOZP na staveništi, §§ 14–18); zákon č. 251/2005 Sb. (§ 17 — přestupek za porušení povinností BOZP); nař. vlády č. 591/2006 Sb. o bližších minimálních požadavcích na BOZP na staveništích.
+- *Judikatura:* NSS sp. zn. 30 Ad 2/2022 (cit. v komentáři) — smyslem úpravy je ochrana zaměstnance před nebezpečím, a technické normy obsahují praxí prověřené standardizované postupy předcházející ohrožení; uplatní se na posouzení standardu zabezpečení lešení.
+
+**4. Subsumpce.** Povinnost vzájemné informace je **obligatorně písemná** (odst. 3) — ústní porady ji nesplňují, znak „písemně informovat" tedy splněn není. Koordinace „na základě písemné dohody" rovněž absentuje. Odpovědnost firmy C za vadné lešení existuje, ale podle odst. 4 písm. a) měla i firma B povinnost organizovat práci svých lidí tak, aby nepracovali v neoploceném úseku — tento znak je u firmy B sporný (záleží, zda vada byla zjevná a zda B mohla práce zastavit dle § 106 odst. 2).
+
+**5. Řešení.** Inspektorát uloží firmám A i C (a podle okolností i B) pokutu za porušení § 101 odst. 3 (absence písemné informace/dohody). Odpovědnost za úraz dle § 269 nese zaměstnavatel postiženého (firma B) objektivně; možnost regresu vůči firmě C podle § 2913 obč. zák. (porušení smluvní/zákonné povinnosti). Praktické kroky: bezodkladně zpracovat písemnou dohodu o koordinaci a vzájemné informace o rizicích, určit pověřeného koordinujícího zaměstnavatele, prověřit lešení dle ČSN. Alternativní výklad: faktická koordinace nestačí — forma je hmotněprávní podmínkou.
+
+**6. Varianty.** (a) Kdyby firmy uzavřely písemnou dohodu o koordinaci a vyměnily si písemné informace o rizicích a firma B přesto poslala lidi do neoploceného úseku, přesune se těžiště odpovědnosti a liberace na vlastní organizaci práce firmy B (§ 270). (b) Kdyby šlo o jediného zaměstnavatele s vlastními zaměstnanci, odst. 3–4 by se neuplatnily a posuzovala by se pouze obecná povinnost dle odst. 1 a prevence dle § 102.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „forma je formalismus":* lze namítat, že rizika byla fakticky komunikována na poradách, takže účel normy byl naplněn. Neutralizace: § 101 odst. 3 výslovně vyžaduje **písemnou** formu; její absence je samostatným přestupkem bez ohledu na faktickou informovanost a oslabuje důkazní pozici při šetření úrazu.
+- *Protiargument „odpovídá jen ten, kdo vadu způsobil":* firma B může tvrdit, že za lešení odpovídá výhradně firma C. Neutralizace: odst. 4 písm. a) zakládá **vlastní** povinnost každého zaměstnavatele chránit i cizí zaměstnance a organizovat své činnosti bezpečně; objektivní odpovědnost za úraz vlastního zaměstnance dle § 269 trvá nezávisle.
+- *Slabé místo:* rozdělení míry zavinění mezi více subjektů je skutkově náročné a závisí na znaleckém posouzení a svědcích; chybějící písemná dokumentace jde k tíži zaměstnavatele.
+
+#### H. Praktický závěr
+
+Na společném pracovišti více zaměstnavatelů je nutné **vždy** zajistit písemnou vzájemnou informaci o rizicích a písemnou dohodu o koordinaci; faktická součinnost nestačí. Každý zaměstnavatel zůstává odpovědný za vlastní zaměstnance i za ohrožení cizích osob a nese objektivní odpovědnost za úraz svého zaměstnance.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje **písemná** vzájemná informace o rizicích a přijatých opatřeních (odst. 3)?
+- [ ] Byla uzavřena **písemná dohoda** o určení koordinujícího zaměstnavatele?
+- [ ] Organizoval každý zaměstnavatel své činnosti tak, aby chránil i cizí zaměstnance (odst. 4 písm. a)?
+- [ ] Byly informovány odborová organizace / zástupce BOZP, příp. přímo zaměstnanci (odst. 4 písm. b)?
+- [ ] Nebyly náklady na BOZP přeneseny na zaměstnance (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** smlouvy o dílo, písemné informace o rizicích, dohoda o koordinaci, dokumentace BOZP, zápisy z porad, fotodokumentace, svědecké výpovědi, znalecký posudek k lešení.
+
 ---
 
 ### § 102 — Prevence rizik a všeobecné preventivní zásady
@@ -198,6 +235,43 @@ Souběh s úpravou požární ochrany podle zákona č. 133/1985 Sb., o požárn
 #### Princip neustálého zlepšování (odst. 7)
 
 Odst. 7 zavádí princip **„continuous improvement"**: opatření je třeba **přizpůsobovat měnícím se skutečnostem, kontrolovat jejich účinnost a dodržování a zajišťovat zlepšování**. Zaměstnavatel proto nemůže obhajobou existence (zastaralé) dokumentace odolat výtkám inspektora — povinnost je dynamická.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní podnik provozuje lakovnu, kde zaměstnanci pracují s rozpouštědly. Zaměstnavatel disponuje registrem rizik z roku, kdy byla lakovna uvedena do provozu, ale za šest let nezohlednil zavedení nové technologie stříkání ani změnu používaných materiálů. U dvou zaměstnanců se rozvinou dýchací obtíže. Inspektorát práce při kontrole zjistí, že dokumentace o vyhledávání a vyhodnocování rizik (odst. 4) je zastaralá, riziko expozice par rozpouštědel nebylo přehodnoceno a odsávání (kolektivní ochrana) je poddimenzované; zaměstnavatel řešil ochranu jen vydáním respirátorů. Důkazy: registr rizik a datum jeho aktualizace, protokoly o měření koncentrací škodlivin, projektová dokumentace odsávání, evidence vydaných OOPP, zdravotní dokumentace, svědectví zaměstnanců.
+
+**2. Právní otázka.** Splnil zaměstnavatel povinnost **soustavně** vyhledávat a hodnotit rizika a vést o tom dokumentaci (odst. 3–4), a respektoval přednost kolektivní ochrany před OOPP (odst. 5 písm. h), spoléhal-li primárně na respirátory namísto účinného odsávání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 102 odst. 3 (soustavné vyhledávání rizik a vazba na kategorizaci), odst. 4 (vyhodnocení reziduálních rizik + dokumentace), odst. 5 písm. h (přednost kolektivní ochrany), odst. 7 (přizpůsobování měnícím se skutečnostem).
+- *Související ustanovení téhož zákona:* § 101 (obecná povinnost), § 104 odst. 1 (subsidiarita OOPP vůči kolektivní ochraně), § 105 odst. 6 (nemoci z povolání).
+- *Související předpisy:* zákon č. 258/2000 Sb. (kategorizace prací, § 37); vyhláška č. 432/2003 Sb. (zařazování prací do kategorií); nař. vlády č. 361/2007 Sb. (podmínky ochrany zdraví při práci, hygienické limity).
+- *Judikatura:* NSS sp. zn. 63 Ad 1/2023 a 51 Ad 1/2023 (cit. v komentáři) — chráněným zájmem je bezpečnost zaměstnanců a zaměstnavatel je povinen **v nejvyšší možné míře** předcházet rizikům, eliminovat je a odstraňovat přijímáním adekvátních opatření (§ 102).
+
+**4. Subsumpce.** Znak „soustavně vyhledávat" (odst. 3) splněn není — registr nebyl po zavedení nové technologie aktualizován. Znak „vést dokumentaci o vyhledávání a vyhodnocování rizik" (odst. 4) je formálně splněn co do existence, ale obsahově neaktuální, tj. nezpůsobilý prokázat plnění povinnosti. Přednost kolektivní ochrany (odst. 5 písm. h) nebyla respektována — zaměstnavatel řešil riziko OOPP, ač bylo realizovatelné účinnější odsávání.
+
+**5. Řešení.** Inspektorát uloží opatření k nápravě a pokutu dle § 17 zákona č. 251/2005 Sb.; zaměstnavatel musí přehodnotit rizika, doložit měření, přednostně zajistit kolektivní ochranu (odsávání) a teprve subsidiárně OOPP, případně iniciovat přeřazení prací do nižší kategorie. V rovině náhrady škody hrozí, je-li dýchací obtíž uznána nemocí z povolání, objektivní odpovědnost dle § 269. Alternativní výklad: existence jakékoli dokumentace nestačí, je-li neaktuální (odst. 7 — dynamická povinnost).
+
+**6. Varianty.** (a) Kdyby zaměstnavatel registr rizik po zavedení technologie aktualizoval, doložil měření pod hygienickým limitem a zavedl odsávání, byla by povinnost splněna a OOPP by tvořily legitimní doplňkovou linii. (b) Kdyby šlo o riziko technicky neodstranitelné, postačilo by je dle odst. 4 vyhodnotit, minimalizovat působení a řádně dokumentovat.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „dokumentace existuje":* zaměstnavatel namítne, že registr rizik má. Neutralizace: odst. 3 a 7 vyžadují **soustavnost** a přizpůsobování změnám; zastaralá dokumentace neprokazuje plnění povinnosti a sama o sobě je důkazem zanedbání.
+- *Protiargument „respirátory dostatečně chrání":* lze tvrdit, že OOPP riziko pokrývají. Neutralizace: odst. 5 písm. h a § 104 odst. 1 zakotvují přednost kolektivní ochrany — OOPP jsou až poslední linií, lze-li riziko řešit technicky/organizačně.
+- *Slabé místo:* prokázání příčinné souvislosti mezi expozicí a poškozením zdraví bývá obtížné a vyžaduje posudek střediska nemocí z povolání; měření koncentrací musí být provedeno akreditovaně.
+
+#### H. Praktický závěr
+
+Prevence rizik je **kontinuální** proces, nikoli jednorázový akt. Dokumentace musí být aktuální a způsobilá prokázat plnění povinnosti; riziko se přednostně řeší kolektivní ochranou a teprve subsidiárně OOPP. Zastaralý registr rizik je sám o sobě nálezovým zjištěním.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je vyhledávání a vyhodnocení rizik prováděno **soustavně** a reaguje na nové technologie/materiály (odst. 3)?
+- [ ] Existuje **aktuální** dokumentace o rizicích a přijatých opatřeních (odst. 4)?
+- [ ] Byla respektována **přednost kolektivní ochrany** před OOPP (odst. 5 písm. h)?
+- [ ] Jsou práce správně zařazeny do kategorií a usiluje zaměstnavatel o snížení kategorie (vazba na z. č. 258/2000 Sb.)?
+- [ ] Jsou přijata opatření pro mimořádné události a první pomoc (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** registr rizik a datum aktualizace, protokoly o měření rizikových faktorů, projektová dokumentace technických opatření, evidence OOPP, kategorizace prací, zdravotní dokumentace, posudek nemoci z povolání.
 
 ---
 
@@ -334,6 +408,43 @@ Zaměstnavatel je povinen určit **obsah, četnost, způsob ověřování znalos
 
 Zaměstnavatel je povinen pro **osoby se zdravotním postižením** (§ 67 zákona č. 435/2004 Sb., o zaměstnanosti) na svůj náklad zajistit úpravu pracovních podmínek a pracovišť, vyhrazování pracovních míst, zaškolení/zaučení a zvyšování kvalifikace. Norma se prolíná s povinností plnit povinný podíl OZP podle § 81 z. č. 435/2004 Sb. a s podporou chráněného trhu práce.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec obsluhy CNC stroje utrpí úraz ruky. Zaměstnavatel při šetření tvrdí, že zaměstnanec porušil bezpečnostní pokyn. Vyjde však najevo, že zaměstnanec absolvoval pouze formální vstupní školení BOZP před třemi lety, dokumentace o školení neobsahuje ověření znalostí (odst. 3), a po zavedení nového typu stroje (změna výrobních prostředků) nebyl proškolen [odst. 2 písm. b)]. Zaměstnavatel rovněž neprokáže, že dodržování pravidel soustavně vyžadoval a kontroloval. Důkazy: prezenční listiny a osnovy školení, záznamy o ověření znalostí, vnitřní předpis o četnosti školení, evidence zavedení nového stroje, provozní bezpečnostní předpis ke stroji.
+
+**2. Právní otázka.** Splnil zaměstnavatel povinnost zajistit školení BOZP při změně výrobních prostředků a povinnost určit způsob ověřování znalostí a vést dokumentaci (odst. 2–3), a může se v případě úrazu dovolat liberace dle § 270, neprokáže-li řádné seznámení a soustavnou kontrolu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 103 odst. 1 písm. a) (zákaz nepřiměřených prací) a písm. f) (informace a pokyny), odst. 2 [školení při nástupu, při změně druhu práce/zařazení, při zavedení nové technologie — písm. b)], odst. 3 (obsah, četnost, ověřování znalostí, dokumentace).
+- *Související ustanovení téhož zákona:* § 106 odst. 4 písm. a), c), d) (zrcadlové povinnosti zaměstnance), § 270 (liberace zaměstnavatele — podmínka řádného seznámení a soustavné kontroly), § 105 (postup při úrazu).
+- *Související předpisy:* zákon č. 309/2006 Sb.; technické normy ČSN/ČSN EN k provozu strojů; nař. vlády č. 378/2001 Sb. (požadavky na bezpečný provoz a používání strojů).
+- *Judikatura:* NS sp. zn. 21 Cdo 5825/2016 (cit. v komentáři) — k povinnostem zaměstnavatele vůči zaměstnanci, který nemůže konat dosavadní práci; obecně judikatura NS k závaznosti technických norem, pokud na ně odkazuje předpis nebo je zaměstnavatel učiní závaznými.
+
+**4. Subsumpce.** Znak „zajistit školení při zavedení nové technologie / změně pracovních prostředků" [odst. 2 písm. b)] splněn není. Znak „určit způsob ověřování znalostí a vést dokumentaci" (odst. 3) splněn není — chybí ověření znalostí. Tím odpadá podmínka liberace dle § 270 odst. 1 písm. a), že zaměstnanec byl s pravidly **řádně seznámen** a jejich dodržování bylo **soustavně vyžadováno a kontrolováno**.
+
+**5. Řešení.** Zaměstnavatel se nemůže zcela zprostit odpovědnosti dle § 270; náhradu škody dle § 269 hradí (prostřednictvím zákonného pojištění dle § 365). Inspektorát uloží pokutu dle § 17 z. č. 251/2005 Sb. Nápravná opatření: doplnit školení k novému stroji, zavést ověřování znalostí, aktualizovat vnitřní předpis o četnosti, vést prokazatelnou dokumentaci. Alternativní výklad: i kdyby zaměstnanec pochybil, neúplné školení vylučuje úplnou liberaci a nanejvýš umožní částečné snížení dle § 270 odst. 2.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel proškolil zaměstnance k novému stroji, ověřil znalosti, vedl dokumentaci a soustavně kontroloval, a zaměstnanec přesto vědomě obešel ochranné zařízení, mohl by se zprostit odpovědnosti zcela (§ 270 odst. 1). (b) Kdyby šlo o práci nepřiměřenou zdravotní způsobilosti zaměstnance [odst. 1 písm. a)], odpovídal by zaměstnavatel již za samotné připuštění k práci.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vstupní školení proběhlo":* zaměstnavatel namítne splnění školicí povinnosti. Neutralizace: odst. 2 vyžaduje školení **i** při změně technologie/prostředků a odst. 3 ověření znalostí; jednorázové vstupní školení bez aktualizace a ověření nepostačuje.
+- *Protiargument „za úraz může zaměstnanec":* lze tvrdit výlučné zavinění zaměstnance. Neutralizace: liberace dle § 270 je podmíněna **řádným seznámením** a **soustavnou kontrolou**; jejich absence brání úplnému zproštění.
+- *Slabé místo:* prokazování „soustavného vyžadování a kontroly" je důkazně náročné; bez písemné dokumentace školení a kontrol jde tíže k zaměstnavateli. Sporná může být i závaznost konkrétní ČSN, nebyla-li učiněna závaznou vnitřním předpisem.
+
+#### H. Praktický závěr
+
+Školení BOZP musí být obsahově relevantní, opakované při změnách a doložené ověřením znalostí a dokumentací. Bez prokazatelného řádného seznámení a soustavné kontroly se zaměstnavatel nemůže zprostit odpovědnosti za úraz dle § 270.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo školení zajištěno při nástupu **i** při změně zařazení/druhu práce/technologie [odst. 2 písm. a)–c)]?
+- [ ] Je určen způsob **ověřování znalostí** a vedena dokumentace o školení (odst. 3)?
+- [ ] Byly poskytnuty informace a pokyny i zranitelným skupinám a cizím zaměstnancům [odst. 1 písm. f)–g)]?
+- [ ] Byla práce přiměřená schopnostem a zdravotní způsobilosti zaměstnance [odst. 1 písm. a)]?
+- [ ] Lze prokázat **soustavné vyžadování a kontrolu** dodržování pravidel (pro účely § 270)?
+
+**Typicky rozhodné důkazy / podklady:** prezenční listiny a osnovy školení, záznamy o ověření znalostí, vnitřní předpis o obsahu a četnosti školení, provozní bezpečnostní předpisy, evidence zavedení nové technologie, lékařské posudky o zdravotní způsobilosti.
+
 ---
 
 ### § 104 — Osobní ochranné pracovní prostředky, pracovní oděvy a obuv, mycí, čisticí a dezinfekční prostředky a ochranné nápoje
@@ -404,6 +515,42 @@ Klíčové pravidlo: OOPP, mycí, čisticí a dezinfekční prostředky a ochran
 #### Zmocnění (odst. 6)
 
 Vláda je zmocněna stanovit **bližší podmínky** poskytování — provádí **nařízení vlády č. 390/2021 Sb.** (viz výše).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel v provozu s prašnými a hlučnými pracemi vyplácí zaměstnancům měsíční „příplatek na ochranné pomůcky" 500 Kč s tím, že si respirátory a chrániče sluchu pořídí sami. Seznam OOPP zpracovaný na základě vyhodnocení rizik (odst. 5) neexistuje; kontrola používání OOPP (odst. 4) se neprovádí. Inspektorát práce při kontrole zjistí praxi finanční náhrady místo naturálního plnění. Současně se u zaměstnance projeví počínající porucha sluchu. Důkazy: mzdové listy s příplatkem, vnitřní předpis (resp. jeho absence), seznam OOPP, evidence vydaných OOPP, protokoly o měření hluku a prašnosti, zdravotní dokumentace.
+
+**2. Právní otázka.** Je vyplácení finančního „příplatku na OOPP" namísto bezplatného naturálního poskytnutí porušením § 104 odst. 5, a zprošťuje takový postup zaměstnavatele odpovědnosti za poškození zdraví, argumentuje-li, že si zaměstnanec měl OOPP za příplatek pořídit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 104 odst. 1 (subsidiarita OOPP, materiální požadavky, soulad s nař. EU 2016/425), odst. 4 (udržování a kontrola používání), odst. 5 (bezplatnost, seznam dle vyhodnocení rizik, **zákaz finanční náhrady**), odst. 6 (zmocnění).
+- *Související ustanovení téhož zákona:* § 101 odst. 6 (zákaz přenášení nákladů BOZP na zaměstnance), § 102 odst. 4–5 (vyhodnocení rizik, přednost kolektivní ochrany), § 106 odst. 4 písm. d) (povinnost zaměstnance OOPP používat), § 269–270 (odpovědnost a liberace).
+- *Související předpisy:* nař. vlády č. 390/2021 Sb. (bližší podmínky poskytování OOPP); nař. vlády č. 361/2007 Sb. (mikroklima, ochranné nápoje); nař. EU 2016/425 (OOPP, kategorie I–III, CE); zákon č. 251/2005 Sb. [§ 17 odst. 1 písm. p) — pokuta až 1 000 000 Kč]; zákon č. 586/1992 Sb. [§ 6 odst. 7 písm. b) — daňový režim].
+
+**4. Subsumpce.** Znak „OOPP přísluší zaměstnanci **bezplatně** podle seznamu zpracovaného na základě vyhodnocení rizik" (odst. 5 věta první) splněn není — seznam neexistuje, plnění není naturální. Znak „poskytování OOPP **nesmí** být nahrazováno finančním plněním" (odst. 5 věta druhá) je porušen přímo. Porušen je i odst. 4 (absence kontroly používání) a souběžně § 101 odst. 6 (nepřímé přenášení nákladů).
+
+**5. Řešení.** Postup je správním deliktem; inspektorát uloží pokutu dle § 17 z. č. 251/2005 Sb. a opatření k nápravě (zpracovat seznam OOPP, poskytovat in natura, zavést kontrolu). V rovině náhrady škody se zaměstnavatel **nemůže** dovolat toho, že zaměstnanec si měl OOPP koupit z příplatku — povinnost trvá *in natura*, takže liberace dle § 270 nepřichází v úvahu z tohoto titulu. Daňově je příplatek příjmem ze závislé činnosti. Alternativní výklad neexistuje — zákaz finanční náhrady je kogentní a výslovný.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel poskytoval OOPP bezplatně dle seznamu, udržoval je a kontroloval používání, a zaměstnanec by je svévolně nepoužíval [§ 106 odst. 4 písm. d)], otevřela by se cesta k liberaci dle § 270. (b) Kdyby šlo o pracovní oděv neplnící ochrannou funkci a nepodléhající mimořádnému opotřebení (odst. 2), nešlo by o OOPP a jeho poskytnutí by mohlo být zdanitelným příjmem.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „příplatek je výhodnější pro zaměstnance":* lze namítat, že finanční plnění je flexibilnější. Neutralizace: odst. 5 věta druhá **výslovně zakazuje** nahrazovat OOPP finančním plněním; účelem je zajistit, že ochrana skutečně existuje a odpovídá riziku.
+- *Protiargument „zaměstnanec si OOPP měl koupit":* obrana proti náhradě škody. Neutralizace: povinnost je naturální a trvá bez ohledu na vyplacený příplatek; její nesplnění nelze přenést na zaměstnance (§ 101 odst. 6).
+- *Slabé místo:* spornou může být dostatečnost a vhodnost konkrétních OOPP (soulad s nař. EU 2016/425, správná kategorie); bez seznamu zpracovaného z vyhodnocení rizik nelze adekvátnost prokázat.
+
+#### H. Praktický závěr
+
+OOPP, mycí/čisticí/dezinfekční prostředky a ochranné nápoje se poskytují **bezplatně a v naturální podobě** podle seznamu odvozeného z vyhodnocení rizik; finanční náhrada je zakázána a je správním deliktem i daňově rizikovým plněním. Naturální povinnost nelze přenést na zaměstnance.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje **seznam OOPP** zpracovaný na základě vyhodnocení rizik a konkrétních podmínek (odst. 5)?
+- [ ] Jsou OOPP poskytovány **bezplatně a in natura** (žádná finanční náhrada — odst. 5)?
+- [ ] Bylo nejprve zváženo řešení rizika **kolektivní ochranou** (odst. 1, § 102 odst. 5 písm. h)?
+- [ ] Splňují OOPP požadavky nař. EU 2016/425 (CE, kategorie)?
+- [ ] Udržuje zaměstnavatel OOPP v použivatelném stavu a **kontroluje** jejich používání (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** seznam OOPP, vyhodnocení rizik, evidence vydaných OOPP, mzdové listy (k vyloučení finanční náhrady), protokoly o měření rizikových faktorů, certifikáty shody OOPP, zdravotní dokumentace.
 
 ---
 
@@ -518,6 +665,43 @@ Zaměstnavatel **vede evidenci** zaměstnanců s uznanou nemocí z povolání vz
 
 Vláda je zmocněna stanovit nařízením členění pracovních úrazů (smrtelné, závažné, ostatní), způsob evidence a hlášení, vzory záznamu, okruh adresátů — provádí **nařízení vlády č. 201/2010 Sb.**
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec utrpí pád ze žebříku s pracovní neschopností 6 týdnů. Zaměstnavatel úraz nezapíše do knihy úrazů, nevyhotoví záznam o úrazu, neobjasní jeho příčiny za účasti svědků ani zástupce pro BOZP a místo úrazu okamžitě uklidí. Po týdnu se zaměstnanec domáhá náhrady škody a obrátí se na inspektorát práce. Zaměstnavatel tvrdí, že šlo o „banální zakopnutí" mimo plnění úkolů. Důkazy: kniha úrazů (resp. její absence), případný záznam o úrazu, svědecké výpovědi, dokumentace ke stavu žebříku, evidence pracovní doby a úkolů, zdravotní dokumentace.
+
+**2. Právní otázka.** Porušil zaměstnavatel povinnosti dle § 105 (objasnění příčin za účasti svědků a zástupce BOZP, zápis do knihy úrazů, vyhotovení a předání záznamu o úrazu, ohlášení stanoveným orgánům), a jaké důsledky má neprovedení těchto úkonů pro důkazní pozici v řízení o náhradě škody?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 105 odst. 1 (objasnění příčin za účasti zaměstnance, svědků, odborů a zástupce BOZP; zákaz měnit stav místa), odst. 2 (kniha úrazů — i drobné úrazy), odst. 3 (záznam o úrazu při neschopnosti delší než 3 dny nebo úmrtí + předání postiženému), odst. 4 (ohlašovací a zasílací povinnost), odst. 5 (opatření proti opakování).
+- *Související ustanovení téhož zákona:* § 269–271 (objektivní odpovědnost za škodu, rozsah náhrad), § 270 (liberace), § 271k odst. 1 (definice pracovního úrazu), § 273–274 (plnění pracovních úkolů a přímá souvislost), § 106 odst. 4 písm. h) (oznamovací povinnost zaměstnance), § 365 (zákonné pojištění).
+- *Související předpisy:* nař. vlády č. 201/2010 Sb. (evidence, hlášení, vzory, okruh adresátů); zákon č. 251/2005 Sb. (přestupky); nař. vlády č. 290/1995 Sb. (seznam nemocí z povolání — pro odst. 6).
+- *Judikatura:* rozhodnutí NS k odlišení cesty do zaměstnání (není plněním úkolů, § 274 odst. 1) od výkonu práce; obecně judikatura k povinnosti zaměstnavatele řádně objasnit úraz a důsledkům porušení evidenční povinnosti pro důkazní břemeno.
+
+**4. Subsumpce.** Znak „objasnit příčiny za účasti svědků a zástupce BOZP" (odst. 1) splněn není; znak „neměnit stav místa bez vážných důvodů" porušen úklidem; znak „vést knihu úrazů" (odst. 2) a „vyhotovit a předat záznam o úrazu" (odst. 3) splněn není; ohlašovací povinnost (odst. 4) nesplněna. Otázka, zda šlo o pracovní úraz, se posuzuje dle § 271k a § 273–274 — rozhodné je, zda k pádu došlo při plnění úkolů či v přímé souvislosti.
+
+**5. Řešení.** Inspektorát uloží pokutu dle § 17 z. č. 251/2005 Sb. a nápravu (dodatečně zapsat, vyhotovit a zaslat záznam, přijmout opatření proti opakování). V řízení o náhradě škody jde **neexistence řádného objasnění a evidence k tíži zaměstnavatele** — ztěžuje mu prokázání liberačních důvodů dle § 270 a usnadňuje zaměstnanci unesení důkazního břemene o úrazovém ději. Při uznaném pracovním úrazu hradí náhradu dle § 269 a § 271 (ztráta na výdělku, bolestné, ZSU, náklady léčení) prostřednictvím zákonného pojištění (§ 365). Alternativní výklad k povaze úrazu závisí na skutkovém zjištění o plnění úkolů.
+
+**6. Varianty.** (a) Kdyby k pádu došlo na cestě do zaměstnání před jejím počátkem (§ 274 odst. 1), nešlo by o pracovní úraz a odpovědnost dle § 269 by nevznikla. (b) Kdyby zaměstnavatel úraz řádně objasnil, doložil řádné školení a OOPP a prokázal, že jedinou příčinou bylo zaviněné porušení pravidel zaměstnancem, mohl by se zprostit odpovědnosti dle § 270 odst. 1.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „nešlo o pracovní úraz":* zaměstnavatel namítne, že úraz nesouvisel s plněním úkolů. Neutralizace: posouzení dle § 271k a § 273–274; pochybnosti jdou k tíži zaměstnavatele, který zanedbal objasnění (odst. 1) a tím si znemožnil tvrzení podložit.
+- *Protiargument „drobný úraz se neeviduje":* mylná představa. Neutralizace: odst. 2 ukládá vést knihu úrazů o **všech** úrazech, i bez neschopnosti či s neschopností do 3 dnů; záznam o úrazu je navíc povinný při neschopnosti delší než 3 dny.
+- *Slabé místo:* bez zachování stavu místa a bez svědeckého objasnění je rekonstrukce děje obtížná; chybějící dokumentace oslabuje pozici zaměstnavatele i pojišťovny při likvidaci pojistné události.
+
+#### H. Praktický závěr
+
+Po každém úrazu je nutné bez prodlení objasnit jeho příčiny za účasti zaměstnance, svědků a zástupce BOZP, zachovat stav místa, zapsat úraz do knihy úrazů, při neschopnosti delší než 3 dny (či úmrtí) vyhotovit a předat záznam o úrazu, ohlásit jej stanoveným orgánům a přijmout opatření proti opakování. Zanedbání těchto kroků jde k tíži zaměstnavatele.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byly **objasněny příčiny** úrazu za účasti zaměstnance, svědků a zástupce BOZP (odst. 1)?
+- [ ] Byl zachován **stav místa** úrazu do objasnění (odst. 1)?
+- [ ] Je úraz zapsán v **knize úrazů** (i drobný — odst. 2)?
+- [ ] Byl při neschopnosti > 3 dny / úmrtí vyhotoven a **předán záznam o úrazu** (odst. 3)?
+- [ ] Byl úraz **ohlášen a zaslán** stanoveným orgánům (odst. 4, nař. vlády č. 201/2010 Sb.) a přijata opatření proti opakování (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** kniha úrazů, záznam o úrazu, svědecké výpovědi, zdravotní dokumentace a doklad o délce neschopnosti, dokumentace ke stavu pracovního prostředku, evidence pracovní doby a úkolů, doklady o školení a OOPP (pro § 270).
+
 ---
 
 ### § 106 — Práva a povinnosti zaměstnance
@@ -618,6 +802,43 @@ Porušení povinností zaměstnance podle § 106 odst. 4 — zejména písm. c, 
 
 Procesní podmínky uplatnění tohoto institutu — formální písemné pověření vedoucího zaměstnance — jsou v praxi často podceňované. Pokud písemné pověření chybí, je dechová zkouška provedená tímto vedoucím **právně bezcenná** (zaměstnanec ji může odmítnout, aniž by se dopustil porušení povinnosti). Procedurální požadavky na zkoušku (kalibrace alkohol-testeru, kontrolní vzorek krve, lékařský odběr) detailně rozebírá zákon č. 65/2017 Sb. a navazující předpisy. Pozitivní výsledek zkoušky se zpravidla považuje za zvlášť hrubé porušení povinnosti vyplývající z právních předpisů vztahujících se k vykonávané práci a může být důvodem k okamžitému zrušení pracovního poměru podle § 55 odst. 1 písm. b) ZP.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vedoucí směny nařídí zaměstnanci pokračovat v práci na střeše za silného větru a námrazy, bez kolektivního zajištění proti pádu i bez funkčních OOPP. Zaměstnanec práci odmítne s tím, že bezprostředně ohrožuje jeho život. Vedoucí ho označí za neukázněného a zaměstnavatel zvažuje výpověď pro porušení povinností. Současně jiný zaměstnanec téhož dne odmítne dechovou zkoušku, kterou požaduje směnový mistr, jenž k tomu nemá písemné pověření zaměstnavatele. Důkazy: meteorologické podmínky, stav zajištění proti pádu a OOPP, pokyn vedoucího, vnitřní předpis o pověření ke kontrole alkoholu, listina pověření mistra, svědecké výpovědi.
+
+**2. Právní otázka.** Bylo odmítnutí práce na střeše oprávněným výkonem práva dle § 106 odst. 2 (a tedy vyloučeno posoudit je jako porušení povinnosti), a byl zaměstnanec povinen podrobit se dechové zkoušce nařízené mistrem bez písemného pověření dle § 106 odst. 4 písm. i)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 106 odst. 1 (právo na BOZP a srozumitelné informace), odst. 2 (právo odmítnout výkon práce bezprostředně a závažně ohrožující život/zdraví — odmítnutí není nesplněním povinnosti), odst. 4 písm. d), e), i) (používání OOPP, zákaz návykových látek, podrobení se zjištění alkoholu na pokyn **písemně** určeného vedoucího).
+- *Související ustanovení téhož zákona:* § 102 odst. 6 (pokyny k zastavení práce a opuštění pracoviště), § 104 (OOPP), § 208 (překážka v práci na straně zaměstnavatele a náhrada mzdy), § 52 písm. g), § 55 odst. 1 písm. b) (rozvázání poměru), § 346b odst. 2 (zákaz postihu za uplatnění práv), § 270 (liberace).
+- *Související předpisy:* zákon č. 309/2006 Sb. a nař. vlády č. 362/2005 Sb. (práce ve výškách); zákon č. 65/2017 Sb. (zjišťování alkoholu a návykových látek).
+- *Judikatura:* NSS sp. zn. 2 As 157/2017 (cit. v komentáři) — „pod vlivem alkoholu" není dáno pouhým požitím, nýbrž požitím v míře ovlivňující duševní funkce a pohotovost; rámcová směrnice 89/391/EHS čl. 8 odst. 4 (zákaz znevýhodnění zaměstnance, který opustí nebezpečnou oblast).
+
+**4. Subsumpce.** U práce na střeše je splněna objektivní stránka (bezprostřední a závažné ohrožení života — vítr, námraza, absence zajištění) i subjektivní stránka (zaměstnanec má „důvodně za to"); odmítnutí proto **nelze** posoudit jako nesplnění povinnosti (odst. 2) a výpověď z tohoto důvodu je vyloučena (i § 346b odst. 2). U dechové zkoušky není splněn znak „na pokyn **písemně** určeného vedoucího zaměstnance" [odst. 4 písm. i)] — pověření mistra je jen ústní, takže zaměstnanec se odmítnutím zkoušky **nedopouští** porušení povinnosti.
+
+**5. Řešení.** Výpověď za odmítnutí nebezpečné práce by byla neplatná; po dobu důvodného odmítnutí jde zpravidla o překážku v práci na straně zaměstnavatele (§ 208) s náhradou mzdy ve výši průměrného výdělku. Zaměstnavatel musí zajistit kolektivní ochranu/OOPP, příp. práci přerušit. Ohledně alkoholu: bez písemného pověření je zkouška právně bezcenná; zaměstnavatel má pověření vydat písemně předem. Alternativní výklad: kdyby ohrožení nebylo bezprostřední a závažné, odmítnutí by odst. 2 nekrylo a šlo by o porušení povinnosti.
+
+**6. Varianty.** (a) Kdyby byly podmínky bezpečné (bezvětří, řádné zajištění a OOPP) a zaměstnanec by práci přesto odmítl, nešlo by o výkon práva dle odst. 2 a hrozila by sankce za nesplnění pokynu. (b) Kdyby mistr měl **písemné** pověření a zaměstnanec by zkoušku odmítl, šlo by o porušení povinnosti dle odst. 4 písm. i) s možností postihu, příp. okamžitého zrušení dle § 55 při prokázaném ovlivnění.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „šlo o nesplnění pracovního pokynu":* zaměstnavatel namítne porušení povinnosti. Neutralizace: odst. 2 výslovně stanoví, že důvodné odmítnutí bezprostředně a závažně ohrožující práce **není** nesplněním povinnosti a nesmí být sankcionováno (čl. 8 odst. 4 směrnice 89/391/EHS, § 346b odst. 2).
+- *Protiargument „odmítnutí dechové zkoušky svědčí o opilosti":* lze dovozovat porušení. Neutralizace: bez **písemného** pověření kontrolujícího je pokyn neúčinný [odst. 4 písm. i)] a zkoušku lze odmítnout beztrestně; samo odmítnutí pak nelze klást k tíži.
+- *Slabé místo:* posouzení „bezprostřednosti a závažnosti" ohrožení je do jisté míry úvahové a měří se měřítkem průměrného zaměstnance v profesi; sporná může být výše náhrady (mzda vs. náhrada dle § 208) podle okolností případu.
+
+#### H. Praktický závěr
+
+Zaměstnanec smí odmítnout práci, o níž má důvodně za to, že bezprostředně a závažně ohrožuje život či zdraví, aniž by to bylo porušením povinnosti; postih za takové odmítnutí je zakázán. Dechovou zkoušku lze nařídit jen vedoucím **písemně** k tomu pověřeným — jinak je odmítnutí beztrestné a zkouška bezcenná.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Šlo o **bezprostřední a závažné** ohrožení života/zdraví (objektivní stránka odst. 2)?
+- [ ] Měl zaměstnanec **důvodně za to**, že ohrožení existuje (subjektivní stránka odst. 2)?
+- [ ] Nebyl zaměstnanec za důvodné odmítnutí postižen či znevýhodněn (§ 346b odst. 2)?
+- [ ] Byla osoba provádějící kontrolu alkoholu **písemně pověřena** [odst. 4 písm. i)]?
+- [ ] Byly dodrženy procedurální požadavky zjištění (kalibrace, případný odběr) dle z. č. 65/2017 Sb.?
+
+**Typicky rozhodné důkazy / podklady:** pokyn zaměstnavatele, meteorologické/provozní podmínky, dokumentace zajištění proti pádu a OOPP, listina písemného pověření ke kontrole alkoholu, protokol o zkoušce a kalibraci, svědecké výpovědi, mzdové podklady (pro § 208).
+
 ---
 
 ## Hlava III — Společná ustanovení
@@ -661,6 +882,43 @@ Pracovněprávní rovinu BOZP kontroluje a sankcionuje:
 #### Subsidiarita a duplikace
 
 Vztah § 101–106 ZP a ZZBOZP je vztahem **lex generalis (ZP) – lex specialis (ZZBOZP) pro rozšíření obsahu i osobní působnosti**. Pravomoci SÚIP se nicméně překrývají v tom smyslu, že porušení ZZBOZP je v mnoha případech i přestupkem podle z. č. 251/2005 Sb. — tedy pokuta se ukládá podle inspekčního zákona, ale skutkový základ vyplývá z ZZBOZP.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Investor zadá výstavbu většího administrativního objektu, na němž budou současně působit zhotovitelé z více firem. Zadavatel stavby neurčí koordinátora BOZP na staveništi a domnívá se, že povinnosti BOZP plní jen jednotliví zaměstnavatelé podle § 101–106 ZP. Současně podnikatel-OSVČ provádějící obkladačské práce sám (bez zaměstnanců) tvrdí, že se na něj povinnosti BOZP nevztahují, protože není zaměstnancem ani zaměstnavatelem. Na stavbě dojde k úrazu. Důkazy: smlouva o dílo, projektová a realizační dokumentace, doklad o určení/neurčení koordinátora, registrace koordinátora u MPSV, plán BOZP, evidence působících subjektů.
+
+**2. Právní otázka.** Vyplývají na dané stavbě další povinnosti BOZP (vč. povinnosti určit koordinátora BOZP na staveništi) ze zákona č. 309/2006 Sb., na nějž § 107 ZP subsidiárně odkazuje, a vztahují se povinnosti BOZP i na OSVČ pracující bez zaměstnanců?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 107 ZP — subsidiární odkaz na zákon o zajištění dalších podmínek BOZP (doplnění obsahu úpravy pro pracovněprávní vztahy i rozšíření osobní působnosti mimo ně).
+- *Související ustanovení téhož zákona:* § 101 (obecná povinnost), § 102 (prevence rizik), § 103 odst. 1 písm. g) (informace cizím zaměstnancům), § 106 odst. 2 (odmítnutí nebezpečné práce).
+- *Související předpisy:* zákon č. 309/2006 Sb. — zejména §§ 2–11 (požadavky na pracoviště, prostředky, organizaci), § 12 (rozšíření na OSVČ, spolupracující osoby, členy družstva), §§ 14–18 (koordinátor BOZP na staveništi, plán BOZP); nař. vlády č. 591/2006 Sb.; zákon č. 251/2005 Sb. (přestupky); zákon č. 435/2004 Sb. (§ 3 — zastřený pracovněprávní vztah, švarcsystém).
+- *Judikatura:* obecně judikatura SÚIP/správních soudů k povinnosti zadavatele stavby určit koordinátora a k odpovědnosti za absenci plánu BOZP; NSS sp. zn. 30 Ad 2/2022 (cit. v komentáři) k ochrannému účelu úpravy a roli technických norem.
+
+**4. Subsumpce.** Odkaz § 107 aktivuje zákon č. 309/2006 Sb.: u stavby, kde působí zhotovitelé více než jednoho zaměstnavatele a překračují se zákonné limity, vzniká **povinnost zadavatele určit koordinátora** a zajistit plán BOZP (§§ 14–18 z. č. 309/2006 Sb.) — tento znak zde splněn není. Co do OSVČ je naplněn znak rozšíření osobní působnosti dle § 12 z. č. 309/2006 Sb. — povinnosti BOZP se na samostatně pracující osobu vztahují obdobně, takže její tvrzení o vynětí neobstojí.
+
+**5. Řešení.** Inspektorát uloží zadavateli stavby sankci za neurčení koordinátora a absenci plánu BOZP (z. č. 309/2006 Sb. ve spojení s § 17 z. č. 251/2005 Sb.). OSVČ je povinna dodržovat povinnosti BOZP v rozsahu § 12 z. č. 309/2006 Sb. Praktické kroky: bezodkladně určit registrovaného koordinátora, zpracovat plán BOZP, zajistit součinnost zhotovitelů. Alternativní výklad: § 107 ZP sám o sobě sankci neukládá — sankční a obsahový základ je v z. č. 309/2006 Sb. a inspekčním zákoně; ZP poskytuje pouze odkaz (lex generalis).
+
+**6. Varianty.** (a) Kdyby na stavbě působil jen jediný zhotovitel a nepřekročily se zákonné limity rozsahu prací, povinnost určit koordinátora by nevznikla. (b) Kdyby se činnost prováděla v pracovněprávním vztahu (zaměstnanci), aplikovala by se přímo § 101–106 ZP a z. č. 309/2006 Sb. by je jen doplňoval; pokus obejít to švarcsystémem by byl zastřeným právním jednáním (§ 555 obč. zák., § 3 z. č. 435/2004 Sb.).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „BOZP se řídí jen zákoníkem práce":* zadavatel namítne, že ZP koordinátora nevyžaduje. Neutralizace: § 107 ZP **výslovně odkazuje** na zákon č. 309/2006 Sb., který povinnost koordinátora a plánu BOZP zakládá; ZP a ZZBOZP tvoří jeden funkční celek.
+- *Protiargument „na OSVČ se BOZP nevztahuje":* obrana samostatně pracující osoby. Neutralizace: § 12 z. č. 309/2006 Sb. rozšiřuje povinnosti BOZP i na OSVČ, spolupracující osoby a členy družstva pracující bez smlouvy.
+- *Slabé místo:* hranice, kdy povinnost koordinátora vzniká (rozsah a doba prací, počet zhotovitelů), je nutné posoudit dle limitů z. č. 309/2006 Sb.; samotný § 107 ZP je jen odkazovací normou bez vlastní sankce.
+
+#### H. Praktický závěr
+
+§ 107 propojuje pracovněprávní BOZP se zákonem č. 309/2006 Sb., který doplňuje obsah úpravy a rozšiřuje povinnosti i mimo pracovněprávní vztahy (OSVČ, spolupracující osoby) a ve stavebnictví zakládá institut koordinátora BOZP na staveništi. Sankce se ukládají dle z. č. 309/2006 Sb. a inspekčního zákona, nikoli dle § 107 ZP samotného.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o činnost, na niž dopadají **další požadavky** dle zákona č. 309/2006 Sb. (§§ 2–11)?
+- [ ] Vzniká u stavby povinnost **určit koordinátora BOZP** a zpracovat plán BOZP (§§ 14–18 z. č. 309/2006 Sb.)?
+- [ ] Je koordinátor **odborně způsobilou osobou** registrovanou u MPSV?
+- [ ] Vztahují se povinnosti i na **OSVČ / spolupracující osoby / členy družstva** (§ 12 z. č. 309/2006 Sb.)?
+- [ ] Není úprava obcházena **švarcsystémem** (§ 3 z. č. 435/2004 Sb.)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o dílo, projektová a realizační dokumentace, doklad o určení koordinátora a jeho registrace, plán BOZP, evidence působících zhotovitelů, kontrolní protokoly SÚIP.
 
 ---
 
@@ -766,3 +1024,40 @@ Odst. 4 vyrovnává participační práva odpovídající **povinností spolupr�
 #### Systémové vyznění Hlavy III
 
 Pohledem celé Části páté: § 107 doplňuje **obsah** úpravy odkazem na ZZBOZP a otevírá veřejnoprávní rovinu, § 108 doplňuje **procesní rozměr** úpravy o participaci zaměstnaneckých zástupců. Tím Část pátá uzavírá svůj normativní cyklus — od **generální klauzule a prevence rizik** (Hlava I) přes **konkrétní povinnosti a práva** (Hlava II) ke **společným pravidlům delegace a participace** (Hlava III). Funkční integrace s dalšími částmi zákoníku práce (zejména Část jedenáctá — odpovědnost za škodu při pracovních úrazech a nemocech z povolání, §§ 269–271) a s mimokodexovými předpisy (zákon č. 309/2006 Sb., z. č. 258/2000 Sb., z. č. 373/2011 Sb., z. č. 251/2005 Sb. a navazující nařízení vlády a vyhlášky) z Části páté tvoří **operativní pilíř ochrany zdraví v pracovněprávních vztazích**.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** U zaměstnavatele nepůsobí odborová organizace, ale zaměstnanci zvolili zástupce pro oblast BOZP. Zaměstnavatel po dva roky neprovedl roční prověrku BOZP na pracovištích, plánovaná zásadní opatření (změnu organizace rizikového provozu) se zástupcem neprojednal a odmítl mu zpřístupnit dokumentaci o vyhodnocení rizik a o pracovních úrazech. Roční prověrku, kterou nakonec zorganizoval, provedl bez souhlasu zástupce BOZP. Zástupce podá podnět inspektorátu práce. Důkazy: záznamy o ročních prověrkách (resp. jejich absence), pozvánky a zápisy z projednání, doklad o souhlasu zástupce s prověrkou, žádosti zástupce o zpřístupnění dokladů a reakce zaměstnavatele.
+
+**2. Právní otázka.** Porušil zaměstnavatel participační povinnosti dle § 108 — zejména povinnost organizovat roční prověrku BOZP **se souhlasem** zástupce pro oblast BOZP (odst. 5), projednat podstatná opatření (odst. 2) a zpřístupnit zástupci doklady o rizicích a úrazech (odst. 6)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 108 odst. 1 (nezadatelné právo účasti), odst. 2 (účast, vyslechnutí, **projednání** podstatných opatření a vyhodnocení rizik), odst. 3 (informování), odst. 5 (**roční prověrka BOZP** v dohodě s odborovou organizací a **se souhlasem** zástupce BOZP + odstraňování nedostatků), odst. 6 (školení zástupců a **zpřístupnění** dokladů), odst. 7 (připomínky při kontrolách).
+- *Související ustanovení téhož zákona:* § 281 odst. 1 a § 285 (zástupce pro oblast BOZP), § 278 odst. 3 (pojem projednání), § 286 (odborová organizace), § 102 odst. 7 a § 105 odst. 5 (odstraňování nedostatků, opatření proti opakování).
+- *Související předpisy:* zákon č. 309/2006 Sb. (odborně způsobilá osoba k prevenci rizik); zákon č. 255/2012 Sb. (kontrolní řád — procesní práva při kontrole); zákon č. 251/2005 Sb. (přestupky).
+- *Judikatura:* obecně judikatura správních soudů k povinnosti součinnosti se zástupci zaměstnanců a k sankcionovatelnosti neprovedení roční prověrky; rozhodnutí potvrzující, že souhlas zástupce dle odst. 5 je hmotněprávní podmínkou řádné prověrky.
+
+**4. Subsumpce.** Znak „organizovat **nejméně jednou ročně** prověrku BOZP" (odst. 5) splněn není (dvouletá prodleva). Znak provedení prověrky „**se souhlasem** zástupce zaměstnanců pro oblast BOZP" (odst. 5 — jediný případ v Části páté, kdy je nutný souhlas, nikoli jen projednání) splněn není. Znak „**projednat** podstatná opatření a vyhodnocení rizik" (odst. 2) splněn není. Znak „**zpřístupnit** doklady o vyhodnocení rizik a o pracovních úrazech" (odst. 6) splněn není.
+
+**5. Řešení.** Inspektorát uloží pokutu dle § 17 z. č. 251/2005 Sb. a opatření k nápravě: provést roční prověrku se souhlasem zástupce, projednat zásadní opatření, zpřístupnit dokumentaci, zajistit zástupci školení. Roční prověrka provedená bez souhlasu zástupce je vadná a musí být zopakována řádně. Alternativní výklad: u odst. 2 postačuje projednání (výměna stanovisek, nikoli souhlas), kdežto u odst. 5 je souhlas **conditio sine qua non** — tento rozdíl je nutné v argumentaci přesně rozlišit.
+
+**6. Varianty.** (a) Kdyby u zaměstnavatele nepůsobil ani zástupce BOZP ani odbory, plnil by participační povinnosti přímo vůči zaměstnancům (odst. 2–3 „anebo přímo zaměstnancům"); povinnost roční prověrky by trvala, požadavek souhlasu zástupce by však odpadl (nelze-li ho fakticky získat). (b) Kdyby zaměstnavatel podstatné opatření se zástupcem projednal a ten nesouhlasil, mohl by je u opatření dle odst. 2 přesto přijmout (souhlas není podmínkou) — na rozdíl od roční prověrky dle odst. 5.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozhoduje zaměstnavatel, souhlas zástupce není třeba":* obecně u projednání (odst. 2) správné, avšak u **roční prověrky** dle odst. 5 zákon výslovně vyžaduje **souhlas** zástupce BOZP; bez něj je prověrka vadná. Neutralizace spočívá v rozlišení projednání vs. souhlas.
+- *Protiargument „dokumentace je interní a důvěrná":* zaměstnavatel odmítá zpřístupnění. Neutralizace: odst. 6 ukládá **zpřístupnit** zástupci doklady o rizicích, úrazech a kontrolách jako materiální podmínku výkonu jeho funkce; bez nich jsou participační práva iluzorní.
+- *Slabé místo:* spornou může být kvalifikace opatření jako „podstatného" (a tím nutnost projednání); rovněž faktická dostupnost zástupce a jeho proškolení (odst. 6) ovlivňují vymahatelnost.
+
+#### H. Praktický závěr
+
+Participace zaměstnanců na BOZP probíhá ve třech intenzitách — informování, projednání a (u roční prověrky) souhlas. Roční prověrku BOZP je nutné provádět nejméně jednou ročně, v dohodě s odbory a **se souhlasem** zástupce pro oblast BOZP, a zjištěné nedostatky odstraňovat; zástupci je třeba zajistit školení a zpřístupnit klíčovou dokumentaci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla provedena **roční prověrka** BOZP na všech pracovištích (odst. 5)?
+- [ ] Byla prověrka provedena **se souhlasem** zástupce BOZP (a v dohodě s odbory) a byly nedostatky odstraněny (odst. 5)?
+- [ ] Byla **projednána** podstatná opatření, vyhodnocení rizik, kategorizace a organizace školení (odst. 2)?
+- [ ] Byli zástupci/zaměstnanci **informováni** o určených osobách pro první pomoc, výběru PLS a dalších záležitostech (odst. 3)?
+- [ ] Bylo zástupcům zajištěno **školení** a **zpřístupněny doklady** o rizicích, úrazech a kontrolách (odst. 6) a umožněno přednést připomínky při kontrolách (odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** záznamy o ročních prověrkách BOZP, doklad o souhlasu zástupce, zápisy z projednání a pozvánky, žádosti o zpřístupnění dokladů a odpovědi, dokumentace o vyhodnocení rizik a evidence úrazů, doklady o školení zástupců.

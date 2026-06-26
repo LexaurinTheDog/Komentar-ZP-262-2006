@@ -58,6 +58,43 @@ Vztah k GDPR (nařízení (EU) 2016/679) a zákonu č. 110/2019 Sb., o zpracová
 
 > **Srovnání se starým ZP (65/1965 Sb.):** Starý ZP úpravu předsmluvního screeningu výslovně neobsahoval; vyplývala z obecných principů a praxe. Současný § 30 explicitně zakotvuje jak svobodu výběru, tak jeho limity, čímž zvyšuje právní jistotu obou stran a transponuje principy směrnice 95/46/ES (později nahrazené GDPR).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost Alfa s.r.o. inzeruje pozici „obchodní referent". Do výběrového řízení se přihlásí dva uchazeči: pan Novák (45 let) a paní Dvořáková (29 let, v inzerátu uvedla, že je v 5. měsíci těhotenství). Personalistka při pohovoru paní Dvořákové sdělí, že „s ohledem na plánovanou mateřskou nemá smysl ji přijímat", a v emailu si vyžádá od bývalého zaměstnavatele paní Dvořákové informaci o tom, zda neměla kázeňské problémy a kolikrát byla na neschopence. Místo obsadí pan Novák. Paní Dvořáková se cítí diskriminována. Důkazy: inzerát, emailová komunikace, svědectví personalistky, zápis z pohovoru, žádost o reference adresovaná předchozímu zaměstnavateli.
+
+**2. Právní otázka.** Porušil zaměstnavatel § 30 ZP tím, že (a) odmítl uchazečku z důvodu těhotenství a (b) vyžádal si od třetí osoby údaje nesouvisející bezprostředně s uzavřením pracovní smlouvy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 odst. 1 (autonomie výběru, avšak omezená antidiskriminačním právem) a § 30 odst. 2 (údajová minimalizace — jen údaje bezprostředně související s uzavřením pracovní smlouvy).
+- *Související ustanovení téhož zákona:* § 16 ZP (rovné zacházení a zákaz diskriminace), § 31 ZP (předsmluvní informování).
+- *Související předpisy:* § 4 ZoZ a § 12 ZoZ (zákaz vyžadovat informace o těhotenství a o trestněprávní bezúhonnosti bez věcného důvodu), § 1 odst. 1 písm. a) a § 2 AntZ (diskriminace v přístupu k zaměstnání), § 10 AntZ (náhrada újmy), čl. 5 odst. 1 písm. c) GDPR (minimalizace), § 11 zákona č. 251/2005 Sb. o inspekci práce.
+- *Judikatura:* nosný závěr soudní praxe — diskriminace na základě těhotenství je přímou diskriminací z důvodu pohlaví, kterou nelze ospravedlnit ekonomickými úvahami zaměstnavatele; v antidiskriminačních sporech se uplatní přesun (sdílení) důkazního břemene.
+
+**4. Subsumpce.** Znak „výběr v působnosti zaměstnavatele" (odst. 1) je naplněn — Alfa volí, koho přijme. Avšak limit „nesmí volit diskriminační kritérium" je porušen: těhotenství je chráněný důvod (pohlaví). Znak odst. 2 „jen údaje bezprostředně související s uzavřením pracovní smlouvy" je porušen vyžádáním údajů o počtu neschopenek (zdravotní/údaj o těhotenství) — tyto bezprostředně nesouvisejí s uzavřením smlouvy na pozici referenta. Sporné může být, zda dotaz na „kázeňské problémy" je nepřípustný — argumentovatelné je, že obecná reference o pracovní spolehlivosti s uzavřením smlouvy souvisí.
+
+**5. Řešení.** Jednání zaměstnavatele zakládá odpovědnost dle § 10 AntZ (nárok na přiměřené zadostiučinění, případně náhradu nemajetkové újmy v penězích) a riziko pokuty od SÚIP. Procesně: uchazečka shromáždí indicie (email s odůvodněním těhotenstvím), čímž přenese důkazní břemeno na zaměstnavatele, jenž musí prokázat nediskriminační důvod. Alternativní výklad zaměstnavatele („vybrali jsme zkušenějšího kandidáta") neobstojí, je-li v emailu výslovně uveden důvod těhotenství.
+
+**6. Varianty.** (a) Kdyby personalistka odmítnutí odůvodnila výhradně delší praxí pana Nováka a o těhotenství by nepadla zmínka, uchazečka by diskriminaci neunesla. (b) Kdyby šlo o pozici, kde zvláštní předpis vyžaduje bezúhonnost (např. práce s dětmi), dotaz na trestní bezúhonnost by byl podle § 12  ZoZ přípustný.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Výběr je plně v působnosti zaměstnavatele (§ 30 odst. 1), soud do něj nemůže zasahovat." Neutralizace: autonomie výběru je výslovně omezena („nevyplývá-li ze zvláštního předpisu jiný postup") a implicitně antidiskriminačním právem (§ 16 ZP, § 4 ZoZ, AntZ); volnost se týká kritérií legitimních, nikoli zakázaných.
+- *Protiargument 2:* „Údaj poskytl bývalý zaměstnavatel dobrovolně, neporušili jsme nic." Neutralizace: § 30 odst. 2 zakazuje údaj vyžadovat „od jiných osob"; zákaz dopadá na vyžádání bez ohledu na ochotu třetí osoby, a GDPR brání i zpracování takto získaného údaje.
+- *Slabé místo:* hranice „bezprostřední souvislosti" je neostrá u obecných referencí; spor o jednotlivý dotaz (spolehlivost vs. zdraví) může být důkazně náročný.
+
+#### H. Praktický závěr
+
+V praxi § 30 znamená, že zaměstnavatel volí koho chce, ale podle čeho smí — a od koho/o čem se smí ptát — je limitováno. Diskriminační kritéria a vyžadování nesouvisejících údajů zakládají odpovědnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou výběrová kritéria věcná (kvalifikace, praxe, schopnosti) a nediskriminační?
+- [ ] Nevyžaduje zaměstnavatel údaje z výčtu § 12 ZoZ (těhotenství, rodinné/majetkové poměry, bezúhonnost bez důvodu apod.)?
+- [ ] Existuje u dané pozice zvláštní předpis stanovící jiný postup nebo předpoklady (bezúhonnost, zdravotní způsobilost, kvalifikace)?
+- [ ] Je dán věcný (nediskriminační) důvod odmítnutí uchazeče a je doložitelný?
+- [ ] Je nakládání s údaji uchazeče v souladu s GDPR (minimalizace, účel, doba uložení)?
+
+**Typicky rozhodné důkazy / podklady:** inzerát a jeho znění, zápis/záznam z pohovoru, emailová a písemná komunikace s uchazečem a třetími osobami, žádosti o reference, vnitřní hodnoticí kritéria výběrového řízení.
+
 ---
 
 ### § 31 — Předsmluvní informační povinnost zaměstnavatele
@@ -90,6 +127,43 @@ ZP nepředepisuje pro splnění § 31 písemnou formu, nicméně z důkazního h
 
 > **Srovnání s o.z.:** Obecná povinnost poctivého jednání před uzavřením smlouvy je v § 6 o.z. a § 1728 o.z., vzájemné informování v § 1728 odst. 2 o.z. (každá strana sdělí druhé skutkové a právní okolnosti, o nichž ví nebo musí vědět, že jsou pro rozhodnutí druhé strany podstatné). § 31 ZP je lex specialis konkretizující tuto obecnou povinnost pro pracovněprávní oblast.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan Horák je přijímán jako skladník do firmy Beta a.s. Při ústním pohovoru mu personalista sdělí pouze výši mzdy a den nástupu. Neseznámí ho s tím, že práce zahrnuje pravidelnou noční směnu, manipulaci s nebezpečnými chemikáliemi (povinnost používat OOPP a absolvovat školení dle zákona č. 309/2006 Sb.) a že se na pozici vztahuje vnitřní předpis o hmotné odpovědnosti. Po nástupu pan Horák odmítá noční směny s tím, že o nich nevěděl, a po týdnu rozváže pracovní poměr ve zkušební době; tvrdí, že mu vznikly náklady (zařídil si dojíždění, odmítl jinou nabídku). Důkazy: pracovní smlouva, obsah inzerátu, svědectví o průběhu pohovoru, vnitřní předpisy, popis pracovního místa.
+
+**2. Právní otázka.** Splnil zaměstnavatel předsmluvní informační povinnost dle § 31 ZP, a jaké jsou důsledky jejího nesplnění pro platnost pracovního poměru a pro odpovědnost zaměstnavatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 ZP (povinnost před uzavřením smlouvy seznámit uchazeče s právy a povinnostmi z pracovní smlouvy, s pracovními podmínkami, podmínkami odměňování a povinnostmi ze zvláštních předpisů).
+- *Související ustanovení téhož zákona:* § 34 ZP (esenciální náležitosti smlouvy — smlouva vznikne i bez splnění § 31), § 37 ZP (písemné informování po vzniku poměru), § 38 a § 301 ZP (obecné povinnosti).
+- *Související předpisy:* § 6, § 1728 a § 1729 o.z. (poctivé jednání a předsmluvní odpovědnost — culpa in contrahendo), zákon č. 309/2006 Sb. (BOZP), § 11 zákona č. 251/2005 Sb. o inspekci práce.
+- *Judikatura:* nosný závěr — porušení předsmluvní informační povinnosti nezakládá neplatnost vzniklé pracovní smlouvy, avšak může vést k povinnosti nahradit škodu vzniklou poškozené straně podle úpravy předsmluvní odpovědnosti.
+
+**4. Subsumpce.** Znak „seznámit s právy a povinnostmi z pracovní smlouvy" je porušen — pan Horák nebyl informován o nočních směnách (rozvržení pracovní doby je podstatnou podmínkou). Znak „povinnosti ze zvláštních předpisů" je porušen — neseznámení s BOZP povinnostmi a manipulací s chemikáliemi. Naopak znak „podmínky odměňování" splněn byl (mzda sdělena). Sporné: zda vznik konkrétní škody (náklady na dojíždění, ztracená příležitost) je v příčinné souvislosti s neinformováním a zda byl nárok dostatečně určitě prokázán.
+
+**5. Řešení.** Pracovní poměr platně vznikl (§ 31 není podmínkou platnosti dle § 34). Nesplnění § 31 však zakládá: (a) možný nárok zaměstnance na náhradu škody z culpa in contrahendo (§ 1729 o.z.), prokáže-li škodu a příčinnou souvislost; (b) přestupkovou odpovědnost zaměstnavatele dle zákona o inspekci práce; (c) výkladovou nevýhodu zaměstnavatele — neseznámil-li zaměstnance s nočními směnami, nemůže se jejich výkonu jednostranně dovolávat k tíži zaměstnance. Procesní krok: zaměstnanec uplatní náhradu škody, zaměstnavatel se brání tím, že informace zazněly (důkazní břemeno o splnění povinnosti fakticky tíží zaměstnavatele).
+
+**6. Varianty.** (a) Kdyby zaměstnavatel měl podepsaný seznamovací protokol s výčtem podmínek včetně nočních směn, povinnost by splnil a nárok zaměstnance by neobstál. (b) Kdyby šlo o pozici bez zvláštních povinností a zaměstnanci žádná škoda nevznikla, zůstala by jen teoretická přestupková rovina bez soukromoprávního nároku.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Zákon nepředepisuje písemnou formu, povinnost jsme splnili ústně." Neutralizace: ústní splnění je možné, ale důkazní břemeno o splnění fakticky nese zaměstnavatel; bez záznamu riskuje, že soud uvěří zaměstnanci.
+- *Protiargument 2:* „Nesplnění § 31 nemá žádný následek, protože smlouva stejně vznikla." Neutralizace: následkem není neplatnost, ale předsmluvní odpovědnost za škodu (§ 1729 o.z.) a přestupek; navíc se zaměstnavatel nemůže dovolávat neoznámených podmínek.
+- *Slabé místo:* prokázání konkrétní škody a příčinné souvislosti u culpa in contrahendo bývá obtížné; samotné porušení bez škody soukromoprávní nárok nezakládá.
+
+#### H. Praktický závěr
+
+§ 31 je všeobecná, neformalizovaná povinnost před podpisem smlouvy; tvoří dvojici s § 37 (písemné informování po vzniku poměru). Praktická obrana zaměstnavatele spočívá v doložitelnosti splnění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl uchazeč před podpisem seznámen s druhem práce, místem, dobou nástupu a rozvržením pracovní doby?
+- [ ] Byly sděleny pracovní podmínky a podmínky odměňování?
+- [ ] Byl uchazeč seznámen s povinnostmi ze zvláštních předpisů (BOZP, hmotná odpovědnost, utajované informace apod.)?
+- [ ] Existuje doklad o splnění (seznamovací protokol, doložka ve smlouvě)?
+- [ ] Bylo informování provedeno PŘED uzavřením smlouvy (nikoli až po vzniku poměru — to řeší § 37)?
+
+**Typicky rozhodné důkazy / podklady:** seznamovací protokol, popis pracovního místa, znění inzerátu, pracovní smlouva a její doložky, vnitřní předpisy, svědecké výpovědi o průběhu pohovoru.
+
 ---
 
 ### § 32 — Vstupní lékařská prohlídka
@@ -121,6 +195,43 @@ Vstupní prohlídka tedy není **conditio sine qua non vzniku pracovního poměr
 Náklady na vstupní prohlídku hradí podle § 59 odst. 2 zákona č. 373/2011 Sb. **uchazeč o zaměstnání** (s výjimkou prací rizikových a prací s podmínkami zvláštního charakteru, kde je hradí potenciální zaměstnavatel). V praxi je však zvykem, že náklady refunduje zaměstnavatel, dojde-li k uzavření pracovní smlouvy — dohodou stran. Specifická úprava platí pro některé profese (pedagogičtí pracovníci dle § 24 zákona č. 563/2004 Sb.).
 
 > **Srovnání se starým ZP:** Starý ZP obsahoval samostatnou úpravu pracovnělékařských služeb v § 35 a § 133, nicméně dnešní právní stav vychází především ze zákona č. 373/2011 Sb., přijatého až po vzniku nového ZP. Vstup tohoto zákona v účinnost znamenal výrazné posílení institutu vstupní prohlídky a její diferenciace podle kategorie rizik.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební firma Gama s.r.o. přijímá pana Krále jako lešenáře (práce ve výškách). Mzdové oddělení sjedná pracovní smlouvu s nástupem od 1. 6. a pana Krále rovnou pošle na stavbu, aniž absolvoval vstupní lékařskou prohlídku u poskytovatele pracovnělékařských služeb. Třetí den pan Král utrpí závrať a spadne z lešení; následně se zjistí, že trpí nediagnostikovaným záchvatovým onemocněním, které by vstupní prohlídka odhalila. Důkazy: pracovní smlouva, evidence docházky, smlouva o poskytování pracovnělékařských služeb, kategorizace prací, záznam o úrazu, zdravotnická dokumentace.
+
+**2. Právní otázka.** Jaké jsou důsledky toho, že zaměstnavatel přidělil zaměstnance k rizikové práci (práce ve výškách) bez absolvování povinné vstupní lékařské prohlídky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 ZP (povinnost zajistit vstupní lékařskou prohlídku v případech stanovených zvláštním předpisem).
+- *Související ustanovení téhož zákona:* § 34 ZP (vstupní prohlídka NENÍ podmínkou platnosti smlouvy), § 41 odst. 1 písm. a) ZP (převedení při ztrátě zdravotní způsobilosti), § 103 ZP (povinnosti zaměstnavatele na úseku BOZP), § 269 a násl. ZP (odpovědnost za pracovní úraz).
+- *Související předpisy:* §§ 53–60 zákona č. 373/2011 Sb., o specifických zdravotních službách (zejm. § 59 odst. 1 — fikce zdravotní nezpůsobilosti při neabsolvování prohlídky), vyhláška č. 79/2013 Sb., zákon č. 258/2000 Sb. a vyhláška č. 432/2003 Sb. (kategorizace prací).
+- *Judikatura:* nosný závěr — zaměstnanec, který se před vznikem pracovněprávního vztahu nepodrobí povinné vstupní prohlídce, se ze zákona považuje za zdravotně nezpůsobilého k dané práci; zanedbání prevenčních povinností zaměstnavatele zakládá jeho odpovědnost za pracovní úraz a vylučuje úplné zproštění.
+
+**4. Subsumpce.** Znak „případ stanovený zvláštním předpisem" je naplněn — práce ve výškách patří mezi práce s podmínkami zvláštního charakteru, vstupní prohlídka je povinná. Znak „zaměstnavatel je povinen zajistit" prohlídku je porušen — Gama prohlídku nezajistila. Aktivuje se § 59 odst. 1 písm. b) zákona č. 373/2011 Sb.: pan Král se považuje za zdravotně nezpůsobilého, a zaměstnavatel ho tedy vůbec nesměl k práci přidělit. Příčinná souvislost mezi zanedbáním prohlídky a úrazem je dána (onemocnění by bylo odhaleno).
+
+**5. Řešení.** Pracovní poměr vznikl platně (prohlídka není podmínkou dle § 34), avšak zaměstnavatel pochybil tím, že zaměstnance přidělil k práci, k níž byl ze zákona nezpůsobilý. Za vzniklý pracovní úraz odpovídá zaměstnavatel (§ 269 ZP) a nemůže se zprostit podle § 270 ZP (zaměstnanec povinnost neporušil, naopak ji porušil zaměstnavatel). Hrozí též pokuta od SÚIP a v krajním případě trestněprávní odpovědnost odpovědných osob. Procesní krok: poškozený uplatní náhradu újmy na zdraví (bolestné, ztížení společenského uplatnění, ztráta výdělku — § 271a a násl. ZP).
+
+**6. Varianty.** (a) Kdyby šlo o zcela běžnou administrativní pozici a zaměstnanec onemocnění neměl, absence prohlídky by zůstala formálním pochybením bez následku na zdraví. (b) Kdyby zaměstnavatel prohlídku zajistil a posudek by způsobilost potvrdil, za následný úraz z nediagnostikovatelné příčiny by odpovídal v režimu objektivní odpovědnosti, ale bez porušení prevenční povinnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Vstupní prohlídka není podmínkou vzniku pracovního poměru, takže pochybení je formální." Neutralizace: prohlídka sice není podmínkou platnosti smlouvy, je však conditio pro přidělení práce; její absence aktivuje fikci nezpůsobilosti a zakládá odpovědnost za následky.
+- *Protiargument 2:* „Náklady na prohlídku nese uchazeč, proto jsme ji neorganizovali." Neutralizace: u prací rizikových a s podmínkami zvláštního charakteru hradí prohlídku zaměstnavatel (§ 59 odst. 2); navíc povinnost zajistit prohlídku (§ 32 ZP) je oddělena od otázky úhrady nákladů.
+- *Slabé místo:* posouzení, zda konkrétní pozice spadá do kategorie vyžadující prohlídku, vyžaduje znalost kategorizace prací; sporné může být zařazení hraničních pozic.
+
+#### H. Praktický závěr
+
+§ 32 je odkazová norma; konkrétní povinnost plyne ze zákona č. 373/2011 Sb. Klíčové pravidlo: bez vstupní prohlídky se uchazeč ze zákona považuje za nezpůsobilého — zaměstnavatel ho nesmí přidělit k práci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá pozice do kategorie/kvalifikace vyžadující vstupní prohlídku (kategorie 2–4, rizikové práce, podmínky zvláštního charakteru)?
+- [ ] Byla prohlídka zajištěna PŘED vznikem pracovního poměru (resp. před přidělením práce)?
+- [ ] Existuje platný lékařský posudek o zdravotní způsobilosti?
+- [ ] Je vyřešena úhrada nákladů (zaměstnavatel u rizikových prací, jinak dohoda)?
+- [ ] Má zaměstnavatel uzavřenou smlouvu o poskytování pracovnělékařských služeb?
+
+**Typicky rozhodné důkazy / podklady:** lékařský posudek, smlouva o pracovnělékařských službách, kategorizace prací, popis pracovního místa, evidence docházky, případný záznam o pracovním úrazu.
 
 ---
 
@@ -214,6 +325,43 @@ Odst. 4 řeší **subsidiární pravidla příslušnosti** — kdo provede jmeno
 
 > **Srovnání se starým ZP:** Starý ZP (§ 27 odst. 4 a 5) obsahoval širší okruh případů, kdy se pracovní poměr zakládal jmenováním (zejména různé funkce v hospodářském aparátu). Nový ZP tento okruh dramaticky zúžil — jmenování zůstalo jako titul vzniku pracovního poměru pouze v sektoru státu (rozsudek tradičně tlumočený jako „jmenování je výjimkou, pracovní smlouva je pravidlem"). Tato redukce odráží posun od plánovaného hospodářství k tržnímu modelu, v němž je standardem dvoustranné smluvní jednání.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Příspěvková organizace zřízená městem (Městské kulturní středisko) potřebuje obsadit místo ředitele organizačního útvaru. Rada města s panem Veselým „uzavře pracovní smlouvu" na pozici vedoucího útvaru s nástupem od 1. 1. 2008. V roce 2025 vznikne spor: pan Veselý tvrdí, že je v běžném pracovním poměru ze smlouvy a nelze ho odvolat z funkce, zatímco zřizovatel tvrdí, že jde o pracovní poměr založený jmenováním, z něhož lze odvolat. Důkazy: zřizovací listina, pracovní smlouva z r. 2008, organizační řád, doklad o tom, kdo je příslušný ke jmenování.
+
+**2. Právní otázka.** Považuje se pracovní poměr vedoucího organizačního útvaru příspěvkové organizace, sjednaný formálně pracovní smlouvou, za pracovní poměr založený jmenováním ve smyslu § 33 odst. 3 ZP, s důsledky pro možnost odvolání z funkce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 odst. 1 (smlouva jako základní titul), odst. 3 písm. f) (jmenování u vedoucího organizačního útvaru příspěvkové organizace), odst. 4 písm. f) (příslušnost ke jmenování — vedoucí příspěvkové organizace).
+- *Související ustanovení téhož zákona:* § 38 odst. 2 (na pracovní poměr založený jmenováním se použijí ustanovení o smluvním pracovním poměru), § 73 a § 73a ZP (odvolání z vedoucího místa a vzdání se ho), § 40 odst. 1 věta druhá (jmenování po vzniku poměru jako změna).
+- *Související předpisy:* § 84 zákona č. 128/2000 Sb., o obcích (kompetence orgánů obce), § 27 odst. 4 a 5 starého ZP (přechodný kontext).
+- *Judikatura:* nosný závěr (NS 21 Cdo 1054/2015) — počínaje 1. 1. 2008 se pracovní poměr vedoucích uvedených v § 33 odst. 3 ZP považuje za založený jmenováním, i když vznikl do 31. 12. 2007 pracovní smlouvou; rozhodující je tedy zákonné zařazení pozice, nikoli formální označení titulu.
+
+**4. Subsumpce.** Znak „vedoucí organizačního útvaru příspěvkové organizace" (odst. 3 písm. f)) je naplněn — ředitel útvaru Městského kulturního střediska. Důsledkem zákonné konstrukce a přechodného režimu (§ 364 ZP) je, že pracovní poměr se od 1. 1. 2008 považuje za založený jmenováním, byť byl uzavřen smlouvou. Tím se aktivuje možnost odvolání dle § 73a ZP. Sporné by mohlo být pouze, zda daná pozice skutečně je „vedoucím organizačního útvaru" ve smyslu organizačního řádu.
+
+**5. Řešení.** Pracovní poměr pana Veselého se považuje za založený jmenováním; zřizovatel (resp. příslušný orgán) ho může z funkce odvolat dle § 73a ZP, přičemž odvoláním pracovní poměr nekončí — nastupuje povinnost nabídnout jinou práci, případně postup dle § 73a odst. 2 ZP. Argument pana Veselého o nedotknutelnosti „smluvního" poměru neobstojí, protože zákonné zařazení pozice má přednost před formou titulu. Procesní krok: v případě sporu o platnost odvolání podá dotčená strana žalobu na určení.
+
+**6. Varianty.** (a) Kdyby šlo o obchodní společnost ve vlastnictví města (nikoli příspěvkovou organizaci), jmenování by se neuplatnilo — vedoucí by byl v čistě smluvním poměru a odvolat z funkce by ho bez ujednání nešlo. (b) Kdyby pozice nebyla „vedoucím organizačního útvaru", ale řadovým zaměstnancem, šlo by o běžný smluvní pracovní poměr bez režimu jmenování.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Strany uzavřely pracovní smlouvu, tedy jde o smluvní poměr, ne jmenování." Neutralizace: zařazení pozice do výčtu § 33 odst. 3 je kogentní; podle přechodných pravidel a judikatury (NS 21 Cdo 1054/2015) se poměr považuje za založený jmenováním bez ohledu na zvolenou formu.
+- *Protiargument 2:* „Výčet jmenování platí jen pro stát, ne pro obecní příspěvkové organizace." Neutralizace: odst. 3 písm. e) a f) výslovně zahrnuje příspěvkové organizace a jejich organizační útvary bez ohledu na zřizovatele (stát i obec).
+- *Slabé místo:* určení, zda konkrétní pozice je „vedoucím organizačního útvaru", závisí na organizačním řádu; nejasná organizační struktura může spor zkomplikovat.
+
+#### H. Praktický závěr
+
+Pracovní smlouva je pravidlem, jmenování výjimkou taxativně vymezenou pro sektor státu a příspěvkové organizace (odst. 3). U pozic z výčtu platí režim jmenování ze zákona, bez ohledu na formální označení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá obsazovaná pozice do taxativního výčtu § 33 odst. 3 (vedoucí složek/útvarů státu, příspěvkových organizací, Policie ČR)?
+- [ ] Kdo je příslušný ke jmenování dle zvláštního předpisu nebo dle § 33 odst. 4?
+- [ ] Vyžaduje zvláštní předpis nebo stanovy obsazení volbou jako předpokladem (odst. 2)?
+- [ ] U pozic dle odst. 3: počítá se s možností odvolání z funkce (§ 73, § 73a ZP)?
+- [ ] Je zajištěn souhlas/akceptace jmenované osoby a písemná forma aktu?
+
+**Typicky rozhodné důkazy / podklady:** zřizovací listina, organizační řád, jmenovací akt nebo pracovní smlouva, doklad o příslušnosti jmenujícího orgánu, vnitřní předpisy o organizační struktuře.
+
 ---
 
 ### § 34 — Obligatorní obsah a forma pracovní smlouvy, odstoupení
@@ -300,6 +448,43 @@ Odst. 5 přikazuje, aby každá strana **obdržela jedno vyhotovení** smlouvy. 
 
 > **Srovnání se starým ZP:** Trojice esenciálních náležitostí (druh práce, místo, den nástupu) převzata se starého ZP (§ 29). Institut odstoupení dle odst. 3, 4 je novinkou nového ZP — starý ZP neměl výslovnou úpravu odstoupení před nástupem do práce a v praxi se řešilo různě. Nový ZP přinesl jasnou normu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan Marek podepíše 15. 5. písemnou pracovní smlouvu s firmou Delta s.r.o. s nástupem 1. 6. Mezitím (28. 5.) dostane lepší nabídku a 1. 6. do práce nenastoupí, nijak se neomluví ani neozve. Delta na něj 10. 6. (deset dní po sjednaném nástupu) sepíše dopis o odstoupení od pracovní smlouvy a pošle ho doporučeně. Ve smlouvě byl jako druh práce uveden „obchodní zástupce", místo výkonu „Praha", den nástupu „1. 6.". Paralelně řešíme případ paní Soukupové, která naproti tomu nastoupila 1. 6., odpracovala dva dny, a zaměstnavatel od smlouvy „odstoupil" až 3. 6. Důkazy: pracovní smlouva, doklad o doručení odstoupení, evidence docházky, případné doklady o překážce v práci.
+
+**2. Právní otázka.** Mohl zaměstnavatel platně odstoupit od pracovní smlouvy (a) vůči panu Markovi, který nenastoupil, a (b) vůči paní Soukupové, která již do práce nastoupila?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 odst. 1 (esenciální náležitosti — druh práce, místo, den nástupu), odst. 3 (důvody odstoupení zaměstnavatele), odst. 4 (odstoupit lze jen do nástupu; písemná forma jinak se nepřihlíží), odst. 5 (vyhotovení smlouvy).
+- *Související ustanovení téhož zákona:* § 36 ZP (vznik poměru dnem nástupu), § 20 odst. 3 ZP (fikce nepřihlížení při nedostatku formy), § 350a ZP (počítání lhůty „do týdne"), §§ 191–210 ZP (překážky v práci).
+- *Související předpisy:* § 582 a § 588 o.z. (forma a podstatné náležitosti), § 561 a § 562 o.z. (elektronická forma), § 2001 a násl. o.z. (obecné odstoupení — vyloučeno ve prospěch speciální úpravy).
+- *Judikatura:* nosný závěr — pracovní poměr vzniká dnem nástupu bez ohledu na faktický příchod zaměstnance; po nástupu do práce je odstoupení vyloučeno a zaměstnavatel musí volit výpověď či okamžité zrušení.
+
+**4. Subsumpce.** U pana Marka: znak „nenastoupil ve sjednaný den" je naplněn, znak „nebránila mu překážka v práci" rovněž (žádnou neuplatnil ani neoznámil do týdne dle § 350a). Odstoupení 10. 6. je písemné a učiněné dříve, než pan Marek nastoupil (nikdy nenastoupil) — odstoupení je platné. U paní Soukupové: znak „jen dokud zaměstnanec nenastoupil do práce" (odst. 4) NENÍ naplněn — již nastoupila 1. 6.; odstoupení z 3. 6. je proto neúčinné, k němu nelze přihlížet jako k odstoupení.
+
+**5. Řešení.** Vůči panu Markovi zaměstnavatel platně odstoupil; závazek z pracovní smlouvy zaniká, pracovní poměr (byť ke dni 1. 6. vznikl) se ruší s účinky ex tunc. Vůči paní Soukupové odstoupení nelze použít — zaměstnavatel musí rozvázat pracovní poměr standardně (zkušební doba dle § 66, výpověď dle §§ 52 a 50, okamžité zrušení dle § 55), jinak poměr trvá a vzniká nárok na náhradu mzdy. Procesní krok: u paní Soukupové by jednostranné „odstoupení" soud kvalifikoval jako neplatné a poměr by trval dále.
+
+**6. Varianty.** (a) Kdyby pan Marek 1. 6. onemocněl a do týdne (§ 350a) zaměstnavatele o nemoci informoval, odstoupení by nebylo přípustné — bránila mu překážka v práci. (b) Kdyby Delta odstoupení učinila pouze ústně (telefonicky), k odstoupení by se nepřihlíželo (§ 34 odst. 4 — povinná písemná forma).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1 (zaměstnavatel u paní Soukupové):* „Byli jsme ještě v úplném počátku, mohli jsme odstoupit." Neutralizace: odst. 4 jednoznačně omezuje odstoupení na dobu „dokud zaměstnanec nenastoupil"; po nástupu je jediná cesta výpověď/okamžité zrušení/zrušení ve zkušební době.
+- *Protiargument 2:* „Ústní pracovní smlouva také platí, když se začalo pracovat." Neutralizace: chybí-li písemná forma, k smlouvě se zásadně nepřihlíží (§ 20 odst. 3 ZP); výjimkou je faktický pracovní poměr, jehož se však nemůže k tíži zaměstnance dovolávat zaměstnavatel, který vadu způsobil.
+- *Slabé místo:* hranice okamžiku „nastoupení do práce" může být sporná u home-office nebo částečného nástupu; rozhodné je faktické zahájení výkonu práce.
+
+#### H. Praktický závěr
+
+Tři esenciální náležitosti (druh práce, místo, den nástupu) a písemná forma jsou conditio existence smlouvy. Odstoupení dle odst. 3, 4 je úzké: jen do nástupu, jen písemně, jen ze zákonných důvodů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje smlouva všechny tři esenciální náležitosti (druh práce, místo/místa, den nástupu)?
+- [ ] Je smlouva uzavřena písemně a obdržela každá strana vyhotovení (odst. 5)?
+- [ ] Při odstoupení: nastoupil již zaměstnanec do práce? (Po nástupu odstoupení vyloučeno.)
+- [ ] Je dán zákonný důvod odstoupení (nenastoupení bez překážky / neoznámení překážky do týdne dle § 350a)?
+- [ ] Je odstoupení písemné (jinak se k němu nepřihlíží)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva, doklad o doručení odstoupení, evidence docházky/nástupu, doklady o překážce v práci a jejím oznámení, komunikace stran před nástupem.
+
 ---
 
 ### § 34a — Pravidelné pracoviště pro účely cestovních náhrad
@@ -336,6 +521,43 @@ Cesta z pravidelného pracoviště za hranice této obce zakládá pracovní ces
 
 > **Praktická poznámka:** V pracovní smlouvě lze pravidelné pracoviště sjednat odlišně od místa výkonu práce — typicky tehdy, kdy je místo výkonu práce sjednáno celorepublikově nebo regionálně, ale strany si přejí přesně určit „výchozí bod" pro účely cestovních náhrad. Pravidelné pracoviště by však mělo reflektovat **skutečné** podmínky — sjednání pravidelného pracoviště, které neodpovídá faktickému stavu, může být kvalifikováno jako obcházení zákona (§ 5 odst. 1 o.z.) nebo zneužití práva (§ 8 o.z.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní Pokorná má v pracovní smlouvě jako místo výkonu práce sjednáno „Středočeský kraj" (servisní technička). Pravidelné pracoviště pro cestovní náhrady ve smlouvě sjednáno není. Reálně každé ráno vyjíždí z provozovny zaměstnavatele v Kladně. Zaměstnavatel jí jednostranným pokynem oznámí, že nově bude výkon práce začínat v Mladé Boleslavi (jiná obec), a odmítne jí proplácet cestovní náhrady z Kladna. Paní Pokorná namítá, že jí tím fakticky mění pravidelné pracoviště. Důkazy: pracovní smlouva, evidence výjezdů (odkud nejčastěji začínají cesty), pokyn zaměstnavatele, doklady o cestovních náhradách.
+
+**2. Právní otázka.** Lze pravidelné pracoviště pro účely cestovních náhrad, určené podle domněnky § 34a ZP, změnit jednostranným pokynem zaměstnavatele, nebo jen změnou pracovní smlouvy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34a ZP (domněnky určení pravidelného pracoviště; max. šíře jedna obec).
+- *Související ustanovení téhož zákona:* § 34 odst. 1 písm. b) (místo výkonu práce), § 40 odst. 1 (změna obsahu poměru jen dohodou), § 42 ZP (pracovní cesta), §§ 151–189 ZP (cestovní náhrady).
+- *Související předpisy:* § 5 odst. 1 o.z. (obcházení zákona), § 8 o.z. (zneužití práva) — limity účelového sjednání pravidelného pracoviště.
+- *Judikatura:* nosný závěr (NS 21 Cdo 2608/2023) — jsou-li zřejmá kritéria pro určení pravidelného pracoviště podle domněnky § 34a a místo tak bylo dáno, lze je měnit pouze cestou změny obsahu pracovní smlouvy, nikoli jednostranným pokynem, jímž zaměstnavatel stanoví počátek výkonu práce v jiném místě.
+
+**4. Subsumpce.** Znak „místo výkonu práce sjednáno šířeji než jedna obec" je naplněn („Středočeský kraj"). Aktivuje se domněnka 2: pravidelným pracovištěm je obec, kde nejčastěji začínají cesty — tj. Kladno. Tím bylo pravidelné pracoviště „dáno". Jednostranný pokyn přesouvající počátek výkonu do Mladé Boleslavi naráží na § 40 odst. 1: jde o změnu obsahu poměru, kterou nelze provést jednostranně. Sporné by mohlo být pouze faktické zjištění, ze které obce cesty „nejčastěji" začínají.
+
+**5. Řešení.** Pravidelné pracoviště paní Pokorné je Kladno (domněnka § 34a); zaměstnavatel je nemůže jednostranně přesunout do Mladé Boleslavi — k tomu by potřeboval dohodu o změně smlouvy (§ 40 odst. 1). Cesty mimo Kladno zakládají nárok na cestovní náhrady. Procesní krok: paní Pokorná může uplatnit nedoplatek cestovních náhrad; pokyn zaměstnavatele je v rozsahu změny pravidelného pracoviště neúčinný. Riziko zaměstnavatele: doplatek náhrad a sankce inspekce práce.
+
+**6. Varianty.** (a) Kdyby strany do smlouvy výslovně sjednaly pravidelné pracoviště „Mladá Boleslav" (v rámci jedné obce), platilo by toto ujednání a domněnka by se neuplatnila. (b) Kdyby paní Pokorná fakticky začínala cesty nejčastěji v Mladé Boleslavi, byla by tato obec pravidelným pracovištěm i bez výslovného ujednání.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Místo výkonu práce je celý kraj, takže každý výjezd je v rámci sjednaného místa a náhrady nenáleží." Neutralizace: § 34a odděluje místo výkonu práce od pravidelného pracoviště pro náhrady; to je max. jedna obec a cesty mimo ni náhrady zakládají.
+- *Protiargument 2:* „Určení počátku výkonu práce je pokyn v rámci řízení práce, ne změna smlouvy." Neutralizace: dle NS 21 Cdo 2608/2023 jde u změny daného pravidelného pracoviště o změnu obsahu smlouvy, již nelze nahradit jednostranným pokynem.
+- *Slabé místo:* určení obce, kde cesty „nejčastěji začínají", je skutkovou otázkou; bez evidence výjezdů může být důkazně sporné.
+
+#### H. Praktický závěr
+
+Místo výkonu práce může být sjednáno široce (i celý kraj), ale pravidelné pracoviště pro cestovní náhrady je vždy max. jedna obec. Je-li dáno domněnkou, mění se jen dohodou, ne pokynem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je ve smlouvě výslovně sjednáno pravidelné pracoviště (max. jedna obec)? Pokud ne, uplatní se domněnka.
+- [ ] Je místo výkonu práce sjednáno šířeji než jedna obec? Pak je pravidelným pracovištěm obec, kde nejčastěji začínají cesty.
+- [ ] Nepřesahuje sjednané pravidelné pracoviště jednu obec (jinak se k překračující části nepřihlíží)?
+- [ ] Nedochází ke změně pravidelného pracoviště jednostranným pokynem místo dohody?
+- [ ] Odpovídá sjednané pravidelné pracoviště skutečnému stavu (riziko obcházení dle § 5, § 8 o.z.)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva, evidence pracovních cest a místa jejich zahájení, doklady o cestovních náhradách, pokyny zaměstnavatele, mapový/adresní podklad k určení obce.
+
 ---
 
 ### § 34b — Přidělování práce a souběh u téhož zaměstnavatele
@@ -367,6 +589,43 @@ Smysl zákazu:
 **Výjimka 2 — stát jako zaměstnavatel:** U státu (organizační složky státu) platí zákaz pouze **v rámci téže organizační složky státu**. Stát je v právu vnímán jako jeden zaměstnavatel, byť rozčleněný do mnoha organizačních složek — jednotná aplikace zákazu napříč celým státem by paralyzovala veřejnou službu. Proto zaměstnanec ministerstva může mít DPP s jiným ministerstvem nebo agenturou státu, ač jde formálně o totožného zaměstnavatele.
 
 > **Praktická poznámka:** „Stejné druhové vymezení" je třeba vykládat materiálně, nikoli jen podle slovního označení. Sjedná-li si zaměstnavatel se zaměstnancem DPP s deklarovaným druhem práce „administrativní podpora" vedle pracovní smlouvy na „referenta", kde se ve skutečnosti vykonává totožná činnost, půjde o porušení § 34b odst. 2 a obcházení zákona. Soudy posuzují skutečný obsah, ne nominální označení (zásada přednosti obsahu před formou — § 555 a násl. o.z.).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Firma Epsilon s.r.o. zaměstnává paní Veselou na pracovní poměr (plný úvazek 40 h/týden) jako účetní. Aby se vyhnula proplácení přesčasů, uzavře s ní souběžně dohodu o pracovní činnosti (DPČ) na „administrativní výpomoc", v jejímž rámci paní Veselá ve skutečnosti zpracovává tytéž účetní agendy jako v pracovním poměru, jen po pracovní době. Po roce paní Veselá uplatní nárok na příplatky za přesčasovou práci s tím, že DPČ je zastřeným obcházením limitů pracovní doby. Důkazy: pracovní smlouva, DPČ, popis skutečně vykonávaných činností, evidence odpracované doby v obou vztazích, výstupy práce.
+
+**2. Právní otázka.** Je souběžná DPČ na „administrativní výpomoc" vedle pracovního poměru účetní, v jejímž rámci se vykonává stejně druhově vymezená práce, v rozporu s § 34b odst. 2 ZP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34b odst. 1 (povinnost přidělovat práci v rozsahu pracovní doby), odst. 2 (zákaz souběhu stejně druhově vymezených prací u téhož zaměstnavatele).
+- *Související ustanovení téhož zákona:* § 3 ZP (základní pracovněprávní vztahy), §§ 78–80 ZP (pracovní doba, kratší pracovní doba), § 93 ZP (práce přesčas a příplatky), § 208 ZP (překážka na straně zaměstnavatele při nepřidělování práce).
+- *Související předpisy:* § 555 a násl. o.z. (výklad právního jednání podle skutečného obsahu), § 5 odst. 1 a § 8 o.z. (obcházení zákona, zneužití práva).
+- *Judikatura:* nosný závěr — pracovněprávní vztahy se posuzují podle skutečného obsahu, nikoli podle formálního označení; účelové rozdělení téže činnosti do více vztahů k obejití limitů pracovní doby je obcházením zákona.
+
+**4. Subsumpce.** Znak „další základní pracovněprávní vztah u téhož zaměstnavatele" je naplněn (DPČ vedle pracovního poměru — oba jsou základními vztahy dle § 3 ZP). Znak „stejně druhově vymezené práce" je naplněn materiálně — formální označení „administrativní výpomoc" vs. „účetní" je zastřením; reálně jde o tutéž účetní činnost. Výjimky (rodičovská dovolená, stát) se neuplatní. Sporné je pouze skutkové zjištění totožnosti činností — řeší se materiálním posouzením náplně práce.
+
+**5. Řešení.** DPČ je v rozporu s § 34b odst. 2 — k jejímu sjednání na stejnodruhovou práci se nepřihlíží, resp. jde o obcházení zákona. Práce vykonaná „navíc" se posoudí jako práce přesčas v rámci pracovního poměru s nárokem na příplatky (§ 93 ZP). Procesní krok: paní Veselá uplatní doplatek mzdy a příplatků; soud posoudí skutečný obsah činností. Riziko zaměstnavatele: doplatky, sankce inspekce práce, neúčinnost DPČ.
+
+**6. Varianty.** (a) Kdyby DPČ byla uzavřena na skutečně jinou činnost (např. úklid, správa IT) odlišnou od účetnictví, souběh by byl přípustný. (b) Kdyby DPČ byla uzavřena s vlastní zaměstnankyní po dobu její rodičovské dovolené, výjimka druhé věty odst. 2 by souběh stejnodruhové práce výslovně připustila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Označení druhu práce v obou vztazích je odlišné, jde tedy o jiné práce." Neutralizace: rozhodující je materiální obsah (§ 555 o.z.), nikoli nominální označení; soudy posuzují skutečně vykonávanou činnost.
+- *Protiargument 2:* „Zaměstnankyně se zavázala dobrovolně, souhlasila s DPČ." Neutralizace: souhlas nezhojí rozpor s kogentním zákazem § 34b odst. 2; jde o ochranné ustanovení, jehož se nelze platně vzdát.
+- *Slabé místo:* prokázání totožnosti druhu práce vyžaduje detailní rozbor náplní; u hraničně odlišných agend může být závěr sporný a důkazně náročný.
+
+#### H. Praktický závěr
+
+§ 34b ukládá zaměstnavateli přidělovat práci v rozsahu pracovní doby (odst. 1) a zakazuje rozdělovat stejnodruhovou práci do více vztahů u téhož zaměstnavatele (odst. 2). Posuzuje se obsah, ne označení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Přiděluje zaměstnavatel práci v rozsahu sjednané (i kratší) pracovní doby, mimo režim konta pracovní doby?
+- [ ] Existuje u téhož zaměstnavatele další vztah (PP/DPP/DPČ) se stejně druhově vymezenou prací?
+- [ ] Je shoda druhu práce posouzena materiálně (skutečná náplň), nikoli jen podle označení?
+- [ ] Uplatní se výjimka (rodičovská dovolená; u státu táž organizační složka)?
+- [ ] Nejde o zastřené obcházení limitů pracovní doby a příplatků za přesčas?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva a souběžná DPP/DPČ, popisy a skutečné náplně práce, evidence odpracované doby v obou vztazích, pracovní výstupy, organizační zařazení zaměstnance.
 
 ---
 
@@ -440,6 +699,43 @@ Vlastní mechanismus skončení pracovního poměru ve zkušební době je uprav
 
 > **Srovnání se starým ZP:** Starý ZP (§ 31, § 58) měl podobnou úpravu s odlišnou maximální délkou (max. 3 měsíce). Současný strop byl zaveden novelou 2012 (zákon č. 365/2011 Sb.), která rozšířila zkušební dobu i pro vedoucí zaměstnance až na 6 měsíců; novelou č. 285/2020 Sb. byla délka u vedoucích zvýšena na 8 měsíců s účinností od r. 2020 (ve znění platném ke konsolidaci k 1. 1. 2026 jsou tedy hranice 4 a 8 měsíců).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** V důsledku převodu části činnosti zaměstnavatele (outsourcing úklidu) má dojít k přechodu práv a povinností z pracovněprávních vztahů na přejímajícího zaměstnavatele Zeta s.r.o. Aby se Zeta vyhnula převzetí dlouholeté zaměstnankyně paní Černé s ochranou před výpovědí, dohodne s ní rozvázání pracovního poměru u dosavadního zaměstnavatele a současně s ní uzavře „novou" pracovní smlouvu se sjednanou čtyřměsíční zkušební dobou. Po dvou měsících Zeta zruší pracovní poměr ve zkušební době. Paní Černá namítá, že šlo o obcházení přechodu práv a povinností. Důkazy: dohoda o rozvázání, nová pracovní smlouva se zkušební dobou, doklady o převodu činnosti, časová a věcná návaznost obou jednání.
+
+**2. Právní otázka.** Je ujednání o zkušební době v nové pracovní smlouvě platné, jestliže jeho účelem bylo vyhnout se přechodu práv a povinností z pracovněprávních vztahů a umožnit zrušení poměru ve zkušební době?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 odst. 1 (sjednání nejpozději v den vzniku poměru, písemně), odst. 2 (max. délka), odst. 4 (dodatečné prodloužení), odst. 5 (prodloužení při překážkách).
+- *Související ustanovení téhož zákona:* § 66 ZP (zrušení ve zkušební době), § 338 a násl. ZP (přechod práv a povinností), § 1a a § 1 odst. 2 ZP (zásady a dobré mravy), § 4a ZP (kogentnost).
+- *Související předpisy:* § 1 odst. 2, § 580 a § 588 o.z. (neplatnost pro rozpor s dobrými mravy), § 6 a § 8 o.z. (poctivost, zákaz zneužití práva).
+- *Judikatura:* nosný závěr (NS 21 Cdo 3046/2013) — při přechodu práv a povinností lze v nové pracovní smlouvě s přejímajícím zaměstnavatelem sjednat zkušební dobu; bylo-li však účelem vyhnout se přechodu a umožnit zrušení ve zkušební době (kterou při přechodu sjednat nelze), je ujednání o zkušební době pro rozpor s dobrými mravy neplatné.
+
+**4. Subsumpce.** Formální znaky § 35 jsou naplněny — zkušební doba sjednána písemně, ke dni vzniku poměru, v délce 4 měsíců (limit dodržen). Avšak materiální korektiv: účelem konstrukce bylo obejít přechod práv a povinností a zbavit zaměstnankyni ochrany. Tím se aktivuje rozpor s dobrými mravy (§ 1 odst. 2 o.z., § 1a ZP). Sporné je prokázání účelu (úmyslu obejít přechod) — klíčová je časová a věcná návaznost dohody o rozvázání a nové smlouvy.
+
+**5. Řešení.** Ujednání o zkušební době je pro rozpor s dobrými mravy neplatné; zrušení poměru „ve zkušební době" je proto neúčinné a pracovní poměr trvá (s ochranou vyplývající z přechodu práv a povinností). Procesní krok: paní Černá podá žalobu na neplatnost zrušení pracovního poměru ve lhůtě dle § 72 ZP a uplatní náhradu mzdy dle § 69 ZP. Alternativně, pokud by účel obcházení nebyl prokázán, zrušení ve zkušební době by obstálo.
+
+**6. Varianty.** (a) Kdyby paní Černá nastoupila k přejímajícímu zaměstnavateli běžnou cestou přechodu práv a povinností (bez dohody o rozvázání a nové smlouvy), zkušební dobu by vůbec sjednat nešlo. (b) Kdyby novou smlouvu se zkušební dobou uzavřela u zcela nesouvisejícího zaměstnavatele bez vazby na přechod, zkušební doba by byla platná.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Zkušební doba byla sjednána písemně a v zákonné délce, formálně bezvadně." Neutralizace: formální správnost nevylučuje neplatnost pro rozpor s dobrými mravy, je-li prokázán obcházecí účel (NS 21 Cdo 3046/2013).
+- *Protiargument 2:* „Šlo o novou smlouvu s novým zaměstnavatelem, proto je zkušební doba namístě." Neutralizace: při přechodu práv a povinností jde o kontinuitu poměru; nová smlouva použitá k přerušení této kontinuity za účelem sjednání zkušební doby je zneužitím.
+- *Slabé místo:* prokázání obcházecího úmyslu je důkazně náročné; bez doložení vazby na přechod činnosti soud zkušební dobu zpravidla uzná.
+
+#### H. Praktický závěr
+
+Zkušební doba je přísně kogentní: písemně, nejpozději ke dni vzniku poměru, max. 4 (řadový) / 8 (vedoucí) měsíců, max. polovina doby určité. Formálně bezvadné ujednání může být neplatné pro obcházení (dobré mravy).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je zkušební doba sjednána písemně a nejpozději v den vzniku pracovního poměru?
+- [ ] Nepřesahuje délku 4 měsíce (řadový) / 8 měsíců (vedoucí) a u doby určité polovinu jejího trvání?
+- [ ] Probíhá případné prodloužení dohodou ještě za trvání zkušební doby (odst. 4)?
+- [ ] Není sjednání zkušební doby účelovým obcházením (přechod práv a povinností, opětovné sjednání)?
+- [ ] Je zohledněno prodloužení o pracovní dny překážek/dovolené/neomluvené absence (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva nebo samostatné ujednání o zkušební době, doklady o vzniku poměru, evidence překážek a dovolené ve zkušební době, doklady o přechodu práv a povinností (u obcházecích konstrukcí), dohoda o rozvázání předchozího poměru.
+
 ---
 
 ### § 36 — Vznik pracovního poměru
@@ -472,6 +768,43 @@ Okamžikem vzniku pracovního poměru nastupují všechny související povinnos
 - evidence v registru zaměstnavatele (oznamovací povinnost vůči OSSZ a zdravotní pojišťovně).
 
 > **Praktická poznámka:** Den nástupu nemusí být pracovní den — může jít o sobotu, neděli, svátek (typicky 1. ledna). Pracovní poměr vznikne i tehdy, kdy zaměstnanec fyzicky nepracuje, protože je den pracovního klidu — vznik je vázán na uplynutí dne, nikoli na zahájení výkonu práce.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní Horáková podepíše 10. 12. pracovní smlouvu s firmou Theta a.s. se sjednaným dnem nástupu 1. 1. (Nový rok — státní svátek a den pracovního klidu). Dne 28. 12. paní Horáková onemocní a 1. 1. fakticky nenastoupí. Zaměstnavatel tvrdí, že pracovní poměr vůbec nevznikl, protože paní Horáková „v práci nebyla", a odmítá jí poskytnout náhradu mzdy v době nemoci a přihlásit ji k pojištění. Důkazy: pracovní smlouva s uvedeným dnem nástupu, doklad o dočasné pracovní neschopnosti, komunikace stran, kalendář (1. 1. jako svátek).
+
+**2. Právní otázka.** Vznikl pracovní poměr ke dni 1. 1. i přesto, že tento den byl státním svátkem a zaměstnankyně fakticky nenastoupila (pro nemoc) do práce?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36 ZP (pracovní poměr vzniká dnem sjednaným jako den nástupu / dnem jmenování).
+- *Související ustanovení téhož zákona:* § 34 odst. 1 písm. c) (den nástupu jako esenciální náležitost), § 34 odst. 3 a 4 (odstoupení při nenastoupení a oznámení překážky do týdne dle § 350a), § 38 ZP (práva a povinnosti od vzniku poměru), §§ 192–193 ZP (náhrada mzdy při dočasné pracovní neschopnosti).
+- *Související předpisy:* zákon č. 187/2006 Sb., o nemocenském pojištění, zákon č. 589/1992 Sb. a zákon č. 48/1997 Sb. (pojistné — oznamovací povinnosti).
+- *Judikatura:* nosný závěr — pracovní poměr vzniká uplynutím sjednaného dne nástupu, nikoli faktickým zahájením výkonu práce; nenastoupí-li zaměstnanec, vzniká zaměstnavateli pouze právo odstoupit za zákonných podmínek.
+
+**4. Subsumpce.** Znak „den sjednaný jako den nástupu" je naplněn (1. 1.). Pracovní poměr proto vzniká ex lege uplynutím tohoto dne — okolnost, že jde o svátek a že zaměstnankyně fyzicky nepracovala, je nerozhodná. Znak pro odstoupení (§ 34 odst. 3) NENÍ naplněn: nenastoupení bylo způsobeno překážkou v práci (nemocí), o níž zaměstnankyně může do týdne informovat. Sporné je pouze, zda zaměstnankyně překážku včas oznámila (§ 350a).
+
+**5. Řešení.** Pracovní poměr ke dni 1. 1. vznikl. Zaměstnavatel nemá právo odstoupit (bránila překážka v práci), je povinen přihlásit zaměstnankyni k pojištění a poskytnout náhradu mzdy v době nemoci za podmínek §§ 192–193 ZP. Argument „v práci nebyla" je právně lichý. Procesní krok: paní Horáková uplatní náhradu mzdy a případně se brání proti pokusu o odstoupení; oznámení překážky do týdne je vhodné doložit.
+
+**6. Varianty.** (a) Kdyby paní Horáková nenastoupila bez jakékoli překážky a do týdne se neozvala, zaměstnavatel by mohl od smlouvy písemně odstoupit (§ 34 odst. 3, 4). (b) Kdyby šlo o pracovní poměr založený jmenováním, vznikl by dnem uvedeným jako den jmenování — stejná logika vzniku ex lege.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Zaměstnanec nenastoupil, poměr tedy nevznikl." Neutralizace: § 36 váže vznik na uplynutí sjednaného dne, ne na fyzický nástup; při nenastoupení vzniká jen právo odstoupit, a to za zákonných podmínek.
+- *Protiargument 2:* „Den nástupu byl svátek, v ten den poměr vzniknout nemůže." Neutralizace: den nástupu může být i svátek či víkend; vznik se neváže na zahájení výkonu práce.
+- *Slabé místo:* pokud zaměstnanec neoznámí překážku v práci do týdne (§ 350a), otevírá se zaměstnavateli prostor pro odstoupení i při existující překážce.
+
+#### H. Praktický závěr
+
+Pracovní poměr vzniká ke dni nástupu (resp. dni jmenování) ex lege, bez ohledu na fyzický nástup či pracovní klid. Nenastoupení řeší pouze institut odstoupení dle § 34 odst. 3, 4.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je ve smlouvě jednoznačně uveden den nástupu (resp. den jmenování)?
+- [ ] Nastal již tento den? (Pak poměr vznikl bez ohledu na faktický nástup.)
+- [ ] Byly ke dni vzniku splněny navazující povinnosti (přihlášení k pojištění, oznámení OSSZ a zdravotní pojišťovně)?
+- [ ] Při nenastoupení: existuje překážka v práci a byla oznámena do týdne (§ 350a)?
+- [ ] Jsou poskytnuta plnění vázaná na vznik poměru (mzda/plat, náhrada mzdy při nemoci, BOZP)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva s uvedením dne nástupu (jmenovací akt), doklad o dočasné pracovní neschopnosti či jiné překážce, doklady o oznámení překážky, přihlášky k pojištění, evidence docházky.
 
 ---
 
@@ -578,6 +911,43 @@ Tato povinnost je **odlišná od informační povinnosti dle odst. 1** — nejde
 
 > **Srovnání se směrnicí (EU) 2019/1152:** Český zákonodárce transponoval směrnici v základním rozsahu; v některých aspektech je úprava ZP přísnější (kratší lhůta než požadovaných „nejpozději 1 měsíc"), v jiných srovnatelná. Některé doplňkové práva ze směrnice (např. právo na souběžné zaměstnání, předvídatelnost pracovní doby u variabilních rozvrhů) jsou transponovány v dalších ustanoveních ZP.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Firma Jota s.r.o. přijme od 1. 3. 2026 pana Bílého na pozici skladníka. Pracovní smlouva obsahuje pouze tři esenciální náležitosti (druh práce, místo, den nástupu). Zaměstnavatel mu žádnou další písemnou informaci neposkytne. Po dvou měsících vznikne spor o délku výpovědní doby a o výměru dovolené, neboť pan Bílý tvrdí, že nebyl o těchto podmínkách informován, a žádá náhradu. Zaměstnavatel namítá, že vše vyplývá ze zákona. Důkazy: pracovní smlouva, doklad (či jeho absence) o předání informace dle § 37, vnitřní předpisy, datum vzniku poměru.
+
+**2. Právní otázka.** Splnil zaměstnavatel písemnou informační povinnost dle § 37 ZP, jestliže pracovní smlouva obsahovala jen esenciální náležitosti a další informace (dovolená, výpovědní doba, pracovní doba, mzda atd.) neposkytl ani odkazem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 37 odst. 1 (katalog 11 položek a lhůta 7 dnů), odst. 2 (náhrada odkazem u písm. c–i, k), odst. 3 (informování o změnách), odst. 4 (elektronická forma a úschova dokladu), odst. 5 (seznámení při nástupu).
+- *Související ustanovení téhož zákona:* § 31 ZP (předsmluvní informování), § 34 ZP (esenciální náležitosti), § 40 odst. 3 ZP (přiměřené použití při změnách), §§ 211–214, §§ 48–73a, §§ 78–92, §§ 109–144 ZP (obsah jednotlivých informačních položek).
+- *Související předpisy:* směrnice (EU) 2019/1152 o transparentních a předvídatelných pracovních podmínkách, § 12 zákona č. 251/2005 Sb. o inspekci práce.
+- *Judikatura:* nosný závěr — informační povinnost je samostatnou povinností zaměstnavatele; její nesplnění nezpůsobuje neplatnost pracovního poměru, avšak zakládá přestupkovou odpovědnost a důkazní nevýhodu zaměstnavatele.
+
+**4. Subsumpce.** Znak „neobsahuje-li tyto údaje pracovní smlouva" je naplněn — smlouva obsahovala jen tři náležitosti, ostatní položky písm. a)–k) v ní chybí. Znak „povinnost písemně informovat ve lhůtě 7 dnů" je porušen — zaměstnavatel neposkytl ani plnou informaci, ani přípustný odkaz na předpis/kolektivní smlouvu/vnitřní předpis (odst. 2). Sporné není splnění povinnosti (nebyla splněna), nýbrž rozsah následků (zda vznikla škoda, výše sankce).
+
+**5. Řešení.** Zaměstnavatel porušil § 37 — měl do 7 dnů od vzniku poměru písemně informovat (u položek c–i, k postačoval odkaz na předpis/kolektivní/vnitřní předpis). Pracovní poměr je platný, samotné podmínky (dovolená, výpovědní doba) se řídí zákonem bez ohledu na informování, takže paní/pan Bílý jimi není zkrácen na hmotných právech; zaměstnavateli však hrozí pokuta od SÚIP a nese důkazní nevýhodu. Procesní krok: zaměstnavatel by měl informaci bezodkladně doplnit; nárok zaměstnance na „náhradu" je úspěšný jen v rozsahu prokázané škody.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel u položek c)–i) a k) odkázal na příslušná ustanovení ZP, kolektivní smlouvu a vnitřní předpis, povinnost by splnil (u písm. a, b, j ovšem odkaz nestačí). (b) Kdyby šlo o krátkodobý vztah a všechny údaje by byly obsaženy v pracovní smlouvě, samostatná informace by nebyla potřeba (subsidiarita).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Vše vyplývá ze zákona, informace je nadbytečná." Neutralizace: § 37 ukládá aktivní písemné informování (byť u řady položek postačí odkaz); pasivní odkaz na to, že „zákon platí pro všechny", povinnost nesplňuje.
+- *Protiargument 2:* „Nesplnění nemá následek, poměr platí." Neutralizace: následkem není neplatnost, ale přestupek dle zákona o inspekci práce a důkazní nevýhoda; informace navíc chrání předvídatelnost podmínek dle směrnice (EU) 2019/1152.
+- *Slabé místo:* nárok zaměstnance na peněžitou „náhradu" za pouhé neinformování bez vzniku škody je obtížně prokazatelný; sankční rovina je primárně veřejnoprávní.
+
+#### H. Praktický závěr
+
+§ 37 ukládá písemně informovat o 11 položkách do 7 dnů od vzniku poměru; u většiny lze odkázat na předpis/kolektivní smlouvu/vnitřní předpis (kromě identifikace zaměstnavatele, bližšího místa/druhu a kolektivních smluv). Lze elektronicky s úschovou dokladu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Které z 11 položek (písm. a–k) nejsou již obsaženy v pracovní smlouvě?
+- [ ] Byla informace poskytnuta písemně do 7 dnů od vzniku pracovního poměru?
+- [ ] U položek c)–i) a k): je použit přípustný odkaz na předpis/kolektivní smlouvu/vnitřní předpis? (U a, b, j odkaz nestačí.)
+- [ ] Při elektronické formě: je informace uložitelná, tisknutelná a existuje doklad o předání?
+- [ ] Byl zaměstnanec při nástupu seznámen s pracovním řádem, BOZP, kolektivní smlouvou a vnitřními předpisy (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva, písemná informace dle § 37 (listinná nebo elektronická) a doklad o jejím předání, vnitřní předpisy a kolektivní smlouva, doklad o seznámení při nástupu, datum vzniku poměru.
+
 ---
 
 ### § 37a — Informování zaměstnanců vysílaných na území jiného státu
@@ -648,6 +1018,43 @@ Odkaz na § 37 odst. 3, 4 znamená:
 
 > **Praktická poznámka:** § 37a se v praxi často kombinuje s úpravou agenturního zaměstnávání (§§ 307a–309 ZP), pravidly dočasného přidělení (§ 43a ZP) a zákonem č. 1/1991 Sb. o zaměstnanosti (resp. nyní ZoZ — §§ 14, 14a). U vyslání do EU musí zaměstnavatel rovněž splnit oznamovací povinnost vůči hostitelskému státu (§ 87 a násl. ZoZ a vnitrostátní úprava hostitelského státu).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Český zaměstnavatel Kappa s.r.o. (stavební firma) vysílá svého zedníka pana Nového na stavební zakázku do Německa (Mnichov) v rámci nadnárodního poskytování služeb na dobu 3 měsíců. Zaměstnavatel mu před vysláním nepředá žádnou písemnou informaci — pouze ústně sdělí, „že pojede do Mnichova". Po návratu pan Nový reklamuje, že nedostal informaci o měně mzdy, o odměně podle německých předpisů, o cestovních náhradách ani o podmínkách návratu. Důkazy: pracovní smlouva, doklad o vyslání a jeho délce, případná písemná informace (či její absence), německé předpisy o minimální odměně.
+
+**2. Právní otázka.** Splnil zaměstnavatel informační povinnost dle § 37a ZP při vyslání zaměstnance na 3 měsíce do jiného členského státu EU v rámci nadnárodního poskytování služeb?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 37a odst. 1 (informování při vyslání kamkoli do zahraničí — stát, doba, měna, plnění, návrat), odst. 2 (rozšířené informování při vyslání do EU — odměna dle hostitelského státu, cestovní náhrady, odkaz na oficiální adresu), odst. 3 (náhrada odkazem), odst. 4 (výjimka do 4 týdnů), odst. 5 (přiměřené použití § 37 odst. 3, 4).
+- *Související ustanovení téhož zákona:* § 37 ZP (obecné informování), § 42 ZP (pracovní cesta), § 43a ZP (dočasné přidělení), § 319 ZP (vyslání a pracovní podmínky), §§ 151–189 ZP (cestovní náhrady).
+- *Související předpisy:* směrnice 96/71/ES ve znění 2018/957 (vysílání pracovníků, „same pay for same work in same place"), směrnice (EU) 2019/1152, ZoZ (oznamovací povinnosti vůči hostitelskému státu).
+- *Judikatura:* nosný závěr — při vyslání do EU v rámci poskytování služeb musí zaměstnanec obdržet odměnu podle pravidel hostitelského státu; informování o těchto podmínkách je předpokladem transparentnosti vyslání.
+
+**4. Subsumpce.** Znak „vyslání k výkonu práce na území jiného státu" je naplněn (Mnichov). Znak „vyslání do členského státu EU v rámci nadnárodního poskytování služeb" je naplněn (stavební zakázka). Délka 3 měsíce přesahuje 4 týdny, takže výjimka odst. 4 se neuplatní. Povinnost informovat o položkách odst. 1 i odst. 2 tedy vznikla a byla porušena — informace nebyla poskytnuta písemně a předem. Sporné není splnění (nebylo splněno), nýbrž případné následky.
+
+**5. Řešení.** Zaměstnavatel porušil § 37a — měl PŘEDEM a písemně informovat o státu, době, měně mzdy, plněních, návratu (odst. 1) a navíc o odměně dle německých předpisů, cestovních náhradách a odkazu na oficiální adresu hostitelského státu (odst. 2). U položek odst. 1 písm. c) a odst. 2 písm. a) byl možný odkaz na předpis. Pracovní poměr a vyslání jsou platné, zaměstnavateli však hrozí sankce inspekce práce a riziko nároků na rozdíl mzdy do úrovně německé odměny. Procesní krok: pan Nový může uplatnit doplatek do výše odměny dle hostitelského státu, je-li jeho mzda nižší.
+
+**6. Varianty.** (a) Kdyby vyslání nepřesáhlo 4 týdny po sobě jdoucí, informační povinnost dle odst. 1 a 2 by vůbec nevznikla (odst. 4). (b) Kdyby šlo o vyslání mimo EU (např. do Švýcarska v jiném režimu), uplatnily by se jen položky odst. 1, nikoli rozšířené položky odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Šlo jen o krátkou zahraniční pracovní cestu, informace nebyla nutná." Neutralizace: výjimka platí jen do 4 týdnů (odst. 4); tříměsíční vyslání ji překračuje a informační povinnost trvá.
+- *Protiargument 2:* „Mzdu jsme platili podle české smlouvy, německé předpisy nás nezavazují." Neutralizace: při vyslání do EU v rámci poskytování služeb se uplatní odměna dle hostitelského státu (revize 2018/957); o tom je nutné i informovat (odst. 2 písm. a).
+- *Slabé místo:* určení, zda jde o „nadnárodní poskytování služeb" vs. běžnou zahraniční cestu, může být sporné; rozsah odměny dle hostitelského státu vyžaduje znalost cizího práva.
+
+#### H. Praktický závěr
+
+§ 37a je lex specialis k § 37 pro vyslání do zahraničí: písemně a předem informovat o položkách odst. 1 (vždy) a odst. 2 (vyslání do EU v rámci poskytování služeb). Výjimka pro vyslání do 4 týdnů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Přesahuje vyslání 4 týdny po sobě jdoucí? (Jinak povinnost nevzniká.)
+- [ ] Byla poskytnuta písemná informace PŘED zahájením vyslání?
+- [ ] Jsou pokryty položky odst. 1 (stát, doba, měna mzdy, plnění, podmínky návratu)?
+- [ ] Jde-li o vyslání do EU v rámci poskytování služeb: i položky odst. 2 (odměna dle hostitelského státu, cestovní náhrady, odkaz na oficiální adresu)?
+- [ ] Byly splněny i navazující oznamovací povinnosti vůči hostitelskému státu?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva, písemná informace dle § 37a a doklad o jejím předání, doklad o délce a místě vyslání, podklady o odměně dle hostitelského státu, doklady o cestovních náhradách, oznámení vůči hostitelskému státu.
+
 ---
 
 ### § 38 — Povinnosti vyplývající z pracovního poměru
@@ -706,6 +1113,43 @@ Odst. 2 zakotvuje pravidlo, že **pracovní poměr založený jmenováním** se 
 Odst. 3 ukládá zaměstnavateli předkládat odborové organizaci ve **lhůtách s ní dohodnutých** zprávy o **nově vzniklých pracovních poměrech**. Smysl: odborová organizace má informační přístup k personálnímu vývoji v podniku (§ 287 a násl. ZP — informování a projednávání s odbory).
 
 Toto ustanovení se uplatní **pouze u zaměstnavatelů, u nichž působí odborová organizace**. Forma a obsah zpráv jsou ponechány dohodě stran.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel Lambda a.s. a zaměstnanec pan Říha „naoko" uzavřou pracovní smlouvu na pozici „konzultant" s vysokou mzdou, ačkoli ve skutečnosti pan Říha žádnou práci vykonávat nemá — smlouva má jen vytvořit zdání příjmu pana Říhy pro účely jeho úvěru. Po čase pan Říha podá žalobu o nevyplacenou mzdu z této smlouvy. V jiném ohledu řešíme, zda zaměstnavatel správně doručoval panu Říhovi písemnost (výpověď) prostřednictvím pošty, ač nešlo o případ povinného doručení do vlastních rukou dle § 334 ZP. Důkazy: pracovní smlouva, evidence skutečně vykonané práce (či její absence), doklady o doručování, komunikace stran prokazující simulaci.
+
+**2. Právní otázka.** (a) Vzniká z předstírané (simulované) pracovní smlouvy povinnost zaměstnavatele platit mzdu dle § 38 odst. 1 písm. a)? (b) Jakému režimu doručování podléhá písemnost, kterou zaměstnavatel doručuje poštou, ač zákon takový postup neukládá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 38 odst. 1 (synallagma povinností — práce za mzdu), odst. 2 (jmenování v režimu smlouvy), odst. 3 (zprávy odborové organizaci).
+- *Související ustanovení téhož zákona:* § 34b odst. 1 ZP (přidělování práce), § 109 a násl. ZP (mzda za vykonanou práci), §§ 301–304 ZP (povinnosti zaměstnance), §§ 334, 336 ZP (doručování), § 208 ZP (překážka na straně zaměstnavatele).
+- *Související předpisy:* § 552 o.z. (zdánlivé/simulované právní jednání), § 555 a § 556 o.z. (výklad), § 580 o.z. (neplatnost).
+- *Judikatura:* nosné závěry (NS 21 Cdo 2862/2019) — simulované právní jednání bez vážné vůle je jednáním zdánlivým (§ 552 o.z.), k jehož nicotnosti soud přihlíží z úřední povinnosti; (NS 21 Cdo 2697/2022) — doručuje-li zaměstnavatel poštou písemnost, u níž zákon ani smlouva nestanoví doručení do vlastních rukou dle § 334 odst. 1 ZP, podléhá doručení režimu § 336 ZP, nikoli obecnému dojití dle o.z.
+
+**4. Subsumpce.** Ad (a): znak „za vykonanou práci mzdu" (§ 38 odst. 1 písm. a)) předpokládá skutečný výkon práce v rámci synallagmatu; pan Říha žádnou práci nekonal a vůle stran nesměřovala ke vzniku pracovního poměru — jde o simulaci (§ 552 o.z.), tedy zdánlivé jednání, z něhož nárok na mzdu nevzniká. Ad (b): doručení poštou mimo režim § 334 ZP naplňuje znaky § 336 ZP, jehož pravidla (a fikce doručení) se použijí přednostně před o.z.
+
+**5. Řešení.** Ad (a): žaloba o mzdu je nedůvodná — ze zdánlivého (simulovaného) jednání povinnost platit mzdu dle § 38 nevzniká; soud k nicotnosti přihlíží z úřední povinnosti. Ad (b): účinky doručení se posoudí podle § 336 ZP (včetně případné fikce doručení), nikoli podle obecné úpravy dojití projevu vůle. Procesní krok: zaměstnavatel se brání námitkou simulace a doloží absenci výkonu práce; ohledně doručení prokáže postup dle § 336 ZP.
+
+**6. Varianty.** (a) Kdyby pan Říha reálně vykonával konzultační práci, synallagma by bylo naplněno a nárok na mzdu by vznikl. (b) Kdyby zákon u dané písemnosti vyžadoval doručení do vlastních rukou (§ 334 ZP — např. výpověď), uplatnil by se tento přísnější režim doručování.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Smlouva byla podepsána, tedy mzda náleží." Neutralizace: podpis nezhojí absenci vážné vůle; simulované jednání je zdánlivé (§ 552 o.z.) a nárok na mzdu z něj nevzniká.
+- *Protiargument 2:* „Doručení poštou se řídí občanským zákoníkem (dojití)." Neutralizace: pro pracovněprávní písemnosti doručované zaměstnavatelem se uplatní § 336 ZP i tam, kde zákon doručení do vlastních rukou neukládá (NS 21 Cdo 2697/2022).
+- *Slabé místo:* prokázání simulace (chybějící vůle) bývá důkazně náročné; bez doložení absence výkonu práce a srozumění stran soud vyjde z formálně platné smlouvy.
+
+#### H. Praktický závěr
+
+§ 38 vymezuje vzájemné povinnosti: práce za mzdu, osobně a dle pokynů. Mzda náleží za skutečně vykonanou práci; simulovaná smlouva nárok nezakládá. Na pracovní poměr z jmenování se použijí pravidla o smluvním poměru.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vykonává zaměstnanec skutečně práci dle pracovní smlouvy (vážná vůle stran, nikoli simulace)?
+- [ ] Přiděluje zaměstnavatel práci a platí mzdu/plat za vykonanou práci; vytváří podmínky a dodržuje pracovní podmínky?
+- [ ] Plní zaměstnanec práci osobně, dle pokynů, v rozvržené pracovní době a dodržuje povinnosti dle §§ 301–304 ZP?
+- [ ] U doručování: jde o písemnost vyžadující doručení do vlastních rukou (§ 334), nebo postačí režim § 336 ZP?
+- [ ] U zaměstnavatele s odborovou organizací: jsou předkládány zprávy o nově vzniklých pracovních poměrech (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva, evidence skutečně vykonané práce a docházky, mzdové doklady, doklady o doručování (podací lístky, doručenky), vnitřní předpisy, komunikace stran (u námitky simulace).
 
 ---
 
@@ -796,6 +1240,43 @@ Odst. 6 vylučuje aplikaci § 39 odst. 2 na **agenturní zaměstnávání** — 
 >
 > **Srovnání se starým ZP:** Starý ZP měl benevolentnější úpravu (krátké období pro neomezené řetězení 2007–2011). Novela č. 365/2011 Sb. zavedla současnou kostru 3 × 3 + 9 let s účinností od 1. 1. 2012.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní Malá pracuje pro firmu Mí s.r.o. na základě řetězce pracovních poměrů na dobu určitou: 1. poměr 1. 1. 2021 – 31. 12. 2021 (1 rok), poté „prodloužen" do 31. 12. 2022, poté nová smlouva do 31. 12. 2023. Zaměstnavatel jí 1. 1. 2024 oznámí, že chce uzavřít čtvrtý poměr na dobu určitou do 31. 12. 2024. Paní Malá namítá, že už došlo k vyčerpání limitu opakování. Před uplynutím doby písemně sdělí zaměstnavateli, že trvá na dalším zaměstnávání na dobu neurčitou. Důkazy: jednotlivé pracovní smlouvy a dodatky, jejich data, písemné oznámení zaměstnankyně, doklad o doručení.
+
+**2. Právní otázka.** Byl při sjednání čtvrtého pracovního poměru na dobu určitou porušen limit pravidla 3 × 3 (§ 39 odst. 2), a stal se tím pracovní poměr poměrem na dobu neurčitou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39 odst. 1 (domněnka doby neurčité), odst. 2 (3 roky × max. 2 opakování + max. 9 let; reset po 3 letech), odst. 5 (sankce — domněnka neurčité doby při písemné notifikaci zaměstnance; lhůta 2 měsíce k žalobě).
+- *Související ustanovení téhož zákona:* § 39 odst. 3 (speciální zákony), odst. 4 (vážné provozní důvody — dohoda s odbory), odst. 6 (agenturní zaměstnávání), § 65 ZP (skončení doby určité).
+- *Související předpisy:* směrnice 1999/70/ES (rámcová dohoda o pracích na dobu určitou), § 4 a § 4a ZP (kogentnost).
+- *Judikatura:* nosný závěr — řetězení pracovních poměrů na dobu určitou nad zákonné limity vede při včasné písemné notifikaci zaměstnance k domněnce poměru na dobu neurčitou; za „opakování" se považuje i prodloužení.
+
+**4. Subsumpce.** Znak „opakování nejvýše dvakrát" je překročen: původní poměr (2021) + prodloužení (2022 — první opakování) + nová smlouva (2023 — druhé opakování) vyčerpaly limit; čtvrtý poměr (2024) by byl třetím opakováním. Reset (3 roky přerušení) nenastal — poměry navazovaly. Znak „písemné oznámení zaměstnance před uplynutím doby" je naplněn. Aktivuje se domněnka dle odst. 5. Sporné by mohlo být započítání „prodloužení" jako opakování — zákon je však výslovně za opakování považuje.
+
+**5. Řešení.** Sjednání čtvrtého poměru na dobu určitou je v rozporu s § 39 odst. 2; jelikož paní Malá včas a písemně oznámila, že trvá na dalším zaměstnávání, platí, že jde o pracovní poměr na dobu neurčitou. Procesní krok: kterákoli strana může do 2 měsíců ode dne, kdy měl poměr skončit uplynutím doby, podat žalobu na určení, zda byly splněny podmínky odst. 2 až 4 (prekluzivní lhůta). Bez včasné notifikace by poměr skončil uplynutím doby.
+
+**6. Varianty.** (a) Kdyby šlo o opakované poměry uzavírané jako náhrada za zaměstnankyni na mateřské/rodičovské dovolené, limit počtu opakování by neplatil (jen strop 9 let). (b) Kdyby měl zaměstnavatel s odborovou organizací uzavřenou dohodu dle odst. 4 (vážné provozní důvody), mohl by řetězit dle pravidel této dohody.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1 (zaměstnavatel):* „Prodloužení není nová smlouva, takže opakování proběhlo jen jednou." Neutralizace: § 39 odst. 2 výslovně považuje prodloužení za opakování; tím je limit dvou opakování vyčerpán.
+- *Protiargument 2:* „Zaměstnankyně nárok neuplatnila řádně." Neutralizace: postačí písemné oznámení před uplynutím doby, že trvá na dalším zaměstnávání; žalobu lze podat do 2 měsíců — splní-li obojí, domněnka neurčité doby nastává.
+- *Slabé místo:* zmešká-li zaměstnanec písemnou notifikaci nebo dvouměsíční lhůtu, ochrana se neuplatní a poměr skončí uplynutím doby; břemeno aktivity je na zaměstnanci.
+
+#### H. Praktický závěr
+
+Pravidlo 3 × 3 + max. 9 let: jeden poměr max. 3 roky, max. 2 opakování (prodloužení = opakování), celkem max. 9 let; reset po 3 letech přerušení. Porušení + včasná písemná notifikace = poměr na dobu neurčitou; žaloba do 2 měsíců.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je doba trvání sjednána písemně? (Jinak je poměr na dobu neurčitou — odst. 1.)
+- [ ] Nepřesahuje jeden poměr 3 roky, počet opakování 2 (vč. prodloužení) a celková doba 9 let?
+- [ ] Nenastal reset (3 roky přerušení mezi poměry)?
+- [ ] Uplatní se výjimka (náhrada za rodiče dle odst. 2; vážné provozní důvody dle odst. 4; agentura dle odst. 6; speciální zákony dle odst. 3)?
+- [ ] Při porušení: oznámil zaměstnanec písemně před uplynutím doby a podal žalobu do 2 měsíců?
+
+**Typicky rozhodné důkazy / podklady:** jednotlivé pracovní smlouvy a dodatky o prodloužení s daty, písemné oznámení zaměstnance o setrvání v poměru, doklad o doručení, případná dohoda s odborovou organizací dle odst. 4, podklady o důvodu náhrady za nepřítomného zaměstnance.
+
 ---
 
 ## Hlava III — Změny pracovního poměru
@@ -858,6 +1339,43 @@ Odst. 3 odkazuje na **přiměřené použití § 37 ZP** (informování o obsahu
 - lze v elektronické formě (§ 37 odst. 4).
 
 Tato vazba zajišťuje, že zaměstnanec má **vždy aktuální písemnou dokumentaci** stavu svého pracovního poměru.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan Dvořák má v pracovní smlouvě sjednán druh práce „technik údržby" a místo výkonu práce „provozovna Plzeň". Zaměstnavatel Ný s.r.o. mu jednostranně pokynem nařídí, aby od příštího týdne pracoval jako „skladník" v provozovně v Brně. Pan Dvořák odmítne s tím, že nesouhlasí se změnou druhu ani místa práce. Zaměstnavatel mu hrozí výpovědí pro neplnění pokynů. Důkazy: pracovní smlouva (druh práce, místo), písemný pokyn zaměstnavatele, komunikace stran, případný dodatek (jeho absence).
+
+**2. Právní otázka.** Může zaměstnavatel jednostranným pokynem změnit sjednaný druh a místo práce, a je zaměstnanec povinen takový pokyn uposlechnout?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40 odst. 1 (změna obsahu poměru jen dohodou; jmenování po vzniku poměru jako změna), odst. 2 (povinnost konat jen sjednanou práci, jiný druh/místo jen v případech dle ZP), odst. 3 (přiměřené použití § 37 — informování o změnách).
+- *Související ustanovení téhož zákona:* § 34 odst. 1 ZP (druh a místo jako esenciální náležitosti), § 38 odst. 1 písm. b) ZP (pokyny v rámci sjednané práce), §§ 41–43a ZP (taxativní výjimky z jednostranné nezměnitelnosti), § 301 ZP (povinnost plnit pokyny — jen v souladu se smlouvou).
+- *Související předpisy:* § 1725, § 1759 o.z. (smluvní svoboda, vázanost smlouvou), § 564 o.z. (forma změny).
+- *Judikatura:* nosný závěr (NS 21 Cdo 2608/2023) — daná kritéria pracovního poměru (zde pravidelné pracoviště, obdobně druh a místo práce) lze měnit jen změnou obsahu pracovní smlouvy, nikoli jednostranným pokynem zaměstnavatele.
+
+**4. Subsumpce.** Znak „změna obsahu pracovního poměru" je naplněn — mění se druh práce (technik → skladník) i místo (Plzeň → Brno). Znak „jen dohodou" (odst. 1) brání jednostrannému provedení. Výjimka „v případech uvedených v ZP" (odst. 2) se neuplatní — nejde o převedení dle § 41 (žádný zákonný důvod), ani o pracovní cestu/přeložení/dočasné přidělení (ta vyžadují souhlas). Pokyn je proto neúčinný a zaměstnanec není povinen jej splnit.
+
+**5. Řešení.** Jednostranný pokyn měnící druh a místo práce je neúčinný; pan Dvořák jej není povinen uposlechnout a jeho odmítnutí nezakládá porušení povinností. Výpověď pro „neplnění pokynů" by byla neplatná, neboť pokyn překračoval rámec sjednané práce (§ 38, § 301 ZP). Procesní krok: trvá-li zaměstnavatel na pokynu, řeší se to dodatkem ke smlouvě (dohodou); jinak je zaměstnavatel povinen přidělovat práci dle smlouvy, jinak vzniká překážka dle § 208 ZP. Případnou výpověď lze napadnout žalobou na neplatnost (§ 72 ZP).
+
+**6. Varianty.** (a) Kdyby šlo o úkol v rámci sjednaného druhu práce a téhož místa (jiná konkrétní činnost technika v Plzni), šlo by o pokyn dle § 38 odst. 1 písm. b), který je zaměstnanec povinen splnit. (b) Kdyby byl dán zákonný důvod převedení dle § 41 (např. zdravotní nezpůsobilost), mohl by zaměstnavatel převést i bez souhlasu v mezích § 41.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Zaměstnavatel řídí práci, může tedy určit, kde a co se dělá." Neutralizace: řídicí pravomoc se uplatní jen v rámci sjednaného druhu a místa práce; jejich změna je změnou smlouvy (§ 40 odst. 1), nikoli pokynem.
+- *Protiargument 2:* „Odmítnutí pokynu je porušení povinností a důvod k výpovědi." Neutralizace: povinnost plnit pokyny se týká jen pokynů v souladu se smlouvou; pokyn překračující sjednanou práci zaměstnanec plnit nemusí a jeho odmítnutí není porušením.
+- *Slabé místo:* hranice mezi „úkolem v rámci druhu práce" a „jiným druhem práce" závisí na šíři sjednání druhu práce; široce sjednaný druh dává zaměstnavateli větší prostor.
+
+#### H. Praktický závěr
+
+Obsah pracovního poměru (zejména druh a místo práce) lze měnit jen dohodou stran (písemně, dodatkem). Jiný druh/místo lze nařídit jen v taxativních případech ZP (§§ 41–43a). O změnách se přiměřeně informuje dle § 37.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde skutečně o změnu sjednaného druhu nebo místa práce (nikoli o úkol v rámci sjednané práce)?
+- [ ] Existuje dohoda stran o změně (dodatek), nebo zákonný důvod jednostranné změny dle §§ 41–43a?
+- [ ] Je dodržena písemná forma dodatku?
+- [ ] Bylo o změně přiměřeně písemně informováno dle § 37 (odst. 3)?
+- [ ] Nejde o jmenování na vedoucí místo po vzniku poměru (změna dle odst. 1 věty druhé) vyžadující akceptaci?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva (druh a místo práce), případný dodatek/dohoda o změně, písemné pokyny zaměstnavatele, informace o změně dle § 37, komunikace stran.
 
 ---
 
@@ -994,6 +1512,44 @@ Odst. 7 obsahuje **procedurální povinnosti** zaměstnavatele:
 
 > **Vztah k § 46 ZP a odborové organizaci:** Převede-li zaměstnavatel zaměstnance na jinou práci než dle pracovní smlouvy a **zaměstnanec nesouhlasí**, vyžaduje se projednání s odborovou organizací (§ 46 ZP — viz dále). Projednání není třeba, pokud celková doba převedení nepřesáhne 21 pracovních dnů v kalendářním roce.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan Sedlák pracuje jako svářeč ve firmě Xí a.s. V důsledku pracovního úrazu (poškození zad) dlouhodobě pozbyl podle lékařského posudku poskytovatele pracovnělékařských služeb způsobilost vykonávat dosavadní práci svářeče. V rámci jeho sjednaného druhu práce není volná žádná vhodná pozice. Zaměstnavatel ho proto i bez jeho souhlasu převede na administrativní práci ve skladové evidenci (jiný druh práce). Pan Sedlák namítá, že jde o nucenou práci, neboť s převedením nesouhlasil. Důkazy: lékařský posudek o dlouhodobé nezpůsobilosti, pracovní smlouva (druh práce), doklad o úrazu, písemné potvrzení o důvodu a době převedení, přehled volných pozic.
+
+**2. Právní otázka.** Je převedení zaměstnance, který dlouhodobě pozbyl zdravotní způsobilost, na práci jiného druhu i bez jeho souhlasu (§ 41 odst. 1 a 3) přípustné, nebo jde o ústavně zapovězenou nucenou práci?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 41 odst. 1 písm. a) (povinné převedení při dlouhodobé ztrátě způsobilosti), odst. 3 (převedení i mimo sjednaný druh práce bez souhlasu), odst. 6 (vhodnost — zdravotní stav, schopnosti, pokud možno kvalifikace), odst. 7 (projednání a písemné potvrzení).
+- *Související ustanovení téhož zákona:* § 40 odst. 2 ZP (povinnost konat jen sjednanou práci — výjimky), § 44 ZP (návrat po pominutí důvodů), § 46 ZP (projednání s odbory při nesouhlasu), § 52 písm. d) a § 67 ZP (výpověď a odstupné, nelze-li převést).
+- *Související předpisy:* čl. 9 Listiny (zákaz nucených prací), zákon č. 373/2011 Sb. (lékařské posudky), nařízení vlády č. 361/2007 Sb. (rizikové práce), zákon č. 258/2000 Sb. (ochrana veřejného zdraví).
+- *Judikatura:* nosný závěr (ÚS Pl. ÚS 31/24) — převedení zaměstnance, jenž dlouhodobě pozbyl způsobilost, na vhodnou jinou práci i bez jeho souhlasu (§ 41 odst. 3) není ústavně zapovězenou nucenou prací, není-li vynucováno pod pohrůžkou trestu a nenese-li zaměstnanec nepřiměřené břemeno; lze převést jen na práci odpovídající zdravotnímu stavu, schopnostem a co nejvíce kvalifikaci, a po odpadnutí důvodů je nutný návrat dle smlouvy. Dále NS 21 Cdo 5825/2016 — nelze-li převést, je zaměstnavatel povinen rozvázat poměr výpovědí dle § 52 písm. d) nebo dohodou z týchž důvodů s nárokem na odstupné.
+
+**4. Subsumpce.** Znak „dlouhodobá ztráta způsobilosti dle lékařského posudku" (odst. 1 písm. a)) je naplněn. Znak „nelze dosáhnout účelu v rámci pracovní smlouvy" (odst. 3) je naplněn — žádná vhodná pozice v rámci druhu práce. Aktivuje se převedení i mimo druh práce bez souhlasu. Test vhodnosti (odst. 6) je splněn — administrativa odpovídá zdravotnímu stavu a schopnostem. Test nucené práce (ÚS Pl. ÚS 31/24) je negativní — není pohrůžka trestem, břemeno není nepřiměřené.
+
+**5. Řešení.** Převedení je zákonné a ústavně konformní; nejde o nucenou práci. Zaměstnavatel musel důvod a dobu předem projednat a vydat písemné potvrzení (odst. 7). Po odpadnutí důvodů je povinen zařadit zaměstnance dle smlouvy (§ 44). Nelze-li vhodnou práci najít vůbec, nastupuje výpověď dle § 52 písm. d) s odstupným (§ 67). Procesní krok: namítá-li zaměstnanec neplatnost, posoudí se vhodnost přidělené práce a dodržení odst. 6 a 7.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel převedl svářeče na fyzicky namáhavou práci nevhodnou pro jeho zdravotní stav, byl by porušen odst. 6 a převedení by bylo vadné. (b) Kdyby šlo o převedení při prostoji nebo nepříznivém počasí (odst. 5), souhlas zaměstnance by byl nezbytný a bez něj by zaměstnavatel poskytl náhradu mzdy dle § 207 ZP.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Převedení bez souhlasu je nucená práce zakázaná Listinou." Neutralizace: dle ÚS Pl. ÚS 31/24 nejde o nucenou práci, je-li převedení na vhodnou práci, bez pohrůžky trestem a bez nepřiměřeného břemene, s právem návratu po odpadnutí důvodů.
+- *Protiargument 2:* „Krajská hygienická stanice musí určit, jakou práci může zaměstnanec konat." Neutralizace: dle NS 21 Cdo 2400/2014 KHS nepřísluší rozhodovat, jakou práci může zaměstnanec po dosažení nejvyšší přípustné expozice vykonávat; tuto vhodnost posuzuje zaměstnavatel v mezích odst. 6.
+- *Slabé místo:* nepřevede-li zaměstnavatel zaměstnance ani nerozváže poměr dle § 52 písm. d), může poměr výpovědí ukončit sám zaměstnanec bez újmy na odstupném (NS 21 Cdo 5825/2016) — riziko pro zaměstnavatele.
+
+#### H. Praktický závěr
+
+§ 41 má pět režimů: povinné převedení (odst. 1, bez souhlasu), fakultativní (odst. 2, bez souhlasu), krizové (odst. 4, bez souhlasu), při prostoji/počasí (odst. 5, se souhlasem) a mimo druh práce (odst. 3, bez souhlasu jako doplněk odst. 1, 2). Vždy platí test vhodnosti (odst. 6) a procedura (odst. 7).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán konkrétní zákonný důvod převedení (odst. 1 nebo 2), případně krizová situace (odst. 4)?
+- [ ] Lze účelu dosáhnout v rámci sjednaného druhu práce, nebo je nutné převedení mimo druh (odst. 3)?
+- [ ] Je převáděno na práci vhodnou vzhledem ke zdravotnímu stavu, schopnostem a pokud možno kvalifikaci (odst. 6)?
+- [ ] Byl důvod a doba předem projednán a vydáno písemné potvrzení (odst. 7, mimo odst. 2 písm. c a odst. 4)?
+- [ ] U převedení při prostoji/počasí (odst. 5): byl získán souhlas zaměstnance, jinak poskytnuta náhrada mzdy?
+- [ ] Při nesouhlasu zaměstnance a překročení sjednané práce: bylo provedeno projednání s odbory dle § 46 (nad 21 prac. dnů)?
+
+**Typicky rozhodné důkazy / podklady:** lékařský posudek nebo rozhodnutí orgánu, pracovní smlouva (druh práce), písemné potvrzení o důvodu a době převedení, přehled volných vhodných pozic, doklady o projednání (se zaměstnancem i s odbory), případné rozhodnutí soudu/správního orgánu.
+
 ---
 
 ### § 42 — Pracovní cesta
@@ -1061,6 +1617,44 @@ Pracovní cesta zakládá nárok na **cestovní náhrady** podle §§ 151–189 
 
 Tato problematika je předmětem samostatného komentáře k §§ 151–189 ZP.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní Veselá pracuje jako účetní s místem výkonu práce „Praha" a pečuje o dítě ve věku 6 let (samoživitelka). Zaměstnavatel Omikrón s.r.o. jí nařídí třídenní pracovní cestu na školení do Ostravy. Paní Veselá s cestou nesouhlasí s odkazem na péči o dítě. Zaměstnavatel trvá na vyslání s tím, že „je to v zájmu firmy". Souběžně řešíme situaci pana Nového, kterého vysílající zaměstnavatel pověřil prací u obchodního partnera, kde mu vedoucí partnera začal udělovat pokyny i ohledně rozvázání jeho poměru. Důkazy: pracovní smlouva (místo výkonu práce), doklad o péči o dítě, cestovní příkaz (či jeho absence), pověření jiného vedoucího a jeho rozsah, doklad o seznámení.
+
+**2. Právní otázka.** (a) Může zaměstnavatel vyslat na pracovní cestu zaměstnankyni pečující o malé dítě bez jejího souhlasu? (b) V jakém rozsahu může vůči vyslanému zaměstnanci jednat vedoucí jiného zaměstnavatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 42 odst. 1 (definice pracovní cesty; vyslání jen na základě dohody se zaměstnancem; pokyny vedoucího vysílajícího zaměstnavatele), odst. 2 (pověření jiného vedoucího v vymezeném rozsahu; zákaz právně jednat jménem vysílajícího zaměstnavatele).
+- *Související ustanovení téhož zákona:* § 34 odst. 1 písm. b) ZP (místo výkonu práce), § 34a ZP (pravidelné pracoviště a náhrady), § 240 ZP (omezení vysílání pečujících osob), §§ 151–189 ZP (cestovní náhrady), § 43a ZP (odlišení od dočasného přidělení).
+- *Související předpisy:* § 1725 o.z. (smluvní svoboda — souhlas jako podmínka).
+- *Judikatura:* nosný závěr — vyslání na pracovní cestu vyžaduje souhlas (dohodu) zaměstnance; u zákonem chráněných skupin (pečující osoby) je souhlas nezbytný a nelze jej nahradit jednostranným pokynem.
+
+**4. Subsumpce.** Ad (a): znaky pracovní cesty (časové omezení, vyslání zaměstnavatelem, mimo sjednané místo Praha → Ostrava) jsou naplněny. Avšak podmínka „jen na základě dohody" (odst. 1) a zvláštní ochrana § 240 ZP (osamělý zaměstnanec pečující o dítě do 15 let lze vyslat jen se souhlasem) nejsou splněny — paní Veselá nesouhlasí. Vyslání je proto nepřípustné. Ad (b): pověření jiného vedoucího je omezeno na organizaci a kontrolu práce ve vymezeném rozsahu; právně jednat jménem vysílajícího zaměstnavatele (rozvázání poměru) nesmí.
+
+**5. Řešení.** Ad (a): zaměstnavatel nemůže paní Veselou na cestu vyslat bez jejího souhlasu; nesouhlas je legitimní a nezakládá porušení povinností. Ad (b): pokyny vedoucího partnera k rozvázání poměru pana Nového jsou neúčinné — takové právní jednání může činit jen vysílající zaměstnavatel. Procesní krok: trvá-li zaměstnavatel na vyslání, řeší se to dohodou; sankcí za nátlak může být i náhrada újmy. U pana Nového je „rozvázání" partnerem nicotné.
+
+**6. Varianty.** (a) Kdyby paní Veselá měla v pracovní smlouvě sjednán souhlas s pracovními cestami jako součást náplně (např. obchodní zástupce), byl by souhlas dán předem a vyslání by bylo možné (s limity § 240 ZP). (b) Kdyby zaměstnanec byl k partnerovi nikoli vyslán na cestu, ale dočasně přidělen dle § 43a, přebíral by řízení partner v plném rozsahu (mimo právní jednání o vzniku/změně/skončení poměru).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Pracovní cesta je výkon práce, zaměstnanec ji nemůže odmítnout." Neutralizace: § 42 odst. 1 podmiňuje vyslání dohodou se zaměstnancem; bez souhlasu (zejména u chráněných skupin dle § 240) cestu nařídit nelze.
+- *Protiargument 2:* „Cesta je v rámci sjednaného místa práce, tedy nejde o pracovní cestu vyžadující souhlas." Neutralizace: je-li překročeno sjednané místo výkonu práce, jde o pracovní cestu; navíc cesta z pravidelného pracoviště mimo obec zakládá náhrady.
+- *Slabé místo:* je-li souhlas dán předem ve smlouvě obecně, rozsah takového souhlasu může být sporný; u pečujících osob je ochrana § 240 silnější.
+
+#### H. Praktický závěr
+
+Pracovní cesta = časově omezené vyslání mimo sjednané místo, vždy jen se souhlasem (dohodou) zaměstnance; u pečujících osob souhlas nutný (§ 240). Jiný vedoucí může řídit práci ve vymezeném rozsahu, ale nesmí právně jednat jménem vysílajícího zaměstnavatele.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Překračuje cesta sjednané místo výkonu práce (jinak nejde o pracovní cestu)?
+- [ ] Existuje souhlas (dohoda) zaměstnance — ad hoc nebo předem ve smlouvě?
+- [ ] Jde o chráněnou skupinu dle § 240 (těhotné, pečující o dítě do 8/15 let), kde je souhlas nezbytný?
+- [ ] Je při pověření jiného vedoucího vymezen rozsah a byl s ním zaměstnanec seznámen?
+- [ ] Nepřekračuje jiný vedoucí zákaz právně jednat jménem vysílajícího zaměstnavatele?
+- [ ] Jsou vypořádány cestovní náhrady dle §§ 151–189 ZP?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva (místo výkonu práce, případný souhlas s cestami), cestovní příkaz, doklady o péči o dítě (u § 240), pověření jiného vedoucího s vymezeným rozsahem a doklad o seznámení, doklady o cestovních náhradách.
+
 ---
 
 ### § 43 — Přeložení
@@ -1101,6 +1695,44 @@ Odst. 2 stanoví **organizační princip**: pracovní úkoly přeloženému zam�
 Tj. po přeložení faktickou řídicí pravomoc vykonává vedoucí cílového pracoviště, nikoli původní vedoucí. Tím se zajišťuje **funkční integrace** přeloženého zaměstnance do nového organizačního celku.
 
 > **Praktická poznámka — vztah k zaměstnanci a místo bydliště:** Přeložení do vzdálenějšího místa může vést k tomu, že zaměstnanec se musí stěhovat. ZP přímo neukládá zaměstnavateli kompenzovat náklady stěhování — ty mohou být upraveny kolektivní smlouvou, vnitřním předpisem nebo individuální dohodou. Pro cestovní náhrady při přeložení platí specifická pravidla — viz § 165 ZP (přeložení a cestovní náhrady).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan Kovář pracuje jako prodejce ve firmě Pí s.r.o. s místem výkonu práce „Liberec". Zaměstnavatel otevírá novou pobočku v Hradci Králové a potřebuje tam dočasně (na 8 měsíců) zkušeného prodejce. Nabídne panu Kováři přeložení do Hradce Králové; pan Kovář s tím souhlasí (písemně). Po přeložení mu však pokyny nadále uděluje vedoucí z Liberce, který nezná místní poměry, což vede ke sporům. Po 8 měsících provozní potřeba pomine, ale zaměstnavatel pana Kováře nechá v Hradci a odmítá ho vrátit do Liberce. Důkazy: pracovní smlouva (místo Liberec), písemný souhlas s přeložením, doklad o provozní potřebě (otevření pobočky), evidence, kdo uděloval pokyny.
+
+**2. Právní otázka.** (a) Byly splněny podmínky přeložení dle § 43 ZP a kdo měl přeloženému zaměstnanci udělovat pokyny? (b) Je zaměstnavatel po pominutí provozní potřeby povinen zaměstnance vrátit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 43 odst. 1 (přeložení jen se souhlasem, v rámci téhož zaměstnavatele, při nezbytné provozní potřebě), odst. 2 (pokyny uděluje vedoucí cílového pracoviště).
+- *Související ustanovení téhož zákona:* § 42 ZP (odlišení od pracovní cesty), § 43a ZP (odlišení od dočasného přidělení k jinému zaměstnavateli), § 44 ZP (návrat po pominutí důvodů), § 165 ZP (cestovní náhrady při přeložení), § 40 odst. 1 ZP (trvalá změna místa jen dodatkem).
+- *Související předpisy:* § 1725 o.z. (souhlas jako podmínka).
+- *Judikatura:* nosný závěr — přeložení do jiného místa výkonu práce je možné jen se souhlasem zaměstnance a v rámci téhož zaměstnavatele; po pominutí provozní potřeby je nutný návrat dle § 44 ZP, nedojde-li k dohodě o změně smlouvy.
+
+**4. Subsumpce.** Ad (a): znaky „souhlas zaměstnance", „v rámci téhož zaměstnavatele" a „nezbytná provozní potřeba" (otevření pobočky) jsou kumulativně naplněny — přeložení je platné. Pokyny však měl podle odst. 2 udělovat vedoucí cílového pracoviště (Hradec Králové), nikoli liberecký vedoucí; v tomto bodě byl porušen organizační princip. Ad (b): po pominutí provozní potřeby se aktivuje § 44 — zaměstnavatel je povinen zařadit zaměstnance dle smlouvy (Liberec), nedohodnou-li se na změně.
+
+**5. Řešení.** Přeložení bylo platné, řízení mělo přejít na vedoucího v Hradci Králové (odst. 2). Po uplynutí provozní potřeby je zaměstnavatel povinen vrátit pana Kováře do Liberce (§ 44); ponechání v Hradci proti vůli zaměstnance bez dohody o změně smlouvy je porušením — vzniká překážka dle § 208 ZP a riziko, že zaměstnanec poměr okamžitě zruší dle § 56 ZP. Procesní krok: pan Kovář se domáhá zařazení dle smlouvy; trvalou změnu místa by bylo nutné sjednat dodatkem (§ 40 odst. 1).
+
+**6. Varianty.** (a) Kdyby pan Kovář s přeložením nesouhlasil, nebylo by možné ho přeložit a zaměstnavatel by musel hledat jiné řešení (dohoda, nová pozice). (b) Kdyby zaměstnavatel chtěl zaměstnance „půjčit" jinému zaměstnavateli (nikoli ve své struktuře), nešlo by o přeložení, ale o dočasné přidělení dle § 43a (s 6měsíčním minimem a zákazem úplaty).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Přeložení je provozní opatření, souhlas zaměstnance není nutný." Neutralizace: § 43 odst. 1 výslovně vyžaduje souhlas zaměstnance; bez něj je přeložení neplatné.
+- *Protiargument 2:* „Po skončení provozní potřeby může zaměstnanec zůstat na novém místě i bez dohody." Neutralizace: § 44 ukládá zařadit zaměstnance dle smlouvy; setrvání na novém místě vyžaduje dohodu o změně (§ 40 odst. 1), jinak vzniká překážka v práci.
+- *Slabé místo:* nepřepneli se řízení na vedoucího cílového pracoviště (odst. 2), může vznikat nejistota o závaznosti pokynů; rozsah „nezbytné provozní potřeby" je hodnotící a může být sporný.
+
+#### H. Praktický závěr
+
+Přeložení = trvalejší přemístění do jiného místa, vždy se souhlasem zaměstnance, v rámci téhož zaměstnavatele a při nezbytné provozní potřebě. Pokyny uděluje vedoucí cílového pracoviště. Po pominutí důvodů návrat dle § 44.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Souhlasí zaměstnanec s přeložením (formálně i materiálně)?
+- [ ] Děje se přeložení v rámci téhož zaměstnavatele (jinak jde o § 43a)?
+- [ ] Je dána nezbytná provozní potřeba a je doložitelná?
+- [ ] Uděluje po přeložení pokyny vedoucí cílového pracoviště (odst. 2)?
+- [ ] Je po pominutí provozní potřeby zajištěn návrat dle § 44, případně sjednán dodatek o trvalé změně místa?
+- [ ] Jsou vypořádány cestovní náhrady při přeložení (§ 165 ZP)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva (místo výkonu práce), písemný souhlas s přeložením, doklad o provozní potřebě, organizační schéma (kdo uděluje pokyny), doklady o cestovních náhradách, případný dodatek o trvalé změně.
 
 ---
 
@@ -1219,6 +1851,44 @@ Skončením dočasného přidělení se zaměstnanec **vrací do pracovního pom
 > | **Účel** | Operativní spolupráce | Pronájem pracovní síly |
 > | **Licencování** | Nepotřebuje | Vyžaduje povolení |
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost Ró s.r.o. má dostatek programátorů, zatímco spřízněná (nikoli však agenturní) firma Sigma s.r.o. naopak akutně potřebuje výpomoc na 4 měsíce. Ró „přidělí" Sigmě programátora pana Procházku, který je v Ró zaměstnán teprve 2 měsíce. Za přidělení si Ró od Sigmy účtuje „servisní poplatek" 50 000 Kč měsíčně nad rámec refundace mzdy. V dohodě o dočasném přidělení chybí doba, na kterou se sjednává, a sjednává se ústně. Sigma navíc panu Procházkovi vyplácí nižší mzdu, než mají její vlastní srovnatelní programátoři. Důkazy: pracovní smlouva s Ró (datum vzniku), dohoda o dočasném přidělení (její obsah a forma), faktury mezi Ró a Sigmou, mzdové podmínky srovnatelných zaměstnanců Sigmy.
+
+**2. Právní otázka.** Splňuje uvedené dočasné přidělení podmínky § 43a ZP (6měsíční minimum, zákaz úplaty, písemná forma a náležitosti dohody, princip rovných podmínek), nebo jde o zastřené agenturní zaměstnávání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 43a odst. 1 (nejdříve po 6 měsících trvání poměru), odst. 2 (zákaz úplaty mimo úhradu nákladů), odst. 3 (písemná forma a obligatorní náležitosti), odst. 4 (řízení zaměstnavatelem B), odst. 6 (rovné podmínky se srovnatelným zaměstnancem B), odst. 7 (skončení), odst. 8 (zákaz pro agenturní zaměstnávání).
+- *Související ustanovení téhož zákona:* §§ 307a–309 ZP (agenturní zaměstnávání), § 42 a § 43 ZP (odlišení), § 20 odst. 3 ZP (nepřihlížení při nedostatku formy).
+- *Související předpisy:* § 5 písm. e), §§ 14, 14a, 58–66 ZoZ a § 140 ZoZ (nelegální zprostředkování zaměstnání a sankce), směrnice 2008/104/ES (rovné zacházení).
+- *Judikatura:* nosný závěr — neziskové dočasné přidělení nesmí sloužit k obcházení licenčního režimu agentur práce; úplata za přidělení a obcházení podmínek § 43a vede k překvalifikaci na (nelegální) agenturní zaměstnávání.
+
+**4. Subsumpce.** Znak „nejdříve po 6 měsících trvání poměru" (odst. 1) NENÍ naplněn — pan Procházka je v Ró jen 2 měsíce. Znak „zákaz úplaty" (odst. 2) je porušen — servisní poplatek 50 000 Kč nad rámec refundace je úplatou. Znak „písemná forma a náležitosti vč. doby" (odst. 3) NENÍ naplněn — dohoda je ústní a bez doby. Znak „rovné podmínky" (odst. 6) je porušen — nižší mzda než u srovnatelných zaměstnanců Sigmy. Kumulace vad vede k závěru o zastřeném agenturním zaměstnávání.
+
+**5. Řešení.** Přidělení nesplňuje § 43a hned v několika bodech; k ústní dohodě se nepřihlíží (§ 20 odst. 3), úplata a nedodržení 6měsíčního minima zakládají riziko překvalifikace na nelegální zprostředkování zaměstnání (§ 5 písm. e) ZoZ) se sankcí až 10 000 000 Kč (§ 140 ZoZ). Pan Procházka má nárok na dorovnání mzdy do úrovně srovnatelných zaměstnanců Sigmy (odst. 6). Procesní krok: kontrola SÚIP/úřadu práce; zaměstnanec uplatní mzdový doplatek vůči Ró (zaměstnavateli, který přidělil).
+
+**6. Varianty.** (a) Kdyby byl pan Procházka v Ró zaměstnán déle než 6 měsíců, dohoda by byla písemná se všemi náležitostmi, bez úplaty (jen refundace) a se mzdou na úrovni srovnatelných zaměstnanců Sigmy, šlo by o platné dočasné přidělení. (b) Kdyby šlo o vyslání za účelem zvýšení kvalifikace (školení u Sigmy), institut § 43a by se nepoužil (odst. 9).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Servisní poplatek je jen úhrada našich nákladů, ne zisk." Neutralizace: refundovat lze pouze náklady dle odst. 5 (mzda, cestovní náhrady); paušál nad rámec těchto nákladů je zakázanou úplatou a indikuje agenturní povahu.
+- *Protiargument 2:* „Dohodu jsme uzavřeli ústně, ale obě strany ji respektují." Neutralizace: dohoda o dočasném přidělení musí být písemná s obligatorními náležitostmi (odst. 3); jinak se k ní nepřihlíží (§ 20 odst. 3 ZP).
+- *Slabé místo:* hranice mezi „úhradou nákladů" a „úplatou" může být sporná u režijních nákladů; určení „srovnatelného zaměstnance" u B vyžaduje srovnatelnou pozici a doložení mzdových podmínek.
+
+#### H. Praktický závěr
+
+Dočasné přidělení (§ 43a) je neziskovým opakem agenturního zaměstnávání: min. 6 měsíců trvání poměru, zákaz úplaty (jen refundace nákladů), písemná dohoda s náležitostmi vč. doby, řízení zaměstnavatelem B, rovné podmínky se srovnatelným zaměstnancem B. Zákaz pro agentury a pro kvalifikační vzdělávání.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Trvá pracovní poměr u přidělujícího zaměstnavatele alespoň 6 měsíců (odst. 1)?
+- [ ] Není za přidělení poskytována úplata nad rámec úhrady nákladů dle odst. 5 (odst. 2)?
+- [ ] Je dohoda písemná a obsahuje identifikaci B, den vzniku, druh a místo práce a dobu přidělení (odst. 3)?
+- [ ] Řídí práci zaměstnavatel B, aniž by jednal jménem A v právních věcech poměru (odst. 4)?
+- [ ] Nejsou podmínky horší než u srovnatelného zaměstnance B (odst. 6)?
+- [ ] Nejde o zastřené agenturní zaměstnávání (odst. 8) nebo o kvalifikační vzdělávání (odst. 9)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva s přidělujícím zaměstnavatelem (datum vzniku), písemná dohoda o dočasném přidělení, faktury/doklady o platbách mezi zaměstnavateli, mzdové podmínky srovnatelných zaměstnanců cílového zaměstnavatele, doklady o řízení práce.
+
 ---
 
 ### § 44 — Návrat po pominutí důvodů změny
@@ -1250,6 +1920,43 @@ Pokud zaměstnavatel zaměstnance nezařadí podle pracovní smlouvy:
 - nárok zaměstnance na **náhradu mzdy** za období, kdy mu zaměstnavatel nepřiděloval práci dle smlouvy (překážka v práci na straně zaměstnavatele — § 208 ZP),
 - možnost zaměstnance **okamžitě zrušit pracovní poměr** dle § 56 odst. 1 písm. b) ZP (zaměstnavatel mu nepřiděluje práci podle smlouvy).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan Beneš byl jako řidič firmy Tau s.r.o. po dobu trvajícího trestního řízení pro podezření z úmyslné krádeže ke škodě zaměstnavatele převeden (§ 41 odst. 2 písm. b)) na práci ve skladu. Trestní řízení skončilo pravomocným zproštěním obžaloby. Zaměstnavatel ho však ponechá ve skladu a odmítá ho vrátit na pozici řidiče s odůvodněním, že „skladník je teď potřebnější". Pan Beneš se domáhá návratu na původní práci. Důkazy: pracovní smlouva (druh práce řidič), doklad o převedení a jeho důvodu, pravomocné rozhodnutí o zproštění obžaloby, výzva k zařazení dle smlouvy.
+
+**2. Právní otázka.** Je zaměstnavatel po odpadnutí důvodu převedení (pravomocné skončení trestního řízení zproštěním) povinen zařadit zaměstnance zpět podle pracovní smlouvy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44 ZP (po odpadnutí důvodů převedení/přeložení nebo uplynutí doby povinnost zařadit dle pracovní smlouvy, nedohodnou-li se na změně).
+- *Související ustanovení téhož zákona:* § 41 odst. 2 písm. b) ZP (převedení po dobu trestního řízení), § 40 odst. 1 ZP (změna jen dohodou), § 208 ZP (překážka při nepřidělování práce dle smlouvy), § 56 odst. 1 písm. b) ZP (okamžité zrušení zaměstnancem), § 12 zákona č. 251/2005 Sb. o inspekci práce.
+- *Související předpisy:* zákon č. 40/2009 Sb., trestní zákoník, a trestní řád (skončení trestního řízení).
+- *Judikatura:* nosný závěr — převedení i přeložení jsou dočasná; po pominutí důvodu vzniká zaměstnanci nárok na zařazení podle pracovní smlouvy, nedojde-li k dohodě o změně.
+
+**4. Subsumpce.** Znak „odpadly důvody, pro které byl zaměstnanec převeden" je naplněn — pravomocným zproštěním obžaloby zanikl důvod dle § 41 odst. 2 písm. b). Znak „povinnost zařadit dle pracovní smlouvy" se aktivuje — pan Beneš má být vrácen na pozici řidiče (jeho sjednaný druh práce). Výjimka „nedohodnou-li se na změně" se neuplatní — pan Beneš s ponecháním ve skladu nesouhlasí. Provozní preference zaměstnavatele („skladník je potřebnější") není zákonným důvodem k setrvání převedení.
+
+**5. Řešení.** Zaměstnavatel je povinen zařadit pana Beneše zpět dle pracovní smlouvy (řidič). Ponechání ve skladu proti jeho vůli je porušením § 44; vzniká překážka v práci na straně zaměstnavatele (§ 208 ZP) s nárokem na náhradu mzdy a pan Beneš může poměr i okamžitě zrušit dle § 56 odst. 1 písm. b) ZP. Procesní krok: pan Beneš písemně vyzve k zařazení dle smlouvy; při nečinnosti uplatní náhradu mzdy, případně okamžité zrušení. Trvalou změnu by bylo nutné sjednat dohodou (§ 40 odst. 1).
+
+**6. Varianty.** (a) Kdyby trestní řízení skončilo odsouzením za úmyslný trestný čin, nastoupil by zpravidla jiný postup (výpověď dle § 55 ZP), nikoli návrat. (b) Kdyby původní pozice řidiče mezitím objektivně odpadla (zrušena organizační změnou), zařadil by zaměstnavatel zaměstnance dle pracovní smlouvy na jinou práci v rámci druhu, případně by nastoupily organizační výpovědní důvody (§ 52 písm. a–c ZP).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Provozní potřeba odůvodňuje ponechání na novém místě." Neutralizace: § 44 ukládá po odpadnutí důvodu zařazení dle smlouvy; provozní preference není zákonným důvodem k setrvání převedení bez dohody.
+- *Protiargument 2:* „Zaměstnanec konkludentně souhlasil, když ve skladu dál pracoval." Neutralizace: pouhé pokračování v práci pod hrozbou ztráty příjmu nelze vykládat jako dohodu o trvalé změně (§ 40 odst. 1 vyžaduje dohodu, zpravidla písemnou).
+- *Slabé místo:* je-li sporné, zda původní práce „odpadla", může se spor přesunout do roviny § 47 odst. 2 / organizačních důvodů; břemeno doložit zánik pozice nese zaměstnavatel.
+
+#### H. Praktický závěr
+
+Převedení a přeložení jsou dočasné; po odpadnutí důvodu nebo uplynutí doby je zaměstnavatel povinen zařadit zaměstnance dle pracovní smlouvy, nedohodnou-li se na trvalé změně. Setrvání převedení bez dohody zakládá překážku v práci a právo zaměstnance na obranu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Odpadl důvod převedení/přeložení nebo uplynula sjednaná doba?
+- [ ] Byl zaměstnanec zařazen zpět podle pracovní smlouvy (původní druh, místo)?
+- [ ] Není setrvání na novém zařazení podmíněno pouze provozní preferencí bez dohody?
+- [ ] Existuje dohoda o trvalé změně pracovní smlouvy (§ 40 odst. 1), má-li zaměstnanec zůstat?
+- [ ] Při nesplnění: je vyčíslena náhrada mzdy dle § 208 ZP a zvážena obrana dle § 56 ZP?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva (druh a místo práce), doklad o převedení/přeložení a jeho důvodu, doklad o odpadnutí důvodu (rozhodnutí, posudek, uplynutí doby), výzva k zařazení dle smlouvy, evidence přidělování práce.
+
 ---
 
 ### § 45 — Žádost zaměstnance o převedení z pracovnělékařských důvodů
@@ -1276,6 +1983,43 @@ Nemá-li zaměstnavatel volné vhodné pracovní místo, povinnost se neuplatní
 #### Vztah k § 41 odst. 1 písm. a)
 
 V některých případech může doporučení pracovnělékaře dle § 45 přerůst v posudek o ztrátě způsobilosti dle § 41 odst. 1 písm. a) — pak nastupuje silnější povinnost.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní Kratochvílová pracuje jako operátorka výrobní linky s monotónní jednostrannou zátěží horních končetin. Poskytovatel pracovnělékařských služeb jí vydá doporučení, že vzhledem k počínajícím obtížím není vhodné, aby dále vykonávala dosavadní práci na lince, a doporučí lehčí pozici. Paní Kratochvílová o převedení požádá. Zaměstnavatel Fí s.r.o. žádost odkládá s tím, že „teď není volné místo", ačkoli na kontrolním pracovišti se brzy uvolní vhodná pozice. Důkazy: doporučení pracovnělékaře, žádost zaměstnankyně o převedení, přehled volných/uvolňujících se pozic, komunikace o vyřízení žádosti.
+
+**2. Právní otázka.** Je zaměstnavatel na základě žádosti zaměstnankyně opřené o doporučení pracovnělékaře povinen umožnit převedení na vhodnou práci, a v jakém rozsahu jej limitují provozní možnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45 ZP (na žádost zaměstnance opřenou o doporučení pracovnělékaře povinnost umožnit převedení/přeložení, jakmile to dovolí provozní možnosti; nová práce musí být vhodná).
+- *Související ustanovení téhož zákona:* § 41 odst. 1 písm. a) ZP (silnější povinné převedení při ztrátě způsobilosti dle posudku), § 41 odst. 6 ZP (vhodnost), § 44 ZP (návrat), § 103 ZP (povinnosti na úseku BOZP).
+- *Související předpisy:* zákon č. 373/2011 Sb. (pracovnělékařské služby, posudky a doporučení), nařízení vlády č. 361/2007 Sb. (podmínky ochrany zdraví při práci).
+- *Judikatura:* nosný závěr — žádost zaměstnance dle § 45 zakládá relativní povinnost zaměstnavatele (limitovanou provozními možnostmi); zaměstnavatel musí aktivně hledat vhodné řešení a nesmí žádost bezdůvodně blokovat.
+
+**4. Subsumpce.** Znak „doporučení poskytovatele pracovnělékařských služeb, že není vhodné konat dosavadní práci" je naplněn. Znak „žádost zaměstnance" je naplněn. Znak „povinnost umožnit, jakmile to dovolí provozní možnosti" se aktivuje jako relativní povinnost — limitem jsou skutečné provozní možnosti, nikoli pohodlí zaměstnavatele. Znak „vhodnost nové práce" musí být zachován. Sporné je posouzení, zda „není volné místo" je objektivní překážkou, je-li známo, že se vhodná pozice brzy uvolní.
+
+**5. Řešení.** Zaměstnavatel je povinen převedení umožnit, jakmile to dovolí provozní možnosti — uvolní-li se vhodná pozice na kontrolním pracovišti, musí na ni paní Kratochvílovou převést. Pasivní blokování žádosti odporuje § 45. Na rozdíl od § 41 odst. 1 písm. a) (bezpodmínečná povinnost při ztrátě způsobilosti dle posudku) jde zde o povinnost relativní, ale aktivní. Procesní krok: zaměstnankyně žádost doloží doporučením; při nečinnosti zaměstnavatele se může domáhat splnění a poukázat na BOZP rozměr (§ 103 ZP). Přeroste-li doporučení v posudek o ztrátě způsobilosti, nastoupí silnější § 41 odst. 1 písm. a).
+
+**6. Varianty.** (a) Kdyby zaměstnavatel skutečně neměl a v dohledné době neměl mít žádnou vhodnou pozici, povinnost by se bezpodmínečně neuplatnila (limit provozních možností). (b) Kdyby pracovnělékař vydal posudek o ztrátě zdravotní způsobilosti (nikoli pouhé doporučení), nastoupila by povinná úprava § 41 odst. 1 písm. a) bez limitu provozních možností.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Nemáme volné místo, povinnost se neuplatní." Neutralizace: povinnost je limitována provozními možnostmi, ale zaměstnavatel musí aktivně hledat řešení; je-li vhodná pozice dostupná či se uvolňuje, musí ji nabídnout.
+- *Protiargument 2:* „Jde jen o doporučení, ne závazný posudek, takže nemusíme nic dělat." Neutralizace: § 45 výslovně váže povinnost na doporučení; jde sice o slabší standard než § 41 odst. 1 písm. a), ale zakládá aktivní povinnost umožnit převedení.
+- *Slabé místo:* pojem „provozní možnosti" je hodnotící a dává zaměstnavateli prostor; prokázání, že vhodná pozice byla dostupná, leží na zaměstnanci.
+
+#### H. Praktický závěr
+
+§ 45 je měkčí pendant § 41 odst. 1 písm. a): na žádost zaměstnance opřenou o doporučení pracovnělékaře je zaměstnavatel povinen umožnit převedení na vhodnou práci, jakmile to dovolí provozní možnosti. Nesmí žádost pasivně blokovat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje doporučení poskytovatele pracovnělékařských služeb, že není vhodné konat dosavadní práci/pracoviště?
+- [ ] Podal zaměstnanec žádost o převedení nebo přeložení?
+- [ ] Hledá zaměstnavatel aktivně vhodné řešení v rámci svých provozních možností?
+- [ ] Je nabízená práce/pracoviště pro zaměstnance vhodné (zdravotně i jinak)?
+- [ ] Nepřerostlo doporučení v posudek o ztrátě způsobilosti (pak nastupuje § 41 odst. 1 písm. a)?
+
+**Typicky rozhodné důkazy / podklady:** doporučení/posudek pracovnělékaře, žádost zaměstnance, přehled volných a uvolňujících se pozic, doklady o vyřízení žádosti a o provozních možnostech, popisy vhodných pracovních míst.
 
 ---
 
@@ -1317,6 +2061,43 @@ Pozor: hranice 21 pracovních dnů se počítá **kumulativně za celý kalendá
 Praktická situace: zaměstnanec dlouhodobě nezpůsobilý k dosavadní práci (§ 41 odst. 1 písm. a)) je převeden na práci jiného druhu (§ 41 odst. 3 — překračující sjednanou pracovní smlouvu) a vyjádří nesouhlas. Zaměstnavatel **musí** převedení projednat s odborovou organizací (působí-li u zaměstnavatele).
 
 Není-li u zaměstnavatele odborová organizace, § 46 se neuplatní — zaměstnavatel rozhoduje sám.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan Urban dlouhodobě pozbyl podle posudku způsobilost k dosavadní práci a zaměstnavatel Chí s.r.o. ho převedl na práci jiného druhu (§ 41 odst. 3 — mimo sjednaný druh práce). Pan Urban s převedením nesouhlasí. Zaměstnavatel převedení realizuje na dobu 9 měsíců, aniž věc projednal s odborovou organizací, která u něj působí. Pan Urban namítá, že převedení je vadné pro absenci projednání. Důkazy: posudek, doklad o převedení a jeho době, nesouhlas zaměstnance, doklad o (ne)projednání s odborovou organizací, údaj o tom, zda u zaměstnavatele odbory působí.
+
+**2. Právní otázka.** Bylo nutné převedení zaměstnance na jinou práci, než odpovídá pracovní smlouvě, při jeho nesouhlasu projednat s odborovou organizací, a jaký je následek absence projednání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 46 ZP (převedení na jinou práci než dle smlouvy při nesouhlasu zaměstnance jen po projednání s odborovou organizací; výjimka do 21 prac. dnů/rok).
+- *Související ustanovení téhož zákona:* § 41 odst. 3 ZP (převedení mimo druh práce bez souhlasu), § 287 ZP (definice projednání), §§ 276–280 ZP (působnost odborové organizace).
+- *Související předpisy:* — (institut je vnitřní úpravou ZP; navazuje na obecné zásady součinnosti s odbory).
+- *Judikatura:* nosný závěr (NS 21 Cdo 2400/2014) — pro převedení na jinou vhodnou práci (zde z důvodu dosažení nejvyšší přípustné expozice) není podmínkou lékařský posudek o neschopnosti; orgánu ochrany veřejného zdraví nepřísluší určovat, jakou práci může zaměstnanec vykonávat. Obecně: projednání je slabší formou účasti odborů — zaměstnavatel jím není vázán, ale musí je provést, je-li zákonem vyžadováno.
+
+**4. Subsumpce.** Znak „převedení na jinou práci, než odpovídá pracovní smlouvě" je naplněn (§ 41 odst. 3 — jiný druh práce). Znak „zaměstnanec nesouhlasí" je naplněn. Znak „u zaměstnavatele působí odborová organizace" je naplněn. Doba převedení 9 měsíců přesahuje 21 pracovních dnů, takže výjimka se neuplatní. Povinnost projednat tedy vznikla a byla porušena. Sporné není splnění (nebylo splněno), nýbrž následek vady.
+
+**5. Řešení.** Zaměstnavatel měl převedení před realizací projednat s odborovou organizací; absence projednání činí postup vadným. Projednání je však slabší formou účasti (§ 287 ZP) — zaměstnavatel jím není vázán, a proto vada zpravidla nezpůsobuje neúčinnost převedení samu o sobě, ale zaměstnanec se může bránit u soudu (určení neplatnosti převedení) a vada zatěžuje pozici zaměstnavatele. Procesní krok: zaměstnavatel projednání dodatečně provede; pan Urban může napadnout převedení žalobou. Pozor: hranice 21 dnů se počítá kumulativně za kalendářní rok.
+
+**6. Varianty.** (a) Kdyby celková doba převedení nepřesáhla 21 pracovních dnů v roce, projednání by nebylo třeba (výjimka). (b) Kdyby u zaměstnavatele odborová organizace nepůsobila, § 46 by se neuplatnil a zaměstnavatel by rozhodoval sám.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Projednání není souhlas, takže ho nemusíme provádět." Neutralizace: byť projednání není souhlas a nezavazuje, zákon je při nesouhlasu zaměstnance a převedení nad 21 dnů výslovně vyžaduje; jeho absence je vadou postupu.
+- *Protiargument 2:* „Jednotlivá převedení byla krátká, výjimka 21 dnů platí." Neutralizace: hranice 21 pracovních dnů se počítá kumulativně za celý kalendářní rok; součet kratších převedení může limit překročit.
+- *Slabé místo:* následek absence projednání není v zákoně výslovně sankcionován neplatností; spor se vede o vadnost postupu a zaměstnanec nese aktivitu při obraně u soudu.
+
+#### H. Praktický závěr
+
+§ 46 přidává procedurální vrstvu k § 41: převedení na jinou práci, než odpovídá smlouvě, při nesouhlasu zaměstnance vyžaduje projednání s odborovou organizací (působí-li u zaměstnavatele). Výjimka do 21 pracovních dnů v roce (kumulativně). Projednání nezavazuje, ale musí proběhnout.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o převedení na jinou práci, než odpovídá pracovní smlouvě (překročení sjednaného druhu)?
+- [ ] Vyjádřil zaměstnanec nesouhlas s převedením?
+- [ ] Působí u zaměstnavatele odborová organizace?
+- [ ] Přesahuje celková doba převedení 21 pracovních dnů v kalendářním roce (kumulativně)?
+- [ ] Bylo převedení před realizací projednáno s odborovou organizací (§ 287 ZP)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o převedení a jeho době, posudek/důvod převedení, vyjádření nesouhlasu zaměstnance, doklad o projednání s odborovou organizací (zápis), evidence celkové doby převedení v roce, doklad o působení odborové organizace.
 
 ---
 
@@ -1382,6 +2163,43 @@ Pokud nelze najít ani **práci dle pracovní smlouvy** (např. zaměstnavatel c
 #### Vztah k antidiskriminační ochraně
 
 § 47 ZP plní také **antidiskriminační funkci** — chrání zejména zaměstnankyně-matky a otce po skončení rodičovské dovolené před skrytou diskriminací v podobě „degradace" na horší pozici. Návrat na **původní práci a pracoviště** je jednou z hlavních záruk rovných příležitostí mezi muži a ženami (srov. směrnici 2010/41/EU a 2019/1158 o rovnováze mezi pracovním a soukromým životem rodičů).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Paní Marková nastoupila po vzniku pracovního poměru na pozici „vedoucí prodejny" v obchodě firmy Psí s.r.o. Odešla na mateřskou a navazující rodičovskou dovolenou. Po skončení rodičovské dovolené, ještě před dosažením věku 2 let dítěte, oznámí návrat do práce. Zaměstnavatel jí sdělí, že její místo vedoucí prodejny je obsazené (na dobu neurčitou přijal náhradu) a nabídne jí horší pozici řadové prodavačky. Paní Marková namítá porušení práva na návrat na původní práci. Důkazy: pracovní smlouva a popis původní pozice, doklady o čerpání mateřské/rodičovské dovolené, datum návratu a věk dítěte, doklad o obsazení původního místa, nabídka nové pozice.
+
+**2. Právní otázka.** Má zaměstnankyně vracející se z rodičovské dovolené přede dnem, kdy dítě dosáhne 2 let, právo na zařazení na původní práci a pracoviště, nebo postačí zařazení dle pracovní smlouvy na jinou (horší) pozici?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 47 odst. 1 písm. b) a c) ZP (návrat po mateřské/otcovské dovolené a po rodičovské dovolené přede dnem dosažení 2 let věku dítěte — na původní práci a pracoviště), odst. 2 (odpadla-li práce/pracoviště, zařazení dle smlouvy).
+- *Související ustanovení téhož zákona:* § 38 ZP (přidělování práce dle smlouvy — obecné pravidlo), § 195–196 ZP (mateřská a rodičovská dovolená), § 39 odst. 2 věta druhá ZP (náhrada za nepřítomného zaměstnance na dobu určitou bez limitu opakování), § 16 ZP (rovné zacházení), § 208 ZP (překážka při nepřidělování práce), § 53 odst. 1 ZP (ochranná doba).
+- *Související předpisy:* AntZ (zákaz diskriminace z důvodu pohlaví/rodičovství), směrnice 2019/1158 o rovnováze pracovního a soukromého života, směrnice 2010/41/EU.
+- *Judikatura:* nosný závěr — návrat z rodičovské dovolené přede dnem dosažení 2 let věku dítěte zakládá právo na původní práci a pracoviště; obsazení místa náhradou na dobu neurčitou je porušením a může mít rozměr nepřímé diskriminace.
+
+**4. Subsumpce.** Znak „skončení rodičovské dovolené přede dnem, kdy dítě dosáhne věku 2 let" (odst. 1 písm. c)) je naplněn. Aktivuje se silné návratové právo — na původní práci (vedoucí prodejny) a pracoviště. Výjimka odst. 2 (práce/pracoviště odpadlo) NENÍ naplněna — pozice nezanikla, byla jen obsazena náhradou na dobu neurčitou (což je porušením, neboť náhrada měla být na dobu určitou dle § 39 odst. 2 věty druhé). Nabídka horší pozice prodavačky proto nestačí.
+
+**5. Řešení.** Zaměstnankyně má právo na návrat na původní pozici vedoucí prodejny; zaměstnavatel pochybil, obsadil-li místo trvale. Nepřidělení původní práce zakládá překážku dle § 208 ZP s nárokem na náhradu mzdy a může jít o nepřímou diskriminaci (§ 16 ZP, AntZ) s nárokem dle § 10 AntZ. Procesní krok: paní Marková se domáhá zařazení na původní práci, případně náhrady mzdy a zadostiučinění; zaměstnavatel měl náhradu sjednat na dobu určitou (§ 39 odst. 2). Pozor i na ochrannou dobu a zákaz výpovědi v souvislosti s mateřstvím.
+
+**6. Varianty.** (a) Kdyby se zaměstnankyně vracela až po dosažení 2 let věku dítěte, právo na konkrétní původní práci by se nezachovalo a postačilo by zařazení dle pracovní smlouvy (odst. 2 přiměřeně). (b) Kdyby původní prodejna byla zrušena (organizační změna), zaměstnavatel by zařadil zaměstnankyni dle smlouvy na jinou prodejnu v rámci sjednaného místa a druhu práce; nebylo-li by to možné, nastoupily by organizační výpovědní důvody (§ 52 písm. a–c ZP).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Místo bylo obsazeno, můžeme nabídnout jen jinou pozici." Neutralizace: zaměstnavatel měl náhradu přijmout na dobu určitou (§ 39 odst. 2 věta druhá); obsazení na dobu neurčitou je jeho pochybení a nezbavuje zaměstnankyni práva na původní práci.
+- *Protiargument 2:* „Stačí zařazení dle pracovní smlouvy (§ 38), nikoli na konkrétní pozici." Neutralizace: § 47 odst. 1 je silnější než § 38 — u návratu z mateřské a z rodičovské dovolené do 2 let věku dítěte vyžaduje původní práci a pracoviště, ne jen práci dle druhu.
+- *Slabé místo:* hranice „práce odpadla / pracoviště bylo zrušeno" (odst. 2) je hodnotící; účelové „zrušení" pozice za účelem obejití návratu by mohlo být posouzeno jako obcházení zákona a diskriminace.
+
+#### H. Praktický závěr
+
+§ 47 zakotvuje silné návratové právo: po taxativně vyjmenovaných překážkách (vč. mateřské a rodičovské dovolené do 2 let věku dítěte) zařazení na původní práci a pracoviště. Odpadla-li práce/pracoviště, zařazení dle smlouvy. Náhradu za nepřítomného je třeba sjednávat na dobu určitou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o některou z překážek dle odst. 1 písm. a)–h) se silným návratovým právem?
+- [ ] U rodičovské dovolené: vrací se zaměstnanec přede dnem dosažení věku 2 let dítěte (pak původní práce a pracoviště)?
+- [ ] Byla původní pozice držena (náhrada sjednána na dobu určitou dle § 39 odst. 2 věty druhé)?
+- [ ] Odpadla původní práce nebo bylo pracoviště zrušeno (pak zařazení dle smlouvy — odst. 2)?
+- [ ] Nezakládá nezařazení překážku dle § 208 ZP nebo nepřímou diskriminaci (§ 16 ZP, AntZ)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva a popis původní pozice/pracoviště, doklady o čerpání a skončení překážky (mateřská/rodičovská dovolená, neschopenka, veřejná funkce aj.), datum návratu a věk dítěte, pracovní smlouva náhrady (doba určitá vs. neurčitá), doklady o organizační změně.
 
 ---
 

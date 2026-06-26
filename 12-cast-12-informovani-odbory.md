@@ -133,6 +133,43 @@ Tento individuální mechanismus doplňuje kolektivní rovinu části dvanácté
 
 > **Vzájemná souvislost s § 14 ZP (péče o zaměstnance):** § 276 odst. 9 navazuje na obecný princip péče zaměstnavatele o pracovní podmínky a důstojnost zaměstnanců. Stížnost dle § 276 odst. 9 se nemusí přerůst v soudní spor — je naopak typickým **prostředkem mimosoudního řešení** pracovněprávního sporu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Akciová společnost ALFA (350 zaměstnanců) chystá prodej výrobní divize jinému subjektu. Před oznámením rozhodnutí poskytne odborové organizaci i radě zaměstnanců souhrnnou zprávu o transakci, kterou na každé stránce označí razítkem „DŮVĚRNÉ — obchodní tajemství". Zpráva ovšem obsahuje i počet dotčených pracovních míst, plánované organizační změny a předpokládaný harmonogram. Předseda rady zaměstnanců chce o těchto skutečnostech informovat dotčené zaměstnance (odst. 6), zaměstnavatel mu však pohrozí žalobou pro porušení mlčenlivosti. Důkazy k obstarání: písemné označení dokumentu, předávací protokol, obsah zprávy, prokázání, které údaje zaměstnavatel musí ze zákona projednat (§ 280).
+
+**2. Právní otázka.** Vztahuje se povinnost mlčenlivosti podle § 276 odst. 3 i na ty části „důvěrné" zprávy, které je zaměstnavatel podle § 279, § 280 nebo § 339 povinen projednat, a má rada zaměstnanců procesní způsobilost se proti označení bránit u soudu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 276 odst. 3 (negativní vymezení důvěrné informace — za důvěrnou se nepovažuje informace, kterou je zaměstnavatel povinen sdělit/projednat/zveřejnit), odst. 5 (žaloba na určení neoprávněnosti označení), odst. 6 (povinnost zástupců informovat zaměstnance), odst. 8 (procesní subjektivita rady zaměstnanců).
+- *Související ustanovení téhož zákona:* § 280 odst. 1 písm. b), d) (povinné projednání strukturálních změn a převodu), § 339 (30denní projednání před převodem), § 281 odst. 4 (předseda rady jako její jednatel).
+- *Související předpisy:* zákon č. 99/1963 Sb., občanský soudní řád (žaloba, § 351 — vymáhání nepeněžitého plnění); zákon č. 89/2012 Sb., § 504 (obchodní tajemství); zákon č. 251/2005 Sb. (přestupek zaměstnavatele).
+- *Judikatura:* nosný závěr civilních soudů, že paušální označení celého dokumentu za důvěrný neobstojí u informací, jejichž poskytnutí ukládá přímo zákon; označení musí být individualizované a odůvodněné.
+
+**4. Subsumpce.** Údaje o počtu dotčených míst a organizačních změnách spadají pod povinné projednání (§ 280), tedy podle § 276 odst. 3 věty druhé „se nepovažují za důvěrnou informaci" — mlčenlivost se na ně nevztahuje bez ohledu na razítko. Naopak údaje o kupní ceně či know-how mohou být legitimně důvěrné. Sporné je, zda zaměstnavatel označil důvěrnost „bez přiměřeného důvodu" plošně — to je předmětem důkazního řízení.
+
+**5. Řešení.** Rada zaměstnanců (zastoupená předsedou — odst. 8) podá žalobu podle odst. 5 na určení, že informace byly za důvěrné označeny bez přiměřeného důvodu, a to jen ohledně těch částí, které zaměstnavatel musí projednat. Do pravomocného rozhodnutí je vhodné z opatrnosti zaměstnance informovat jen o tom, co nepochybně spadá pod § 280. Pravomocný výrok uvolní mlčenlivost ex tunc. Riziko: nesprávné posouzení hranice mezi povinně projednávaným a skutečně důvěrným údajem může založit odpovědnost člena rady.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel označil za důvěrnou pouze kupní cenu a obchodní strategii, mlčenlivost by platila a žaloba by neuspěla. (b) Kdyby u zaměstnavatele nepůsobil žádný zástupce, plnil by povinnosti přímo vůči zaměstnancům (odst. 1 věta druhá) a problém kolektivní mlčenlivosti by vůbec nevznikl.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „razítko zavazuje".* Zaměstnavatel tvrdí, že jakákoli výslovně označená informace zakládá mlčenlivost. Neutralizace: odst. 3 věta druhá je kogentní výjimka — povinně projednávané/zveřejňované údaje nelze učinit důvěrnými jednostranným označením; jinak by se vyprázdnilo právo na informování a projednání.
+- *Protiargument procesní nezpůsobilosti.* Zaměstnavatel namítne, že rada zaměstnanců není právnickou osobou. Neutralizace: odst. 8 výslovně přiznává radě způsobilost být účastníkem řízení pro účely odst. 5 a vymáhání povinností části dvanácté; jedná za ni předseda.
+- *Slabé místo.* Hranice mezi „důvěrným" a „povinně projednávaným" je u smíšených dokumentů neostrá; chybí ustálená publikovaná judikatura ke konkrétnímu rozsahu, riziko nese ten, kdo informaci vynese předčasně. Doporučení: žalovat a vyčkat výroku, nikoli riskovat sankci.
+
+#### H. Praktický závěr
+
+Mlčenlivost zástupců zaměstnanců vzniká jen u informací výslovně označených jako důvěrné a současně materiálně důvěrných; nikdy ne u údajů, které zákon ukládá projednat nebo zveřejnit. Spory o důvěrnost i o odepření informace řeší výlučně civilní soud (odst. 5), přičemž rada zaměstnanců má pro tyto účely procesní subjektivitu (odst. 8). Současně platí symetrický zákaz znevýhodnění i zvýhodnění zástupců (odst. 2) a jejich reciproční povinnost informovat zaměstnance na všech pracovištích (odst. 6).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla informace zaměstnavatelem **výslovně** označena za důvěrnou (písemně, identifikovatelně)?
+- [ ] Jde o údaj, který zákon ukládá sdělit/projednat/zveřejnit (§ 279, 280, 287, 339)? Pokud ano, důvěrnost neplatí.
+- [ ] U sporu: podána žaloba podle odst. 5 (určení neoprávněného označení / uložení povinnosti poskytnout)? Aktivně legitimováni zástupci, za radu jedná předseda (odst. 8).
+- [ ] Splnili zástupci povinnost informovat zaměstnance na všech pracovištích vhodným způsobem (odst. 6)?
+- [ ] Nedošlo k znevýhodnění ani zvýhodnění zástupce v souvislosti s výkonem funkce (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** dokument s označením důvěrnosti a jeho obsah, předávací/průvodní sdělení, doklad o zákonné povinnosti projednání (§ 280/§ 339), zápisy z jednání, usnesení rady o pověření předsedy, doklady o případné odvetě vůči zástupci.
+
 ---
 
 ### § 277 — Hmotná podpora zástupců zaměstnanců
@@ -164,6 +201,43 @@ Zákon používá dvě modulační formulace:
 Spor o rozsah povinnosti řeší (analogicky k § 276 odst. 5) civilní soud, případně inspekce práce v rámci postihu za přestupek (zákon č. 251/2005 Sb.).
 
 > **Hranice povinnosti:** § 277 nezahrnuje povinnost zaměstnavatele hradit **odměny** funkcionářů odborové organizace ani **odměny** za výkon funkce v radě zaměstnanců. Funkce zástupce zaměstnanců je v zásadě **čestnou funkcí**; mzda nebo plat za řádný výkon práce zůstává nedotčen.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** U zaměstnavatele BETA (120 zaměstnanců, jediný areál) je zvolena pětičlenná rada zaměstnanců. Rada žádá zaměstnavatele o trvale vyhrazenou kancelář, notebook, tiskárnu, samostatnou telefonní linku a úhradu předplatného komerčního právního systému a externího pracovněprávního poradce na roční paušál. Zaměstnavatel poskytne sdílenou zasedací místnost po předchozí rezervaci, přístup ke kopírce a tištěné znění zákoníku práce, ostatní odmítne jako nepřiměřené. Rada tvrdí, že bez vlastního zázemí a placeného poradce nemůže řádně vykonávat funkci. Důkazy: velikost a prostorové možnosti zaměstnavatele, rozpočet, dosavadní praxe poskytování zázemí, povaha úkonů rady.
+
+**2. Právní otázka.** Kam až sahá povinnost zaměstnavatele podle § 277 „na svůj náklad vytvořit podmínky" — zahrnuje trvale vyhrazené prostory, plné IT vybavení a úhradu externího poradce, nebo je limitována provozními možnostmi a přiměřeným rozsahem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 277 (povinnost zaměstnavatele poskytnout v přiměřeném rozsahu a podle provozních možností místnosti s nezbytným vybavením, hradit údržbu, technický provoz a potřebné podklady — demonstrativní výčet „zejména").
+- *Související ustanovení téhož zákona:* § 276 odst. 7 (umožnění voleb), § 278 odst. 4 (právo na osobní jednání a součinnost), § 288 odst. 2 (financování evropské úrovně — odlišný, štědřejší režim).
+- *Související předpisy:* zákon č. 251/2005 Sb. (přestupek za neplnění povinností části dvanácté); přiměřeně § 6 ZP (dispozitivnost ve prospěch zaměstnanců — širší zázemí lze sjednat).
+- *Judikatura:* obecný výkladový závěr, že rozsah podpory se poměřuje velikostí a možnostmi zaměstnavatele a skutečnou potřebou orgánu; „nezbytnost", nikoli „komfort".
+
+**4. Subsumpce.** Sdílená místnost, přístup ke kopírce a tištěný zákoník naplňují „přiměřený rozsah" u středního zaměstnavatele. Trvale vyhrazená kancelář a samostatná linka jdou nad rámec „nezbytného vybavení podle provozních možností". Úhrada externího placeného poradce není „náklad na potřebné podklady" ani „údržba/technický provoz" — § 277 odměny ani poradenské paušály nezahrnuje.
+
+**5. Řešení.** Zaměstnavatel splnil povinnost poskytnutím sdíleného zázemí a podkladů; odmítnutí vyhrazené kanceláře a placeného poradce je v souladu se zákonem. Spor o rozsah řeší civilní soud (analogicky k § 276 odst. 5), případně inspekce práce. Radě lze doporučit, aby širší zázemí (např. trvalý poradce) sjednala dohodou nebo v kolektivní smlouvě (u odborů), nikoli vymáhala z § 277. Riziko zaměstnavatele: zcela odepřít jakékoli zázemí by bylo přestupkem.
+
+**6. Varianty.** (a) U velkého zaměstnavatele s tisíci zaměstnanci a volnými prostorami by trvale vyhrazená místnost mohla spadat do „přiměřeného rozsahu". (b) Šlo-li by o zástupce pro BOZP, jehož funkce vyžaduje měřicí či ochranné pomůcky pro výkon kontroly, byly by „potřebné podklady" vykládány šíře (přístup k dokumentaci rizik).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bez poradce nelze fungovat".* Rada tvrdí, že právní složitost agendy vyžaduje placeného experta hrazeného zaměstnavatelem. Neutralizace: § 277 cílí na materiální zázemí, nikoli na odbornou reprezentaci; odměny a poradenství nejsou ve výčtu a funkce je v zásadě čestná.
+- *Protiargument provozní možnosti jako záminka.* Zaměstnavatel může „provozními možnostmi" účelově krýt odepření zázemí. Neutralizace: test přiměřenosti je objektivní a přezkoumatelný soudem/inspekcí; úplné odepření základního zázemí neobstojí.
+- *Slabé místo.* „Přiměřený rozsah" a „nezbytné vybavení" jsou neurčité pojmy bez kvantitativní judikatury; výsledek závisí na konkrétních poměrech, argumentace se opírá spíše o systematiku než o precedent.
+
+#### H. Praktický závěr
+
+Zaměstnavatel musí na svůj náklad poskytnout zástupcům zaměstnanců přiměřené materiální zázemí (prostory, nezbytné vybavení, údržba, potřebné podklady), avšak limitované provozními možnostmi a přiměřeným rozsahem. Nehradí odměny funkcionářů ani externí poradenské paušály — funkce je čestná a mzda za práci zůstává nedotčena. Širší podporu lze sjednat dohodou či kolektivní smlouvou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Poskytl zaměstnavatel místnost s nezbytným vybavením v rozsahu odpovídajícím své velikosti a provozním možnostem?
+- [ ] Hradí nezbytné náklady na údržbu, technický provoz a potřebné podklady?
+- [ ] Jde požadovaná položka skutečně o „nezbytnost", nebo o komfort/odměnu/externí poradenství (mimo § 277)?
+- [ ] Není širší zázemí sjednáno v kolektivní smlouvě nebo dohodě (pak má přednost)?
+- [ ] Nedošlo k úplnému odepření základního zázemí (riziko přestupku dle zák. č. 251/2005 Sb.)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o velikosti zaměstnavatele a prostorových/rozpočtových možnostech, dosavadní praxe poskytování zázemí, korespondence o žádosti rady, povaha úkonů orgánu, případná kolektivní smlouva či dohoda o zázemí.
 
 ---
 
@@ -230,6 +304,43 @@ Odst. 4 obsahuje tři dílčí pravidla:
 3. **Povinnost vzájemné součinnosti a jednání v souladu s oprávněnými zájmy** — formulace symetricky zavazuje obě strany. Zaměstnavatel nesmí jednat obstrukčně, ale ani zástupci zaměstnanců nesmí být obstrukční. Jednání musí být v dobré víře.
 
 > **Kritérium dobré víry v projednání:** Není dostatečné formálně svolat schůzku, kde zaměstnavatel oznámí již hotové rozhodnutí. Projednání musí proběhnout v okamžiku, kdy stanovisko zaměstnanců může reálně ovlivnit rozhodnutí. Praktická judikatura k formálním projednáním u hromadného propouštění opakovaně dovodila, že již-rozhodnuté projednání není projednáním ve smyslu zákona.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel GAMA se rozhodne zrušit jedno ze tří středisek a propustit 28 zaměstnanců. V pátek odpoledne svolá schůzku s odborovou organizací, kde předloží již podepsané organizační rozhodnutí o zrušení střediska s účinností od pondělí a oznámí, že výpovědi byly téhož dne připraveny k předání. Na dotazy a námitky odborů reaguje sdělením, že „rozhodnutí je konečné". Odborová organizace namítá, že nešlo o projednání ve smyslu § 278 odst. 3, protože nedostala informace v předstihu ani odůvodněnou odpověď a rozhodnutí bylo již učiněno. Důkazy: datum a obsah pozvánky, datum podpisu organizačního rozhodnutí, zápis ze schůzky, doklad o předání informací předem.
+
+**2. Právní otázka.** Je formální oznámení již přijatého rozhodnutí, na něž navazuje pouze diskuse bez možnosti je ovlivnit a bez odůvodněné odpovědi, „projednáním" ve smyslu § 278 odst. 3, nebo jde jen o informování (odst. 2), a jaké jsou důsledky záměny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 278 odst. 2 (informování — jednostranné poskytnutí údajů v dostatečném předstihu), odst. 3 (projednání — výměna stanovisek s cílem dosáhnout shody, právo na odůvodněnou odpověď), odst. 4 (právo na osobní jednání na příslušné úrovni řízení a součinnost v dobré víře).
+- *Související ustanovení téhož zákona:* § 280 odst. 1 písm. b) (povinné projednání opatření ovlivňujících zaměstnanost), § 62 (samostatný projednávací režim hromadného propouštění), § 287 odst. 2 (rozšířené projednání s odborem).
+- *Související předpisy:* směrnice 2002/14/ES (rámec informování a projednání); zákon č. 251/2005 Sb. (přestupek).
+- *Judikatura:* NS 21 Cdo 4952/2014 (porušení povinnosti projednat zakládá právo na náhradu škody, byť nikoli neúčinnost opatření); NSS 72 Ad 54/2017-46 (pojem „projednání" se vykládá podle § 278 odst. 3 — jednání s cílem dosáhnout shody a odůvodněná odpověď); ustálený závěr, že již-rozhodnuté „projednání" není projednáním ve smyslu zákona.
+
+**4. Subsumpce.** Předstih chyběl (informace téhož dne, kdy mělo proběhnout projednání) — porušen znak „v dostatečném předstihu… před uskutečněním opatření" (odst. 2 a 3). Cíl dosáhnout shody byl vyloučen předchozím podpisem rozhodnutí. Právo na odůvodněnou odpověď (odst. 3 in fine) nebylo naplněno. Šlo tedy o pouhé sdělení, nikoli o projednání.
+
+**5. Řešení.** Zaměstnavatel porušil projednací povinnost podle § 278 odst. 3 ve spojení s § 280, resp. § 62. Sankcí není neplatnost jednotlivých výpovědí z titulu § 278 (samotné neprojednání obecně nezpůsobuje neplatnost individuální výpovědi), ale: (i) odpovědnost za škodu vůči odborové organizaci dle závěrů NS 21 Cdo 4952/2014, (ii) přestupek dle zák. č. 251/2005 Sb., (iii) u hromadného propouštění posun běhu lhůt podle § 62–63. Procesně: odborová organizace zdokumentuje časovou osu a vyžádá si dodatečné informace a osobní jednání na rozhodovací úrovni (odst. 4).
+
+**6. Varianty.** (a) Kdyby zaměstnavatel poskytl podklady týden předem, umožnil věcnou debatu a písemně odůvodnil, proč námitky neakceptuje, byla by projednací povinnost splněna, i kdyby nakonec rozhodl stejně. (b) Šlo-li by jen o informování podle § 279 (např. informace o kódu NACE), stačilo by jednostranné sdělení a žádná odůvodněná odpověď by se nevyžadovala.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „diskuse proběhla".* Zaměstnavatel tvrdí, že schůzka a možnost vyjádřit se postačují. Neutralizace: projednání předpokládá reálnou možnost ovlivnit rozhodnutí před jeho přijetím a odůvodněnou odpověď; debata nad hotovým aktem je materiálně jen informováním.
+- *Protiargument bezvýslednosti shody.* Namítá se, že shody stejně nebylo třeba dosáhnout. Neutralizace: správně — shoda není povinným výsledkem (odst. 3), ale cíl shody a odůvodněná odpověď jsou procesní povinností, jejíž porušení zakládá odpovědnost.
+- *Slabé místo.* Z § 278 samotného neplyne neplatnost navazujících právních jednání; sankce je primárně náhrada škody a veřejnoprávní postih. Argumentaci je proto třeba opřít o § 62–63 (lhůty u hromadného propouštění) a o prokázanou škodu.
+
+#### H. Praktický závěr
+
+Informování (odst. 2) je jednostranné sdělení úplných údajů v předstihu; projednání (odst. 3) je dialog vedený v dobré víře s cílem shody, zakončený odůvodněnou odpovědí — obojí před uskutečněním opatření. Projednání nad již přijatým rozhodnutím není projednáním. Záměna nezpůsobuje neplatnost individuálních úkonů z § 278, ale zakládá odpovědnost za škodu (NS 21 Cdo 4952/2014) a přestupkovou odpovědnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byly úplné údaje poskytnuty v dostatečném předstihu PŘED uskutečněním opatření?
+- [ ] U projednání: probíhalo jednání s cílem dosáhnout shody, dokud rozhodnutí ještě nebylo přijato?
+- [ ] Obdrželi zaměstnanci/zástupci na své stanovisko odůvodněnou odpověď (odst. 3)?
+- [ ] Bylo umožněno osobní jednání na příslušné rozhodovací úrovni řízení (odst. 4)?
+- [ ] Při porušení: zvážena náhrada škody dle NS 21 Cdo 4952/2014 a podnět inspekci práce; u propouštění běh lhůt § 62–63?
+
+**Typicky rozhodné důkazy / podklady:** pozvánka s datem a programem, datum a obsah rozhodnutí zaměstnavatele, zápis z jednání, doklad o předání informací předem, písemná odůvodněná odpověď zaměstnavatele, korespondence o žádosti o osobní jednání.
 
 ---
 
@@ -303,6 +414,43 @@ Odst. 2 vyjímá **mikropodniky** (méně než 10 zaměstnanců) z povinnosti in
 
 Odst. 3 rozšiřuje informační povinnost **na uživatele** (§ 307a — subjekt, jemuž je zaměstnanec agentury práce dočasně přidělen). Uživatel je povinen informovat dočasně přidělené zaměstnance o **nabídce volných pracovních míst** — paralela k odst. 1 písm. g), avšak pro agenturní zaměstnance. Cíl je analogický — usnadnit přechod agenturního zaměstnance do stálého pracovního poměru u uživatele.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel DELTA (45 zaměstnanců, žádné odbory ani rada zaměstnanců) zaměstnává 8 lidí na dobu určitou. Otevře 3 nová systemizovaná místa na dobu neurčitou, ale obsadí je výhradně externími uchazeči z inzerce, aniž by o volných místech informoval stávající zaměstnance na dobu určitou. Současně provede změnu právní formy (z s.r.o. na a.s.) a změní osobu jednající za zaměstnavatele v pracovněprávních vztazích, aniž to komukoli sdělí. Jeden ze zaměstnanců na dobu určitou se domáhá, že měl být o volných místech informován. Důkazy: pracovní smlouvy na dobu určitou, doklad o vzniku nových míst na dobu neurčitou, inzerce, doklad o změně právní formy a statutárního orgánu, počet zaměstnanců.
+
+**2. Právní otázka.** Jaké informační povinnosti měl zaměstnavatel DELTA podle § 279 splnit přímo vůči zaměstnancům (když u něj nepůsobí žádný zástupce), a vztahuje se na něj výjimka pro mikropodniky podle odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 279 odst. 1 písm. c) (informování o právním postavení a jeho změnách, osobě oprávněné jednat, kódu NACE), písm. g) (nabídka volných míst na dobu neurčitou vhodných pro zaměstnance na dobu určitou), odst. 2 (výjimka pro < 10 zaměstnanců jen u písm. a, b).
+- *Související ustanovení téhož zákona:* § 276 odst. 1 věta druhá (přímé plnění vůči zaměstnancům, nepůsobí-li zástupce), § 39 (pracovní poměr na dobu určitou), § 307a, § 279 odst. 3 (informační povinnost uživatele vůči agenturním zaměstnancům).
+- *Související předpisy:* směrnice 1999/70/ES (rámcová dohoda o práci na dobu určitou — podpora přechodu na stabilní zaměstnání); zákon č. 251/2005 Sb. (přestupek).
+- *Judikatura:* obecný výkladový závěr, že informační povinnosti části dvanácté plní zaměstnavatel i bez existence zástupců přímo vůči zaměstnancům.
+
+**4. Subsumpce.** DELTA má 45 zaměstnanců — výjimka odst. 2 (jen pro < 10) se neuplatní, takže platí celý katalog odst. 1. Povinnost dle písm. g) (nabídka volných míst na dobu neurčitou zaměstnancům na dobu určitou) byla porušena — místa existovala a byla pro ně vhodná. Povinnost dle písm. c) (změna právní formy a osoby jednající) byla rovněž porušena. Protože nepůsobí žádný zástupce, adresátem informací jsou přímo zaměstnanci (§ 276 odst. 1).
+
+**5. Řešení.** Zaměstnavatel porušil § 279 odst. 1 písm. c) a g). Sankcí je přestupek dle zák. č. 251/2005 Sb.; § 279 sám o sobě nezakládá nárok zaměstnance na obsazení místa ani neplatnost obsazení externím uchazečem — jde o povinnost informační, nikoli o předkupní právo. Zaměstnanec se může domáhat nápravy podnětem inspekci práce; do budoucna má zaměstnavatel volná místa na dobu neurčitou vhodná pro „dočasné" zaměstnance aktivně oznamovat (vývěska, e-mail). Změny dle písm. c) je nutné bez prodlení sdělit.
+
+**6. Varianty.** (a) Kdyby DELTA měla jen 8 zaměstnanců, výjimka odst. 2 by ji zbavila povinností dle písm. a) a b), ale povinnost dle písm. c) a g) by trvala i tak (výjimka se na ně nevztahuje). (b) Kdyby šlo o uživatele agenturních zaměstnanců, musel by je podle odst. 3 informovat o nabídce volných míst bez ohledu na to, že nejsou jeho kmenovými zaměstnanci.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „malý zaměstnavatel".* DELTA tvrdí, že jako menší firma nemá informační povinnosti. Neutralizace: výjimka odst. 2 dopadá jen na podniky s méně než 10 zaměstnanci a jen na písm. a) a b); s 45 zaměstnanci platí celý katalog.
+- *Protiargument „informace = nárok na místo".* Zaměstnanec přeceňuje účinek písm. g), domáhá-li se přímo obsazení místa. Neutralizace: jde o povinnost informační, nikoli o přednostní nárok; porušení zakládá veřejnoprávní postih, nikoli změnu obsazení.
+- *Slabé místo.* „Vhodnost" volného místa pro konkrétního zaměstnance na dobu určitou je posuzována podle kvalifikace a povahy práce; hranice je neostrá a může být sporná, chybí kvantitativní judikatura.
+
+#### H. Praktický závěr
+
+§ 279 ukládá taxativní katalog informačních (jednostranných) povinností; nepůsobí-li u zaměstnavatele zástupce, plní je zaměstnavatel přímo vůči zaměstnancům. Výjimka pro mikropodniky (< 10 zaměstnanců) se týká jen ekonomické situace a činnosti [písm. a), b)]; ostatní okruhy včetně změn právního postavení [c)] a nabídky stálých míst zaměstnancům na dobu určitou [g)] platí bez ohledu na velikost. Porušení je přestupkem, nezakládá však samo o sobě nárok na pracovní místo.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Působí u zaměstnavatele zástupce? Pokud ne, plní informační povinnosti přímo vůči zaměstnancům (§ 276 odst. 1).
+- [ ] Má zaměstnavatel 10 a více zaměstnanců? Pokud ano, platí i písm. a) a b).
+- [ ] Byla oznámena volná místa na dobu neurčitou vhodná pro zaměstnance na dobu určitou [písm. g)] a agenturní zaměstnance [odst. 3]?
+- [ ] Byly sděleny změny právního postavení, osoby jednající a kódu NACE [písm. c)]?
+- [ ] Nezaměňuje adresát informační povinnost za přednostní nárok na obsazení místa?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouvy na dobu určitou, doklad o vzniku a povaze volných míst, inzerce/výběrová dokumentace, výpis z OR (změna formy a statutárního orgánu), evidence počtu zaměstnanců, doklady o způsobu informování.
+
 ---
 
 ### § 280 — Projednání
@@ -357,6 +505,43 @@ Odst. 3 rozšiřuje informační povinnost **na uživatele** (§ 307a — subjek
 Stejně jako u § 279, mikropodniky (< 10 zaměstnanců) jsou vyňaty z povinnosti projednat **písm. a)–c)** (hospodářský vývoj, strukturální/organizační opatření, stav a struktura zaměstnanců). Povinnosti projednat **písm. d)–f)** (převod, BOZP, evropská rovina) zůstávají i u mikropodniků — jsou považovány za natolik závažné, že vyžadují projednání bez ohledu na velikost zaměstnavatele.
 
 > **Praktická poznámka:** Povinnost projednat hromadné propouštění (§ 62) trvá i u mikropodniků, byť obecná povinnost projednat „strukturální změny" (§ 280 odst. 1 písm. b)) ve spojení s § 280 odst. 2 by mohla být vykládána jako vyňatá. Speciální úprava hromadného propouštění (§ 62 a násl.) má přednost; mikropodnik však málokdy splní kvantitativní práh hromadného propouštění (§ 62 odst. 1).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní podnik EPSILON (400 zaměstnanců) je převáděn — část výroby (90 zaměstnanců) přechází podle § 338 na nového zaměstnavatele. U EPSILONu působí rada zaměstnanců. Dosavadní zaměstnavatel 5 dní před účinností převodu radě stručně sdělí, že „dojde k převodu části provozu", bez údajů o důvodech, právních a sociálních důsledcích pro zaměstnance a opatřeních vůči nim, a převod neprojedná. Rada namítá porušení projednací povinnosti. Důkazy: smlouva o převodu, datum a obsah sdělení radě, doklad o tom, zda a kdy proběhlo projednání, počet dotčených zaměstnanců.
+
+**2. Právní otázka.** Postačí k splnění povinnosti podle § 280 odst. 1 písm. d) (převod podle § 338–342) pouhé informování o převodu, nebo je nutné samostatné projednání s konkrétním obsahem a lhůtou podle § 339, a platí tato povinnost i pro orgán bez procesní subjektivity jako rada zaměstnanců?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 280 odst. 1 písm. b) (strukturální změny, opatření ovlivňující zaměstnanost), písm. d) (převod podle § 338–342), odst. 2 (výjimka < 10 zaměstnanců se na písm. d) NEvztahuje).
+- *Související ustanovení téhož zákona:* § 339 (30denní informační a projednací povinnost před převodem — lex specialis), § 338 (přechod práv a povinností), § 62 (hromadné propouštění — lex specialis k písm. b), § 278 odst. 3 (obsah projednání), § 276 odst. 8 (procesní subjektivita rady).
+- *Související předpisy:* směrnice 2001/23/ES (zachování práv při převodech podniků); zákon č. 251/2005 Sb. (přestupek).
+- *Judikatura:* NS 21 Cdo 4952/2014 (porušení povinnosti informovat a projednat převod/přeměnu zakládá právo na náhradu škody, byť se odborová organizace nemůže domáhat samotného dodatečného projednání po účinnosti přeměny).
+
+**4. Subsumpce.** Převod části zaměstnavatele spadá pod § 280 odst. 1 písm. d) i pod speciální § 339; výjimka odst. 2 se na písm. d) nevztahuje, takže platí bez ohledu na velikost. Pětidenní sdělení bez údajů o důvodech, důsledcích a opatřeních nenaplňuje obsah § 339 (datum, důvody, právní/ekonomické/sociální důsledky, opatření) ani předstih 30 dnů; o projednání ve smyslu § 278 odst. 3 nešlo. Povinnost trvá vůči radě zaměstnanců (zástupci zaměstnanců).
+
+**5. Řešení.** Dosavadní (a přejímající) zaměstnavatel porušil projednací povinnost podle § 280 odst. 1 písm. d) ve spojení s § 339. Důsledky podle NS 21 Cdo 4952/2014: po účinnosti převodu se rada nemůže domáhat dodatečného projednání, ale může uplatnit náhradu škody vzniklé porušením povinnosti; současně jde o přestupek (zák. č. 251/2005 Sb.). Rada (zastoupená předsedou — § 276 odst. 8) by měla zdokumentovat časovou osu, vyžádat chybějící informace a uplatnit případnou škodu.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel 30 dní předem poskytl úplné údaje podle § 339 a věcně projednal opatření vůči zaměstnancům, povinnost by byla splněna. (b) Kdyby šlo o mikropodnik a o „strukturální změnu" podle písm. b) bez naplnění prahu hromadného propouštění a bez převodu, mohla by se uplatnit výjimka odst. 2 a projednání by se nevyžadovalo; u převodu [písm. d)] však výjimka neplatí nikdy.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „postačí § 280".* Zaměstnavatel tvrdí, že obecné projednání podle § 280 splnil. Neutralizace: u převodu je lex specialis § 339 s konkrétním obsahem a 30denní lhůtou; obecné § 280 je jím překryto a samotné stručné sdělení neobstojí.
+- *Protiargument „převod už proběhl".* Po účinnosti převodu nelze nic projednávat. Neutralizace: podle NS 21 Cdo 4952/2014 sice odpadá nárok na dodatečné projednání, ale trvá nárok na náhradu škody a přestupková odpovědnost; obrana tedy spočívá v uplatnění škody, ne ve zhojení vady.
+- *Slabé místo.* Prokázání a vyčíslení škody způsobené neprojednáním je obtížné; nárok je spíše deklaratorně-sankční. Argumentaci je vhodné doplnit podnětem inspekci práce.
+
+#### H. Praktický závěr
+
+§ 280 stanoví obecný katalog povinného projednání; u převodu zaměstnavatele [písm. d)] a hromadného propouštění [písm. b) ve spojení s § 62] platí speciální režimy s vlastními lhůtami a obsahem (§ 339, § 62–63), které mají přednost. Výjimka pro mikropodniky (odst. 2) se vztahuje jen na písm. a)–c), nikoli na převod, BOZP a evropskou úroveň. Porušení po účinnosti opatření nelze zhojit dodatečným projednáním, lze však uplatnit náhradu škody (NS 21 Cdo 4952/2014) a postih inspekce práce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o převod (§ 338–342) nebo hromadné propouštění (§ 62)? Pokud ano, aplikuj speciální režim (§ 339, § 62–63), ne jen § 280.
+- [ ] Byl dodržen předstih a obsah projednání (u převodu 30 dnů, důvody, právní/ekonomické/sociální důsledky, opatření)?
+- [ ] Týká se opatření písm. d)–f)? Pak výjimka pro < 10 zaměstnanců neplatí.
+- [ ] Proběhlo projednání ve smyslu § 278 odst. 3 (dialog s cílem shody), nebo jen jednostranné sdělení?
+- [ ] Při porušení po účinnosti opatření: uplatněna náhrada škody (NS 21 Cdo 4952/2014) a podnět inspekci práce?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o převodu / organizační rozhodnutí, datum a obsah sdělení zástupcům, doklad o předstihu a obsahu projednání, zápisy z jednání, evidence dotčených zaměstnanců, podklady k vyčíslení škody.
 
 ---
 
@@ -431,6 +616,43 @@ Odst. 5 řeší specifickou situaci **převodu zaměstnavatele** (§ 338–342) 
 2. **Dokončení funkčního období:** každá rada plní své povinnosti **do dne, kdy uplyne její původní funkční období** (žádné automatické skončení převodem).
 3. **Doplňková pravomoc:** pokud před uplynutím funkčního období **počet členů jedné z rad klesl pod 3**, druhá rada **přebírá její funkci** (zajištění kontinuity zaměstnaneckého zastoupení).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** U zaměstnavatele ZETA (220 zaměstnanců, z toho část v rizikovém provozu) podá více než třetina zaměstnanců návrh na volby. Zaměstnavatel chce stanovit počet členů rady zaměstnanců na 6 a počet zástupců pro BOZP na 30 (1 na cca 7 zaměstnanců). Volební komise s tím nesouhlasí — počet 6 je sudý a poměr zástupců pro BOZP překračuje zákonný strop. Zaměstnavatel argumentuje, že počty určuje on sám. Důkazy: písemný návrh na volby s datem doručení, počet zaměstnanců v pracovním poměru ke dni návrhu, riziková struktura prací, protokol o projednání s volební komisí.
+
+**2. Právní otázka.** Může zaměstnavatel jednostranně stanovit sudý počet členů rady zaměstnanců a poměr zástupců pro BOZP nad 1 na 10 zaměstnanců, nebo jsou tyto parametry kogentně omezeny a podmíněny projednáním s volební komisí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 281 odst. 1 (rada 3–15 členů, vždy lichý počet; zástupci pro BOZP nejvýše 1 na 10 zaměstnanců; počet určí zaměstnavatel po projednání s volební komisí), odst. 3 (rozhodný počet zaměstnanců ke dni podání návrhu), odst. 2 (funkční období 3 roky), odst. 4 (volba předsedy).
+- *Související ustanovení téhož zákona:* § 283 odst. 2 (volební komise), § 282 odst. 2 (zánik rady při poklesu pod 3 členy), § 276 odst. 8 (jednání předsedy za radu), § 297 odst. 4 (odlišné 4leté období evropské rady).
+- *Související předpisy:* zákon č. 309/2006 Sb. (zástupci pro BOZP, riziková kategorizace prací); zákon č. 251/2005 Sb. (přestupek).
+- *Judikatura:* obecný výkladový závěr o kogentnosti početních limitů orgánu zaměstnaneckého zastoupení a o procesní podmíněnosti stanovení počtu projednáním.
+
+**4. Subsumpce.** Počet členů rady musí být lichý (3–15) — číslo 6 je v rozporu s odst. 1 (kogentní pravidlo proti rovnosti hlasů). Poměr 1 zástupce BOZP na 7 zaměstnanců překračuje zákonný strop „nejvýše 1 na 10" — přípustné je 1 na 10 a více zaměstnanců, nikoli méně. Stanovení počtu je jednostranným aktem zaměstnavatele, ale procesně podmíněným projednáním s volební komisí; bez projednání nelze počet legitimně určit. Rozhodný je počet zaměstnanců ke dni návrhu (odst. 3).
+
+**5. Řešení.** Zaměstnavatel musí stanovit lichý počet členů rady (5 nebo 7) a poměr zástupců BOZP nepřekračující 1 na 10 (tj. nejvýše 22 zástupců při 220 zaměstnancích), a to po skutečném projednání s volební komisí. V rizikových provozech může zvolit hustší zastoupení jen v rámci stropu. Postup, který by stanovil sudý počet nebo poměr nad strop, je vadný; volby konané na jeho základě by mohly být napadnutelné (§ 285 odst. 2). Riziko: ignorování projednání s komisí zakládá procesní vadu.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel den před návrhem propustil část zaměstnanců, aby snížil základ pro počet zástupců, pravidlo odst. 3 (rozhodný den = den návrhu) by manipulaci znemožnilo. (b) Pokud by počet členů rady po volbách klesl pod 3, rada by zanikla podle § 282 odst. 2, zatímco jednotliví zástupci pro BOZP jsou samostatní a tento důvod zániku se na ně nevztahuje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „počty určuje zaměstnavatel".* Zaměstnavatel zdůrazňuje své oprávnění stanovit počet. Neutralizace: oprávnění je vázáno kogentními limity (lichý počet, strop 1:10) a procesní podmínkou projednání s volební komisí; jde o oprávnění v mezích zákona, nikoli o libovůli.
+- *Protiargument „rizikovost odůvodňuje hustší zastoupení BOZP".* Vyšší riziko podle zaměstnavatele ospravedlní více zástupců. Neutralizace: rizikovost zvyšuje počet jen směrem nahoru v rámci stropu 1:10; strop sám překročit nelze.
+- *Slabé místo.* Zákon výslovně neřeší kvórum usnášení rady; dovozuje se z minimálního počtu 3 členů. Argument o vadnosti voleb je nutné opřít o „podstatné ovlivnění výsledku" (§ 285 odst. 2), což u čistě početní vady nemusí být vždy naplněno.
+
+#### H. Praktický závěr
+
+Rada zaměstnanců má 3–15 členů, vždy lichý počet; zástupců pro BOZP je nejvýše 1 na 10 zaměstnanců, podle rizikovosti prací. Konkrétní počet stanoví zaměstnavatel, ale jen po projednání s volební komisí a v mezích kogentních limitů. Funkční období je 3 roky (na rozdíl od 4 let u evropské rady). Rozhodný pro počet zaměstnanců je den podání návrhu na volby, což brání manipulaci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je počet členů rady lichý a v rozmezí 3–15?
+- [ ] Nepřekračuje počet zástupců pro BOZP poměr 1 na 10 zaměstnanců (s ohledem na rizikovost)?
+- [ ] Bylo stanovení počtu skutečně projednáno s volební komisí (§ 283 odst. 2)?
+- [ ] Vychází počet zaměstnanců z rozhodného dne — dne podání písemného návrhu (odst. 3)?
+- [ ] Zvolila rada na prvním zasedání předsedu a oznámila to zaměstnavateli i zaměstnancům (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** písemný návrh na volby s datem doručení, evidence počtu zaměstnanců v pracovním poměru ke dni návrhu, kategorizace rizikovosti prací, protokol o projednání počtu s volební komisí, zápis z ustavujícího zasedání rady o volbě předsedy.
+
 ---
 
 ### § 282 — Zánik rady zaměstnanců a funkce zástupce pro BOZP
@@ -482,6 +704,43 @@ Po zániku rady nebo funkce zástupce je dotyčný **povinen bez zbytečného od
 | **c) Odvolání z funkce** | Procedura dle § 284 odst. 5 — přiměřené použití pravidel pro volbu | Vyžaduje formální postup s volební komisí |
 
 V případech a) a b) nastupuje **náhradník** s nejvyšším počtem hlasů ve volbách (§ 284 odst. 3 věta druhá). Pokud nejsou náhradníci k dispozici nebo počet členů rady klesne pod 3, použije se § 282 odst. 2 (zánik rady).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pětičlenná rada zaměstnanců u zaměstnavatele ÉTA funguje druhým rokem. Během tří měsíců se jeden člen vzdá funkce, druhému skončí pracovní poměr a třetí se odstěhuje a přestane docházet. Na uvolněná místa nejsou k dispozici žádní náhradníci (kandidátů bylo ve volbách jen 5). Počet členů rady klesne na 2. Zaměstnavatel pokračuje v jednání s „radou" o organizační změně. Po zániku se objeví otázka, kdo a jak má naložit s dokumentací rady. Důkazy: zápisy o vzdání se funkce a odvolání, doklad o skončení pracovního poměru člena, protokol o výsledku původních voleb (existence/neexistence náhradníků), evidence předané dokumentace.
+
+**2. Právní otázka.** Zaniká rada zaměstnanců automaticky poklesem počtu členů pod 3, i když nejsou náhradníci, a jaké povinnosti (předání a úschova podkladů) tím vznikají; je jednání zaměstnavatele s dvoučlennou „radou" právně relevantní?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 282 odst. 2 (zánik rady dnem poklesu počtu členů pod 3), odst. 4 písm. a)–c) (zánik individuálního členství: vzdání se, skončení pracovního poměru, odvolání), odst. 3 (předání podkladů a jejich úschova zaměstnavatelem 5 let), odst. 1 (zánik uplynutím volebního období).
+- *Související ustanovení téhož zákona:* § 284 odst. 3 (nástup náhradníků), § 281 odst. 1 (minimální počet 3 členů), § 281 odst. 5 věta třetí (převzetí funkce druhou radou při poklesu pod 3 v kontextu převodu), § 283 (nové volby).
+- *Související předpisy:* zákon č. 251/2005 Sb. (přestupek); přiměřeně § 35 GDPR / archivační povinnosti (úschova podkladů).
+- *Judikatura:* obecný výkladový závěr o automatickém (ex lege) zániku kolektivního orgánu při ztrátě minimálního personálního substrátu.
+
+**4. Subsumpce.** Vzdání se funkce [odst. 4 písm. a)], skončení pracovního poměru [písm. b)] a faktická nečinnost s odstěhováním — posledně uvedené samo o sobě není zákonným důvodem zániku členství, pokud nedošlo k odvolání nebo skončení poměru; rozhodující je pokles počtu členů. Klesl-li počet skutečných členů na 2 (pod 3), rada zaniká dnem poklesu (odst. 2) automaticky, nejsou-li náhradníci. Od tohoto dne „rada" neexistuje a jednání s ní postrádá partnera.
+
+**5. Řešení.** Rada zanikla ex lege dnem, kdy počet členů klesl pod 3. Jednání zaměstnavatele s dvoučlenným zbytkem nemá účinky projednání se zástupcem; zaměstnavatel napříště plní povinnosti přímo vůči zaměstnancům (§ 276 odst. 1) nebo vůči jiným zástupcům, dokud nejsou vyhlášeny nové volby (§ 283). Zaniklá rada (její dosavadní členové) je povinna bez zbytečného odkladu předat veškeré podklady zaměstnavateli, který je uschová 5 let (odst. 3). Riziko zaměstnavatele: pokud by opatření „projednal" jen s neexistující radou, projednací povinnost by nebyla splněna.
+
+**6. Varianty.** (a) Kdyby ve volbách kandidovalo více osob, nastoupili by náhradníci podle § 284 odst. 3 a počet členů by neklesl pod 3 — rada by trvala. (b) Šlo-li by o situaci převodu se dvěma radami a jedna klesne pod 3, její funkci by podle § 281 odst. 5 převzala druhá rada, takže zaměstnanecké zastoupení by nezaniklo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rada trvá do nových voleb".* Tvrdí se, že rada existuje, dokud nejsou zvoleny nové orgány. Neutralizace: odst. 2 váže zánik na objektivní skutečnost (pokles pod 3), nikoli na konání nových voleb; mezitím nastává vakance s přímým plněním vůči zaměstnancům.
+- *Protiargument „nečinný člen se nepočítá".* Zaměstnavatel chce nedocházejícího člena ignorovat a tvrdit jiný počet. Neutralizace: členství zaniká jen z důvodů odst. 4 (vzdání se, skončení poměru, odvolání); faktická nepřítomnost bez těchto skutečností členství neukončuje — počet členů je nutné posuzovat podle právního stavu.
+- *Slabé místo.* Přesné určení dne poklesu (a tím dne zániku) může být sporné, závisí-li na datu účinnosti odvolání či skončení poměru; vhodné je vést přesnou evidenci.
+
+#### H. Praktický závěr
+
+Rada zaměstnanců zaniká uplynutím 3letého volebního období nebo poklesem počtu členů pod 3 (automaticky, nejsou-li náhradníci). Individuální členství končí vzdáním se funkce, skončením pracovního poměru nebo odvoláním. Po zániku se podklady bez zbytečného odkladu předají zaměstnavateli k 5leté úschově. Po zániku rady plní zaměstnavatel povinnosti přímo vůči zaměstnancům, dokud nejsou ustaveny nové orgány.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Z jakého důvodu členství/funkce skončila — vzdání se, skončení poměru, odvolání (odst. 4), nebo uplynutí období (odst. 1)?
+- [ ] Klesl počet skutečných členů rady pod 3? Pokud ano a nejsou náhradníci, rada zanikla dnem poklesu (odst. 2).
+- [ ] Jsou k dispozici náhradníci podle § 284 odst. 3 (pořadí dle hlasů)?
+- [ ] Byly po zániku podklady předány zaměstnavateli a uschovány po dobu 5 let (odst. 3)?
+- [ ] Plní zaměstnavatel po zániku rady povinnosti přímo vůči zaměstnancům / jiným zástupcům?
+
+**Typicky rozhodné důkazy / podklady:** písemná vzdání se funkce, doklady o skončení pracovního poměru, rozhodnutí o odvolání, protokol o výsledku původních voleb (náhradníci), evidence počtu členů s daty změn, předávací protokol podkladů.
 
 ---
 
@@ -573,6 +832,43 @@ Volit i být volen mohou **všichni zaměstnanci v pracovním poměru** u zaměs
 
 > **Postavení vedoucích zaměstnanců:** zákon vedoucí zaměstnance výslovně nevylučuje. Mohou tedy být voleni i voliti — což může vyvolat napětí (zájmový konflikt). V praxi se však předpokládá, že do rady nebudou voleni nejvyšší vedoucí (statutární orgán, ředitel apod.) z důvodu jejich postavení vůči zaměstnavateli.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** U zaměstnavatele THÉTA (300 zaměstnanců, z toho 60 na DPP/DPČ) podá 90 zaměstnanců v pracovním poměru písemný návrh na volby rady zaměstnanců. Zaměstnavatel vyhlásí volby až po pěti měsících. Volební komise (sestavená podle pořadí podpisů) vyhlásí termín jen 10 dní předem, neumožní hlasování korespondenčně a do volebního seznamu zařadí i zaměstnance na DPP. Voleb se zúčastní 40 % zaměstnanců, kteří se mohli dostavit. Jeden volič dá témuž kandidátovi 2 hlasy. Důkazy: návrh s podpisy a datem doručení, volební řád, seznam voličů, prezenční listina, hlasovací lístky.
+
+**2. Právní otázka.** Které z uvedených postupů (lhůta vyhlášení voleb, předstih termínu, korespondenční hlasování, volební právo zaměstnanců na DPP/DPČ, kvórum účasti, kumulace hlasů) jsou v rozporu s § 283, a s jakými důsledky pro platnost voleb?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 283 odst. 1 (vyhlášení voleb do 3 měsíců od návrhu 1/3 zaměstnanců), odst. 3 písm. a) (termín nejméně 1 měsíc předem), odst. 4 (volby přímé, rovné, tajné, jen osobně; kvórum 1/2 zaměstnanců, kteří se mohli dostavit; max. tolik hlasů, kolik míst; jednomu kandidátovi 1 hlas), odst. 5 (aktivní i pasivní právo jen zaměstnanci v pracovním poměru).
+- *Související ustanovení téhož zákona:* § 74 a násl. (dohody mimo pracovní poměr — vyloučeny z volebního práva), § 285 (stížnost a soudní přezkum voleb), § 281 odst. 1 (počet členů).
+- *Související předpisy:* zákon č. 251/2005 Sb. (přestupek za nevyhlášení voleb).
+- *Judikatura:* obecný výkladový závěr, že vady volebního procesu vedou k neplatnosti jen tehdy, mohly-li podstatně ovlivnit výsledek (§ 285 odst. 2).
+
+**4. Subsumpce.** Vyhlášení po 5 měsících porušuje 3měsíční lhůtu (odst. 1) — přestupek. Předstih 10 dní porušuje minimální 1 měsíc [odst. 3 písm. a)]. Korespondenční hlasování je vyloučeno — volbu lze vykonat jen osobně (odst. 4). Zařazení zaměstnanců na DPP do seznamu je vadné — volit a být volen mohou jen zaměstnanci v pracovním poměru (odst. 5). Účast 40 % nedosahuje kvóra 1/2 (odst. 4) — volby jsou neplatné z nedostatku kvóra. Dva hlasy témuž kandidátovi činí hlas neplatným (odst. 4).
+
+**5. Řešení.** Volby trpí více vadami; rozhodující je nesplnění kvóra účasti (1/2 oprávněných, kteří se mohli dostavit) — bez něj jsou volby neplatné bez ohledu na ostatní pochybení. Vady v seznamu voličů (DPP) a předstihu mohly podstatně ovlivnit výsledek a jsou důvodem návrhu na vyslovení neplatnosti podle § 285 odst. 2 (lhůta 8 dní od vyhlášení výsledků). Nevyhlášení voleb v 3měsíční lhůtě je samostatně přestupkem (inspekce práce). Procesně: stěžovatel podá nejprve stížnost na kandidátní listinu (§ 285 odst. 1), po volbách návrh na neplatnost.
+
+**6. Varianty.** (a) Kdyby se voleb zúčastnila nadpoloviční většina oprávněných, dodržel se měsíční předstih a seznam obsahoval jen zaměstnance v pracovním poměru, drobná formální pochybení by neplatnost nezpůsobila. (b) Kdyby kumulaci hlasů provedl jen jeden volič, neplatný by byl pouze jeho lístek, nikoli celé volby.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „DPP jsou také zaměstnanci".* Tvrdí se, že i pracovníci na dohody mají volit. Neutralizace: odst. 5 výslovně omezuje aktivní i pasivní právo na zaměstnance v pracovním poměru; DPP/DPČ jsou vyloučeni, jejich zahrnutí je vadou.
+- *Protiargument „účast nelze ovlivnit".* Zaměstnavatel/komise se brání nízkou účastí jako objektivní okolností. Neutralizace: kvórum je zákonnou podmínkou platnosti (odst. 4); nedosažení 1/2 oprávněných činí volby neplatnými bez ohledu na příčinu nízké účasti.
+- *Slabé místo.* Test „podstatného ovlivnění výsledku" (§ 285 odst. 2) je hodnotící; ne každá procesní vada k neplatnosti stačí. Pro úspěch je třeba prokázat kauzální vliv vady na složení zvolené rady.
+
+#### H. Praktický závěr
+
+Volby rady zaměstnanců iniciuje 1/3 zaměstnanců; zaměstnavatel je musí vyhlásit do 3 měsíců, termín oznámit nejméně měsíc předem. Volby jsou přímé, rovné, tajné a jen osobní; volit a být volen mohou jen zaměstnanci v pracovním poměru (nikoli DPP/DPČ). K platnosti je nutná účast alespoň poloviny oprávněných, kteří se mohli dostavit. Vady vedou k neplatnosti jen při možném podstatném ovlivnění výsledku (§ 285), nevyhlášení voleb je přestupkem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl návrh podepsán nejméně 1/3 zaměstnanců v pracovním poměru a vyhlášeny volby do 3 měsíců?
+- [ ] Byl termín voleb oznámen nejméně 1 měsíc předem [odst. 3 písm. a)]?
+- [ ] Obsahuje seznam voličů jen zaměstnance v pracovním poměru (bez DPP/DPČ — odst. 5)?
+- [ ] Bylo dosaženo kvóra účasti (alespoň 1/2 oprávněných, kteří se mohli dostavit)?
+- [ ] Hlasoval každý volič nejvýše pro tolik kandidátů, kolik je míst, a jednomu kandidátovi jen 1 hlas?
+
+**Typicky rozhodné důkazy / podklady:** písemný návrh na volby s podpisy a datem doručení, volební řád a oznámení termínu, seznam voličů, prezenční listina (kvórum), hlasovací lístky a protokol o výsledku, doklad o případném korespondenčním hlasování.
+
 ---
 
 ### § 284 — Kandidáti a výsledky voleb
@@ -638,6 +934,43 @@ Odvolání člena rady nebo zástupce pro BOZP se řídí **přiměřeným použ
 
 Odvolání tedy **není** jednoduchý akt zaměstnavatele ani rozhodnutí rady; vyžaduje plný demokratický procedurální postup.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ve volbách sedmičlenné rady u zaměstnavatele IÓTA kandiduje 10 osob. Dva kandidáti získají shodný počet hlasů na 7. a 8. místě (poslední volitelné a první náhradnické). Jeden z navržených kandidátů přitom před volbami vzal svůj písemný souhlas zpět, ale komise jej na lístku ponechala. Po půl roce se uvolní jedno místo v radě (člen se vzdá funkce) a vzniká spor, kdo je první náhradník. Důkazy: kandidátní listina, písemné souhlasy kandidátů (a jejich odvolání), protokol o sčítání hlasů, doklad o losování při rovnosti hlasů, datum uvolnění funkce.
+
+**2. Právní otázka.** Jak se určí pořadí při rovnosti hlasů mezi kandidáty, kdy a jak nastupuje náhradník, a je platná kandidatura osoby, která vzala souhlas zpět?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 284 odst. 1 (návrh kandidáta s písemným souhlasem), odst. 2 (minimální počet kandidátů — rada 3, BOZP 1), odst. 3 (zvolení podle nejvyššího počtu platných hlasů; náhradníci v pořadí hlasů; při rovnosti los určený volební komisí; nástup náhradníka dnem uvolnění funkce), odst. 4 (úschova protokolu 5 let), odst. 5 (přiměřené použití na odvolání).
+- *Související ustanovení téhož zákona:* § 282 odst. 4 (uvolnění funkce — vzdání se, skončení poměru, odvolání), § 283 (volby), § 285 (přezkum).
+- *Související předpisy:* zákon č. 251/2005 Sb. (přestupek).
+- *Judikatura:* obecný výkladový závěr, že kandidatura bez platného souhlasu (či po jeho odvolání) je neúčinná a kandidát se vyřazuje.
+
+**4. Subsumpce.** Kandidát, který vzal souhlas zpět, neměl být na listině — návrh bez souhlasu je podle odst. 1 neplatný; jeho ponechání je vada. Při rovnosti hlasů mezi 7. a 8. kandidátem rozhoduje los, který určí volební komise (odst. 3) — tím se stanoví, kdo je členem a kdo prvním náhradníkem. Náhradník se stává členem dnem uvolnění funkce (odst. 3 ve spojení s § 282 odst. 4), nikoli dnem voleb.
+
+**5. Řešení.** Pořadí při rovnosti hlasů určí los provedený volební komisí; výsledek se zaznamená do protokolu (úschova 5 let — odst. 4). Vyřazení kandidáta, který odvolal souhlas, je nutné; pokud zůstal na lístku a získal hlasy, je třeba posoudit dopad na výsledek (případně § 285 odst. 2). Náhradník nastupuje automaticky dnem, kdy se funkce uvolní (vzdání se člena), v pořadí daném hlasy, resp. losem. Riziko: opomenutí losu nebo nesprávné vyřazení kandidáta může vést k napadení voleb.
+
+**6. Varianty.** (a) Kdyby komise neobdržela alespoň 3 návrhy kandidátů do rady (odst. 2), volby by se vůbec nekonaly. (b) Kdyby šlo o odvolání člena rady, použily by se přiměřeně postupy § 284 odst. 1–4 a § 283 (odst. 5) — tedy plný procedurální postup, nikoli prosté rozhodnutí zaměstnavatele či rady.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rovnost vyřeší zaměstnavatel".* Tvrdí se, že při rovnosti hlasů rozhodne zaměstnavatel. Neutralizace: odst. 3 svěřuje los výslovně volební komisi; zaměstnavatel do určení pořadí nezasahuje.
+- *Protiargument „náhradník nastupuje hned po volbách".* Namítá se okamžitý nástup náhradníka. Neutralizace: náhradník se stává členem až dnem uvolnění funkce (odst. 3), do té doby je pouze v pořadí náhradníků.
+- *Slabé místo.* Dopad ponechání kandidáta bez souhlasu na výsledek se prokazuje obtížně; pro neplatnost je nutné „podstatné ovlivnění" (§ 285 odst. 2), jinak jde jen o formální vadu bez následku na složení rady.
+
+#### H. Praktický závěr
+
+Členy se stávají kandidáti s nejvyšším počtem platných hlasů, ostatní jsou náhradníci v pořadí hlasů; při rovnosti rozhoduje los určený volební komisí. Náhradník nastupuje dnem uvolnění funkce, nikoli dnem voleb. Návrh kandidáta je platný jen s jeho písemným souhlasem; odvolá-li souhlas, kandidát se vyřazuje. Odvolání člena vyžaduje přiměřeně celý volební postup (odst. 5). Protokol se uschovává 5 let.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Měl každý kandidát platný písemný souhlas (a nevzal jej zpět) — odst. 1?
+- [ ] Byl dosažen minimální počet kandidátů (rada 3, zástupce BOZP 1) — odst. 2?
+- [ ] Při rovnosti hlasů: proběhl los určený volební komisí a byl zaznamenán do protokolu?
+- [ ] Nastoupil náhradník až dnem uvolnění funkce, v pořadí podle hlasů (odst. 3)?
+- [ ] Při odvolání člena: byl použit přiměřeně postup § 283 a § 284 odst. 1–4 (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** kandidátní listina, písemné souhlasy kandidátů a jejich případná odvolání, protokol o sčítání hlasů a o losu, doklad o uvolnění funkce (vzdání se/skončení poměru/odvolání), evidence úschovy protokolu.
+
 ---
 
 ### § 285 — Stížnosti a soudní přezkum voleb
@@ -682,6 +1015,43 @@ Po volbách lze napadnout jejich **platnost** žalobou (návrhem) u soudu. Podm�
 Pokud soud vyslovil neplatnost voleb, konají se **opakované volby**:
 - **lhůta** — nejpozději do **3 měsíců** od právní moci rozhodnutí soudu;
 - **složení volební komise** — zaměstnanci dle § 283 odst. 2 (podle pořadí podpisů na původním návrhu), ale **s vyloučením** zaměstnanců, kteří působili v původní volební komisi nebo kteří byli kandidáty (zachování nestrannosti).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Po volbách rady zaměstnanců u zaměstnavatele KAPPA podá zaměstnanec, který se cítí poškozen, námitky. Nejprve 2 dny před volbami napadl kandidátní listinu (tvrdil, že na ní chybí jím navržený kandidát) — volební komise jeho stížnost zamítla a den před volbami mu to písemně oznámila. Po volbách (jejichž výsledek byl vyhlášen v pondělí) chce u soudu napadnout jak rozhodnutí komise o kandidátní listině, tak platnost voleb, protože podle něj seznam voličů obsahoval cizí osoby, což mohlo ovlivnit výsledek. Návrh k soudu podá 10. den po vyhlášení výsledků. Důkazy: stížnost a rozhodnutí komise, protokol o výsledku, seznam voličů, datum vyhlášení výsledků a datum podání návrhu.
+
+**2. Právní otázka.** Lze soudně přezkoumat rozhodnutí volební komise o kandidátní listině, za jakých podmínek a v jaké lhůtě lze napadnout platnost voleb, a je návrh podaný 10. den po vyhlášení výsledků včasný?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 285 odst. 1 (stížnost na kandidátní listinu nejpozději 3 dny předem; rozhodnutí komise konečné a vyloučené ze soudního přezkumu), odst. 2 (návrh na vyslovení neplatnosti voleb při porušení zákona, které mohlo podstatně ovlivnit výsledek; lhůta 8 dnů od vyhlášení výsledků), odst. 3 (opakované volby do 3 měsíců, vyloučení dosavadní komise a kandidátů).
+- *Související ustanovení téhož zákona:* § 283 (volby, kvórum), § 284 (kandidáti, výsledky), § 281 (rada).
+- *Související předpisy:* zákon č. 99/1963 Sb., resp. soudní řád správní (řízení podle odkazu pod čarou č. 79); zákon č. 251/2005 Sb.
+- *Judikatura:* obecný výkladový závěr o koncentraci volebního soudnictví a o tom, že neplatnost způsobí jen vada s možným podstatným vlivem na výsledek.
+
+**4. Subsumpce.** Rozhodnutí komise o kandidátní listině je podle odst. 1 konečné a ze soudního přezkumu vyloučené — žaloba proti němu je nepřípustná. Návrh na vyslovení neplatnosti voleb (odst. 2) je naopak přípustný, je-li tvrzeno porušení zákona s možným podstatným vlivem (cizí osoby v seznamu voličů takový vliv mít mohou). Lhůta je však 8 dnů od vyhlášení výsledků; návrh podaný 10. den je opožděný a soud jej odmítne.
+
+**5. Řešení.** Soudní přezkum rozhodnutí o kandidátní listině je vyloučen (odst. 1); v této části návrh nelze podat. Návrh na neplatnost voleb pro vady seznamu voličů by byl věcně projednatelný, ale je podán po 8denní prekluzivní lhůtě, a proto bude odmítnut jako opožděný. Stěžovateli lze doporučit důsledné hlídání lhůty (8 dnů) a soustředění na vady s prokazatelným vlivem na výsledek. Vysloví-li soud v jiném (včasném) případě neplatnost, konají se opakované volby do 3 měsíců s vyloučením dosavadní komise a kandidátů (odst. 3).
+
+**6. Varianty.** (a) Kdyby návrh byl podán do 8 dnů a vady seznamu voličů byly způsobilé ovlivnit výsledek, soud by mohl vyslovit neplatnost a nařídit opakované volby. (b) Kdyby vada byla čistě formální bez vlivu na výsledek (např. překlep ve volebním řádu), návrh by neuspěl ani při včasném podání.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vše přezkoumá soud".* Stěžovatel se domnívá, že i rozhodnutí komise o listině je soudně přezkoumatelné. Neutralizace: odst. 1 výslovně vylučuje soudní přezkum rozhodnutí komise o kandidátní listině; přípustný je jen návrh na neplatnost voleb podle odst. 2.
+- *Protiargument „lhůta je pořádková".* Tvrdí se, že 8denní lhůtu lze prominout. Neutralizace: jde o prekluzivní lhůtu volebního soudnictví; její zmeškání vede k odmítnutí návrhu.
+- *Slabé místo.* Test „podstatného ovlivnění výsledku" je hodnotící a důkazně náročný; stěžovatel musí doložit kauzální potenciál vady, nestačí samotné konstatování pochybení.
+
+#### H. Praktický závěr
+
+Předvolební vady kandidátní listiny řeší s konečnou platností volební komise (její rozhodnutí je vyloučeno ze soudního přezkumu); stížnost nutno podat nejpozději 3 dny před volbami. Platnost voleb lze napadnout návrhem k soudu do 8 dnů od vyhlášení výsledků, a to jen pro porušení zákona, které mohlo podstatně ovlivnit výsledek. Vysloví-li soud neplatnost, konají se opakované volby do 3 měsíců s vyloučením dosavadní komise a kandidátů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Týká se námitka kandidátní listiny? Pak jen stížnost komisi (3 dny předem); soudní přezkum vyloučen (odst. 1).
+- [ ] Týká se námitka platnosti voleb? Pak návrh k soudu do 8 dnů od vyhlášení výsledků (odst. 2).
+- [ ] Jde o porušení zákona, které mohlo podstatně ovlivnit výsledek voleb?
+- [ ] Byla dodržena 8denní prekluzivní lhůta?
+- [ ] Při vyslovení neplatnosti: konají se opakované volby do 3 měsíců s vyloučením dosavadní komise a kandidátů (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** stížnost na kandidátní listinu a rozhodnutí komise, protokol o výsledku voleb, seznam voličů a kandidátní listina, doklad o datu vyhlášení výsledků, doklad o datu podání návrhu k soudu.
 
 ---
 
@@ -783,6 +1153,43 @@ Toto pravidlo má **silný dopad** v praxi:
 - u individuálních pracovněprávních úkonů (např. souhlas s vysláním na služební cestu mimo místo výkonu práce dle § 42 ZP, je-li takový souhlas nutný; výpověď ze strany zaměstnavatele a její projednání) je zaměstnavatel povinen jednat s odborovou organizací, která zaměstnance zastupuje;
 - odborové organizace jsou tak zatíženy odpovědností i za nečleny, což představuje formální „kvazi-univerzální" zastoupení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** U zaměstnavatele LAMBDA působí odborová organizace, jejíž předseda je členem odborového orgánu. Zaměstnavatel dá tomuto předsedovi výpověď pro nadbytečnost, aniž požádá odborovou organizaci o předchozí souhlas. Brání se tím, že má pochybnosti, zda odborová organizace ještě splňuje podmínku alespoň 3 členů v pracovním poměru, a že mu odbory odmítly sdělit jména členů. Odborová organizace tvrdí, že podmínky splňuje a působnost řádně oznámila. Spor o splnění podmínky 3 členů se vede ke dni doručení výpovědi. Důkazy: oznámení o vzniku oprávnění (§ 286 odst. 4), doklad o členské základně ke dni výpovědi, žádost zaměstnavatele o prokázání podmínky, případné notářské osvědčení.
+
+**2. Právní otázka.** K jakému okamžiku se posuzuje, zda u zaměstnavatele působí odborová organizace s alespoň 3 členy v pracovním poměru (a tím povinnost požádat o souhlas s výpovědí člena odborového orgánu podle § 61 odst. 2), a jak se splnění této podmínky prokazuje, aniž by byla vyzrazena totožnost členů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 286 odst. 3 (působnost odborové organizace — oprávnění dle stanov a alespoň 3 členové v pracovním poměru; výlučné oprávnění ke kolektivnímu vyjednávání), odst. 4 (vznik oprávnění dnem následujícím po oznámení; prokazování podmínky 3 členů, notářské osvědčení hrazené zaměstnavatelem), odst. 1 a 2 (oprávnění jednat; orgán dle stanov).
+- *Související ustanovení téhož zákona:* § 61 odst. 2 (předchozí souhlas s výpovědí/okamžitým zrušením u člena odborového orgánu), § 52 (výpovědní důvody), § 276 odst. 2 (zákaz znevýhodnění zástupce).
+- *Související předpisy:* zákon č. 89/2012 Sb., § 214–302 (odborová organizace jako spolek); nařízení (EU) 2016/679 (GDPR — členství v odboru jako zvláštní kategorie údajů); Úmluvy MOP č. 87 a 98.
+- *Judikatura:* NS 21 Cdo 5054/2014 (působení odborové organizace a členství dotčeného zaměstnance v odborovém orgánu i splnění podmínky 3 členů v pracovním poměru se zjišťují ke dni doručení výpovědi).
+
+**4. Subsumpce.** Podle NS 21 Cdo 5054/2014 je rozhodný den doručení výpovědi — k tomuto dni se zkoumá jak působení odborové organizace (oznámené podle odst. 4), tak podmínka 3 členů v pracovním poměru (odst. 3). Splnění podmínky prokazuje odborová organizace; neprokáže-li jinak, poskytne součinnost notáři (hrazenému zaměstnavatelem), který osvědčí počet členů, nikoli jejich totožnost (ochrana podle GDPR). Pokud k rozhodnému dni podmínky splněny byly, byl zaměstnavatel povinen požádat o souhlas podle § 61 odst. 2.
+
+**5. Řešení.** Byla-li ke dni doručení výpovědi odborová organizace u zaměstnavatele činná (oznámení dle odst. 4) a měla alespoň 3 členy v pracovním poměru, je výpověď daná předsedovi bez předchozího souhlasu odborové organizace neplatná (§ 61 odst. 2). Pochybnosti zaměstnavatele o členské základně neopravňují k obejití souhlasu — má vyžádat prokázání podmínky a případně notářské osvědčení, nikoli rovnou vypovědět. Riziko zaměstnavatele: nesplnění postupu vede k neplatnosti rozporu a náhradě mzdy.
+
+**6. Varianty.** (a) Kdyby ke dni doručení výpovědi počet členů v pracovním poměru klesl pod 3 a odborová organizace to podle odst. 4 neoznámila, ale fakticky podmínku nesplňovala, ochrana § 61 odst. 2 by se neuplatnila. (b) Kdyby šlo o kolektivní vyjednávání, nemohla by je vést rada zaměstnanců — výlučně odborová organizace (odst. 3); pokus uzavřít kolektivní smlouvu s radou by byl neplatný.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „neznám členy, nemohu žádat souhlas".* Zaměstnavatel se brání neznalostí členské základny. Neutralizace: odst. 4 dává nástroj k prokázání podmínky (notářské osvědčení počtu členů); pochybnost se řeší tímto postupem, ne jednostrannou výpovědí bez souhlasu.
+- *Protiargument „rozhodné je období roku před výpovědí".* Namítá se širší časový test. Neutralizace: NS 21 Cdo 5054/2014 váže zkoumání působení odborů a podmínky 3 členů ke dni doručení výpovědi; členství v orgánu se posuzuje i v ochranné době, ale existence působení odborů k rozhodnému dni je klíčová.
+- *Slabé místo.* Důkazní břemeno o členské základně nese odborová organizace; odmítne-li součinnost a notářské osvědčení, oslabuje vlastní pozici a může ztratit ochranu.
+
+#### H. Praktický závěr
+
+Odborová organizace působí u zaměstnavatele a má práva, jen je-li k tomu oprávněna podle stanov a má alespoň 3 členy v pracovním poměru; oprávnění vznikají dnem po oznámení zaměstnavateli. Splnění podmínky 3 členů se prokazuje, v krajním případě notářským osvědčením počtu (nikoli totožnosti) členů hrazeným zaměstnavatelem. Působení odborů a tato podmínka se pro účely souhlasu s výpovědí člena odborového orgánu (§ 61 odst. 2) posuzují ke dni doručení výpovědi (NS 21 Cdo 5054/2014). Kolektivně vyjednávat může výlučně odborová organizace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Oznámila odborová organizace vznik oprávnění podle § 286 odst. 4?
+- [ ] Splňuje ke dni doručení výpovědi podmínku alespoň 3 členů v pracovním poměru (NS 21 Cdo 5054/2014)?
+- [ ] Bylo splnění podmínky na žádost prokázáno, případně notářsky osvědčeno (počet, ne totožnost)?
+- [ ] Jde o člena odborového orgánu? Pak je k výpovědi/okamžitému zrušení nutný předchozí souhlas (§ 61 odst. 2).
+- [ ] Jde o kolektivní vyjednávání? Pak je oprávněna výlučně odborová organizace, nikoli rada zaměstnanců (odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** oznámení o vzniku/zániku oprávnění odborové organizace, doklad o členské základně ke dni doručení výpovědi, žádost zaměstnavatele o prokázání podmínky a poskytnutá součinnost, notářský zápis o osvědčení počtu členů, stanovy odborové organizace, výpověď s datem doručení.
+
 ---
 
 ### § 287 — Rozšířený katalog informování a projednání vůči odboru
@@ -865,6 +1272,43 @@ Z porovnání § 280 a § 287 vyplývá, že odborová organizace má **kvantita
 | Kolektivní smlouva | Ne (nemůže ji uzavřít) | Ano (výlučné oprávnění) |
 
 Tento systém reflektuje **historickou a institucionální převahu odborů** jako tradičního a silnějšího zástupce zaměstnanců.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** U zaměstnavatele MÝ působí odborová organizace. Zaměstnavatel zavádí nový systém odměňování a hodnocení a mění organizaci práce na dvou provozech, aniž to s odborovou organizací projedná; rovněž odmítá poskytnout údaje o vývoji průměrné mzdy a jejích složkách podle profesních skupin s odůvodněním, že jde o citlivá data. Odborová organizace se těchto údajů a projednání domáhá pro účely kolektivního vyjednávání. Důkazy: vnitřní předpis o novém systému odměňování, doklad o změně organizace práce, žádost odborů o mzdové statistiky a o projednání, mzdové podklady v agregované podobě.
+
+**2. Právní otázka.** Má odborová organizace (na rozdíl od rady zaměstnanců) právo na informování o vývoji mezd podle profesních skupin a na projednání systému odměňování a změn organizace práce podle § 287, a v jaké formě musí být mzdové údaje poskytnuty?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 287 odst. 1 písm. a) (informování o vývoji mezd/platů, průměrné mzdě a jejích složkách podle profesních skupin, není-li dohodnuto jinak), písm. b) (záležitosti dle § 279), odst. 2 písm. c), d) (projednání změn organizace práce a systému odměňování a hodnocení).
+- *Související ustanovení téhož zákona:* § 280 (obecné projednání — užší než § 287), § 279 (informování), § 278 odst. 2 a 3 (pojmy), § 286 odst. 3 (výlučné kolektivní vyjednávání odborů), § 300 (množství práce a pracovní tempo).
+- *Související předpisy:* nařízení (EU) 2016/679 (GDPR — mzdové údaje konkrétních osob jsou osobní údaje, poskytují se agregovaně); zákon č. 2/1991 Sb. (kolektivní vyjednávání); zákon č. 251/2005 Sb. (přestupek).
+- *Judikatura:* NS 21 Cdo 4952/2014 (porušení informační a projednací povinnosti vůči odboru může zakládat právo na náhradu škody).
+
+**4. Subsumpce.** Systém odměňování a hodnocení [odst. 2 písm. d)] a změny organizace práce [odst. 2 písm. c)] spadají do rozšířeného katalogu projednání s odborem (rada zaměstnanců tyto okruhy podle § 280 nemá). Vývoj mezd a jejich složek podle profesních skupin [odst. 1 písm. a)] je předmětem informování vůči odboru. Odmítnutí projednat a informovat je porušením § 287. Mzdové údaje se poskytují v anonymizované, agregované formě (průměry, struktura složek), nikoli individuálně — to GDPR umožňuje.
+
+**5. Řešení.** Zaměstnavatel je povinen poskytnout odborové organizaci mzdové statistiky podle profesních skupin (agregovaně) a projednat systém odměňování i změny organizace práce; zavedení změn bez projednání je porušením § 287 odst. 2. Odbory se mohou domáhat poskytnutí informace, resp. náhrady škody (NS 21 Cdo 4952/2014), a podat podnět inspekci práce. „Není-li dohodnuto jinak" [odst. 1 písm. a)] umožňuje modifikaci rozsahu mzdové informace v kolektivní smlouvě, nikoli však úplné vyloučení projednání podle odst. 2.
+
+**6. Varianty.** (a) Kdyby u zaměstnavatele působila jen rada zaměstnanců (nikoli odbory), neměla by nárok na projednání systému odměňování ani na mzdové statistiky podle profesních skupin — tyto okruhy jsou vyhrazeny odboru (§ 287). (b) Kdyby odbory požadovaly mzdu konkrétního jmenovaného zaměstnance, zaměstnavatel by ji poskytnout nemusel — postačí agregovaná data (ochrana podle GDPR).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „mzdy jsou citlivé, neposkytnu je".* Zaměstnavatel odmítá mzdové údaje s odkazem na GDPR. Neutralizace: § 287 odst. 1 písm. a) zakládá nárok na agregované mzdové údaje podle profesních skupin; GDPR brání jen sdělení individuálních mezd, nikoli anonymizovaných statistik.
+- *Protiargument „projednání = rada zaměstnanců stačí".* Tvrdí se, že povinnosti vůči odboru jsou shodné s radou. Neutralizace: § 287 stanoví širší katalog než § 280 (systém odměňování, organizace práce, školení, sociální péče); odbory mají kvalitativně i kvantitativně rozšířenou působnost.
+- *Slabé místo.* Hranice „agregace" mzdových dat u malých profesních skupin (kde lze dovodit mzdu jednotlivce) je citlivá; je nutné volit takovou míru agregace, aby nedošlo k re-identifikaci.
+
+#### H. Praktický závěr
+
+Vůči odborové organizaci platí rozšířený katalog informování (§ 287 odst. 1 — včetně vývoje mezd podle profesních skupin) a projednání (§ 287 odst. 2 — systém odměňování a hodnocení, změny organizace práce, školení, sociální péče), který je širší než katalog § 280 platný pro radu zaměstnanců. Mzdové údaje se poskytují agregovaně (GDPR). Porušení zakládá náhradu škody (NS 21 Cdo 4952/2014) a přestupkovou odpovědnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o odborovou organizaci (širší katalog § 287), nebo radu zaměstnanců (užší § 280)?
+- [ ] Byly poskytnuty informace o vývoji mezd a jejich složkách podle profesních skupin [odst. 1 písm. a)] — v agregované podobě?
+- [ ] Byly projednány okruhy podle odst. 2 (systém odměňování, organizace práce, školení, sociální péče) PŘED jejich zavedením?
+- [ ] Nedošlo k odmítnutí mzdových statistik se záminkou GDPR, ač lze poskytnout anonymizovaná data?
+- [ ] Při porušení: zvážena náhrada škody (NS 21 Cdo 4952/2014) a podnět inspekci práce?
+
+**Typicky rozhodné důkazy / podklady:** vnitřní předpisy o odměňování a hodnocení, doklady o změnách organizace práce, žádost odborů o informace a projednání, agregované mzdové statistiky podle profesních skupin, zápisy z projednání, případná kolektivní smlouva (modifikace rozsahu).
 
 ---
 
@@ -964,6 +1408,43 @@ Pravidlo „pokud není v tomto zákoně dále stanoveno jinak" otevírá prosto
 
 > **Praktický význam prahu:** mechanismus evropské rady zaměstnanců míří na **velké nadnárodní korporace** (typicky multinational corporations s tisíci zaměstnanci). Středně velké podniky s mezinárodní působností (např. 500 zaměstnanců rozdělených mezi 2 země) pod úpravu nespadají.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nadnárodní skupina NÝ má ústředí v USA a v EU/EHP zaměstnává celkem 2 500 osob: 1 400 v Německu, 700 v ČR, 250 ve Francii, 150 v Polsku. Skupina rozhoduje na úrovni ústředí o uzavření francouzské pobočky. Zaměstnanci v ČR a Německu se chtějí domáhat zřízení evropské rady zaměstnanců s tím, že česká dceřiná společnost má sídlo v ČR. Ústředí namítá, že je v USA, a tedy mimo dosah úpravy. Důkazy: organizační struktura skupiny, počty zaměstnanců po státech (průměr za 2 roky), doklad o ovládajícím vztahu, určení reprezentanta v EU.
+
+**2. Právní otázka.** Splňuje skupina NÝ kvalifikační prahy „skupiny zaměstnavatelů s působností na území členských států" podle § 288 odst. 5 a vztahuje se česká úprava na skupinu s ústředím mimo EU, působí-li v ČR organizační složka/dceřiná společnost?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 288 odst. 4 (jednotlivý zaměstnavatel: ≥ 1000 v EU/EHP a ≥ 150 alespoň ve 2 státech), odst. 5 (skupina: ≥ 1000 celkem; ≥ 2 zaměstnavatelé ve 2 různých státech; ≥ 1 zaměstnavatel se 150 v jednom a jiný se 150 v jiném státě), odst. 3 (územní působnost české úpravy — sídlo/organizační složka/reprezentant v ČR), odst. 1 (nadnárodní charakter), odst. 2 (dvě cesty zastoupení; financování).
+- *Související ustanovení téhož zákona:* § 289 odst. 2 (ústředí; reprezentant; zaměstnavatel s největším počtem zaměstnanců), § 290 odst. 2 (iniciace), § 296 (rada podle zákona).
+- *Související předpisy:* směrnice 2009/38/ES (evropská rada zaměstnanců); nařízení (ES) č. 139/2004 (kontrola spojování — vyloučení finanční účasti).
+- *Judikatura:* výklad v souladu se směrnicí 2009/38/ES (zajištění přístupu k nadnárodním informacím i u skupin řízených mimo EU).
+
+**4. Subsumpce.** Skupina má v EU/EHP 2 500 zaměstnanců (> 1000). Alespoň 2 zaměstnavatelé sídlí ve 2 různých státech (Německo, ČR, Francie, Polsko). Německo má ≥ 150 a Francie (250) i ČR (700) rovněž ≥ 150 — podmínka „jeden zaměstnavatel ≥ 150 v jednom a jiný ≥ 150 v jiném státě" je splněna. Prahy odst. 5 jsou naplněny. Územní působnost: protože v ČR je dceřiná společnost/organizační složka, česká úprava se uplatní [odst. 3 písm. a) nebo b)]; ústředí mimo EU se nahradí reprezentantem nebo zaměstnavatelem s nejvíce zaměstnanci (Německo) podle § 289 odst. 2.
+
+**5. Řešení.** Skupina NÝ je „skupinou s evropskou působností"; zaměstnanci mohou iniciovat zřízení evropské rady zaměstnanců (žádost ≥ 100 zaměstnanců z ≥ 2 zaměstnavatelů ve ≥ 2 státech — § 290 odst. 2). Že je ústředí v USA, není překážkou: za ústředí se považuje reprezentant jmenovaný v EU, jinak zaměstnavatel s největším počtem zaměstnanců (Německo) — § 289 odst. 2. Uzavření francouzské pobočky je nadnárodní záležitostí (dopady ve více státech, rozhodováno ústředím) ve smyslu odst. 1. Náklady na ustavení a činnost nese zaměstnavatel/ústředí (odst. 2).
+
+**6. Varianty.** (a) Kdyby skupina měla v EU jen 800 zaměstnanců, práh 1000 by nebyl naplněn a úprava evropské rady by se neuplatnila. (b) Kdyby v ČR nebyla dceřiná společnost ani organizační složka ani reprezentant, územní působnost české úpravy [odst. 3] by se neaktivovala a postupovalo by se podle úpravy jiného členského státu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „ústředí je mimo EU".* Skupina tvrdí, že je nedosažitelná, protože ústředí sídlí v USA. Neutralizace: § 289 odst. 2 zajišťuje náhradní ústředí (reprezentant, jinak zaměstnavatel s nejvíce zaměstnanci v EU), takže vždy existuje subjekt v EU/EHP, vůči němuž lze nárok uplatnit.
+- *Protiargument „věc je lokální".* Namítá se, že uzavření jedné pobočky není nadnárodní. Neutralizace: podle odst. 1 se přihlíží k rozsahu dopadů a úrovni řízení; rozhodnutí přijímané ústředím s dopady ve více státech je nadnárodní.
+- *Slabé místo.* Výpočet prahů závisí na 2letém průměru a na správné identifikaci „zaměstnavatelů" ve skupině; chybějící data o struktuře mohou kvalifikaci zpochybnit (proto § 289 odst. 4 ukládá poskytnout informace o počtech a struktuře).
+
+#### H. Praktický závěr
+
+Úprava nadnárodního informování a projednání dopadá na zaměstnavatele/skupiny s ≥ 1000 zaměstnanci v EU/EHP a ≥ 150 alespoň ve 2 členských státech (§ 288 odst. 4, 5). Česká úprava se uplatní, je-li v ČR sídlo, organizační složka nebo reprezentant (odst. 3). Sídlo ústředí mimo EU není překážkou — určí se náhradní ústředí (§ 289 odst. 2). Práva se realizují buď evropskou radou zaměstnanců, nebo jiným ujednaným postupem; náklady nese zaměstnavatel.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Dosahuje zaměstnavatel/skupina prahu ≥ 1000 zaměstnanců v EU/EHP (2letý průměr — § 289 odst. 4)?
+- [ ] Je ≥ 150 zaměstnanců alespoň ve 2 členských státech (u skupiny dle struktury odst. 5)?
+- [ ] Je dána územní působnost české úpravy — sídlo/organizační složka/reprezentant v ČR (odst. 3)?
+- [ ] Je-li ústředí mimo EU, kdo je náhradním ústředím (reprezentant / zaměstnavatel s nejvíce zaměstnanci) — § 289 odst. 2?
+- [ ] Jde o nadnárodní záležitost (dopady ve více státech, rozhodováno na nadnárodní úrovni) — odst. 1?
+
+**Typicky rozhodné důkazy / podklady:** organizační struktura skupiny a ovládací vztahy, počty zaměstnanců po státech (průměr za 2 roky), doklad o sídle/organizační složce v ČR, jmenování reprezentanta, podklady o povaze a dopadech zamýšleného opatření.
+
 ---
 
 ### § 289 — Řídící zaměstnavatel, ústředí, výpočet počtu zaměstnanců
@@ -1045,6 +1526,43 @@ Odst. 5 řeší **subsidiární použití** § 276 a § 278 odst. 2–4 ZP na č
 - § 278 odst. 2–4 — pojmy informování a projednání, dodatečné informace, osobní jednání;
 - § 276 odst. 4 — mlčenlivost pro odborníky se použije i pro tlumočníky, překladatele, odborníky a poradce evropské rady.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Skupina XÍ je řízena holdingem se sídlem na Kajmanských ostrovech (mimo EU), který drží 60 % hlasovacích práv ve všech dceřiných společnostech v EU. V EU/EHP skupina zaměstnává 4 000 osob; největší zaměstnavatel je v Nizozemsku (1 800 osob), v ČR je dceřiná společnost (900 osob). Holding nejmenoval žádného reprezentanta v EU. Zaměstnanci chtějí určit, vůči komu uplatnit právo na nadnárodní informace, a ověřit počty zaměstnanců pro kvalifikaci. Jedna z dceřiných společností je přitom v insolvenci. Důkazy: doklad o hlasovacích právech a kapitálové účasti, počty zaměstnanců po státech (2letý průměr), doklad o (ne)jmenování reprezentanta, rozhodnutí o úpadku.
+
+**2. Právní otázka.** Kdo je řídícím zaměstnavatelem a co je „ústředím", sídlí-li ovládající holding mimo EU a nejmenoval reprezentanta, a jak se počítá počet zaměstnanců pro účely kvalifikace?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 289 odst. 1 (řídící zaměstnavatel — kritéria a)–c): jmenování > 1/2 orgánů, většina hlasovacích práv, většinový kapitálový podíl; vyvratitelná domněnka silnějšího vlivu; vyloučení finanční účasti dle nař. 139/2004; vyloučení insolvence), odst. 2 (ústředí — primárně řídící zaměstnavatel; jinak reprezentant; jinak zaměstnavatel s největším počtem zaměstnanců), odst. 4 (2letý průměr; povinnost poskytnout informace o počtech a struktuře), odst. 5 (subsidiární použití § 276 a § 278 odst. 2–4).
+- *Související ustanovení téhož zákona:* § 288 odst. 4, 5 (prahy), § 290 (vyjednávací výbor), § 276 odst. 8 (procesní subjektivita i bez sídla ústředí v ČR).
+- *Související předpisy:* nařízení (ES) č. 139/2004 (kontrola spojování); insolvenční zákon č. 182/2006 Sb.; směrnice 2009/38/ES.
+- *Judikatura:* výklad v souladu se směrnicí 2009/38/ES (zajištění určitelného partnera v EU).
+
+**4. Subsumpce.** Holding disponuje většinou hlasovacích práv [odst. 1 písm. b)] a většinovým podílem [písm. c)] — je řídícím zaměstnavatelem, není-li prokázán silnější vliv jiného (vyvratitelná domněnka). Protože sídlí mimo EU a nejmenoval reprezentanta, za ústředí se podle odst. 2 považuje zaměstnavatel s největším počtem zaměstnanců v EU — Nizozemsko (1 800). Počty se počítají jako 2letý průměr (odst. 4). Na zaměstnavatele v insolvenci se úprava řídícího zaměstnavatele nepoužije (odst. 1 in fine).
+
+**5. Řešení.** Partnerem zaměstnaneckého vyjednávání (ústředím) je nizozemský zaměstnavatel s největším počtem zaměstnanců; vůči němu se uplatní právo na nadnárodní informace a projednání. Holding na Kajmanech je sice řídícím zaměstnavatelem podle kritérií, ale bez sídla/reprezentanta v EU se ústředí přesouvá na největšího zaměstnavatele. Pro ověření kvalifikace mají ústředí i každý zaměstnavatel povinnost poskytnout počty a strukturu zaměstnanců (odst. 4). Subsidiárně se použijí § 276 a § 278 odst. 2–4; procesní subjektivita rady platí, i když ústředí nesídlí v ČR (odst. 5 ve spojení s § 276 odst. 8). Insolvenční dceřiná společnost se z konstrukce řízení vyjímá.
+
+**6. Varianty.** (a) Kdyby holding jmenoval reprezentanta v Rakousku, stalo by se ústředím Rakousko (reprezentant), nikoli Nizozemsko. (b) Kdyby ovládající subjekt byl pouze investičním fondem ve smyslu čl. 3 odst. 5 písm. a)/c) nař. 139/2004, nepovažoval by se za řídícího zaměstnavatele a řízení by se určilo podle jiného subjektu skupiny.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „není koho oslovit".* Skupina tvrdí, že bez sídla ústředí v EU nelze nárok uplatnit. Neutralizace: odst. 2 stanoví náhradní ústředí (reprezentant, jinak největší zaměstnavatel), takže partner v EU vždy existuje.
+- *Protiargument „holding nás neřídí operativně".* Namítá se pouze finanční účast. Neutralizace: vyloučení podle nař. 139/2004 se týká jen investiční účasti vymezeného typu; držba většiny hlasovacích práv a podílu zakládá postavení řídícího zaměstnavatele (vyvratitelná domněnka).
+- *Slabé místo.* Vyvratitelnost domněnky (silnější vliv jiného subjektu) a posouzení „operativní vs. finanční" účasti jsou skutkově náročné; chybějící data o struktuře řízení mohou určení ústředí zkomplikovat.
+
+#### H. Praktický závěr
+
+Řídícím zaměstnavatelem je ten, kdo skupinu ovládá (jmenování > 1/2 orgánů, většina hlasů nebo většinový podíl), nejde-li o pouhou finanční účast dle nař. 139/2004; v insolvenci se konstrukce nepoužije. Ústředím je řídící zaměstnavatel, a nesídlí-li v EU/EHP, reprezentant, jinak zaměstnavatel s největším počtem zaměstnanců — vždy tak existuje partner v EU. Počty se zjišťují 2letým průměrem a každý zaměstnavatel je povinen je poskytnout. Subsidiárně platí § 276 a § 278 odst. 2–4.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kdo splňuje kritéria řídícího zaměstnavatele (jmenování orgánů / hlasovací práva / kapitálový podíl) — odst. 1?
+- [ ] Nejde o vyloučenou finanční účast (nař. 139/2004) nebo o vztah v insolvenci?
+- [ ] Sídlí ústředí v EU/EHP? Pokud ne, je jmenován reprezentant, jinak nastupuje zaměstnavatel s nejvíce zaměstnanci (odst. 2).
+- [ ] Byly poskytnuty informace o počtech a struktuře zaměstnanců (2letý průměr — odst. 4)?
+- [ ] Aplikováno subsidiární použití § 276 a § 278 odst. 2–4, včetně procesní subjektivity i bez sídla ústředí v ČR (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o hlasovacích právech, kapitálové účasti a jmenování orgánů, organizační schéma řízení skupiny, počty zaměstnanců po státech (2letý průměr), doklad o jmenování/nejmenování reprezentanta, rozhodnutí o úpadku.
+
 ---
 
 ### § 290 — Vyjednávací výbor
@@ -1111,6 +1629,43 @@ Pro Českou republiku jsou členové vyjednávacího výboru jmenováni **zástu
 
 Odst. 5 rozšiřuje aplikaci na situace, kdy je v ČR **pouze organizační složka** zaměstnavatele s evropskou působností (nikoli vlastní zaměstnavatel s českou právní osobností).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Skupina OMIKRON (10 000 zaměstnanců v EU: Německo 5 000, Francie 2 500, ČR 1 500, Polsko 1 000) má být zahrnuta do vyjednávání o evropské radě zaměstnanců. V ČR působí u jedné dceřiné společnosti odborová organizace a rada zaměstnanců, u druhé žádný zástupce. Žádost o zahájení podepíše 120 zaměstnanců ze 3 států. Vzniká spor, kolik členů vyjednávacího výboru připadá na ČR a jak se za českou část jmenují, působí-li u jednoho zaměstnavatele dva zástupci a u druhého žádný. Důkazy: počty zaměstnanců po státech, žádost s podpisy, doklad o působení zástupců u jednotlivých českých zaměstnavatelů.
+
+**2. Právní otázka.** Kolik členů vyjednávacího výboru připadá na ČR podle pravidla „1 člen za každých započatých 10 %", a jak se členové za ČR jmenují, jsou-li u jedněch zaměstnavatelů zástupci a u jiných nikoli, případně působí-li jich více?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 290 odst. 1 (účel výboru), odst. 2 (iniciace: ústředí, nebo ≥ 100 zaměstnanců z ≥ 2 zaměstnavatelů ve ≥ 2 státech, nebo jejich zástupci), odst. 3 (poměrné zastoupení: 1 člen za každých započatých 10 % z celkového počtu), odst. 4 (jmenování za ČR zástupci na společném zasedání; bez zástupců volba zaměstnanci; vážené hlasování; pluralita zástupců jedná společně), odst. 5 (i pro organizační složku v ČR).
+- *Související ustanovení téhož zákona:* § 286 odst. 6 (zastoupení nečlenů největším odborem — obdobně v evropském kontextu via § 297 odst. 1), § 291 (postup vyjednávání), § 296 (rada podle zákona).
+- *Související předpisy:* směrnice 2009/38/ES.
+- *Judikatura:* výklad v souladu se směrnicí 2009/38/ES (zajištění reprezentativního a poměrného složení).
+
+**4. Subsumpce.** ČR má 1 500 z 10 000, tj. 15 % — „za každých započatých 10 %" znamená 2 členy (15 % spadá do druhého započatého desetiprocentního pásma). Za českou část jmenují členy zástupci zaměstnanců na společném zasedání (odst. 4); u zaměstnavatele bez zástupců si zaměstnanci zvolí zástupce pro účast; působí-li u jednoho zaměstnavatele dva zástupci (odbory + rada), jednají společně, nedohodnou-li se jinak. Hlasy na společném zasedání se rozdělí poměrně podle počtu zastupovaných zaměstnanců.
+
+**5. Řešení.** Na ČR připadají 2 členové vyjednávacího výboru. Svolá se společné zasedání zástupců zaměstnanců všech českých částí; za zaměstnavatele bez zástupců se účastní zaměstnanci zvolený zástupce, za zaměstnavatele s pluralitou zástupců vystupují tito společně. Vážené hlasování podle počtu zastupovaných zaměstnanců určí, kdo bude 2 členy za ČR jmenovat. Pravidlo platí i tam, kde je v ČR jen organizační složka (odst. 5). Riziko: opomenutí zaměstnanců u zaměstnavatele bez zástupců by porušilo reprezentativnost.
+
+**6. Varianty.** (a) Kdyby na ČR připadlo 1 200 zaměstnanců (12 %), stále by to byli 2 členové; teprve při < 10 % (např. 900 = 9 %) by připadl 1 člen. (b) Kdyby žádost podepsalo méně než 100 zaměstnanců nebo jen z 1 státu, nebyla by způsobilá iniciovat vyjednávání (odst. 2) a postup by se nezahájil (ledaže z iniciativy ústředí).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozhoduje zaměstnavatel, koho jmenovat".* Zaměstnavatel chce určovat české členy. Neutralizace: odst. 4 svěřuje jmenování zástupcům zaměstnanců (resp. zaměstnancům), nikoli zaměstnavateli; ten jen zajišťuje podmínky a nese náklady.
+- *Protiargument „zaměstnanci bez zástupců se neúčastní".* Tvrdí se, že kde nejsou zástupci, ČR je zastoupena jen ostatními. Neutralizace: odst. 4 výslovně umožňuje zaměstnancům bez zástupců zvolit si zástupce pro společné zasedání — nesmějí být vynecháni.
+- *Slabé místo.* Výpočet „započatých 10 %" je třeba aplikovat přesně (zaokrouhlení nahoru po desetiprocentních pásmech); chyba ve výpočtu nebo v určení rozhodného počtu (2letý průměr — § 289 odst. 4) může zpochybnit složení výboru.
+
+#### H. Praktický závěr
+
+Vyjednávací výbor je ad hoc orgán pro vyjednávání s ústředím o evropské radě nebo jiném postupu; iniciuje jej ústředí nebo ≥ 100 zaměstnanců z ≥ 2 zaměstnavatelů ve ≥ 2 státech. Počet členů za stát se určí poměrně — 1 člen za každých započatých 10 % celkového počtu. Za ČR jmenují členy zástupci zaměstnanců na společném zasedání s váženým hlasováním; zaměstnanci bez zástupců si zvolí zástupce, pluralita zástupců jedná společně. Pravidla platí i pro organizační složku v ČR.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla žádost podána ústředím nebo ≥ 100 zaměstnanci z ≥ 2 zaměstnavatelů ve ≥ 2 členských státech (odst. 2)?
+- [ ] Kolik členů připadá na ČR podle „1 člen za každých započatých 10 %" z celkového počtu (odst. 3)?
+- [ ] Proběhlo společné zasedání zástupců zaměstnanců za ČR s váženým hlasováním (odst. 4)?
+- [ ] Měli zaměstnanci u zaměstnavatelů bez zástupců možnost zvolit si zástupce pro účast?
+- [ ] Jednají při pluralitě zástupců u jednoho zaměstnavatele společně (nedohodnou-li se jinak)?
+
+**Typicky rozhodné důkazy / podklady:** počty zaměstnanců po státech (2letý průměr), žádost o zahájení s podpisy, doklad o působení zástupců u jednotlivých českých zaměstnavatelů, zápis ze společného zasedání a o váženém hlasování, jmenovací listiny členů za ČR.
+
 ---
 
 ### § 291 — Postup vyjednávání
@@ -1157,6 +1712,43 @@ musí být vedeno **s cílem dosáhnout shody**. Tato klauzule je obdobou § 278
 - ústředí informuje **zaměstnavatele** o místu a datu (aby ten zajistil organizační podporu);
 - **Náklady** na činnost vyjednávacího výboru **hradí zaměstnavatel** (návaznost na § 288 odst. 2 — výčet nákladů, které zahrnují cestovné, ubytování, tlumočení atd.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vyjednávací výbor skupiny PÍ má 11 členů. Ústředí po doručení informace o složení výboru otálí se svoláním ustavující schůze čtyři měsíce a odmítá hradit tlumočení a cestovné členů z odlehlejších států. Na první schůzi chce výbor přizvat externího odborníka na pracovní právo a sejít se před jednáním s ústředím odděleně; ústředí oboje odmítá. Při hlasování o návrhu společné pozice je přítomno 6 členů, pro hlasují 4. Důkazy: doručení informace o složení výboru, datum svolání schůze, korespondence o nákladech, zápis o hlasování a počtu přítomných.
+
+**2. Právní otázka.** Jaké povinnosti má ústředí při ustavení a financování vyjednávacího výboru, má výbor právo na oddělené zasedání a přizvání odborníka, a je usnesení přijaté 4 hlasy z 11 členů (při 6 přítomných) platné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 291 odst. 1 (svolání ustavující schůze bez zbytečného odkladu; informování evropských organizací; volba předsedy; právo na oddělené zasedání před i po jednání; přizvání odborníků jako poradců), odst. 2 (usnesení nadpoloviční většinou všech členů), odst. 3 (jednání s cílem dosáhnout shody), odst. 4 (místa a data dohodou; náklady hradí zaměstnavatel).
+- *Související ustanovení téhož zákona:* § 288 odst. 2 (výčet hrazených nákladů — tlumočení, cestovné, ubytování, školení, 1 odborník), § 292 (ukončení — 2/3 většina), § 290 (složení výboru).
+- *Související předpisy:* směrnice 2009/38/ES; čl. 154 Smlouvy o fungování EU (uznané evropské organizace).
+- *Judikatura:* výklad v souladu se směrnicí 2009/38/ES (vedení vyjednávání v dobré víře, zajištění podmínek).
+
+**4. Subsumpce.** Čtyřměsíční otálení se svoláním není „bez zbytečného odkladu" (odst. 1) — porušení; navíc po 6 měsících nečinnosti by hrozilo ustavení rady přímo podle zákona [§ 296 odst. 1 písm. b)]. Náklady na tlumočení a cestovné hradí zaměstnavatel (odst. 4 ve spojení s § 288 odst. 2) — odmítnutí je protiprávní. Právo na oddělené zasedání a přizvání 1 odborníka (jako poradce) výbor má (odst. 1; náklady na 1 odborníka kryje § 288 odst. 2). Usnesení vyžaduje nadpoloviční většinu VŠECH členů (odst. 2), tj. alespoň 6 z 11; 4 hlasy nestačí — usnesení nebylo platně přijato.
+
+**5. Řešení.** Ústředí je povinno bezodkladně svolat schůzi, hradit tlumočení, cestovné a ubytování členů, umožnit oddělené zasedání a účast 1 odborníka jako poradce. Usnesení přijaté 4 z 11 členů je neplatné — k platnosti je třeba 6 hlasů (nadpoloviční většina všech). Výbor by měl hlasování zopakovat s dostatečnou účastí. Trvá-li obstrukce ústředí, hrozí mu po 6 měsících nečinnosti, resp. po 3 letech bez dohody, ustavení evropské rady podle zákona (§ 296). Náklady činnosti výboru jdou k tíži zaměstnavatele.
+
+**6. Varianty.** (a) Kdyby pro usnesení hlasovalo 6 z 11 členů, bylo by platné, i kdyby ostatní byli proti nebo nepřítomni. (b) Kdyby výbor chtěl přizvat tři placené odborníky, zaměstnavatel by ze zákona hradil jen jednoho (§ 288 odst. 2); úhradu dalších by bylo nutné dohodnout s ústředím.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „náklady neneseme nad rámec nutného".* Ústředí odmítá tlumočení a cestovné. Neutralizace: § 291 odst. 4 a § 288 odst. 2 výslovně ukládají zaměstnavateli hradit organizaci schůzí, tlumočení, cestovné, ubytování, školení a 1 odborníka.
+- *Protiargument „rozhodla většina přítomných".* Tvrdí se, že stačí většina přítomných. Neutralizace: odst. 2 vyžaduje nadpoloviční většinu VŠECH členů výboru, nikoli jen přítomných; 4 z 11 nestačí.
+- *Slabé místo.* Lhůta „bez zbytečného odkladu" je neurčitá; aby z otálení plynul následek (ustavení rady podle zákona), je třeba dosáhnout zákonných hranic 6 měsíců/3 let (§ 296), což vyžaduje čas a evidenci.
+
+#### H. Praktický závěr
+
+Ústředí musí bez zbytečného odkladu svolat ustavující schůzi vyjednávacího výboru, informovat uznané evropské organizace a financovat činnost výboru (tlumočení, cestovné, ubytování, školení, 1 odborník). Výbor volí předsedu, má právo na oddělené zasedání před i po jednání a na přizvání odborníků jako poradců; jedná s cílem dosáhnout shody. Usnesení se přijímají nadpoloviční většinou všech členů. Obstrukce ústředí vede po 6 měsících/3 letech k ustavení evropské rady přímo podle zákona (§ 296).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Svolalo ústředí ustavující schůzi bez zbytečného odkladu a informovalo uznané evropské organizace (odst. 1)?
+- [ ] Hradí zaměstnavatel náklady činnosti výboru (tlumočení, cestovné, ubytování, školení, 1 odborník) — odst. 4, § 288 odst. 2?
+- [ ] Bylo umožněno oddělené zasedání a přizvání odborníka jako poradce (odst. 1)?
+- [ ] Bylo usnesení přijato nadpoloviční většinou VŠECH členů výboru (odst. 2)?
+- [ ] Hrozí při obstrukci ústředí ustavení rady podle zákona (6 měsíců nečinnosti / 3 roky bez dohody — § 296)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o doručení informace o složení výboru a datu svolání schůze, korespondence o financování, zápisy z jednání a oddělených zasedání, evidence přítomnosti a hlasování, doklady o nákladech (tlumočení, cestovné, odborník).
+
 ---
 
 ### § 292 — Ukončení vyjednávání
@@ -1174,6 +1766,43 @@ musí být vedeno **s cílem dosáhnout shody**. Tato klauzule je obdobou § 278
 3. **Notifikace** — zápis se zasílá **ústředí**, které informuje zaměstnavatele a zaměstnance/zástupce.
 4. **Blokace nové iniciativy** — nová žádost o ustavení vyjednávacího výboru podle § 290 odst. 2 může být podána **nejdříve za 2 roky** od tohoto usnesení. Tato „karenční doba" zabraňuje opakovaným pokusům bez nového kontextu.
 5. **Kratší doba dohodou** — ústředí a vyjednávací výbor mohou ujednat kratší dobu (např. v případě podstatné změny okolností).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vyjednávací výbor skupiny RÓ (9 členů) dospěje k závěru, že zřízení evropské rady zaměstnanců je pro ně v dané fázi nevýhodné (probíhající restrukturalizace, nejistá budoucnost). Na zasedání hlasuje o ukončení vyjednávání: pro je 5 členů, proti 4. Předseda prohlásí vyjednávání za ukončené, sepíše zápis a podepíší jej 4 členové, kteří hlasovali pro (pátý se mezitím vzdal funkce). Po roce skupina stabilizuje situaci a 100 zaměstnanců chce podat novou žádost o ustavení výboru. Důkazy: zápis o hlasování a počtu hlasů, podpisy pod zápisem, datum usnesení, nová žádost a její datum.
+
+**2. Právní otázka.** Bylo usnesení o ukončení vyjednávání přijato požadovanou dvoutřetinovou většinou všech členů, jaké jsou jeho formální náležitosti a kdy nejdříve lze podat novou žádost podle § 290 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 292 (usnesení o nezahájení/ukončení vyjednávání nejméně dvoutřetinovou většinou hlasů všech členů; písemný zápis podepsaný členy, kteří usnesení přijali; notifikace ústředí → zaměstnavateli a zaměstnancům; nová žádost nejdříve za 2 roky, nedohodnou-li ústředí a výbor kratší dobu).
+- *Související ustanovení téhož zákona:* § 291 odst. 2 (běžná usnesení nadpoloviční většinou — kontrast), § 290 odst. 2 (žádost o ustavení výboru), § 296 odst. 1 písm. c) (3 roky bez dohody bez usnesení dle § 292 → rada podle zákona).
+- *Související předpisy:* směrnice 2009/38/ES.
+- *Judikatura:* výklad v souladu se směrnicí 2009/38/ES (vyšší kvórum jako ochrana před unáhleným opt-outem).
+
+**4. Subsumpce.** Výbor má 9 členů; dvoutřetinová většina všech činí 6 hlasů (2/3 z 9 = 6). Pro ukončení hlasovalo jen 5 — usnesení nebylo platně přijato. Pozdější vzdání se jednoho člena na již proběhlém hlasování nic nemění; rozhodný je počet hlasů „pro" v okamžiku hlasování vůči celkovému počtu členů. Zápis podepsaný jen 4 členy navíc neodpovídá tomu, že usnesení přijalo 5 (a vůbec nebylo platné).
+
+**5. Řešení.** Usnesení o ukončení vyjednávání je neplatné pro nedostatek dvoutřetinové většiny (5 z 9, vyžadováno 6). Vyjednávání tedy formálně neskončilo; výbor pokračuje, případně hlasování zopakuje s dostatečnou většinou. Pokud by usnesení platně přijato nebylo a do 3 let od žádosti by nedošlo k dohodě, ustaví se evropská rada přímo podle zákona [§ 296 odst. 1 písm. c)]. Byla-li by 2/3 většina dosažena, zápis by musely podepsat členové, kteří usnesení přijali, a nová žádost by šla podat nejdříve za 2 roky (nedohodne-li se kratší doba).
+
+**6. Varianty.** (a) Kdyby pro ukončení hlasovalo 6 z 9 členů, usnesení by bylo platné; běžela by 2letá blokace nové žádosti. (b) Kdyby ústředí a výbor ujednaly kratší blokační dobu (např. 1 rok), nová žádost by byla přípustná dříve.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „většina pro stačí".* Tvrdí se, že postačí prostá většina hlasujících. Neutralizace: § 292 vyžaduje kvalifikovanou dvoutřetinovou většinu všech členů, nikoli prostou většinu (to je režim § 291 odst. 2 pro běžná usnesení).
+- *Protiargument „blokace neplatí".* Namítá se možnost podat novou žádost ihned. Neutralizace: po platném usnesení dle § 292 lze novou žádost podat nejdříve za 2 roky, nedohodnou-li ústředí a výbor kratší dobu.
+- *Slabé místo.* Pokud usnesení není platné, vzniká nejistota o tom, zda vyjednávání běží; je nutné přesně evidovat počty členů a hlasů, jinak hrozí spor o aktivaci § 296.
+
+#### H. Praktický závěr
+
+Vyjednávací výbor může vyjednávání nezahájit nebo ukončit, ale jen usnesením přijatým dvoutřetinovou většinou hlasů všech členů; o usnesení se sepíše zápis podepsaný členy, kteří je přijali, a notifikuje se ústředí (to informuje zaměstnavatele a zaměstnance). Po platném usnesení lze novou žádost podat nejdříve za 2 roky (lze sjednat kratší dobu). Neplatné usnesení vyjednávání neukončí a při 3letém bezvýsledném průběhu hrozí ustavení rady podle zákona (§ 296).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo usnesení o ukončení/nezahájení přijato dvoutřetinovou většinou hlasů VŠECH členů výboru?
+- [ ] Byl sepsán písemný zápis a podepsán členy, kteří usnesení přijali?
+- [ ] Byla notifikace zaslána ústředí, které informovalo zaměstnavatele a zaměstnance/zástupce?
+- [ ] Je dodržena 2letá blokace nové žádosti (nebo sjednaná kratší doba)?
+- [ ] Nebylo-li usnesení platné: nehrozí po 3 letech bez dohody ustavení rady podle zákona [§ 296 odst. 1 písm. c)]?
+
+**Typicky rozhodné důkazy / podklady:** zápis o hlasování s počtem hlasů a celkovým počtem členů, podpisy členů pod zápisem, doklad o notifikaci ústředí a dalšího informování, datum usnesení a datum nové žádosti, případná dohoda o kratší blokační době.
 
 ---
 
@@ -1198,6 +1827,43 @@ Strany **nejsou vázány § 296 až 298** (subsidiární zákonný režim) — m
 #### Rozšíření na třetí státy (odst. 2)
 
 Strany mohou ujednat **rozšíření evropské rady o zástupce z třetích států** (států mimo EU/EHP). Toto rozšíření je dispozitivní — zákon ani směrnice je nepředepisují, ale často je vhodné pro globální korporace, kde rozhodnutí mají dopady i mimo EU (např. dceřiné společnosti v USA, UK po Brexitu, Švýcarsku, Číně).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Vyjednávací výbor a ústředí skupiny SIGMA se shodnou na zřízení evropské rady zaměstnanců „šité na míru" — chtějí se odchýlit od zákonného modelu (§ 296–298), stanovit vlastní počet členů, četnost jednání a financování. Současně chce ústředí do rady zahrnout i zástupce zaměstnanců z dceřiných společností v USA a Švýcarsku, aby měla rada globální charakter. Výbor souhlasí. Důkazy: návrh ujednání, doklad o souhlasu obou stran, organizační mapa skupiny včetně třetích států.
+
+**2. Právní otázka.** Mohou se ústředí a vyjednávací výbor při ujednání o evropské radě odchýlit od zákonného modelu (§ 296–298) a rozšířit radu o zástupce ze států mimo EU/EHP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 293 odst. 1 (ústředí a výbor si mohou ujednat evropskou radu nebo jiný postup; přitom nejsou vázáni § 296 až 298), odst. 2 (možnost rozšíření rady o zástupce zaměstnanců ze států mimo EU, ujednají-li to ústředí a výbor).
+- *Související ustanovení téhož zákona:* § 294 (obsahové náležitosti ujednání o evropské radě), § 295 (jiný postup), § 296–298 (subsidiární zákonný režim — neaplikuje se při ujednání), § 289 odst. 3 (územní rozsah dispozitivní).
+- *Související předpisy:* směrnice 2009/38/ES (priorita ujednání před zákonným modelem).
+- *Judikatura:* výklad v souladu se směrnicí 2009/38/ES (smluvní autonomie stran při utváření orgánu).
+
+**4. Subsumpce.** § 293 odst. 1 výslovně zprošťuje strany vázanosti § 296–298 — ujednání o vlastním počtu členů, četnosti jednání a financování je tedy přípustné (smluvní autonomie). Rozšíření rady o zástupce ze třetích států (USA, Švýcarsko) je podle odst. 2 možné, ujednají-li to obě strany; jde o dobrovolné rozšíření nad rámec EU/EHP. Ujednání musí splňovat obsahové minimum § 294 (písemná forma, povinné náležitosti).
+
+**5. Řešení.** Strany mohou uzavřít ujednání odchylné od zákonného modelu (§ 296–298 se neuplatní) a zahrnout do rady zástupce z USA a Švýcarska (odst. 2). Ujednání musí být písemné a obsahovat náležitosti § 294 [zejména písm. a)–i)], včetně způsobu propojení s vnitrostátním informováním a projednáním, jež zůstává nedotčeno (§ 279, 280, 287). Subsidiární zákonný režim by nastoupil jen tehdy, pokud by k ujednání nedošlo. Riziko: opomenutí náležitostí § 294 (zejména propojení s národní úrovní) může vést k aplikaci fallbacku § 295a.
+
+**6. Varianty.** (a) Kdyby strany ujednání neuzavřely, ustavila by se rada subsidiárně podle zákona (§ 296–298) s pevně danými parametry. (b) Kdyby ujednání nevymezilo propojení s vnitrostátní úpravou, nastoupila by povinnost podle § 295a (nadnárodní informování a projednání u opatření se závažnými dopady).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „musíte dodržet zákonný model".* Namítá se vázanost § 296–298. Neutralizace: § 293 odst. 1 výslovně stanoví, že při ujednání jím strany vázány nejsou; zákonný model je jen subsidiární.
+- *Protiargument „třetí státy nelze zahrnout".* Tvrdí se, že rada je omezena na EU/EHP. Neutralizace: odst. 2 výslovně umožňuje rozšíření o zástupce ze států mimo EU, ujednají-li to strany; jde o dobrovolné rozšíření.
+- *Slabé místo.* Smluvní volnost nezbavuje strany povinného obsahu § 294 a respektu k vnitrostátní úrovni (§ 279, 280, 287); přílišné „ušití na míru" s mezerami aktivuje fallback § 295a.
+
+#### H. Praktický závěr
+
+Ústředí a vyjednávací výbor mají při ujednání o evropské radě (nebo jiném postupu) širokou smluvní autonomii a nejsou vázáni subsidiárním zákonným modelem (§ 296–298). Radu lze dobrovolně rozšířit o zástupce ze třetích států (odst. 2). Ujednání musí být písemné a obsahovat náležitosti § 294, zejména propojení s vnitrostátním informováním a projednáním, které zůstává nedotčeno. Bez ujednání nastupuje zákonný model; s mezerami v ujednání fallback § 295a.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje písemné ujednání ústředí a vyjednávacího výboru o evropské radě nebo jiném postupu?
+- [ ] Využívají strany smluvní autonomie (odchylka od § 296–298 je přípustná — odst. 1)?
+- [ ] Má být rada rozšířena o zástupce ze států mimo EU? Pak je to možné jen ujednáním (odst. 2).
+- [ ] Obsahuje ujednání náležitosti § 294, zejména propojení s vnitrostátní úrovní (§ 279, 280, 287 nedotčeny)?
+- [ ] Nehrozí při mezerách aktivace fallbacku § 295a?
+
+**Typicky rozhodné důkazy / podklady:** návrh a text ujednání, doklad o souhlasu obou stran, organizační mapa skupiny (včetně třetích států), doklad o vymezení propojení s vnitrostátní úrovní.
 
 ---
 
@@ -1245,6 +1911,43 @@ Strany mohou ujednat **rozšíření evropské rady o zástupce z třetích stá
 
 **Klíčový princip neporušitelnosti vnitrostátních norem [písm. g)]:** ujednání o evropské radě **neruší** vnitrostátní informování a projednání podle § 279, 280, 287 ZP. Evropská rada působí **paralelně** s národními zástupci, nikoli místo nich.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ústředí a vyjednávací výbor skupiny TAU uzavřou písemné ujednání o evropské radě. Ujednání určí zaměstnavatele, na něž se vztahuje, počet členů a financování, ale neobsahuje žádné ustanovení o tom, jak se evropská úroveň propojí s vnitrostátním informováním a projednáním, ani postup při organizačních změnách a podmínky výpovědi/změny ujednání. Po roce skupina chystá fúzi s dopady ve více státech a vzniká spor, zda se má informovat a projednávat na evropské i národní úrovni a jak ujednání případně změnit. Důkazy: text ujednání, doklad o absenci náležitostí, popis chystané fúze a jejích dopadů.
+
+**2. Právní otázka.** Jaké jsou povinné obsahové náležitosti písemného ujednání o evropské radě podle § 294 a jaké jsou důsledky jejich absence, zejména chybí-li propojení s vnitrostátní úpravou a postup při organizačních změnách?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 294 (písemná forma; povinné náležitosti — zejména: a) zaměstnavatelé, b) ustavení/složení/počet/funkční období s ohledem na činnost a pohlaví, c) místo/četnost/trvání jednání, d) úkoly a oprávnění, e) svolávání, f) financování, g) propojení s vnitrostátní úpravou — § 279, 280, 287 nedotčeny, h) postup při organizačních změnách, i) účinnost/výpověď/změny).
+- *Související ustanovení téhož zákona:* § 295a (fallback při chybějícím propojení), § 298a (postup při organizačních změnách), § 293 (smluvní autonomie), § 279, 280, 287 (vnitrostátní úroveň).
+- *Související předpisy:* směrnice 2009/38/ES (minimální obsah ujednání).
+- *Judikatura:* výklad v souladu se směrnicí 2009/38/ES (paralelní působení evropské a národní úrovně).
+
+**4. Subsumpce.** Ujednání splňuje část náležitostí [a), b), f)], ale chybí propojení s vnitrostátní úpravou [písm. g)], postup při organizačních změnách [písm. h)] a ustanovení o účinnosti/výpovědi/změnách [písm. i)]. Slovo „zejména" činí výčet demonstrativním co do dalších bodů, avšak vyjmenované náležitosti tvoří očekávané jádro; jejich absence se neřeší neplatností celého ujednání, ale doplňujícími zákonnými mechanismy. Chybějící propojení [g)] aktivuje § 295a; chybějící postup při změnách [h)] aktivuje § 298a.
+
+**5. Řešení.** Ujednání zůstává platné, ale mezery se vyplní zákonem: protože nevymezuje propojení s vnitrostátní úpravou, musí ústředí a zaměstnavatel u připravované fúze zajistit nadnárodní informování a projednání na všech relevantních úrovních (§ 295a); chybí-li postup při organizačních změnách, postupuje se obdobně podle § 290 odst. 2 (§ 298a). Vnitrostátní informování a projednání podle § 279, 280, 287 zůstává nedotčeno a probíhá paralelně. Stranám lze doporučit ujednání doplnit, zejména náležitosti g)–i). Riziko: spoléhání na mezery nezbavuje povinnosti informovat a projednat.
+
+**6. Varianty.** (a) Kdyby ujednání obsahovalo výslovné propojení s národní úrovní a postup při změnách, fallbacky § 295a a § 298a by se neuplatnily. (b) Kdyby strany místo evropské rady zvolily „jiný postup" (§ 295), platil by analogicky užší obsahový katalog § 295 [písm. a)–e)].
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „neúplné ujednání je neplatné".* Tvrdí se, že chybějící náležitosti ruší ujednání. Neutralizace: zákon na mezery reaguje doplňujícími mechanismy (§ 295a, § 298a), nikoli neplatností; ujednání zůstává v platné části účinné.
+- *Protiargument „evropská rada nahrazuje národní zástupce".* Namítá se, že stačí evropská úroveň. Neutralizace: písm. g) výslovně chrání vnitrostátní informování a projednání (§ 279, 280, 287) — evropská rada působí paralelně, nikoli místo národních zástupců.
+- *Slabé místo.* Výčet § 294 je demonstrativní, takže „povinnost" doplnit jednotlivou náležitost se opírá spíše o účel směrnice a fallback ustanovení než o sankci; vynutitelnost konkrétní klauzule je nepřímá (přes § 295a/§ 298a).
+
+#### H. Praktický závěr
+
+Ujednání o evropské radě musí být písemné a má obsahovat náležitosti § 294 [zejména a)–i)], jejichž jádrem je vymezení složení, jednání, financování, propojení s vnitrostátní úrovní a postupu při změnách. Absence náležitostí nezpůsobuje neplatnost, ale aktivuje zákonné fallbacky (§ 295a — chybějící propojení; § 298a — chybějící postup při organizačních změnách). Vnitrostátní informování a projednání (§ 279, 280, 287) zůstává vždy nedotčeno a působí paralelně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je ujednání písemné a obsahuje určení zaměstnavatelů, složení, počet členů a funkční období (s ohledem na činnost a pohlaví)?
+- [ ] Vymezuje místo/četnost jednání, svolávání a financování?
+- [ ] Obsahuje propojení s vnitrostátní úpravou [písm. g)]? Pokud ne, hrozí fallback § 295a.
+- [ ] Obsahuje postup při organizačních změnách [písm. h)]? Pokud ne, použije se § 298a.
+- [ ] Upravuje účinnost, výpověď a změny ujednání [písm. i)]?
+
+**Typicky rozhodné důkazy / podklady:** text ujednání o evropské radě, doklad o splnění/absenci jednotlivých náležitostí, popis chystaných organizačních změn a jejich nadnárodních dopadů, doklady o paralelním plnění vnitrostátních povinností.
+
 ---
 
 ### § 295 — Ujednání o jiném postupu pro nadnárodní informace a projednání
@@ -1279,6 +1982,43 @@ Strany mohou ujednat **rozšíření evropské rady o zástupce z třetích stá
 
 Forma je opět **písemná**. Strany mají větší volnost než u evropské rady — neexistuje stálý orgán, není stanoven způsob jeho ustavení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ústředí a vyjednávací výbor skupiny YPSILON nechtějí zřizovat stálou evropskou radu. Místo toho uzavřou písemné ujednání o „jiném postupu" — dohodnou se na ad hoc konzultacích: ústředí jednou ročně rozešle zástupcům zaměstnanců zprávu o nadnárodních záležitostech a uspořádá videokonferenci. Ujednání vymezí předmět informací, ale neupraví, jak se zástupci mohou sejít k samostatnému projednání mezi sebou, ani postup při podstatných organizačních změnách. Po roce nastane prodej významné divize ve více státech. Důkazy: text ujednání o jiném postupu, doklad o absenci náležitostí, popis organizační změny.
+
+**2. Právní otázka.** Jaké jsou povinné náležitosti písemného ujednání o „jiném postupu pro nadnárodní informace a projednání" podle § 295 a jak se řeší absence úpravy společného projednání zástupců a postupu při organizačních změnách?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 295 (písemná forma; náležitosti — a) předmět nadnárodních informací a projednání týkajících se důležitých zájmů zaměstnanců, b) způsob a zajištění společného projednání informací mezi zástupci, c) způsob projednávání s ústředím/příslušným stupněm řízení, d) propojení s vnitrostátní úpravou — § 279, 280, 287 nedotčeny, e) postup při podstatných organizačních změnách).
+- *Související ustanovení téhož zákona:* § 294 (evropská rada — kontrastní, podrobnější model), § 295a (fallback při chybějícím propojení), § 298a (organizační změny), § 288 odst. 2 (financování).
+- *Související předpisy:* směrnice 2009/38/ES (alternativa k evropské radě).
+- *Judikatura:* výklad v souladu se směrnicí 2009/38/ES (účinnost postupu a paralelní vnitrostátní úroveň).
+
+**4. Subsumpce.** Ujednání vymezuje předmět [písm. a)] a projednávání s ústředím [písm. c)], ale chybí způsob společného projednání mezi zástupci [písm. b)], propojení s vnitrostátní úpravou [písm. d)] a postup při organizačních změnách [písm. e)]. „Jiný postup" má volnější rámec než evropská rada (není stálý orgán), ale musí být účinný (§ 288 odst. 2). Absence náležitostí d) a e) se řeší fallbacky (§ 295a, § 298a); absence b) oslabuje účinnost postupu.
+
+**5. Řešení.** Ujednání o jiném postupu je platné, avšak mezery se vyplní: chybějící propojení s národní úrovní aktivuje § 295a (u prodeje divize se závažnými dopady je nutné nadnárodní informování a projednání na relevantních úrovních), chybějící postup při organizačních změnách aktivuje § 298a. Zástupcům musí být fakticky umožněno se k informacím společně vyjádřit, jinak postup není „účinný" (§ 288 odst. 2). Vnitrostátní informování a projednání (§ 279, 280, 287) běží paralelně. Doporučení: doplnit náležitosti b), d), e). Riziko: čistě formální konzultace bez možnosti reálného projednání neobstojí.
+
+**6. Varianty.** (a) Kdyby strany zvolily evropskou radu (§ 294), platil by podrobnější obsahový katalog a stálý orgán. (b) Kdyby ujednání o jiném postupu výslovně upravilo společné projednání zástupců i postup při změnách, fallbacky by se neuplatnily a postup by byl plně funkční.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „jiný postup je neformální, náležitosti netřeba".* Tvrdí se, že volnost vylučuje povinný obsah. Neutralizace: § 295 stanoví minimální obsah i pro jiný postup (a)–e)); volnost se týká formy orgánu, ne úplné absence pravidel.
+- *Protiargument „roční zpráva stačí".* Namítá se, že jednostranné informování naplňuje postup. Neutralizace: postup musí umožnit i projednání (výměnu stanovisek) a společné projednání mezi zástupci [písm. b), c)]; pouhá zpráva bez možnosti reakce není dostatečná.
+- *Slabé místo.* „Účinnost" postupu je neurčitý standard; jeho nedodržení se prokazuje obtížně a opírá se spíše o účel směrnice a fallback ustanovení než o přímou sankci.
+
+#### H. Praktický závěr
+
+„Jiný postup pro nadnárodní informace a projednání" je flexibilní alternativou k evropské radě bez stálého orgánu, musí však být písemný, účinný a obsahovat náležitosti § 295 [a)–e)], včetně způsobu společného projednání mezi zástupci a projednávání s ústředím. Absence propojení s vnitrostátní úrovní nebo postupu při organizačních změnách se doplní fallbacky (§ 295a, § 298a). Vnitrostátní úroveň (§ 279, 280, 287) zůstává nedotčena.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je ujednání o jiném postupu písemné a vymezuje předmět nadnárodních informací a projednání [písm. a)]?
+- [ ] Zajišťuje způsob společného projednání informací mezi zástupci [písm. b)] a projednávání s ústředím [písm. c)]?
+- [ ] Obsahuje propojení s vnitrostátní úpravou [písm. d)]? Pokud ne, hrozí § 295a.
+- [ ] Upravuje postup při podstatných organizačních změnách [písm. e)]? Pokud ne, použije se § 298a.
+- [ ] Je postup fakticky účinný (umožňuje reálné projednání, ne jen jednostrannou zprávu) — § 288 odst. 2?
+
+**Typicky rozhodné důkazy / podklady:** text ujednání o jiném postupu, doklad o splnění/absenci náležitostí, doklady o reálném umožnění společného projednání zástupců, popis organizační změny a jejích dopadů, doklady o paralelním plnění vnitrostátních povinností.
+
 ---
 
 ### § 295a — Fallback při neúplném ujednání
@@ -1294,6 +2034,43 @@ Forma je opět **písemná**. Strany mají větší volnost než u evropské rad
 - na **všech partnerských úrovních** odpovídajících předmětu jednání.
 
 Toto pravidlo brání tomu, aby strany cíleně ponechaly mezery v ujednání a tím obešly povinnost informovat a projednávat.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Skupina FÍ má uzavřené ujednání o evropské radě, které ovšem mlčí o vztahu k vnitrostátnímu informování a projednání. Ústředí připraví rozsáhlou reorganizaci výroby, jež povede k přesunu části produkce mezi závody ve třech členských státech a ke změnám pracovních smluv stovek zaměstnanců. Ústředí tvrdí, že protože ujednání propojení s národní úrovní neřeší, nemá povinnost nic na nadnárodní úrovni projednávat, dokud to ujednání výslovně nestanoví. Zástupci namítají opak. Důkazy: text ujednání (absence propojení), popis reorganizace a jejích dopadů na organizaci práce a smlouvy, doklad o úrovních řízení.
+
+**2. Právní otázka.** Vzniká při absenci ujednaného propojení s vnitrostátní úpravou samostatná zákonná povinnost zajistit nadnárodní informování a projednání u opatření se závažnými dopady, nebo platí jen to, co je výslovně ujednáno?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 295a (nevymezuje-li ujednání podle § 294 a 295 propojení s vnitrostátním informováním a projednáním, musí ústředí a zaměstnavatel zajistit nadnárodní informování a projednání u připravovaných opatření, která by mohla způsobit závažné změny v organizaci práce nebo ve smluvních vztazích, na všech partnerských úrovních odpovídajících předmětu jednání).
+- *Související ustanovení téhož zákona:* § 294 písm. g), § 295 písm. d) (propojení, jehož absenci § 295a řeší), § 297 odst. 5 a 6 (obsah informování/projednání a mimořádné okolnosti — vodítko pro „závažné změny"), § 278 odst. 2 a 3 (pojmy).
+- *Související předpisy:* směrnice 2009/38/ES (zajištění účinnosti práva i při mezerách v ujednání).
+- *Judikatura:* výklad v souladu se směrnicí 2009/38/ES (antiobcházecí funkce).
+
+**4. Subsumpce.** Ujednání neobsahuje propojení s vnitrostátní úpravou — naplněna podmínka § 295a. Reorganizace vede k „závažným změnám v organizaci práce" a „ve smluvních vztazích" stovek zaměstnanců ve více státech — naplněn znak připravovaného opatření se závažnými dopady. Vzniká tedy přímo ze zákona povinnost zajistit nadnárodní informování a projednání na všech relevantních úrovních řízení odpovídajících předmětu, bez ohledu na mlčení ujednání.
+
+**5. Řešení.** Ústředí a zaměstnavatel jsou povinni zajistit nadnárodní informování a projednání reorganizace na všech partnerských úrovních (nikoli vyčkávat na výslovné ujednání). Námitka „není ujednáno, tedy není povinnost" neobstojí — § 295a je antiobcházecí pojistka. Současně platí vnitrostátní informování a projednání (§ 279, 280, 287). Zástupcům lze doporučit, aby se povinnosti domáhali s odkazem na § 295a a aby iniciovali doplnění ujednání. Riziko ústředí: nezajištění projednání zakládá porušení povinnosti (náhrada škody, přestupek).
+
+**6. Varianty.** (a) Kdyby ujednání propojení s národní úrovní výslovně upravovalo, postupovalo by se podle ujednání a § 295a by se neuplatnil. (b) Kdyby opatření nemělo „závažné" dopady (např. drobná organizační úprava v jednom závodě bez vlivu na smlouvy), povinnost podle § 295a by nevznikla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bez ujednání není povinnost".* Ústředí tvrdí, že povinnost vzniká jen tam, kde ji ujednání stanoví. Neutralizace: § 295a zakládá povinnost přímo ze zákona právě pro případ, že ujednání propojení neřeší; jde o pojistku proti účelovým mezerám.
+- *Protiargument „evropská rada existuje, to stačí".* Namítá se, že samotná existence rady plní účel. Neutralizace: § 295a míří na obsah (zajištění informování a projednání u závažných opatření), nikoli jen na existenci orgánu.
+- *Slabé místo.* Pojmy „závažné změny" a „všechny partnerské úrovně odpovídající předmětu jednání" jsou neurčité; rozsah povinnosti je nutné dovodit s pomocí § 297 odst. 5 a 6 (typové závažné záležitosti — převod, hromadné propouštění, podstatné změny organizace práce).
+
+#### H. Praktický závěr
+
+§ 295a je pojistka pro případ, že ujednání o evropské radě nebo jiném postupu neupravuje propojení s vnitrostátní úrovní: ústředí a zaměstnavatel pak musí přímo ze zákona zajistit nadnárodní informování a projednání u připravovaných opatření se závažnými dopady na organizaci práce nebo smluvní vztahy, na všech relevantních úrovních řízení. Mlčení ujednání nezbavuje povinnosti. Vnitrostátní úroveň (§ 279, 280, 287) působí paralelně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vymezuje ujednání (§ 294/§ 295) propojení s vnitrostátním informováním a projednáním? Pokud ne, aktivuje se § 295a.
+- [ ] Jde o připravované opatření s možnými závažnými změnami v organizaci práce nebo ve smluvních vztazích?
+- [ ] Bylo zajištěno nadnárodní informování a projednání na všech partnerských úrovních odpovídajících předmětu jednání?
+- [ ] Probíhá paralelně i vnitrostátní informování a projednání (§ 279, 280, 287)?
+- [ ] Nespoléhá ústředí na mezeru v ujednání jako na důvod nečinnosti (antiobcházecí funkce § 295a)?
+
+**Typicky rozhodné důkazy / podklady:** text ujednání (doklad o absenci propojení), popis připravovaného opatření a jeho dopadů na organizaci práce a smlouvy, doklad o dotčených úrovních řízení a státech, záznamy o zajištění/nezajištění nadnárodního projednání.
 
 ---
 
@@ -1340,6 +2117,43 @@ Mechanismus jmenování je analogický § 290 odst. 4 (pro vyjednávací výbor)
 #### Poměrné zastoupení (odst. 3)
 
 Princip totožný s § 290 odst. 3 — **1 člen za každých započatých 10 %** zaměstnanců z celkového počtu v členských státech.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanci skupiny CHÍ podají platnou žádost o ustavení evropské rady (§ 290 odst. 2). Ústředí po dobu 8 měsíců nereaguje — nesvolá ustavující schůzi výboru, nezahájí jednání. V jiné variantě jednání sice probíhá, ale po 3 letech od žádosti strany stále nedosáhly ujednání a výbor se neusnesl na ukončení vyjednávání podle § 292. Zástupci se ptají, zda a jak vznikne evropská rada bez ujednání s ústředím. Důkazy: žádost s datem, doklad o nečinnosti ústředí / o průběhu a délce vyjednávání, počty zaměstnanců po státech.
+
+**2. Právní otázka.** Za jakých podmínek se evropská rada zaměstnanců ustaví přímo podle zákona (bez ujednání) a jak se v takovém případě jmenují její členové?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 296 odst. 1 písm. a) (společné ujednání ústředí a výboru o ustavení podle zákona), písm. b) (ústředí odmítá zahájit jednání 6 měsíců od žádosti), písm. c) (3 roky od žádosti bez ujednání a bez usnesení dle § 292), odst. 2 (jmenování členů zástupci na společném zasedání; bez zástupců volba; pluralita → společný zástupce; vážené hlasování), odst. 3 (poměrné zastoupení: 1 člen za každých započatých 10 %).
+- *Související ustanovení téhož zákona:* § 290 odst. 2 (žádost), § 292 (ukončení vyjednávání), § 297 (postavení a činnost rady podle zákona), § 298 (vnitřní organizace).
+- *Související předpisy:* směrnice 2009/38/ES (subsidiární požadavky — „podpůrná pravidla").
+- *Judikatura:* výklad v souladu se směrnicí 2009/38/ES (sankce za obstrukci ústředí).
+
+**4. Subsumpce.** V první variantě ústředí 8 měsíců neodpovídá — překročena hranice 6 měsíců [odst. 1 písm. b)], rada se ustaví podle zákona. Ve druhé variantě uplynuly 3 roky od žádosti bez ujednání a bez usnesení dle § 292 — naplněno písm. c), rada se rovněž ustaví podle zákona. Členové se jmenují obdobně jako u vyjednávacího výboru (odst. 2): zástupci na společném zasedání, při pluralitě společný zástupce, vážené hlasování; poměrné zastoupení 1 člen za každých započatých 10 % (odst. 3).
+
+**5. Řešení.** V obou variantách vzniká evropská rada zaměstnanců přímo ze zákona (§ 296). Písm. b) a c) plní funkci sankce vůči obstrukčnímu nebo nečinnému ústředí — to nemůže blokováním vyjednávání zabránit vzniku rady. Po naplnění podmínek se svolá společné zasedání zástupců a jmenují se členové podle pravidel odst. 2 a 3; následně se použije § 297 (postavení, činnost, roční informování) a § 298 (vnitřní organizace). Riziko ústředí: pasivita nevede k absenci rady, ale k jejímu vzniku v zákonné (méně flexibilní) podobě.
+
+**6. Varianty.** (a) Kdyby se výbor do 3 let usnesl dvoutřetinovou většinou na ukončení vyjednávání (§ 292), rada by se podle písm. c) neustavila a běžela by 2letá blokace nové žádosti. (b) Kdyby ústředí jednání zahájilo a do 3 let dosáhlo ujednání (§ 294/§ 295), platil by ujednaný režim, nikoli zákonný model.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „bez dohody rada nevznikne".* Ústředí spoléhá, že bez ujednání orgán nevznikne. Neutralizace: § 296 odst. 1 písm. b) a c) zakládají vznik rady přímo ze zákona při nečinnosti/bezvýslednosti; dohoda není podmínkou.
+- *Protiargument „lhůty neběží, dokud nejednáme".* Tvrdí se, že nečinnost zastavuje běh lhůt. Neutralizace: lhůty 6 měsíců a 3 roky běží od podání žádosti podle § 290 odst. 2 bez ohledu na (ne)aktivitu ústředí.
+- *Slabé místo.* Přesné určení počátku a uplynutí lhůt (datum žádosti, prokázání nečinnosti) je důkazně významné; výbor musí evidovat průběh, aby aktivaci § 296 doložil.
+
+#### H. Praktický závěr
+
+Evropská rada zaměstnanců se ustaví přímo podle zákona, pokud to ústředí a výbor ujednají, nebo (sankčně) odmítá-li ústředí zahájit jednání po dobu 6 měsíců od žádosti, anebo nedojde-li do 3 let od žádosti k ujednání a výbor se neusnese na ukončení vyjednávání (§ 292). Členové se jmenují zástupci zaměstnanců na společném zasedání s váženým hlasováním a poměrným zastoupením (1 člen za každých započatých 10 %). Pasivita ústředí vzniku rady nezabrání.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dán některý z důvodů § 296 odst. 1 — ujednání stran, 6 měsíců nečinnosti ústředí, nebo 3 roky bez dohody a bez usnesení § 292?
+- [ ] Běží lhůty od podání žádosti podle § 290 odst. 2 (bez ohledu na aktivitu ústředí)?
+- [ ] Neusnesl se výbor na ukončení vyjednávání podle § 292 (to by vylučovalo písm. c))?
+- [ ] Jsou členové jmenováni zástupci na společném zasedání s váženým hlasováním (odst. 2)?
+- [ ] Je dodrženo poměrné zastoupení 1 člen za každých započatých 10 % (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** žádost o ustavení s datem doručení, doklad o nečinnosti ústředí nebo o průběhu a délce vyjednávání, případné usnesení výboru dle § 292, počty zaměstnanců po státech, zápis ze společného zasedání a jmenovací listiny.
 
 ---
 
@@ -1435,6 +2249,43 @@ Při **výjimečných okolnostech** nebo při rozhodnutích s **podstatným vliv
 
 **Procesní zjednodušení:** je-li ustaven výbor evropské rady (§ 298 odst. 2 — koordinační výbor max. 5 členů), může ústředí jednat s tímto výborem. Ovšem **členové evropské rady jmenovaní za zaměstnavatele, kterého se opatření týká**, mají právo účastnit se projednání — i kdyby nebyli ve výboru. Toto pravidlo zajišťuje, že přímo dotčení zaměstnanci mají hlas při rozhodování.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Evropská rada zaměstnanců skupiny PSÍ (ustavená podle zákona) funguje třetím rokem. Ústředí jí dosud ani jednou nepředložilo roční zprávu o ekonomické situaci a vývoji zaměstnanosti. Náhle ústředí rozhodne o převodu jednoho ze závodů v ČR a hromadném propouštění; informuje radu až po podpisu smlouvy a odmítne s ní cokoli projednat s tím, že „mimořádné jednání není povinné". Čeští členové rady, jichž se opatření přímo týká, nejsou k jednání s koordinačním výborem připuštěni. Důkazy: doklad o (ne)předložení roční zprávy, datum rozhodnutí o převodu/propouštění vs. datum informování rady, složení koordinačního výboru, doklad o dotčení českých členů.
+
+**2. Právní otázka.** Jaké jsou povinnosti ústředí vůči evropské radě v rovině pravidelného (ročního) a mimořádného informování a projednání, a mají členové rady jmenovaní za dotčeného zaměstnavatele právo účastnit se mimořádného projednání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 297 odst. 4 (funkční období 4 roky; rozhodnutí o dalším postupu 2/3 většinou), odst. 5 (nejméně jednou ročně informovat o organizačním uspořádání, ekonomické a finanční situaci, vývoji činnosti a projednat vývoj zaměstnanosti, investice, podstatné změny organizace práce, zrušení/převod, hromadné propouštění; zpráva i zaměstnavateli), odst. 6 (mimořádné okolnosti — bezodkladné informování a na žádost projednání; právo dotčených členů účastnit se; výjimečné okolnosti: zrušení/zánik/převod, hromadné propouštění).
+- *Související ustanovení téhož zákona:* § 298 odst. 2 (koordinační výbor max. 5 členů), § 62 (hromadné propouštění), § 338–342 (převod), § 295a (závažné změny).
+- *Související předpisy:* směrnice 2009/38/ES; směrnice 98/59/ES (hromadné propouštění); směrnice 2001/23/ES (převod).
+- *Judikatura:* NS 21 Cdo 4952/2014 (porušení informační/projednací povinnosti zakládá nárok na náhradu škody).
+
+**4. Subsumpce.** Nepředložení roční zprávy porušuje odst. 5 (pravidelné informování a projednání). Převod závodu a hromadné propouštění jsou výslovně „výjimečnými okolnostmi" [odst. 6 písm. a), b)] — ústředí mělo bez zbytečného odkladu informovat radu a na její žádost projednat opatření, a to PŘED jeho uskutečněním; informování až po podpisu smlouvy je porušením. Členové jmenovaní za dotčeného (českého) zaměstnavatele mají právo účastnit se mimořádného projednání i tehdy, jedná-li ústředí jen s koordinačním výborem (odst. 6) — jejich vyloučení je vadou.
+
+**5. Řešení.** Ústředí porušilo jak roční informační/projednací povinnost (odst. 5), tak povinnost mimořádného informování a projednání u převodu a hromadného propouštění (odst. 6); navíc protiprávně vyloučilo dotčené české členy. Důsledky: nárok na náhradu škody (NS 21 Cdo 4952/2014), přestupek; na vnitrostátní úrovni se uplatní samostatné režimy § 62 a § 339. Rada by měla zdokumentovat časovou osu, vyžádat projednání a uplatnit škodu. Riziko ústředí: opatření realizované bez mimořádného projednání zakládá odpovědnost, byť obecně nezpůsobuje neplatnost převodu.
+
+**6. Varianty.** (a) Kdyby ústředí předložilo roční zprávu a u převodu/propouštění informovalo radu předem a na žádost projednalo opatření za účasti dotčených členů, povinnosti by byly splněny. (b) Po uplynutí 4 let funkčního období by rada 2/3 většinou rozhodla, zda vyjednávat o novém ujednání, nebo se znovu ustavit podle zákona (odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „mimořádné jednání není povinné".* Ústředí popírá povinnost projednat mimořádné okolnosti. Neutralizace: odst. 6 výslovně ukládá bezodkladně informovat a na žádost projednat u výjimečných okolností (převod, hromadné propouštění); jde o povinnost, nikoli o dobrovolnost.
+- *Protiargument „stačí jednat s výborem".* Tvrdí se, že postačí koordinační výbor. Neutralizace: i při jednání s výborem mají dotčení členové (za zaměstnavatele, jehož se opatření týká) právo účasti (odst. 6); jejich vyloučení je vadou.
+- *Slabé místo.* Porušení odst. 5 a 6 obecně nezpůsobuje neplatnost navazujících úkonů (převodu, výpovědí); sankce je primárně náhrada škody a přestupek, což vyžaduje prokázání a vyčíslení škody.
+
+#### H. Praktický závěr
+
+Evropská rada ustavená podle zákona má 4leté funkční období a právo na pravidelné (nejméně roční) informování a projednání podle § 297 odst. 5 a na mimořádné informování a projednání u výjimečných okolností (zrušení/převod zaměstnavatele, hromadné propouštění) podle odst. 6, a to před uskutečněním opatření. Členové jmenovaní za dotčeného zaměstnavatele mají právo účastnit se mimořádného projednání. Porušení zakládá náhradu škody (NS 21 Cdo 4952/2014) a přestupek; vnitrostátní režimy (§ 62, § 339) běží paralelně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Předkládá ústředí nejméně jednou ročně zprávu a informuje/projednává okruhy podle odst. 5 (a zasílá ji i zaměstnavateli)?
+- [ ] Jde o výjimečnou okolnost (zrušení/převod, hromadné propouštění)? Pak bezodkladné informování a na žádost projednání PŘED opatřením (odst. 6).
+- [ ] Byli k mimořádnému projednání připuštěni členové jmenovaní za dotčeného zaměstnavatele (odst. 6)?
+- [ ] Běží paralelně vnitrostátní režimy (§ 62 hromadné propouštění, § 339 převod)?
+- [ ] Po 4 letech: rozhodla rada 2/3 většinou o dalším postupu (vyjednávání / nové ustavení) — odst. 4?
+
+**Typicky rozhodné důkazy / podklady:** roční zprávy ústředí (či doklad o jejich absenci), datum rozhodnutí o převodu/propouštění vs. datum informování rady, žádost rady o projednání, složení koordinačního výboru a doklad o účasti/vyloučení dotčených členů, podklady k vyčíslení škody.
+
 ---
 
 ### § 298 — Vnitřní organizace evropské rady
@@ -1495,6 +2346,43 @@ Evropská rada si **stanoví jednací řád**:
 - **písemný**;
 - přijatý **většinou hlasů všech členů** (nikoli jen přítomných).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Evropská rada zaměstnanců skupiny ÓMEGA (15 členů z 6 členských států) si na ustavující schůzi zvolí předsedu a zástupce a ustaví pětičlenný koordinační výbor — všichni jeho členové jsou však ze stejného členského státu (Německo). Rada chce přijmout jednací řád: na zasedání je přítomno 8 z 15 členů, pro jednací řád hlasuje 8. Současně chce ústředí být přítomno samostatnému zasedání rady k projednání předané zprávy, což rada odmítá. Důkazy: zápis z ustavující schůze, složení koordinačního výboru a státní příslušnost jeho členů, prezence a hlasování o jednacím řádu.
+
+**2. Právní otázka.** Je platné složení koordinačního výboru tvořeného členy z jediného státu, postačí k přijetí jednacího řádu 8 hlasů z 15 členů (při 8 přítomných) a má rada právo jednat bez přítomnosti vedoucích zaměstnanců?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 298 odst. 1 (ustavující schůze; volba předsedy a zástupce), odst. 2 (koordinační výbor nejvýše 5 členů; členové alespoň ze 2 členských států), odst. 3 (právo sejít se bez přítomnosti vedoucích zaměstnanců; neveřejnost; přizvání odborníků a vedoucích k vysvětlení), odst. 4 (kvórum nadpoloviční většiny členů; rozhodnutí nadpoloviční většinou přítomných), odst. 5 (jednací řád písemný, přijatý většinou hlasů všech členů).
+- *Související ustanovení téhož zákona:* § 297 odst. 6 (jednání s koordinačním výborem; účast dotčených členů), § 291 odst. 1 (oddělené zasedání — obdoba), § 296 (ustavení rady).
+- *Související předpisy:* směrnice 2009/38/ES (podpůrná pravidla o vnitřní organizaci).
+- *Judikatura:* výklad v souladu se směrnicí 2009/38/ES (zachování nadnárodního charakteru orgánů).
+
+**4. Subsumpce.** Koordinační výbor musí mít členy alespoň ze 2 členských států (odst. 2) — výbor složený jen z německých členů toto pravidlo porušuje (i při dodržení limitu 5 členů). Jednací řád se přijímá většinou hlasů VŠECH členů (odst. 5), tj. alespoň 8 z 15; pro hlasovalo 8 — kvórum všech členů je splněno (8 > 7,5), jednací řád byl platně přijat. Právo sejít se bez přítomnosti vedoucích zaměstnanců rada má (odst. 3); ústředí se nemůže účastnit samostatného zasedání rady, ledaže je rada přizve k vysvětlení.
+
+**5. Řešení.** Složení koordinačního výboru je vadné — musí být doplněn o člena z jiného členského státu, aby vyhověl odst. 2. Jednací řád přijatý 8 hlasy z 15 členů je platný (většina všech členů). Rada má právo na neveřejné samostatné zasedání bez vedoucích zaměstnanců; přítomnost ústředí závisí na vůli rady (může přizvat vedoucí k dodatečným informacím). Riziko: rozhodnutí učiněná vadně složeným výborem mohou být zpochybnitelná; vhodné je výbor neprodleně dát do souladu s odst. 2.
+
+**6. Varianty.** (a) Kdyby u jednacího řádu hlasovalo jen 7 členů z 15, kvórum všech členů (většina = 8) by nebylo dosaženo a řád by nebyl přijat. (b) Pro běžné rozhodnutí (nikoli jednací řád) by postačila přítomnost nadpoloviční většiny členů a souhlas nadpoloviční většiny přítomných (odst. 4), tedy nižší práh než u jednacího řádu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „výbor z jednoho státu je efektivnější".* Ústředí/rada hájí jednostátní výbor pro snazší koordinaci. Neutralizace: odst. 2 kogentně vyžaduje členy alespoň ze 2 členských států — nadnárodní charakter výboru je podmínkou, nikoli volbou.
+- *Protiargument „jednací řád musí schválit všichni přítomní jednomyslně".* Přeceňuje se kvórum. Neutralizace: odst. 5 vyžaduje většinu hlasů všech členů, nikoli jednomyslnost; 8 z 15 stačí.
+- *Slabé místo.* Zákon nerozlišuje výslovně důsledky vadného složení výboru pro platnost jeho úkonů; argumentace o zpochybnitelnosti se opírá o systematiku a účel (nadnárodní charakter), nikoli o výslovnou sankci.
+
+#### H. Praktický závěr
+
+Evropská rada na ustavující schůzi volí předsedu a zástupce a může ustavit koordinační výbor (nejvýše 5 členů, vždy alespoň ze 2 členských států). Má právo na neveřejné samostatné zasedání bez vedoucích zaměstnanců, může přizvat odborníky i vedoucí k vysvětlení. Běžná rozhodnutí přijímá nadpoloviční většinou přítomných (při kvóru nadpoloviční většiny členů); jednací řád většinou hlasů všech členů. Vadně složený výbor je nutné uvést do souladu se zákonem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zvolila rada na ustavující schůzi předsedu a jeho zástupce (odst. 1)?
+- [ ] Má koordinační výbor nejvýše 5 členů a členy alespoň ze 2 členských států (odst. 2)?
+- [ ] Bylo respektováno právo rady na neveřejné samostatné zasedání bez vedoucích zaměstnanců (odst. 3)?
+- [ ] Bylo běžné rozhodnutí přijato nadpoloviční většinou přítomných při kvóru nadpoloviční většiny členů (odst. 4)?
+- [ ] Byl jednací řád písemný a přijatý většinou hlasů VŠECH členů (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** zápis z ustavující schůze (volba předsedy a zástupce), doklad o složení koordinačního výboru a státní příslušnosti jeho členů, prezenční listina a záznam o hlasování, písemný jednací řád, korespondence o organizaci zasedání.
+
 ---
 
 ### § 298a — Postup při organizačních změnách
@@ -1527,6 +2415,43 @@ Evropská rada si **stanoví jednací řád**:
    - není uzavřeno **nové ujednání** s ústředím — tímto okamžikem **stávající ujednání zanikají**.
    - mezitím lze upravit jejich činnost ujednáním s ústředím (přechodný režim).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Skupina ALEF má ustavenou evropskou radu zaměstnanců na základě ujednání. Dojde k velké akvizici — skupina se sloučí s jinou nadnárodní skupinou, čímž se podstatně změní její struktura (přibydou zaměstnavatelé v dalších 4 státech). Stávající ujednání postup pro tento případ neupravuje a ujednání obou původních skupin si navzájem odporují. Ústředí tvrdí, že dosavadní evropská rada automaticky zaniká a do nového uspořádání nemá nikdo právo na nadnárodní informování. Zástupci namítají kontinuitu. Důkazy: text obou ujednání (rozpor, absence úpravy změn), doklad o akvizici a nové struktuře, složení dosavadní rady.
+
+**2. Právní otázka.** Jak se postupuje při podstatných organizačních změnách, neupravuje-li ujednání postup nebo jsou ujednání ve vzájemném rozporu, a zaniká dosavadní evropská rada automaticky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 298a odst. 1 (při podstatných organizačních změnách a chybějící/rozporné úpravě se postupuje obdobně podle § 290 odst. 2), odst. 2 (do vyjednávacího výboru jmenuje každá ustavená rada/zástupci nejméně 3 další členy ze svých řad), odst. 3 (ustavené rady a postupy nekončí činnost; činnost končí až uzavřením nového ujednání, jímž zanikají i dřívější ujednání).
+- *Související ustanovení téhož zákona:* § 290 (vyjednávací výbor), § 291 (postup vyjednávání), § 293–295 (ujednání), § 295a (závažné změny), § 294 písm. h) / § 295 písm. e) (postup při organizačních změnách v ujednání).
+- *Související předpisy:* směrnice 2009/38/ES (úprava pro významné strukturální změny).
+- *Judikatura:* výklad v souladu se směrnicí 2009/38/ES (zachování kontinuity zastoupení do nového ujednání).
+
+**4. Subsumpce.** Akvizice se sloučením a přibytím zaměstnavatelů v dalších státech je „podstatnou organizační změnou" (odst. 1). Ujednání postup neupravuje a obě ujednání si odporují — naplněna podmínka pro obdobné použití § 290 odst. 2 (zahájení nového vyjednávání). Do vyjednávacího výboru jmenuje každá dosavadní rada nejméně 3 další členy (odst. 2). Dosavadní evropská rada nekončí činnost automaticky — pokračuje až do uzavření nového ujednání (odst. 3); tvrzení ústředí o automatickém zániku je nesprávné.
+
+**5. Řešení.** Při podstatné organizační změně a chybějící/rozporné úpravě se zahájí nové vyjednávání obdobně podle § 290 odst. 2; vyjednávací výbor se posílí o nejméně 3 členy z každé dosavadní rady (odst. 2), aby se přenesly zkušenosti. Dosavadní evropská rada (a jiné postupy) pokračuje v činnosti, případně ji upraví přechodným ujednáním s ústředím, a končí teprve uzavřením nového ujednání, jímž zanikají i dřívější ujednání (odst. 3). Zástupci se mohou domáhat kontinuity a zahájení vyjednávání; ústředí nemůže využít změny k vakuu v zastoupení.
+
+**6. Varianty.** (a) Kdyby původní ujednání obsahovalo postup pro organizační změny [§ 294 písm. h)], postupovalo by se podle něj a § 298a by se neuplatnil. (b) Kdyby šlo jen o drobnou změnu bez podstatného dopadu na strukturu, povinnost zahájit nové vyjednávání podle § 298a by nevznikla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rada akvizicí zanikla".* Ústředí tvrdí automatický zánik rady. Neutralizace: odst. 3 výslovně stanoví, že ustavené rady a postupy nekončí činnost; končí až uzavřením nového ujednání — do té doby trvá kontinuita.
+- *Protiargument „bez úpravy se nic nemusí".* Namítá se absence povinnosti při mezeře v ujednání. Neutralizace: odst. 1 právě pro tento případ (chybějící/rozporná úprava) ukládá obdobný postup podle § 290 odst. 2 — povinnost zahájit nové vyjednávání.
+- *Slabé místo.* Pojem „podstatné organizační změny" je neurčitý; jeho naplnění je třeba doložit (rozsah změny struktury, počet nově dotčených států a zaměstnavatelů), jinak povinnost podle § 298a nevznikne.
+
+#### H. Praktický závěr
+
+Při podstatných organizačních změnách (fúze, akvizice, restrukturalizace), které ujednání neupravuje nebo u nichž si ujednání odporují, se zahájí nové vyjednávání obdobně podle § 290 odst. 2; vyjednávací výbor se posílí o nejméně 3 členy z každé dosavadní rady. Dosavadní evropské rady a jiné postupy nekončí činnost automaticky — trvají až do uzavření nového ujednání, jímž zanikají i dřívější ujednání. Tím je zajištěna kontinuita zastoupení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o podstatnou organizační změnu struktury zaměstnavatele/skupiny (odst. 1)?
+- [ ] Upravuje ujednání postup při změnách, nebo jsou ujednání v rozporu? Při mezeře/rozporu se postupuje obdobně dle § 290 odst. 2.
+- [ ] Jmenovala každá dosavadní rada/zástupci do vyjednávacího výboru nejméně 3 další členy (odst. 2)?
+- [ ] Pokračují dosavadní rady a postupy v činnosti až do uzavření nového ujednání (odst. 3)?
+- [ ] Zaniknou dřívější ujednání teprve uzavřením nového ujednání s ústředím?
+
+**Typicky rozhodné důkazy / podklady:** texty dosavadních ujednání (doklad o absenci úpravy změn / o jejich rozporu), doklad o organizační změně a nové struktuře skupiny, složení dosavadních rad, zápisy o jmenování dalších členů do vyjednávacího výboru, případné přechodné ujednání s ústředím.
+
 ---
 
 ### § 299 — Vyloučení aplikace pro evropskou společnost a evropskou družstevní společnost
@@ -1542,6 +2467,43 @@ Evropská rada si **stanoví jednací řád**:
 - **evropskou družstevní společnost (Societas Cooperativa Europaea, SCE)** — analogická právní forma pro družstva dle nařízení Rady (ES) č. 1435/2003 a směrnice 2003/72/ES; v ČR transponována zákonem č. 307/2006 Sb., o evropské družstevní společnosti.
 
 **Důvod vyloučení:** SE i SCE mají vlastní úpravu zapojení zaměstnanců (sui generis), která je **speciální vůči obecné úpravě evropské rady zaměstnanců**. Pro tyto právní formy se proto aplikují příslušné transpoziční zákony, nikoli § 288–298a ZP. Klauzule „pokud zvláštní právní předpis nestanoví jinak" otevírá prostor pro odkaz těchto zákonů zpět na ZP (subsidiární použití některých institutů).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Nadnárodní akciová společnost se sídlem v ČR se přemění na evropskou společnost (Societas Europaea, SE) zapsanou v ČR a zaměstnává přes 1 000 osob v EU. Zaměstnanci požadují ustavení evropské rady zaměstnanců podle § 288–298a zákoníku práce. Vedení namítá, že na SE se tato úprava nepoužije a že zapojení zaměstnanců se řídí zvláštním zákonem. Souběžně vznikne otázka, zda se na SE přesto subsidiárně použijí některé instituty zákoníku práce. Důkazy: doklad o právní formě (SE), počty zaměstnanců, doklad o sjednaném režimu zapojení zaměstnanců podle zvláštního zákona.
+
+**2. Právní otázka.** Použije se úprava evropské rady zaměstnanců podle § 288–298a ZP na evropskou společnost (SE) a evropskou družstevní společnost (SCE), nebo platí výlučně zvláštní zákony, a za jakých podmínek se ZP přesto subsidiárně uplatní?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 299 (§ 288 až 298a se nepoužijí pro evropskou společnost a evropskou družstevní společnost, pokud zvláštní právní předpis nestanoví jinak — negativní rozsahová klauzule s odkazem pod čarou č. 82).
+- *Související ustanovení téhož zákona:* § 288–298a (vyloučená úprava evropské rady zaměstnanců), § 289 odst. 5 (subsidiární použití § 276, § 278 odst. 2–4).
+- *Související předpisy:* nařízení Rady (ES) č. 2157/2001 a směrnice 2001/86/ES (SE), zákon č. 627/2004 Sb. o evropské společnosti; nařízení Rady (ES) č. 1435/2003 a směrnice 2003/72/ES (SCE), zákon č. 307/2006 Sb. o evropské družstevní společnosti.
+- *Judikatura:* výklad v souladu se směrnicemi 2001/86/ES a 2003/72/ES (zapojení zaměstnanců v SE/SCE jako lex specialis).
+
+**4. Subsumpce.** Subjektem je SE — právní forma, na niž § 299 vylučuje aplikaci § 288–298a ZP. Zapojení zaměstnanců (včetně případného orgánu obdobného evropské radě) se řídí zákonem č. 627/2004 Sb. (transpozice směrnice 2001/86/ES), nikoli zákoníkem práce. Klauzule „pokud zvláštní právní předpis nestanoví jinak" připouští, aby zvláštní zákon odkázal zpět na vybrané instituty ZP (subsidiární použití).
+
+**5. Řešení.** Zaměstnanci se nemohou domáhat ustavení evropské rady podle § 288–298a ZP — pro SE platí výlučně zákon č. 627/2004 Sb. (pro SCE zákon č. 307/2006 Sb.). Zapojení zaměstnanců v SE se řeší vyjednáváním podle zvláštního zákona (vyjednávací výbor, dohoda o zapojení, případně podpůrná pravidla). Subsidiárně se mohou uplatnit jen ty instituty ZP, na něž zvláštní zákon odkáže. Riziko: zaměnění režimů (uplatnění § 288–298a na SE) by vedlo k procesně chybnému postupu.
+
+**6. Varianty.** (a) Kdyby šlo o běžnou akciovou společnost (nikoli SE/SCE) splňující prahy § 288, použila by se úprava evropské rady podle § 288–298a ZP. (b) Kdyby zvláštní zákon (č. 627/2004 Sb.) v konkrétní otázce odkázal na zákoník práce, použil by se ZP subsidiárně v rozsahu odkazu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „velký podnik = evropská rada dle ZP".* Zaměstnanci dovozují použití § 288–298a z překročení prahů. Neutralizace: § 299 vylučuje tato ustanovení pro SE/SCE bez ohledu na velikost; rozhoduje právní forma, ne počet zaměstnanců.
+- *Protiargument „SE nemá žádné zapojení zaměstnanců".* Mylně se dovozuje absence ochrany. Neutralizace: zapojení zaměstnanců v SE/SCE upravují zvláštní zákony (č. 627/2004 Sb., č. 307/2006 Sb.) — ochrana existuje, jen v jiném režimu.
+- *Slabé místo.* Rozsah subsidiárního použití ZP („pokud zvláštní předpis nestanoví jinak") závisí na konkrétních odkazech zvláštních zákonů; je třeba ověřit text zákona č. 627/2004 Sb., resp. č. 307/2006 Sb., nikoli presumovat.
+
+#### H. Praktický závěr
+
+§ 299 vylučuje aplikaci úpravy evropské rady zaměstnanců (§ 288–298a ZP) na evropskou společnost (SE) a evropskou družstevní společnost (SCE); pro ně platí zvláštní zákony (č. 627/2004 Sb., č. 307/2006 Sb.) transponující směrnice 2001/86/ES a 2003/72/ES. Zákoník práce se uplatní jen subsidiárně, odkáže-li na něj zvláštní předpis. Rozhodující je právní forma subjektu, nikoli počet zaměstnanců.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o evropskou společnost (SE) nebo evropskou družstevní společnost (SCE)? Pak se § 288–298a ZP nepoužijí.
+- [ ] Aplikuje se zvláštní zákon (č. 627/2004 Sb. pro SE, č. 307/2006 Sb. pro SCE) a příslušná směrnice (2001/86/ES, 2003/72/ES)?
+- [ ] Odkazuje zvláštní zákon v dané otázce zpět na zákoník práce (subsidiární použití)?
+- [ ] Nedošlo k záměně režimů (chybné uplatnění úpravy evropské rady dle ZP na SE/SCE)?
+- [ ] U subjektu, který není SE/SCE: jsou splněny prahy § 288 pro úpravu evropské rady dle ZP?
+
+**Typicky rozhodné důkazy / podklady:** doklad o právní formě (zápis SE/SCE), počty zaměstnanců, dohoda o zapojení zaměstnanců podle zvláštního zákona, text relevantních ustanovení zákona č. 627/2004 Sb., resp. č. 307/2006 Sb. (odkazy na ZP).
 
 ---
 

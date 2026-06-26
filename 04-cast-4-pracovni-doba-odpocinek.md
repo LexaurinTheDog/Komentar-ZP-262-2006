@@ -100,6 +100,43 @@ Při **rovnoměrném rozvržení** je každý týden rozvržen ve stejné délce
 
 Nerovnoměrné rozvržení vyžaduje, aby ho zaměstnavatel zachytil v písemném rozvrhu (§ 84) a aby respektoval limit délky směny 12 hodin (§ 83).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nemocnice (poskytovatel lůžkové péče) zařadila lékaře na anesteziologicko-resuscitačním oddělení do tzv. „služby" v délce 16 hodin (16:00–08:00), během níž lékař musí být fyzicky přítomen na pracovišti (v nemocnici), je k dispozici k zákrokům, ale v klidných obdobích odpočívá v lékařském pokoji. Zaměstnavatel tuto dobu klasifikoval zčásti jako „pracovní pohotovost na pracovišti" odměňovanou jen odměnou podle § 140 a do týdenní pracovní doby ji nezapočítával. Lékař se domáhá doplatku mzdy a tvrdí, že šlo celé o pracovní dobu. Důkazy: rozpis služeb, kniha výkonů/operací, vnitřní předpis o organizaci služeb, evidence pracovní doby (§ 96), pracovní smlouva.
+
+**2. Právní otázka.** Je doba, kdy je zaměstnanec povinen být přítomen na pracovišti zaměstnavatele a být připraven k výkonu práce (byť aktivně nepracuje), pracovní dobou podle § 78 odst. 1 písm. a), nebo pracovní pohotovostí podle § 78 odst. 1 písm. h)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 78 odst. 1 písm. a) (dvousložková definice pracovní doby — povinnost vykonávat práci NEBO připravenost k práci „na pracovišti") a písm. h) (pracovní pohotovost jen „na jiném místě než na pracovištích zaměstnavatele").
+- *Související ustanovení téhož zákona:* § 95 (pracovní pohotovost a odměňování), § 79 (započítání do stanovené týdenní pracovní doby), § 93 (přesčas), § 96 (evidence).
+- *Související předpisy:* směrnice 2003/88/ES, čl. 2 (pojem pracovní doby); zákon č. 251/2005 Sb. (sankce inspekce práce).
+- *Judikatura:* ÚS III.ÚS 2387/10 (kogentní povaha § 78 odst. 1 písm. a–g, k); judikatura SDEU C-303/98 SIMAP, C-151/02 Jaeger, C-518/15 Matzak — pohotovost s povinnou přítomností na pracovišti se celá započítává jako pracovní doba.
+
+**4. Subsumpce.** Rozhodujícím znakem je místo: lékař je povinen být přítomen **na pracovišti zaměstnavatele** (v nemocnici). Druhá složka definice písm. a) — „na pracovišti připraven k výkonu práce podle pokynů zaměstnavatele" — je naplněna celým rozsahem služby, bez ohledu na to, zda lékař aktivně operuje, nebo čeká. Znak písm. h) (jiné dohodnuté místo odlišné od pracoviště) naopak naplněn NENÍ. Klasifikace jako pracovní pohotovost je proto vyloučena.
+
+**5. Řešení.** Celá 16hodinová služba je pracovní dobou; započítává se do stanovené týdenní pracovní doby a část nad ni je prací přesčas (§ 93) s příplatkem (§ 114). Odměna podle § 140 nepřísluší — náleží mzda. Lékař má nárok na doplatek mzdy a příplatků; zaměstnavateli hrozí sankce inspekce práce. Procesně: žaloba o zaplacení mzdy, důkaz rozpisem služeb a evidencí; pokud zaměstnavatel evidenci nevedl řádně, jde to k jeho tíži.
+
+**6. Varianty.** (a) Kdyby lékař držel „službu" doma s povinností dostavit se do nemocnice v přiměřené době, šlo by o pracovní pohotovost podle písm. h) — odměna podle § 140, do pracovní doby se nezapočítává (s výhradou judikatury Matzak při extrémně krátkém reakčním čase). (b) Kdyby šlo o souběh navazujících směn (předání služby), tolerance překryvu je jen 1 hodina (odst. 2); delší souběh už zakládá pracovní dobu obou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „neaktivní čekání není práce".* Zaměstnavatel může namítat, že v klidných hodinách lékař spí a nepracuje. Neutralizace: definice písm. a) výslovně zahrnuje pouhou „připravenost k výkonu práce na pracovišti"; aktivní činnost se nevyžaduje (Jaeger, SIMAP). Mezi pracovní dobou a odpočinkem není šedá zóna (písm. b).
+- *Protiargument „strany si pohotovost sjednaly".* Definice § 78 jsou kogentní (ÚS III.ÚS 2387/10); sjednáním nelze pojem pracovní doby pozměnit. Místní omezení písm. h) je nepřekročitelné.
+- *Slabé místo:* spornou se stává klasifikace u home-office a mobilních pracovníků, kde „pracoviště" splývá s bydlištěm — zde je třeba zkoumat faktickou míru omezení dispozice s časem (Matzak), nikoli jen formální označení.
+
+#### H. Praktický závěr
+
+Pojmy § 78 tvoří kogentní slovník celé části čtvrté; klíčové je rozlišení pracovní doby (povinná přítomnost na pracovišti) od pracovní pohotovosti (jen mimo pracoviště). Záměna má zásadní dopad na odměňování i limity přesčasu a odpočinku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kde je zaměstnanec povinen být přítomen — na pracovišti zaměstnavatele, nebo na jiném dohodnutém místě?
+- [ ] Jde o organizovanou rotaci téhož okruhu zaměstnanců (kvalifikace směnného režimu), nebo o neměnné skupiny?
+- [ ] Nepřekračuje souběh navazujících směn 1 hodinu?
+- [ ] Je u zaměstnance s kratší pracovní dobou správně odlišen přesčas (až nad stanovenou, nikoli sjednanou dobu)?
+- [ ] Odpovídá evidence (§ 96) skutečnému charakteru doby?
+
+**Typicky rozhodné důkazy / podklady:** rozpis směn/služeb (§ 84), evidence pracovní doby (§ 96), pracovní a kolektivní smlouva, vnitřní předpis o organizaci práce, kniha výkonů, mzdové listy.
+
 ---
 
 ### § 79 — Stanovená týdenní pracovní doba
@@ -144,6 +181,43 @@ Odstavec 3 zakotvuje dvě pravidla:
 
 Zkrácená týdenní pracovní doba dle odst. 3 je „stanovenou týdenní pracovní dobou" — tedy se v jejím rámci posuzují limity přesčasu, doby odpočinku, výpočet průměrné délky směny atd.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní podnik provozuje montážní linku v nepřetržitém třísměnném provozu (zaměstnanci se pravidelně střídají ve třech směnách v rámci 24 hodin). Zaměstnancům na lince zaměstnavatel rozvrhuje 40 hodin týdně a tomu odpovídající mzdu. Jeden ze zaměstnanců po roce zjistí, že u vícesměnného režimu má stanovená týdenní pracovní doba činit jen 37,5 hodiny, a požaduje doplatek mzdy za 2,5 hodiny týdně, které odpracoval „navíc". Důkazy: rozvrh směn (§ 84), evidence pracovní doby (§ 96), popis organizace provozu, kolektivní smlouva.
+
+**2. Právní otázka.** Činí u zaměstnance ve vícesměnném (resp. nepřetržitém) pracovním režimu stanovená týdenní pracovní doba 37,5 hodiny [§ 79 odst. 2 písm. b)], a je proto práce nad tento rozsah do 40 hodin přesčasem, resp. zakládá nárok na doplatek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 79 odst. 1 (40 h standard) a odst. 2 písm. b) (37,5 h u vícesměnného/nepřetržitého režimu) — kompenzace zátěže, kogentní ve prospěch zaměstnance.
+- *Související ustanovení téhož zákona:* § 78 odst. 1 písm. e), f) (definice vícesměnného a nepřetržitého režimu — znak pravidelného střídání), § 78 odst. 1 písm. i) (přesčas), § 114 (příplatek za přesčas), § 363 (kogentnost).
+- *Související předpisy:* směrnice 2003/88/ES, čl. 6 (max. 48 h vč. přesčasu — nedotčeno standardní pracovní dobou); § 580 obč. zák. (neplatnost odporujícího ujednání).
+- *Judikatura:* obecně přijímaný výklad o automatické (zákonné) povaze zkrácené stanovené týdenní pracovní doby u směnných režimů; soud zkoumá objektivní naplnění znaků režimu, nikoli jen jeho označení zaměstnavatelem.
+
+**4. Subsumpce.** Klíčový je znak „vzájemného pravidelného střídání ve směnách v nepřetržitém provozu" (§ 78). Je-li naplněn, činí stanovená týdenní pracovní doba ze zákona 37,5 hodiny; zaměstnavatel ji nemůže jednostranně prodloužit na 40 hodin ani se souhlasem zaměstnance. Práce v rozsahu 37,5–40 hodin týdně je tedy prací nad stanovenou týdenní pracovní dobu.
+
+**5. Řešení.** Zaměstnanci náleží mzda (a případně příplatek) za hodiny odpracované nad 37,5 hodiny týdně, neboť jeho stanovená týdenní pracovní doba je 37,5 hodiny. Ujednání či rozvrh prodlužující ji na 40 hodin je v této části neplatné (§ 363, § 580 obč. zák.). Procesně: žaloba o doplatek mzdy; klíčové je prokázat objektivní naplnění znaků vícesměnného/nepřetržitého režimu (rozvrh, popis provozu).
+
+**6. Varianty.** (a) Kdyby zaměstnanci nepracovali v pravidelné rotaci, ale ve dvou neměnných skupinách bez vzájemného střídání, znaky vícesměnného režimu by nebyly naplněny a stanovená doba by činila 40 hodin. (b) Kdyby kolektivní smlouva nebo vnitřní předpis zkrátily dobu bez snížení mzdy ještě více (např. na 37 hodin), stala by se i tato kratší doba „stanovenou" se všemi důsledky (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zaměstnanec souhlasil se 40 hodinami".* Souhlas je irelevantní — diferenciace podle odst. 2 je kogentní ve prospěch zaměstnance (§ 363). Prodloužení nad zákonný rámec je neplatné.
+- *Protiargument „nejde o nepřetržitý provoz".* Zaměstnavatel může zpochybnit kvalifikaci režimu. Neutralizace: rozhodují objektivní znaky (24/7 nutnost, pravidelné střídání), nikoli formální označení; dokládá se rozvrhem a popisem provozu.
+- *Slabé místo:* u zaměstnanců střídajících v různých obdobích denní a směnný provoz je nutné určit, který režim převažoval v daném vyrovnávacím období — bez pečlivé evidence (§ 96) je nárok obtížně prokazatelný.
+
+#### H. Praktický závěr
+
+Stanovená týdenní pracovní doba je 40 hodin, ale u rizikových a směnných režimů se ze zákona zkracuje (37,5 / 38,75 h). Zkrácení je automatické a kogentní; zaměstnavatel je nemůže obejít. Zkrácení bez snížení mzdy nad rámec odst. 2 lze jen kolektivní smlouvou nebo vnitřním předpisem, nikdy u veřejných zaměstnavatelů (§ 109 odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jaký je skutečný (objektivní) pracovní režim — jednosměnný, dvousměnný, vícesměnný, nepřetržitý?
+- [ ] Je naplněn znak pravidelného vzájemného střídání zaměstnanců?
+- [ ] Odpovídá rozvrhovaná týdenní doba zákonnému limitu pro daný režim (40 / 38,75 / 37,5 h)?
+- [ ] Nejde o veřejného zaměstnavatele (§ 109 odst. 3), u něhož je zkrácení pod limit zakázáno?
+- [ ] Je případné zkrácení bez snížení mzdy zakotveno v kolektivní smlouvě / vnitřním předpisu?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh směn (§ 84), evidence pracovní doby (§ 96), popis a organizace provozu, kolektivní smlouva / vnitřní předpis, mzdové listy, pracovní smlouva.
+
 ---
 
 ### § 79a — Mladiství zaměstnanci
@@ -171,6 +245,43 @@ Klíčové pravidlo: u mladistvého **se týdenní pracovní doba ve více praco
 
 V praxi je realizace ztížena tím, že zaměstnavatel zpravidla nemá informaci o dalších vztazích zaměstnance. Doporučuje se sjednat do pracovní smlouvy s mladistvým prohlášení o jiných pracovněprávních vztazích a o jejich rozsahu, případně pravidelnou notifikační povinnost zaměstnance.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Sedmnáctiletý student (po ukončení povinné školní docházky) pracuje na zkrácený úvazek v prodejně (pracovní poměr, 30 hodin týdně) a současně si přivydělává na dohodu o provedení práce v rychlém občerstvení (15 hodin týdně). Druhý zaměstnavatel o prvním vztahu neví. Inspekce práce při kontrole zjistí, že mladistvý odpracuje souhrnně 45 hodin týdně. Důkazy: obě smlouvy/dohody, evidence pracovní doby u obou zaměstnavatelů, rozvrhy směn.
+
+**2. Právní otázka.** Překračuje mladistvý zaměstnanec maximální týdenní pracovní dobu, sčítá-li se doba ze dvou základních pracovněprávních vztahů, a který zaměstnavatel nese odpovědnost za nápravu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 79a odst. 2 (max. 8 h denně, 40 h týdně u mladistvého po ukončení školní docházky) a odst. 3 (souhrnné posuzování ve více vztazích podle § 3).
+- *Související ustanovení téhož zákona:* § 3 (základní pracovněprávní vztahy), § 34b (relativní samostatnost vztahů — výjimka), § 90 odst. 1 a § 92 odst. 2 (prodloužené odpočinky mladistvých), § 245 (zákaz přesčasu a noční práce mladistvých), § 88 (přestávky).
+- *Související předpisy:* zákon č. 435/2004 Sb., o zaměstnanosti (§ 121–124 — práce dětí); vyhláška č. 180/2015 Sb. (zakázané práce); zákon č. 251/2005 Sb. (sankce).
+- *Judikatura:* (specifická judikatura ke sčítání úvazků mladistvých je sporá) — řešení vychází přímo z textu odst. 3 a ochranného účelu normy.
+
+**4. Subsumpce.** Mladistvý spadá do kategorie odst. 2 (limit 40 h). Podle odst. 3 se týdenní pracovní doba ze všech jeho základních pracovněprávních vztahů (§ 3) sčítá: 30 + 15 = 45 hodin, tj. překročení limitu o 5 hodin. Jde o porušení kogentní ochranné normy, a to bez ohledu na to, že jednotlivě ani jeden vztah limit nepřekračuje.
+
+**5. Řešení.** Rozsah práce musí být upraven tak, aby souhrn nepřesáhl 40 hodin týdně. Odpovědnost dopadá na oba zaměstnavatele, neboť oba mají povinnost limit dodržet; v praxi je k nápravě povolán zejména ten, který informaci o překročení získá (typicky pozdější zaměstnavatel). Doporučený postup: písemné prohlášení mladistvého o ostatních vztazích a jejich rozsahu sjednané do smlouvy + notifikační povinnost. Hrozí sankce inspekce práce.
+
+**6. Varianty.** (a) Kdyby šlo o mladistvého, který dosud neukončil povinnou školní docházku, platil by přísnější limit 35 h týdně / 7 h denně (odst. 1) a zpravidla zákona o zaměstnanosti o práci dětí. (b) Kdyby si mladistvý sjednal druhý vztah až poté, co první naplnil 40 hodin, byl by druhý vztah v rozsahu překračujícím limit od počátku v rozporu s § 79a odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „o druhém vztahu jsme nevěděli".* Nevědomost zaměstnavatele snižuje míru zavinění, ale nezbavuje povinnosti limit dodržet. Neutralizace rizika: smluvní prohlášení a notifikační povinnost mladistvého.
+- *Protiargument „relativní samostatnost vztahů" (§ 34b).* Odst. 3 je výslovnou výjimkou z této zásady; u mladistvých se doba sčítá. Argument samostatností zde neobstojí.
+- *Slabé místo:* praktická vymahatelnost — zaměstnavatel nemá nástroj, jak ověřit pravdivost prohlášení mladistvého; riziko nese, i když jednal v dobré víře.
+
+#### H. Praktický závěr
+
+U mladistvých platí přísnější časové limity a klíčové pravidlo o sčítání pracovní doby ze všech jejich pracovněprávních vztahů. Zaměstnavatel se musí aktivně chránit smluvním prohlášením a notifikační povinností.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Do které kategorie mladistvý spadá (odst. 1 — 35 h, nebo odst. 2 — 40 h)?
+- [ ] Má zaměstnavatel informaci o dalších pracovněprávních vztazích mladistvého a jejich rozsahu?
+- [ ] Nepřekračuje souhrn týdenní pracovní doby ze všech vztahů zákonný limit?
+- [ ] Jsou dodrženy navazující ochranné instituty (zákaz přesčasu a noční práce § 245, prodloužené odpočinky)?
+- [ ] Je ve smlouvě prohlášení o jiných vztazích a notifikační povinnost?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouvy a dohody mladistvého, evidence pracovní doby u všech zaměstnavatelů, prohlášení o jiných vztazích, rozvrhy směn.
+
 ---
 
 ### § 80 — Kratší pracovní doba
@@ -195,6 +306,43 @@ Zákoník neumožňuje **jednostranně** ze strany zaměstnavatele přejít na k
 - **Stanovená týdenní pracovní doba zůstává nedotčena** — kratší doba je „sjednanou", nikoliv „stanovenou" (§ 78 odst. 1 písm. l a m, § 79). Z toho plyne, že práce nad kratší, ale do stanovené, doby není přesčasem (§ 78 odst. 1 písm. i).
 - **Přesčasy nelze nařídit** — viz § 78 odst. 1 písm. i věta druhá.
 - **Dovolená se počítá podle skutečně odpracované doby** — § 213 (Část devátá).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně pečující o dvouleté dítě požádá písemně zaměstnavatele (administrativní oddělení) o kratší pracovní dobu — 30 hodin týdně místo 40. Zaměstnavatel žádost zamítne s tím, že „provoz vyžaduje plné úvazky", aniž by konkrétní provozní důvody doložil. Zaměstnankyně se domáhá vyhovění žádosti. Důkazy: písemná žádost, odpověď zaměstnavatele, organizační struktura oddělení, popis pracovní náplně, údaje o zastupitelnosti.
+
+**2. Právní otázka.** Je zaměstnavatel povinen vyhovět žádosti pečující zaměstnankyně o kratší pracovní dobu podle § 80 ve spojení s § 241 odst. 2, nebo může žádost odmítnout, a za jakých podmínek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80 (kratší pracovní doba — dvoustranná písemná dohoda, proporcionální krácení mzdy).
+- *Související ustanovení téhož zákona:* § 241 odst. 2 (povinnost vyhovět žádosti pečujícího, nebrání-li vážné provozní důvody), § 78 odst. 1 písm. i) (přesčas u kratší doby — nelze nařídit), § 79 (stanovená doba zůstává nedotčena), § 213 (dovolená podle odpracované doby).
+- *Související předpisy:* směrnice 2019/1158/EU (work-life balance); § 16 (rovné zacházení).
+- *Judikatura:* judikatura k „vážným provozním důvodům" — důkazní břemeno tíží zaměstnavatele, který musí konkrétně doložit, proč nelze provoz s kratším úvazkem zajistit.
+
+**4. Subsumpce.** Zaměstnankyně pečuje o dítě mladší 15 let — spadá do okruhu § 241 odst. 2. Zaměstnavatel je proto povinen žádosti vyhovět, ledaže prokáže vážné provozní důvody. Paušální odkaz na „potřebu plných úvazků" bez konkretizace a důkazů nepostačuje; vážné provozní důvody musí být reálné, objektivní a doložitelné.
+
+**5. Řešení.** Pokud zaměstnavatel vážné provozní důvody neprokáže, je povinen kratší pracovní dobu sjednat. Při jejím sjednání se mzda krátí proporcionálně; práce nad sjednanou kratší, ale do stanovené doby není přesčasem a nelze ji nařídit. Procesně: zaměstnankyně může uplatnit nárok na uzavření dohody, případně se bránit proti diskriminaci (§ 16); zaměstnavatel nese důkazní břemeno o provozních důvodech.
+
+**6. Varianty.** (a) Kdyby zaměstnankyně nepečovala o dítě do 15 let ani nespadala do jiné chráněné kategorie (§ 241 odst. 2), zaměstnavatel by nemusel vyhovět — kratší doba by byla věcí volné dohody. (b) Kdyby zaměstnavatel doložil, že jde o jediného specialistu bez zastupitelnosti a provoz nelze rozdělit, mohly by být vážné provozní důvody naplněny a zamítnutí by obstálo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „máme vážné provozní důvody".* Připustí se jen, jsou-li konkrétně doloženy (organizace práce, zastupitelnost, dopad na provoz). Obecné tvrzení neutralizuje důkazní břemeno zaměstnavatele.
+- *Protiargument „kratší dobu jsme nesjednali písemně".* Nedostatek písemné formy nezbavuje povinnosti dle § 241 odst. 2; naopak nesjednání může být porušením povinnosti vyhovět žádosti.
+- *Slabé místo:* hranice „vážných provozních důvodů" je neostrá a posuzuje se případ od případu; výsledek sporu závisí na kvalitě důkazů o organizaci provozu.
+
+#### H. Praktický závěr
+
+Kratší pracovní doba je smluvní institut vyžadující písemnou dohodu a proporcionální krácení mzdy. U pečujících a dalších chráněných osob (§ 241 odst. 2) má zaměstnavatel povinnost vyhovět, nebrání-li doložené vážné provozní důvody. Práci přesčas zaměstnanci s kratší dobou nelze nařídit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla žádost o kratší pracovní dobu podána a spadá žadatel do okruhu § 241 odst. 2?
+- [ ] Má zaměstnavatel konkrétní a doložitelné vážné provozní důvody pro zamítnutí?
+- [ ] Je dohoda o kratší pracovní době písemná a obsahuje úpravu mzdy?
+- [ ] Je správně nastaveno, že práci nad kratší dobu nelze nařídit jako přesčas?
+- [ ] Je zohledněn dopad na dovolenou (§ 213) a další nároky?
+
+**Typicky rozhodné důkazy / podklady:** písemná žádost a odpověď, dohoda o kratší pracovní době, organizační struktura a popis pracovní náplně, podklady o zastupitelnosti, mzdové listy.
 
 ---
 
@@ -228,6 +376,43 @@ Odst. 3 zakotvuje **základní pracovní povinnost zaměstnance**: být na zač�
 
 **„Své pracoviště"** je místo, které zaměstnavatel pro výkon práce určil; pojem je užší než „pracoviště zaměstnavatele" obecně. U mobilních pracovníků (např. řidičů) je „pracovištěm" obvykle místo nástupu na směnu (sídlo, depo). U zaměstnanců pracujících v režimu home office (§ 317) je pracovištěm dohodnuté místo výkonu práce — povinnost přítomnosti se v takovém případě realizuje virtuálně (dosažitelnost prostřednictvím komunikačních prostředků).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel hotelu rozvrhuje recepčním pracovní dobu trvale do šestidenního pracovního týdne, převážně do nočních a víkendových směn, bez ohledu na rovnoměrné rozložení zátěže. Jeden z recepčních po roce takového rozvržení onemocní (vyhoření, poruchy spánku) a namítá, že rozvržení bylo v rozporu s hledisky bezpečné a zdraví neohrožující práce. Současně byl jednou písemně postižen za to, že odešel z pracoviště 10 minut před koncem směny. Důkazy: rozvrhy směn za delší období (§ 84), evidence pracovní doby (§ 96), lékařské zprávy, hodnocení rizik (§ 102).
+
+**2. Právní otázka.** Porušil zaměstnavatel povinnost rozvrhnout pracovní dobu v souladu s hledisky BOZP podle § 81 odst. 2, a je předčasný odchod ze směny porušením povinnosti podle § 81 odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 81 odst. 1 (dispoziční pravomoc zaměstnavatele), odst. 2 (pětidenní týden zpravidla + ohled na BOZP), odst. 3 (povinnost přítomnosti po celou směnu).
+- *Související ustanovení téhož zákona:* § 90–92 (odpočinky), § 83 (délka směny), § 84 (rozvrh), § 269 (odpovědnost za škodu na zdraví), § 301 písm. b) a § 52 písm. g) (porušení povinností), § 102 (prevence rizik — Část pátá).
+- *Související předpisy:* směrnice 2003/88/ES; nařízení vlády č. 361/2007 Sb. (ochrana zdraví při práci).
+- *Judikatura:* obecné zásady odpovědnosti zaměstnavatele za škodu na zdraví vzniklou nevhodným rozvržením; intenzita porušení povinnosti zaměstnancem se posuzuje podle okolností.
+
+**4. Subsumpce.** Rozvržení do šesti dnů je přípustné („zpravidla" pětidenní), ale váže se na zostřenou povinnost zohlednit BOZP. Trvalé soustředění do nočních a víkendových směn bez ohledu na zdravotní hlediska a bez respektování odpočinků může zakládat porušení § 81 odst. 2. Předčasný odchod (10 min) je formálně porušením § 81 odst. 3, jeho intenzita je však nízká.
+
+**5. Řešení.** Pokud zaměstnavatel rozvrhl práci v rozporu s BOZP a vznikla tím škoda na zdraví, odpovídá podle § 269. Recepční může uplatnit nárok na náhradu škody; musí prokázat příčinnou souvislost mezi rozvržením a poškozením zdraví (lékařské posudky). Pro zaměstnavatele plyne riziko sankce inspekce práce. Předčasný odchod o 10 minut zpravidla neodůvodňuje výpověď (§ 52 g) pro nedostatek intenzity, nanejvýš mírnější postih.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel respektoval odpočinky a střídal směny rovnoměrně, samotné šestidenní rozvržení by BOZP neporušovalo. (b) Kdyby zaměstnanec soustavně a o významnou dobu opouštěl pracoviště před koncem směn, mohlo by jít již o porušení povinnosti vyšší intenzity odůvodňující rozvázání pracovního poměru.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozvržení je naším právem".* Dispoziční pravomoc je omezena kogentními pravidly části čtvrté a hledisky BOZP (odst. 2). Neutralizace: i v rámci pravomoci nelze rozvrhovat zdraví ohrožujícím způsobem.
+- *Protiargument „příčinou nemoci nemusí být rozvržení".* Silný argument — zaměstnavatel zpochybní kauzalitu. Neutralizace na straně zaměstnance: kvalitní lékařské posudky a doložení dlouhodobé zátěže.
+- *Slabé místo:* prokázání příčinné souvislosti mezi rozvržením a poškozením zdraví je v praxi obtížné; bez znaleckého posouzení nárok na náhradu škody zpravidla neuspěje.
+
+#### H. Praktický závěr
+
+Rozvržení pracovní doby je prerogativou zaměstnavatele, avšak limitovanou pětidenním vzorem „zpravidla" a zejména hledisky bezpečné a zdraví neohrožující práce. Zaměstnanec musí být přítomen po celou směnu; intenzita porušení této povinnosti se však hodnotí podle okolností.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je rozvržení do více než pěti dnů provozně odůvodněné a zohledňuje BOZP?
+- [ ] Respektuje rozvrh odpočinky (§ 90–92) a limity délky směny (§ 83)?
+- [ ] Existuje hodnocení rizik (§ 102) zohledňující noční a víkendovou zátěž?
+- [ ] Při porušení povinnosti přítomnosti — jaká je jeho intenzita a opakovanost?
+- [ ] Je u mobilních / home-office pracovníků jasně určeno „své pracoviště"?
+
+**Typicky rozhodné důkazy / podklady:** rozvrhy směn za delší období (§ 84), evidence pracovní doby (§ 96), hodnocení rizik (§ 102), lékařské posudky, vnitřní předpisy o organizaci práce.
+
 ---
 
 ### § 83 — Délka směny
@@ -249,6 +434,43 @@ Odst. 3 zakotvuje **základní pracovní povinnost zaměstnance**: být na zač�
 #### Výjimka 24 hodin pro zdravotníky (odst. 2)
 
 Odkaz na § 83a — viz následující komentář. Jde o **jedinou výslovnou výjimku** z 12hodinového limitu v zákoníku práce.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Logistická firma v nerovnoměrném rozvržení naplánovala skladníkovi směnu v délce 13 hodin (6:00–19:00), aby pokryla nárazovou zakázku. Po skončení směny mu zbývá do začátku další směny (následující den v 6:00) jen 11 hodin. Skladník namítá, že směna 13 hodin překračuje zákonný limit. Zaměstnavatel argumentuje, že do 13 hodin se „vešel přesčas". Důkazy: rozvrh (§ 84), evidence pracovní doby (§ 96), pokyn k práci přesčas.
+
+**2. Právní otázka.** Smí délka jedné směny (mimo režim § 83a) přesáhnout 12 hodin, lze ji „natáhnout" prostřednictvím práce přesčas, a jak se posuzuje navazující denní odpočinek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 83 odst. 1 (max. délka směny 12 hodin) a odst. 2 (výjimka 24 hodin jen za podmínek § 83a).
+- *Související ustanovení téhož zákona:* § 78 odst. 1 písm. c) (směna bez přesčasu), § 93 (přesčas — posuzuje se samostatně), § 90 (denní odpočinek), § 85 odst. 3 a § 87a odst. 2 písm. a) (limit 12 h platí i u pružného rozvržení a samorozvrhování).
+- *Související předpisy:* směrnice 2003/88/ES (max. týdenní doba a odpočinky).
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z textu § 83 ve spojení s definicí směny § 78 a limity odpočinku § 90.
+
+**4. Subsumpce.** Směna ve smyslu § 78 odst. 1 písm. c) je část týdenní pracovní doby **bez práce přesčas**. Limit 12 hodin (§ 83 odst. 1) se vztahuje na směnu jako takovou; přesčas se do směny nezapočítává a posuzuje se samostatně. Rozvrhnout směnu (stanovenou pracovní dobu) v délce 13 hodin tedy nelze. Práce přesčas nad 12hodinovou směnu je možná, ale musí být dodržen denní odpočinek § 90 (zde 11 hodin je splněno).
+
+**5. Řešení.** Rozvržená směna nesmí přesáhnout 12 hodin. 13. hodina nemůže být součástí směny; mohla by být jen prací přesčas (§ 93) navazující na 12hodinovou směnu, a to při dodržení odpočinků (§ 90) a limitů přesčasu (8 h/týden, 150 h/rok bez dohody). Naplánovat rovnou „13hodinovou směnu" je porušením § 83. Náprava: zkrátit rozvrženou směnu na 12 hodin; případnou 13. hodinu řešit jako přesčas. Hrozí sankce inspekce práce.
+
+**6. Varianty.** (a) Kdyby šlo o zaměstnance ve zdravotnictví v nepřetržitém provozu se splněnými podmínkami § 83a, mohla by směna činit až 24 hodin (během 26 hodin). (b) Kdyby po 12hodinové směně + přesčasu nezbýval 11hodinový odpočinek, bylo by nutné odpočinek zkrátit dle § 90 odst. 2 (na 8 h) s povinností pozdější kompenzace.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „přesčas se do 12 hodin vejde".* Zaměňuje směnu a přesčas. Neutralizace: definice § 78 písm. c) vylučuje přesčas ze směny; limit 12 h se týká rozvržené (stanovené) doby, přesčas je nad ni.
+- *Protiargument „nerovnoměrné rozvržení umožňuje delší směny".* Nerovnoměrné rozvržení mění délku týdnů, nikoli maximální délku jednotlivé směny — ta zůstává 12 hodin (§ 83).
+- *Slabé místo:* praktická interakce s § 90 je těsná (12 + 11 = 23 h); při jakémkoli přesčasu hrozí porušení odpočinku, pokud zaměstnavatel nezajistí kompenzaci.
+
+#### H. Praktický závěr
+
+Délka směny je kogentně omezena na 12 hodin (jediná výjimka — zdravotnictví dle § 83a, až 24 hodin). Přesčas se do směny nezapočítává a posuzuje se samostatně, vždy při dodržení odpočinků a limitů přesčasu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nepřesahuje rozvržená směna 12 hodin?
+- [ ] Je práce nad 12 hodin správně klasifikována jako přesčas (nikoli jako součást směny)?
+- [ ] Je po směně (vč. přesčasu) zachován denní odpočinek § 90, případně jeho kompenzace?
+- [ ] Platí limit 12 h i v pružném rozvržení (§ 85) a samorozvrhování (§ 87a)?
+- [ ] Jde-li o zdravotnictví, jsou splněny podmínky § 83a pro směnu nad 12 hodin?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh směn (§ 84), evidence pracovní doby (§ 96), pokyny k práci přesčas, kolektivní smlouva / vnitřní předpis, doklady o kompenzaci odpočinku.
 
 ---
 
@@ -294,6 +516,43 @@ Aktuální seznam zaměstnanců s dohodou podle odst. 2 musí být veden tak, ab
 
 Prodloužení směny až na 24 hodin je vykoupeno zvláštním pravidlem **nezkrátitelného denního odpočinku**: pokud zaměstnanci nelze poskytnout ani zkrácený odpočinek 8 hodin dle § 90 odst. 2, musí mu zaměstnavatel poskytnout odpočinek tvořený neposkytnutou částí + 11 hodinami bezprostředně po skončení směny (viz § 90b).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nemocnice bez působící odborové organizace zavedla vnitřním předpisem režim 24hodinových služeb pro lékaře na ARO. Jednomu lékaři vedoucí ústně oznámil, že „od příštího měsíce slouží 24hodinové služby", aniž by s ním byla uzavřena písemná individuální dohoda; inspekce práce nebyla vyrozuměna. Lékař odmítl a vedoucí mu pohrozil přeřazením. Lékař se brání. Důkazy: vnitřní předpis, absence individuální dohody, absence notifikace inspekce práce, e-mailová/svědecká dokumentace pohrůžky.
+
+**2. Právní otázka.** Lze na zaměstnanci ve zdravotnictví vyžadovat 24hodinové služby podle § 83a bez písemné individuální dohody a notifikace inspekce práce, a je pohrůžka přeřazením za odmítnutí přípustná?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 83a odst. 1 (kolektivní/normativní ukotvení), odst. 2 (písemná individuální dohoda, max. 52 týdnů, výpověď bez důvodu), odst. 3 (zákaz nátlaku a újmy), odst. 4 (notifikace inspekce práce), odst. 5 (seznam zaměstnanců).
+- *Související ustanovení téhož zákona:* § 83 (max. směna 12 h — výjimka jen zde), § 90b (nezkrátitelný navazující odpočinek), § 16 (rovné zacházení), § 305 (vnitřní předpis).
+- *Související předpisy:* směrnice 2003/88/ES, čl. 22 (opt-out); zákon č. 251/2005 Sb. (sankce).
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z kogentního výčtu kumulativních podmínek § 83a a antiretorzní ochrany odst. 3.
+
+**4. Subsumpce.** Režim 24/26 hodin vyžaduje **kumulativní** splnění tří podmínek (triple-lock): (i) kolektivní smlouva nebo vnitřní předpis — splněno; (ii) **písemná individuální dohoda** — nesplněno; (iii) **notifikace inspekce práce** — nesplněno. Bez nich režim aplikovat nelze. Pohrůžka přeřazením za odmítnutí dohody porušuje zákaz nátlaku a újmy podle odst. 3.
+
+**5. Řešení.** Lékaře nelze do 24hodinových služeb zařadit; bez písemné dohody a notifikace je režim neúčinný a platí limit 12 hodin (§ 83). Pohrůžka přeřazením je protiprávní (odst. 3, § 16) a může zakládat nárok na ochranu, případně na náhradu újmy. Zaměstnavatel musí dohody uzavřít dobrovolně a vyrozumět inspekci práce; jinak hrozí sankce. Lékař odmítnutím neporušuje žádnou povinnost.
+
+**6. Varianty.** (a) Kdyby lékař dobrovolně uzavřel písemnou dohodu (max. 52 týdnů) a zaměstnavatel vyrozuměl inspekci, byl by režim 24/26 hodin v pořádku — s navazující ochranou § 90b. (b) Kdyby u zaměstnavatele působila odborová organizace, nestačil by vnitřní předpis — režim by musel být sjednán v kolektivní smlouvě.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vnitřní předpis stačí".* Vnitřní předpis je jen jednou ze tří podmínek; bez individuální dohody a notifikace inspekce režim neplatí.
+- *Protiargument „služby jsou provozní nutností".* Provozní nutnost neodstraňuje kogentní procedurální záruky ani dobrovolnost (opt-out dle čl. 22 směrnice je vždy dobrovolný).
+- *Slabé místo:* fakticky hrozí „pseudodobrovolnost" — tlak na podpis dohody; antiretorzní ochrana odst. 3 je sice výslovná, ale její vymáhání naráží na důkazní obtíže (prokázání nátlaku).
+
+#### H. Praktický závěr
+
+Prodloužení směny zdravotníka na 24 hodin je možné jen při kumulativním splnění tří podmínek (kolektivní/normativní základ + písemná dobrovolná dohoda + notifikace inspekce) a je vykoupeno nezkrátitelným odpočinkem dle § 90b. Odmítnutí dohody nesmí být sankcionováno.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je režim 24/26 h zakotven v kolektivní smlouvě, resp. ve vnitřním předpisu (není-li odborová organizace)?
+- [ ] Existuje písemná individuální dohoda (max. 52 týdnů, symetrická výpověď)?
+- [ ] Byla vyrozuměna příslušná inspekce práce (odst. 4)?
+- [ ] Je veden aktuální seznam zaměstnanců s dohodou (odst. 5)?
+- [ ] Je zajištěn navazující nezkrátitelný odpočinek dle § 90b?
+
+**Typicky rozhodné důkazy / podklady:** kolektivní smlouva / vnitřní předpis, individuální písemné dohody, doklad o vyrozumění inspekce práce, seznam zaměstnanců, evidence pracovní doby a odpočinků.
+
 ---
 
 ### § 84 — Rozvrh týdenní pracovní doby
@@ -321,6 +580,43 @@ Prodloužení směny až na 24 hodin je vykoupeno zvláštním pravidlem **nezkr
 #### Důsledky porušení
 
 Nevypracování rozvrhu nebo jeho opožděné předání **nevede automaticky k neplatnosti** směn — zaměstnanec je povinen pracovat podle posledního známého rozvrhu. Zakládá však **přestupkovou odpovědnost** zaměstnavatele (§ 28 zákona č. 251/2005 Sb., o inspekci práce) a může u jednotlivého zaměstnance zakládat nárok na náhradu škody, pokud mu nepředání rozvrhu způsobilo újmu (např. zmařené plánování).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Maloobchodní řetězec vede prodejnu v nerovnoměrném rozvržení. Vedoucí prodejny pravidelně sděluje prodavačům rozpis směn na další týden vždy v pátek odpoledne na týden dopředu (tj. místo zákonných 2 týdnů). Jedna prodavačka kvůli pozdnímu rozvrhu nemohla zajistit hlídání dětí a domáhá se nápravy, případně náhrady škody za zmařené plánování. Důkazy: rozvrhy a data jejich zveřejnění, komunikace, doklad o vzniklé škodě (např. náklady na náhradní hlídání).
+
+**2. Právní otázka.** Porušuje zaměstnavatel § 84, seznamuje-li zaměstnance s rozvrhem méně než 2 týdny předem bez dohody o jiné lhůtě, a jaké to má důsledky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 84 (písemný rozvrh, seznámení nejpozději 2 týdny — u konta 1 týden — předem, nedohodne-li se jiná doba).
+- *Související ustanovení téhož zákona:* § 78 odst. 1 písm. c) (směna vychází z předem stanoveného rozvrhu), § 81 (rozvržení), § 86 (konto — lhůta 1 týden), § 6 (poctivost).
+- *Související předpisy:* § 561 obč. zák. (písemná forma), § 1728 odst. 2 obč. zák. per analogiam (poctivost); zákon č. 251/2005 Sb., § 28 (přestupek).
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z textu § 84 a zásady poctivosti.
+
+**4. Subsumpce.** Bez dohody o jiné lhůtě platí zákonné minimum 2 týdny. Zveřejnění rozvrhu týden předem je porušením § 84. Nevede to automaticky k neplatnosti směn (zaměstnanec pracuje podle posledního známého rozvrhu), zakládá však přestupkovou odpovědnost a případný nárok na náhradu škody, prokáže-li zaměstnankyně újmu způsobenou opožděným seznámením.
+
+**5. Řešení.** Zaměstnavatel musí seznamovat s rozvrhem nejpozději 2 týdny předem, nebo si se zaměstnancem sjednat jinou (kratší i delší) lhůtu — ta však nesmí být zneužívající (extrémně krátké lhůty odporují zásadě poctivosti § 6). Prodavačka se může domáhat nápravy a náhrady prokázané škody (např. náklady na náhradní hlídání). Hrozí sankce inspekce práce. Sjednání kratší lhůty „den předem" by patrně neobstálo.
+
+**6. Varianty.** (a) Při kontu pracovní doby je zákonná lhůta jen 1 týden — týdenní seznámení by tam bylo v pořádku. (b) Kdyby strany platně sjednaly kratší přiměřenou lhůtu (např. 10 dnů) a zaměstnankyně ji akceptovala, k porušení § 84 by nedošlo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „provoz vyžaduje flexibilitu".* Flexibilitu lze řešit dohodou o jiné lhůtě, nikoli jednostranným zkrácením pod zákonné minimum. Neutralizace: bez dohody platí 2 týdny.
+- *Protiargument „škoda nevznikla".* Často silný — bez prokázané újmy je nárok na náhradu škody nedůvodný; zůstává však přestupková odpovědnost.
+- *Slabé místo:* hranice „zneužívající" krátké lhůty je neostrá; soud ji posuzuje podle okolností a zásady poctivosti, výsledek je předvídatelný jen rámcově.
+
+#### H. Praktický závěr
+
+Rozvrh musí být písemný a zaměstnanec s ním musí být seznámen nejpozději 2 týdny (u konta 1 týden) předem, nedohodne-li se jiná, nezneužívající lhůta. Porušení nezpůsobuje neplatnost směn, ale zakládá přestupkovou odpovědnost a případně náhradu škody.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je rozvrh písemný (postačí elektronická forma)?
+- [ ] Byl zaměstnanec seznámen v zákonné lhůtě (2 týdny / 1 týden u konta), nebo je sjednána jiná lhůta?
+- [ ] Není sjednaná kratší lhůta zneužívající (v rozporu s § 6)?
+- [ ] Lze prokázat seznámení (předání/sdělení) zaměstnanci?
+- [ ] Vznikla opožděným seznámením prokazatelná škoda?
+
+**Typicky rozhodné důkazy / podklady:** rozvrhy a data jejich zveřejnění, doklady o seznámení zaměstnance, dohoda o jiné lhůtě (existuje-li), doklady o vzniklé škodě.
 
 ---
 
@@ -382,6 +678,43 @@ Odst. 5 taxativně (s otevřenou klauzulí v písm. f) vyjmenovává situace, kd
 
 V případech podle odst. 5 platí (odst. 6) **„pevný" rozvrh**, který zaměstnavatel musí pro tyto účely předem připravit.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec v administrativě pracuje v pružném rozvržení (základní doba 9:00–14:00, volitelná 6:00–9:00 a 14:00–20:00, vyrovnávací období měsíc). V jeden den potřeboval k lékaři (osobní překážka dle § 191) v době 8:00–8:45, tedy ve volitelném pásmu; jindy si naopak prodloužil pracovní den tak, že celkově odpracoval 13 hodin. Zaměstnavatel mu jednak odečetl 45 minut „neodpracované doby" za lékaře, jednak mu odmítl uznat práci nad 12 hodin. Důkazy: evidence příchodů/odchodů, doklad o návštěvě lékaře, rozpis základní a volitelné doby.
+
+**2. Právní otázka.** Jak se v pružném rozvržení posuzuje osobní překážka spadající do volitelné doby a smí celková délka směny při pružném rozvržení přesáhnout 12 hodin?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 85 odst. 1–3 (základní a volitelná doba, limit směny 12 h), odst. 4 (vyrovnávací období), odst. 5–6 (vyloučení pružnosti a záložní rozvrh).
+- *Související ustanovení téhož zákona:* § 97 odst. 1 (překážky se posuzují jako výkon práce jen v rozsahu základní doby), § 97 odst. 2 (výjimka — překážky s přesně vymezenou dobou), § 83 (limit směny), § 191 (důležité osobní překážky), § 78 odst. 1 písm. m) (vyrovnávací období).
+- *Související předpisy:* nařízení vlády č. 590/2006 Sb. (rozsah překážek).
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z § 85 a § 97.
+
+**4. Subsumpce.** Návštěva lékaře v 8:00–8:45 spadá do **volitelné** doby. Podle § 97 odst. 1 se překážka posuzuje jako výkon práce jen v rozsahu, ve kterém zasáhla do **základní** doby (zde 0 minut). Zaměstnanec si tedy volitelnou dobu nahradí jindy — odečtení je v souladu se zákonem (nejde-li o překážku s přesně vymezenou délkou dle § 97 odst. 2). Pokud jde o délku směny, limit 12 hodin (§ 85 odst. 3) platí absolutně; práce nad 12 hodin je porušením § 83.
+
+**5. Řešení.** Postup zaměstnavatele u lékaře je správný, protože překážka zasáhla jen do volitelné doby (§ 97 odst. 1). Naopak práci nad 12 hodin nelze ani v pružném režimu uznat jako řádnou směnu — zaměstnanec si nesmí ve volitelném pásmu „nastřádat" více než 12 hodin (§ 85 odst. 3, § 83). Zaměstnavatel by měl pružný režim nastavit tak, aby překročení 12 hodin technicky neumožnil.
+
+**6. Varianty.** (a) Kdyby šlo o překážku s přesně vymezenou dobou (např. svatba — 1 den) nebo o činnost dle § 203 odst. 2 písm. a), počítala by se celá doba jako výkon práce bez ohledu na základní/volitelnou dobu (§ 97 odst. 2). (b) Kdyby zaměstnanec byl na pracovní cestě nebo čerpal dovolenou, pružný režim by se vůbec neuplatnil a platil by pevný záložní rozvrh (§ 85 odst. 5 a 6).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „lékař je vždy výkon práce".* Neplatí v pružném režimu — § 97 odst. 1 omezuje uznání na rozsah základní doby. Neutralizace: zkoumá se, zda překážka zasáhla základní, či volitelnou dobu.
+- *Protiargument „ve volitelné době si mohu odpracovat, kolik chci".* Limit 12 h (§ 85 odst. 3, § 83) je nepřekročitelný i v pružném režimu.
+- *Slabé místo:* sporné bývá zařazení překážky pod § 97 odst. 2 (přesně vymezená doba); nesprávné posouzení vede k chybnému krácení mzdy.
+
+#### H. Praktický závěr
+
+Pružné rozvržení dělí dobu na základní (povinná přítomnost) a volitelnou (volba zaměstnance). Překážky se posuzují jako výkon práce jen v rozsahu základní doby (s výjimkou přesně vymezených překážek). Limit směny 12 hodin platí i zde a v taxativně vymezených situacích se pružnost vůbec neuplatní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je jasně vymezena základní a volitelná pracovní doba (a kdo určuje její rámec)?
+- [ ] Zasáhla osobní překážka do základní, nebo do volitelné doby (§ 97 odst. 1)?
+- [ ] Nejde o překážku s přesně vymezenou dobou nebo činnost dle § 203 odst. 2 písm. a) (§ 97 odst. 2)?
+- [ ] Nepřesahuje celková délka směny 12 hodin (§ 85 odst. 3, § 83)?
+- [ ] Je pro vyloučené situace (cesta, dovolená, naléhavý úkol) připraven pevný záložní rozvrh (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** evidence příchodů/odchodů, rozpis základní a volitelné doby, doklady o překážkách (potvrzení lékaře apod.), záložní rozvrh.
+
 ---
 
 ### § 86 — Konto pracovní doby — podmínky zavedení
@@ -425,6 +758,43 @@ Odst. 4 zavádí specifický institut **přenosu části přesčasu** do násled
 
 Tento institut umožňuje zaměstnavateli vyrovnávat krátkodobé výkyvy ve výrobě, aniž by musel okamžitě odměňovat veškerý přesčas — zaměstnanec si „odpracovaný" přesčas může vyčerpat v dalším období jako náhradní volno započtené do pracovní doby. Pravidlo má kompromisní charakter a uplatní se nejčastěji v sezónně závislých průmyslových oborech.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Strojírenský podnik bez působící odborové organizace zavedl vnitřním předpisem konto pracovní doby a v tomtéž vnitřním předpisu si stanovil vyrovnávací období 40 týdnů. Dále hodlá přenášet přesčas do následujícího vyrovnávacího období. Odborový svaz (vzniklý později) namítá, že vnitřní předpis nemohl období prodloužit nad 26 týdnů ani zavést přenos přesčasu. Důkazy: vnitřní předpis, kolektivní smlouva (chybí), evidence účtů pracovní doby (§ 87).
+
+**2. Právní otázka.** Může zaměstnavatel bez odborové organizace zavést konto pracovní doby vnitřním předpisem s vyrovnávacím obdobím delším než 26 týdnů a s přenosem přesčasu do následujícího období?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86 odst. 1 (zavedení jen kolektivní smlouvou nebo vnitřním předpisem), odst. 2 (zákaz u veřejných zaměstnavatelů), odst. 3 (období 26 týdnů, prodloužení na 52 jen kolektivní smlouvou), odst. 4 (přenos max. 120 h přesčasu jen kolektivní smlouvou).
+- *Související ustanovení téhož zákona:* § 87 (účty pracovní doby a mzdy), § 109 odst. 3 (veřejní zaměstnavatelé), § 120 (paušální mzda v kontu — Část šestá), § 78 odst. 1 písm. m).
+- *Související předpisy:* směrnice 2003/88/ES (vyrovnávací období a max. doba).
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z jednoznačného textu § 86.
+
+**4. Subsumpce.** Konto lze zavést i vnitřním předpisem (není-li odborová organizace) — to je v pořádku. Avšak **prodloužení vyrovnávacího období nad 26 týdnů** (odst. 3) i **přenos přesčasu** (odst. 4) jsou pravomoci vyhrazené **výlučně kolektivní smlouvě**. Vnitřní předpis je proto v části stanovící 40 týdnů a přenos přesčasu nad rámec zákonného zmocnění.
+
+**5. Řešení.** Vyrovnávací období stanovené vnitřním předpisem nad 26 týdnů je neúčinné; platí maximum 26 týdnů. Přenos přesčasu do následujícího období nelze bez kolektivní smlouvy realizovat. Zaměstnavatel musí buď zkrátit období na 26 týdnů, nebo (chce-li 52 týdnů / přenos) uzavřít kolektivní smlouvu. Hrozí sankce inspekce práce a chybné vyúčtování přesčasů.
+
+**6. Varianty.** (a) Kdyby u zaměstnavatele působila odborová organizace a uzavřela kolektivní smlouvu, mohlo by být období 52 týdnů a přenos až 120 hodin přesčasu do bezprostředně následujícího období v pořádku. (b) Kdyby šlo o veřejného zaměstnavatele (§ 109 odst. 3), nesměl by konto zavést vůbec (odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vnitřní předpis je rovnocenný kolektivní smlouvě".* Není — u prodloužení období i přenosu přesčasu zákon výslovně vyžaduje kolektivní smlouvu. Neutralizace: textový a systematický výklad § 86 odst. 3 a 4.
+- *Protiargument „zaměstnanci souhlasili".* Konto je kolektivní nástroj; individuální souhlas nenahrazuje kolektivní smlouvu pro prodloužení období.
+- *Slabé místo:* hranice mezi tím, co smí vnitřní předpis a co jen kolektivní smlouva, bývá v praxi přehlížena — riziko neplatnosti části úpravy a sporů o vyúčtování přesčasů.
+
+#### H. Praktický závěr
+
+Konto pracovní doby je nejflexibilnější model, ale s nejpřísnějšími podmínkami zavedení: jen kolektivní smlouvou nebo (bez odborů) vnitřním předpisem, nikdy u veřejných zaměstnavatelů. Prodloužení období nad 26 týdnů a přenos přesčasu jsou vyhrazeny pouze kolektivní smlouvě.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je konto zavedeno kolektivní smlouvou, nebo (není-li odborová organizace) vnitřním předpisem?
+- [ ] Nejde o veřejného zaměstnavatele (§ 109 odst. 3), kde je konto zakázáno?
+- [ ] Nepřesahuje vyrovnávací období 26 týdnů (52 jen kolektivní smlouvou)?
+- [ ] Je případný přenos přesčasu (max. 120 h) sjednán kolektivní smlouvou?
+- [ ] Jsou vedeny účty pracovní doby a mzdy dle § 87?
+
+**Typicky rozhodné důkazy / podklady:** kolektivní smlouva / vnitřní předpis o zavedení konta, účty pracovní doby a mzdy (§ 87), evidence přesčasů, mzdové listy (paušální mzda § 120).
+
 ---
 
 ### § 87 — Konto pracovní doby — účty a evidence
@@ -455,6 +825,43 @@ V kontu pracovní doby musí zaměstnavatel vést **dva paralelní účty** pro 
 #### Kratší vyrovnávací období (odst. 3)
 
 Pokud zaměstnavatel v rámci konta zavede **kratší vyrovnávací období** než zákonné maximum (např. 13 týdnů místo 26), musí na konci tohoto kratšího období vyhodnotit rozdíl mezi rozvrženou a odpracovanou dobou. Tento rozdíl pak může být buď přesčasem (k vyplacení nebo náhradnímu volnu), nebo „dluhem" zaměstnance, který se v dalším kratším období dorovnává.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní podnik uplatňuje konto pracovní doby s 26týdenním vyrovnávacím obdobím. Zaměstnanec v polovině období žádá zaměstnavatele o nahlédnutí do svého účtu pracovní doby a účtu mzdy a o pořízení výpisů, neboť má pochybnosti o správnosti vykazování odpracované doby a o výši paušální mzdy. Zaměstnavatel nahlédnutí odmítne s tím, že „účty jsou interní". Důkazy: žádost zaměstnance, vedené účty pracovní doby a mzdy, rozvrh, evidence odpracované doby.
+
+**2. Právní otázka.** Je zaměstnavatel povinen vést v kontu pracovní doby účet pracovní doby a účet mzdy v zákonem stanovené struktuře a umožnit zaměstnanci do nich nahlédnout?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 87 odst. 1 (povinnost vést účet pracovní doby a účet mzdy), odst. 2 (obsah účtu pracovní doby — stanovená doba, rozvrh, odpracovaná doba), odst. 3 (kratší vyrovnávací období — vyhodnocení rozdílu).
+- *Související ustanovení téhož zákona:* § 96 odst. 2 (právo nahlédnout a pořizovat výpisy na náklady zaměstnavatele), § 86 (konto), § 120 (paušální mzda — Část šestá), § 98 odst. 2 (přesčas v kontu).
+- *Související předpisy:* zákon č. 251/2005 Sb. (sankce za porušení evidenčních povinností).
+- *Judikatura:* ÚS II.ÚS 107/11 (zaměstnanec si má kontrolovat údaje o odpracované době; evidence je zaměstnavateli uložena zákonem); NS 21 Cdo 3989/2011 (důkazní břemeno o tom, že zaměstnanec nepracoval, tíží zaměstnavatele dle jím vedené evidence).
+
+**4. Subsumpce.** V kontu musí zaměstnavatel vést **dva paralelní účty** (pracovní doby a mzdy) pro každého zaměstnance, a to v struktuře dle odst. 2. Podle § 96 odst. 2 má zaměstnanec právo do účtu pracovní doby i mzdy nahlédnout a pořizovat výpisy na náklady zaměstnavatele. Odmítnutí nahlédnutí je porušením § 96 odst. 2.
+
+**5. Řešení.** Zaměstnavatel je povinen umožnit nahlédnutí a pořízení výpisů na své náklady. Vedení účtů je kogentní povinností; jejich absence či neúplnost jde k tíži zaměstnavatele (NS 21 Cdo 3989/2011) v případném sporu o mzdu. Zaměstnanec se může nahlédnutí domáhat a v případě nesrovnalostí uplatnit nárok na doplatek. Hrozí sankce inspekce práce.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel zavedl kratší vyrovnávací období (např. 13 týdnů), musel by po jeho skončení vyhodnotit rozdíl mezi rozvrženou a odpracovanou dobou (odst. 3) a vypořádat přesčas, resp. „dluh" zaměstnance. (b) Kdyby účty nebyly vedeny vůbec, v případném sporu o mzdu by zaměstnavatel nemohl unést důkazní břemeno o rozsahu odpracované doby.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „účty jsou interní".* Neobstojí — § 96 odst. 2 výslovně zakládá právo zaměstnance nahlédnout a pořizovat výpisy. Neutralizace: odkaz na zákonné právo a judikaturu ÚS II.ÚS 107/11.
+- *Protiargument „paušální mzda kryje vše".* Paušální mzda (§ 120) nezbavuje povinnosti vést účet mzdy a vyrovnat jej se skutečně odpracovanou dobou.
+- *Slabé místo:* zaměstnanec musí být aktivní (ÚS II.ÚS 107/11) — kontrolovat údaje; pasivita oslabuje jeho pozdější tvrzení o nesprávnosti evidence.
+
+#### H. Praktický závěr
+
+V kontu pracovní doby je zaměstnavatel povinen vést účet pracovní doby (stanovená doba, rozvrh, skutečnost) a účet mzdy a umožnit zaměstnanci do nich nahlédnout a pořídit výpisy na své náklady. Neúplná evidence jde k tíži zaměstnavatele.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou vedeny oba účty (pracovní doby i mzdy) pro každého zaměstnance?
+- [ ] Obsahuje účet pracovní doby všechny složky dle odst. 2 (stanovená doba, rozvrh, odpracovaná doba)?
+- [ ] Bylo zaměstnanci umožněno nahlédnutí a pořízení výpisů na náklady zaměstnavatele (§ 96 odst. 2)?
+- [ ] Při kratším vyrovnávacím období — byl po jeho skončení vyhodnocen rozdíl (odst. 3)?
+- [ ] Je paušální mzda (§ 120) na konci období vyrovnána se skutečností?
+
+**Typicky rozhodné důkazy / podklady:** účty pracovní doby a mzdy, rozvrhy směn, evidence odpracované doby, mzdové listy, žádost zaměstnance o nahlédnutí.
 
 ---
 
@@ -512,6 +919,43 @@ Pravidlo, které zhoršuje postavení zaměstnance v dohodě o samorozvrhování
 
 Dohoda končí: (i) **dohodou** ke sjednanému dni, (ii) **výpovědí bez důvodu** s 15denní výpovědní dobou. Výpovědní doba musí být symetrická (stejná pro obě strany). Ukončení samotné dohody však **neruší pracovní poměr** — dochází jen k návratu k běžnému režimu rozvržení zaměstnavatelem.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** IT specialista pracuje převážně z domova. Se zaměstnavatelem uzavřel písemnou dohodu o samorozvrhování pracovní doby (§ 87a) s vyrovnávacím obdobím určeným zaměstnavatelem na 26 týdnů. Jednoho dne si naplánuje a odpracuje 13 hodin; jindy potřebuje volno z důvodu „jiné důležité osobní překážky" (stěhování), za kterou požaduje náhradu mzdy. Zaměstnavatel náhradu odmítne. Specialista zároveň namítá, že 13hodinová směna byla v pořádku, protože „si rozvrhuje sám". Důkazy: písemná dohoda, rozvrh zaměstnance, evidence odpracované doby, doklad o překážce.
+
+**2. Právní otázka.** Platí při samorozvrhování limit délky směny 12 hodin a přísluší zaměstnanci náhrada mzdy za „jinou důležitou osobní překážku"?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 87a odst. 1 (písemná dohoda), odst. 2 písm. a) (vyloučení úpravy rozvržení vyjma § 81 odst. 3 a § 83), písm. b) (vyrovnávací období), písm. c) (záložní rozvrh pro vymezené situace), písm. d) (žádná náhrada za jiné osobní překážky, není-li dohodnuto jinak), odst. 3 (ukončení dohody).
+- *Související ustanovení téhož zákona:* § 83 (max. směna 12 h — platí absolutně), § 81 odst. 3 (přítomnost po směnu), § 191 (důležité osobní překážky — spadají pod písm. c), § 199 (jiné překážky), § 317 (práce mimo pracoviště).
+- *Související předpisy:* směrnice 2019/1152/EU (transparentní a předvídatelné pracovní podmínky — základ § 87a).
+- *Judikatura:* (institut je nový, judikatura sporá) — řešení vychází z textu § 87a.
+
+**4. Subsumpce.** Při samorozvrhování se neaplikuje úprava rozvržení §§ 81–87 **s výjimkou § 81 odst. 3 a § 83**. Limit 12 hodin (§ 83) tedy platí absolutně — 13hodinová směna je i při samorozvrhování porušením. Pokud jde o „jinou důležitou osobní překážku" (mimo § 191), podle písm. d) zaměstnanci náhrada mzdy/platu **nepřísluší**, není-li dohodnuto nebo předpisem stanoveno jinak.
+
+**5. Řešení.** Specialista nesmí naplánovat směnu delší než 12 hodin; 13. hodinu nelze uznat jako řádnou směnu. Náhradu mzdy za stěhování (jiná osobní překážka mimo § 191) zaměstnavatel po právu odmítl — zaměstnanec nese vlastní organizační riziko, ledaže si sjednal opak. Pro překážky dle § 191, dovolenou a cestu se uplatní záložní „stanovené rozvržení" (písm. c), které musí zaměstnavatel předem určit.
+
+**6. Varianty.** (a) Kdyby šlo o překážku dle § 191 (např. svatba, pohřeb), uplatnil by se záložní rozvrh (písm. c) a náhrada by příslušela. (b) Kdyby si strany v dohodě (nebo vnitřní předpis/kolektivní smlouva) sjednaly náhradu i za jiné osobní překážky, příslušela by — písm. d) je dispozitivní ve prospěch zaměstnance.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „rozvrhuji si sám, limit 12 h neplatí".* Neobstojí — § 83 je výslovnou výjimkou, která platí i při samorozvrhování (odst. 2 písm. a).
+- *Protiargument „náhrada za překážku přísluší vždy".* U jiných osobních překážek (mimo § 191) písm. d) náhradu vylučuje, není-li dohodnuto jinak. Neutralizace: rozlišit § 191 (písm. c) od ostatních.
+- *Slabé místo:* institut je nový (od 1. 10. 2023), bez ustálené judikatury; výklad sporných situací (zejména hranice „záložního rozvrhu") je zatím nejistý.
+
+#### H. Praktický závěr
+
+Samorozvrhování (§ 87a) je dobrovolný písemný režim, v němž si zaměstnanec rozvrhuje směny sám, ale stále platí limit 12 hodin (§ 83) a povinnost přítomnosti po směnu (§ 81 odst. 3). Za jiné osobní překážky (mimo § 191) náhrada nepřísluší, není-li dohodnuto jinak; pro vymezené situace platí záložní rozvrh.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje písemná dohoda o samorozvrhování (oboustranně dobrovolná)?
+- [ ] Nepřesahuje žádná samorozvržená směna 12 hodin (§ 83)?
+- [ ] Určil zaměstnavatel záložní „stanovené rozvržení" pro překážky § 191, dovolenou, cestu (písm. c)?
+- [ ] Je vyřešena (ne)náhrada za jiné osobní překážky (písm. d) — případně sjednán opak?
+- [ ] Je nastaveno vyrovnávací období (max. 26 / 52 týdnů) a jeho kontrola?
+
+**Typicky rozhodné důkazy / podklady:** písemná dohoda o samorozvrhování, rozvrh zaměstnance a záložní rozvrh zaměstnavatele, evidence odpracované doby, doklady o překážkách, vnitřní předpis / kolektivní smlouva.
+
 ---
 
 ## Hlava III — Přestávka v práci a bezpečnostní přestávka
@@ -556,6 +1000,43 @@ Přestávka **nemůže být poskytnuta na začátku nebo konci směny** — fakt
 
 Přestávka na jídlo a oddech **není pracovní dobou** — během ní zaměstnanec není povinen být k dispozici zaměstnavateli, není povinen být přítomen na pracovišti a nepřísluší mu za ni mzda. Důsledek: pokud má zaměstnanec 8hodinovou směnu se 30minutovou přestávkou, je fyzicky v práci 8 h 30 min., ale pracovní dobou je 8 hodin.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel nepřetržité výroby zařadil obsluhu řídicího pultu (dispečera), který nesmí během směny opustit pracoviště, na 12hodinové směny bez poskytnutí přestávky na jídlo a oddech s tím, že „provoz nelze přerušit". Zaměstnanec namítá, že mu nebyla poskytnuta žádná doba na jídlo a oddech, a inspekce práce prověřuje, zda byla porušena § 88. Důkazy: rozvrh, evidence pracovní doby, popis pracoviště a charakteru práce (nepřerušitelnost), vnitřní předpis.
+
+**2. Právní otázka.** Lze u prací, které nelze přerušit, zcela vypustit přestávku na jídlo a oddech, nebo musí být zaměstnanci zajištěna přiměřená doba na oddech a jídlo, a započítává se do pracovní doby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88 odst. 1 (30 min po 6 h; u nepřerušitelných prací přiměřená doba na oddech a jídlo započítaná do pracovní doby; mladiství po 4,5 h vždy), odst. 2 (dělení — alespoň 15 min), odst. 3 (ne na začátku/konci), odst. 4 (přestávka se nezapočítává do pracovní doby).
+- *Související ustanovení téhož zákona:* § 89 (bezpečnostní přestávka — započítává se), § 78 odst. 1 písm. a) (pracovní doba), § 94 (noční práce), § 96 (evidence).
+- *Související předpisy:* směrnice 2003/88/ES, čl. 4 (přestávka v práci).
+- *Judikatura:* ÚS III.ÚS 2387/10 — každá směna (denní i noční) je samostatnou jednotkou, v jejímž průběhu má zaměstnavatel povinnost poskytnout přestávku; není rozhodující druh provozu.
+
+**4. Subsumpce.** Jde o práci, kterou nelze přerušit (dispečer u pultu). Podle § 88 odst. 1 věty druhé musí být i bez přerušení provozu zajištěna **přiměřená doba na oddech a jídlo**, která se **započítává do pracovní doby**. Zcela vypustit jakoukoli dobu na jídlo a oddech nelze. Přestávka přitom nesmí být poskytnuta na začátku/konci směny (odst. 3).
+
+**5. Řešení.** Zaměstnavatel musí dispečerovi zajistit přiměřenou dobu na oddech a jídlo započítanou do pracovní doby (za niž se mzda nekrátí). Úplné vypuštění je porušením § 88 a každá směna je samostatnou jednotkou s povinností přestávky (ÚS III.ÚS 2387/10). Hrozí sankce inspekce práce. Náprava: nastavit organizaci tak, aby přiměřená doba na jídlo a oddech byla reálně poskytnuta (např. zastoupením).
+
+**6. Varianty.** (a) U běžné (přerušitelné) práce by zaměstnavatel musel poskytnout standardní přestávku min. 30 minut po nejvýše 6 hodinách, nezapočítanou do pracovní doby (odst. 4). (b) U mladistvého by přestávka musela být poskytnuta vždy po 4,5 hodinách, a to i u nepřerušitelných prací (odst. 1 věta třetí).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „provoz nelze přerušit, takže přestávka nenáleží".* Neobstojí — i tehdy musí být zajištěna přiměřená doba na oddech a jídlo započítaná do pracovní doby (odst. 1 věta druhá). Neutralizace: ÚS III.ÚS 2387/10.
+- *Protiargument „přestávku jsme dali na konec směny".* Zakázáno (odst. 3) — fakticky by šlo o zkrácení směny a obcházení minima.
+- *Slabé místo:* „přiměřená doba" není kvantifikována; spor o její dostatečnost se posuzuje podle okolností provozu a může být obtížně předvídatelný.
+
+#### H. Praktický závěr
+
+Přestávku na jídlo a oddech (min. 30 min po nejvýše 6 h; mladiství po 4,5 h) je nutné poskytnout v každé směně; nezapočítává se do pracovní doby. U nepřerušitelných prací musí být zajištěna přiměřená doba na oddech a jídlo, která se naopak do pracovní doby započítává. Přestávku nelze umístit na začátek/konec směny.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je přestávka poskytnuta nejpozději po 6 hodinách (mladistvý po 4,5 h) a trvá alespoň 30 minut?
+- [ ] U nepřerušitelných prací — je zajištěna přiměřená doba na oddech a jídlo započítaná do pracovní doby?
+- [ ] Není přestávka umístěna na začátek nebo konec směny (odst. 3)?
+- [ ] Při dělení přestávky — má alespoň jedna část min. 15 minut (odst. 2)?
+- [ ] Je správně řešeno (ne)započítání do pracovní doby (odst. 4 vs. věta druhá odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh a evidence pracovní doby (§ 96), popis pracoviště a charakteru práce (nepřerušitelnost), vnitřní předpis o přestávkách, doklady o skutečném poskytnutí přestávky.
+
 ---
 
 ### § 89 — Bezpečnostní přestávka
@@ -584,6 +1065,43 @@ Bezpečnostní přestávka má **odlišný režim** od přestávky na jídlo a o
 #### Souběh s přestávkou na jídlo (odst. 2)
 
 Pokud bezpečnostní přestávka časově překrývá přestávku na jídlo a oddech, **získává přednost režim výhodnější pro zaměstnance**: přestávka na jídlo a oddech se započítá do pracovní doby. Jde o anticumulační pravidlo zabraňující dvojímu „odečítání" tatáž doby z pracovní doby.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Řidič nákladního vozidla má při výkonu práce nárok na bezpečnostní přestávky podle předpisů o době řízení; ty mu trvají dohromady 45 minut během směny. Téhož dne mu zaměstnavatel poskytl i přestávku na jídlo a oddech (§ 88), přičemž jedna z bezpečnostních přestávek časově připadla právě na dobu přestávky na jídlo a oddech. Zaměstnavatel celých 30 minut přestávky na jídlo nezapočítal do pracovní doby. Řidič namítá, že při souběhu se měla přestávka na jídlo započítat do pracovní doby. Důkazy: záznam o době řízení (tachograf), evidence pracovní doby, rozvrh.
+
+**2. Právní otázka.** Započítává se bezpečnostní přestávka do pracovní doby a jak se posuzuje souběh bezpečnostní přestávky s přestávkou na jídlo a oddech?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89 odst. 1 (bezpečnostní přestávka se započítává do pracovní doby), odst. 2 (souběh — přestávka na jídlo a oddech se započítá do pracovní doby).
+- *Související ustanovení téhož zákona:* § 88 odst. 4 (přestávka na jídlo a oddech se nezapočítává), § 78 odst. 1 písm. a) (pracovní doba), § 96 (evidence).
+- *Související předpisy:* zákon č. 247/2000 Sb. (přestávky řidičů); nařízení vlády č. 361/2007 Sb. (ochrana zdraví — přestávky při expozici); nařízení (ES) č. 561/2006 (doba řízení).
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z výslovného textu § 89.
+
+**4. Subsumpce.** Bezpečnostní přestávka je nárokem ze zvláštních předpisů a podle § 89 odst. 1 se **započítává do pracovní doby**. Připadne-li bezpečnostní přestávka na dobu přestávky na jídlo a oddech, uplatní se anticumulační pravidlo odst. 2: do pracovní doby se započítá **přestávka na jídlo a oddech** (režim výhodnější pro zaměstnance). Postup zaměstnavatele (nezapočítání) je proto nesprávný.
+
+**5. Řešení.** Při souběhu se 30minutová přestávka na jídlo a oddech započítá do pracovní doby (§ 89 odst. 2); za tuto dobu se mzda nekrátí. Řidič má nárok na odpovídající doplatek (pokud mu byla doba neoprávněně odečtena) a na opravu evidence. Hrozí sankce inspekce práce za nesprávné vykazování. Bezpečnostní přestávky mimo souběh se započítávají vždy (odst. 1).
+
+**6. Varianty.** (a) Kdyby bezpečnostní přestávka časově nepřekrývala přestávku na jídlo a oddech, započítala by se do pracovní doby jen bezpečnostní přestávka (odst. 1); přestávka na jídlo by se nezapočítala (§ 88 odst. 4). (b) Kdyby zaměstnanec neměl podle zvláštních předpisů nárok na bezpečnostní přestávku, § 89 by se neuplatnil a platil by jen režim § 88.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „přestávka na jídlo se nikdy nezapočítává".* Platí jen mimo souběh (§ 88 odst. 4). Při souběhu s bezpečnostní přestávkou má přednost § 89 odst. 2. Neutralizace: výslovný text odst. 2.
+- *Protiargument „bezpečnostní přestávka je věcí jiných předpisů, ne ZP".* Nárok plyne ze zvláštních předpisů, ale jeho započítání do pracovní doby řeší přímo § 89 odst. 1.
+- *Slabé místo:* je nutné prokázat časový překryv obou přestávek (tachograf, evidence); bez přesných záznamů je souběh obtížně doložitelný.
+
+#### H. Praktický závěr
+
+Bezpečnostní přestávka (z jiných předpisů) se vždy započítává do pracovní doby. Připadne-li na dobu přestávky na jídlo a oddech, započítá se do pracovní doby přestávka na jídlo a oddech (anticumulační pravidlo ve prospěch zaměstnance).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má zaměstnanec podle zvláštních předpisů nárok na bezpečnostní přestávku?
+- [ ] Je bezpečnostní přestávka započtena do pracovní doby (§ 89 odst. 1)?
+- [ ] Dochází k časovému souběhu s přestávkou na jídlo a oddech?
+- [ ] Při souběhu — je do pracovní doby započtena přestávka na jídlo a oddech (§ 89 odst. 2)?
+- [ ] Odpovídá evidence (§ 96) tomuto započtení?
+
+**Typicky rozhodné důkazy / podklady:** záznam o době řízení (tachograf) nebo jiný doklad o bezpečnostních přestávkách, evidence pracovní doby (§ 96), rozvrh, mzdové listy.
 
 ---
 
@@ -640,6 +1158,43 @@ Odpočinek může být zkrácen na **8 hodin** v taxativně vyjmenovaných pří
 
 Při havárii, živelní události nebo jiné mimořádné události (např. terorrorismus, ekologická katastrofa, epidemie) lze odpočinek zkrátit až na **6 hodin** — vždy s povinností kompenzace v následujícím odpočinku. Tento režim platí jen pro zaměstnance staršího 18 let a má být uplatňován restriktivně (jen po dobu nezbytně nutnou).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec v nepřetržitém provozu odpracoval směnu končící ve 22:00. Zaměstnavatel ho z důvodu výpadku jiného pracovníka nasadil na další směnu již následující den v 6:00 — mezi směnami tak zbylo jen 8 hodin. Zaměstnavatel se odvolává na to, že v nepřetržitém provozu lze odpočinek zkrátit na 8 hodin. Zaměstnanec namítá, že mu nebyl kompenzován zkrácený odpočinek. Důkazy: rozvrh a evidence pracovní doby (§ 96), doklad o důvodu nasazení (výpadek), záznam o následujícím odpočinku.
+
+**2. Právní otázka.** Lze nepřetržitý denní odpočinek zkrátit na 8 hodin a za jakých podmínek, zejména pokud jde o povinnost kompenzace?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90 odst. 1 (standard 11 h; mladiství 12, resp. 14 h), odst. 2 (zkrácení na 8 h v taxativních případech s povinností prodloužit následující odpočinek o dobu zkrácení), odst. 3 (krizové zkrácení na 6 h).
+- *Související ustanovení téhož zákona:* § 92 (týdenní odpočinek), § 90b (zdravotníci — nezkrátitelný odpočinek), § 78 odst. 1 písm. f), g) (nepřetržitý provoz), § 93 (přesčas), § 79a a § 92 odst. 2 (mladiství).
+- *Související předpisy:* směrnice 2003/88/ES, čl. 3 a čl. 17 (denní odpočinek a kompenzační odpočinek).
+- *Judikatura:* judikatura SDEU ke kompenzačnímu odpočinku (compensatory rest) — zkrácení musí být vyrovnáno; denní a týdenní odpočinek jsou samostatná práva.
+
+**4. Subsumpce.** Jde o nepřetržitý provoz [§ 90 odst. 2 písm. a)], kde lze odpočinek zkrátit na 8 hodin (zde 8 h je splněno). Podmínkou je však **kompenzace** — následující odpočinek musí být prodloužen o dobu zkrácení (zde o 3 hodiny). Nebyla-li kompenzace poskytnuta, je podmínka zkrácení nesplněna a postup zaměstnavatele je vadný.
+
+**5. Řešení.** Zkrácení na 8 hodin je v nepřetržitém provozu přípustné, ale jen za podmínky pozdější kompenzace (prodloužení následujícího odpočinku o 3 hodiny). Zaměstnavatel musí kompenzaci poskytnout; pokud ji neposkytl, porušil § 90 odst. 2. Hrozí sankce inspekce práce a riziko odpovědnosti za škodu na zdraví (§ 269). Náprava: doložit a fakticky poskytnout kompenzační odpočinek.
+
+**6. Varianty.** (a) Při havárii či jiné mimořádné události lze odpočinek zkrátit až na 6 hodin (odst. 3), opět s povinnou kompenzací a jen u zaměstnance staršího 18 let. (b) U mladistvého nelze odpočinek zkrátit pod 12 hodin (resp. 14 h dle § 79a odst. 1) — zkrácení na 8 hodin je u něj vyloučeno.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „v nepřetržitém provozu se smí zkracovat".* Pravda jen zčásti — zkrácení je vázáno na povinnou kompenzaci. Bez ní je zkrácení protiprávní. Neutralizace: čl. 17 směrnice (compensatory rest).
+- *Protiargument „kompenzaci poskytneme později".* Kompenzace musí být reálná a poskytnutá v následujícím odpočinku; pouhý příslib nestačí.
+- *Slabé místo:* zaměstnavatel často kompenzaci neeviduje; bez záznamu nelze její poskytnutí prokázat, což jde k jeho tíži.
+
+#### H. Praktický závěr
+
+Standardní denní odpočinek je 11 hodin (mladiství 12 / 14 h). Zkrátit jej lze na 8 hodin (taxativní případy) nebo krizově na 6 hodin, vždy jen u zaměstnance staršího 18 let a vždy s povinnou kompenzací v následujícím odpočinku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je dodržen standardní odpočinek 11 h (mladiství 12 / 14 h)?
+- [ ] Spadá zkrácení na 8 h do taxativního výčtu odst. 2 (nepřetržitý provoz, nerovnoměrné rozvržení, přesčas, zemědělství, služby obyvatelstvu)?
+- [ ] Bylo zkrácení kompenzováno prodloužením následujícího odpočinku o dobu zkrácení?
+- [ ] Jde o zaměstnance staršího 18 let (zkrácení nelze u mladistvých)?
+- [ ] Při krizovém zkrácení na 6 h — jde skutečně o havárii / mimořádnou událost (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh a evidence pracovní doby (§ 96), doklad o důvodu zkrácení (výpadek, havárie), záznam o poskytnuté kompenzaci, případně lékařské posudky při škodě na zdraví.
+
 ---
 
 ### § 90a — Sezónní zemědělství
@@ -660,6 +1215,43 @@ Standardní kompenzace zkráceného odpočinku se poskytuje **v rámci následuj
 - **Zaměstnanec starší 18 let** — mladistvým nelze odpočinek odložit.
 - **Maximálně 3 týdny** — po uplynutí této doby musí být kompenzace zcela poskytnuta.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zemědělský podnik během žní nasazuje kombajnistu na intenzivní práci. V jeden den mu zkrátí denní odpočinek podle § 90 odst. 2 (zemědělství) na 8 hodin. Vzhledem k pokračující sklizni nemá podnik kapacitu poskytnout kompenzaci hned v následujícím odpočinku a chce kompenzaci poskytnout až po skončení nejintenzivnější fáze žní, cca za 2 týdny. Kombajnista (starší 18 let) souhlasí. Důkazy: rozvrh a evidence pracovní doby, doklad o sezónní povaze prací, záznam o poskytnutí odložené kompenzace.
+
+**2. Právní otázka.** Lze u sezónních prací v zemědělství odložit kompenzaci zkráceného denního odpočinku, a v jaké lhůtě musí být kompenzace poskytnuta?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90a (náhrada zkráceného denního odpočinku u sezónních prací v zemědělství v období následujících 3 týdnů od zkrácení; jen zaměstnanec starší 18 let).
+- *Související ustanovení téhož zákona:* § 90 odst. 2 (zkrácení na 8 h a standardní kompenzace v následujícím odpočinku), § 92 odst. 5 (zkrácení týdenního odpočinku v zemědělství), § 79a (mladiství — nelze).
+- *Související předpisy:* směrnice 2003/88/ES, čl. 17 (odchylky a kompenzační odpočinek pro zemědělství); § 24a zákona č. 235/2004 Sb. (pojem sezónní práce — interpretačně).
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z textu § 90a a čl. 17 směrnice.
+
+**4. Subsumpce.** Jde o sezónní práce v zemědělství (žně) a o zaměstnance staršího 18 let. Podle § 90a lze zkrácený denní odpočinek (zkrácený v rozsahu § 90 odst. 2) nahradit tak, že kompenzace bude poskytnuta v období **následujících 3 týdnů** od zkrácení. Odložení o cca 2 týdny je tedy přípustné, je-li v rámci tří týdnů.
+
+**5. Řešení.** Odložení kompenzace o 2 týdny je v souladu s § 90a, protože nepřekračuje 3týdenní lhůtu a jde o sezónní práce v zemědělství u zaměstnance staršího 18 let. Zaměstnavatel musí kompenzaci do 3 týdnů skutečně poskytnout a vést o tom záznam. Po uplynutí 3 týdnů musí být kompenzace zcela vyrovnána; nesplnění je porušením § 90a se sankcí inspekce práce.
+
+**6. Varianty.** (a) Kdyby nešlo o sezónní práce (např. běžný celoroční chov), odložení by nebylo možné a platila by standardní kompenzace v následujícím odpočinku (§ 90 odst. 2). (b) Kdyby šlo o mladistvého, odložení (ani zkrácení na 8 h) by nebylo přípustné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „v zemědělství lze kompenzaci odkládat libovolně".* Neplatí — lhůta je max. 3 týdny. Neutralizace: výslovný text § 90a.
+- *Protiargument „kompenzaci poskytneme, až bude čas".* Po 3 týdnech je odložení protiprávní; lhůta je kogentní.
+- *Slabé místo:* pojem „sezónní práce" není v ZP přesně definován; spor o jeho naplnění se posuzuje fakticky (vázanost na vegetační období), což může být sporné.
+
+#### H. Praktický závěr
+
+V zemědělství u sezónních prací lze kompenzaci zkráceného denního odpočinku odložit, avšak nejdéle do 3 týdnů od zkrácení a jen u zaměstnance staršího 18 let. Po uplynutí lhůty musí být kompenzace zcela poskytnuta.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde skutečně o sezónní práce v zemědělství (vázané na vegetační období)?
+- [ ] Byl denní odpočinek zkrácen v rozsahu podle § 90 odst. 2?
+- [ ] Jde o zaměstnance staršího 18 let?
+- [ ] Bude (byla) kompenzace poskytnuta v období do 3 týdnů od zkrácení?
+- [ ] Je odložená kompenzace zaznamenána v evidenci?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh a evidence pracovní doby (§ 96), doklad o sezónní povaze prací, záznam o poskytnutí odložené kompenzace, případně kolektivní smlouva.
+
 ---
 
 ### § 90b — Zvláštní odpočinek u zdravotníků
@@ -678,6 +1270,43 @@ Standardní kompenzace zkráceného odpočinku se poskytuje **v rámci následuj
 2. **Plný 11hodinový odpočinek** dle § 90 odst. 1, na sebe **bezprostředně navazující**.
 
 **Zákaz zkrácení** — odpočinek dle § 90b nelze dále zkracovat (na rozdíl od běžného § 90 odst. 1). Slouží jako bezpodmínečná regenerace po extrémní pracovní zátěži.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Lékař ve zdravotnictví odsloužil dohodnutou 24hodinovou službu (§ 83a). Po jejím skončení nelze z provozních důvodů poskytnout ani zkrácený 8hodinový denní odpočinek (§ 90 odst. 2), protože by lékař musel nastoupit na další službu. Zaměstnavatel chce poskytnout jen 8 hodin a zbytek „dohnat" později. Lékař namítá, že po 24hodinové směně mu náleží zvláštní nezkrátitelný odpočinek. Důkazy: rozvrh služeb, dohoda dle § 83a, evidence pracovní doby, záznam o poskytnutém odpočinku.
+
+**2. Právní otázka.** Jaký odpočinek náleží zaměstnanci ve zdravotnictví po směně dle § 83a, nelze-li mu poskytnout ani zkrácený denní odpočinek, a lze tento odpočinek zkrátit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90b (po směně dle § 83a, nelze-li poskytnout ani zkrácený odpočinek § 90 odst. 2, náleží odpočinek tvořený neposkytnutou částí + navazujícím 11hodinovým odpočinkem dle § 90 odst. 1; tento odpočinek nesmí být zkrácen).
+- *Související ustanovení téhož zákona:* § 83a (24hodinová směna zdravotníků), § 90 odst. 1 a 2 (denní odpočinek a jeho zkrácení), § 92 odst. 4 a 6 (týdenní odpočinek — dobu dle § 90b nelze považovat za týdenní odpočinek).
+- *Související předpisy:* směrnice 2003/88/ES, čl. 3 a 17.
+- *Judikatura:* (institut specifický, judikatura sporá) — řešení vychází z výslovného textu § 90b.
+
+**4. Subsumpce.** Po 24hodinové směně dle § 83a, nelze-li poskytnout ani zkrácený 8hodinový odpočinek, vzniká nárok na **kumulovaný odpočinek** podle § 90b: neposkytnutá část + bezprostředně navazující 11hodinový odpočinek. Tento odpočinek **nesmí být zkrácen**. Záměr poskytnout jen 8 hodin a zbytek odložit je v rozporu s § 90b.
+
+**5. Řešení.** Zaměstnavatel musí lékaři poskytnout bezprostředně po skončení práce nezkrátitelný odpočinek tvořený neposkytnutou částí a navazujícím 11hodinovým odpočinkem. Nelze jej zkrátit ani „dohnat" později. Porušení je závažným pochybením se sankcí inspekce práce a rizikem odpovědnosti za škodu na zdraví. Tuto dobu navíc nelze započítat do týdenního odpočinku (§ 92 odst. 4, 6).
+
+**6. Varianty.** (a) Kdyby zaměstnanci bylo možné poskytnout zkrácený 8hodinový odpočinek (§ 90 odst. 2), § 90b by se neuplatnil a postupovalo by se podle § 90 odst. 2 s kompenzací. (b) Kdyby nešlo o zaměstnance ve zdravotnictví dle § 83a, § 90b by se vůbec neaplikoval.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „odpočinek dohoníme později".* Neobstojí — § 90b vyžaduje odpočinek bezprostředně po skončení práce a zakazuje jeho zkrácení.
+- *Protiargument „8 hodin je dost".* Po 24hodinové směně, nelze-li poskytnout ani zkrácený odpočinek, náleží kumulovaný (delší) odpočinek; 8 hodin nestačí.
+- *Slabé místo:* institut je úzce navázán na § 83a a 92; chybná evidence (záměna § 90b odpočinku s týdenním odpočinkem) vede k systémovým pochybením.
+
+#### H. Praktický závěr
+
+§ 90b je pojistka po extrémně dlouhé (až 24hodinové) směně zdravotníka: nelze-li poskytnout ani zkrácený denní odpočinek, náleží kumulovaný, nezkrátitelný odpočinek bezprostředně po skončení práce. Tuto dobu nelze považovat za týdenní odpočinek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Šlo o směnu dle § 83a (zdravotnictví, až 24 h)?
+- [ ] Nebylo možné poskytnout ani zkrácený odpočinek dle § 90 odst. 2?
+- [ ] Byl poskytnut kumulovaný odpočinek (neposkytnutá část + 11 h) bezprostředně po skončení práce?
+- [ ] Nebyl tento odpočinek zkrácen (zákaz zkrácení)?
+- [ ] Není doba dle § 90b nesprávně započtena do týdenního odpočinku (§ 92 odst. 4, 6)?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh služeb a dohoda dle § 83a, evidence pracovní doby (§ 96), záznam o poskytnutém odpočinku, případně lékařské posudky.
 
 ---
 
@@ -755,6 +1384,43 @@ Pravidlo specifické pro **konto pracovní doby**, kde se uplatní mechanika př
 
 Specifická definice: u zaměstnanců pracujících v nočních směnách začíná den pracovního klidu **hodinou nástupu první týdenní směny**, nikoliv kalendářním začátkem dne. Toto pravidlo má praktický význam pro výpočet svátečních příplatků, příplatků za víkendovou práci a průměrného výdělku. Jeho pravidlo se uplatní výslovně i pro účely mzdy/platu, odměny z dohody a průměrného výdělku (§§ 114, 115, 138 a § 351 a násl.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební firma nařídila partě zedníků práci v neděli (den nepřetržitého odpočinku v týdnu) na betonáži, která ovšem mohla být provedena i v pracovních dnech — šlo jen o urychlení zakázky. Jeden zedník odmítl s tím, že betonáž nepatří mezi nutné práce, které lze v den nepřetržitého odpočinku nařídit. Zaměstnavatel mu pohrozil postihem. Důkazy: rozvrh, povaha prací (možnost provést v pracovních dnech), pokyn k práci v neděli.
+
+**2. Právní otázka.** Lze v den nepřetržitého odpočinku v týdnu nařídit jakoukoli práci, nebo jen taxativně vymezené nutné práce, a je betonáž za účelem urychlení zakázky takovou prací?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 91 odst. 1 (pojem dnů pracovního klidu), odst. 2 (práce jen výjimečně), odst. 3 (taxativní výčet 8 nutných prací v den nepřetržitého odpočinku), odst. 4 (užší výčet ve svátky), odst. 6 (začátek dne u nočních směn).
+- *Související ustanovení téhož zákona:* § 92 (nepřetržitý odpočinek v týdnu), § 93 (přesčas — lze i na dny pracovního klidu za podmínek § 91 odst. 2 až 4), § 115 a § 118 (příplatky za svátek a víkend), § 1a (smluvní volnost v mezích kogentní úpravy).
+- *Související předpisy:* zákon č. 245/2000 Sb. (státní svátky); zákon č. 251/2005 Sb. (sankce).
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z taxativní povahy výčtu § 91 odst. 3.
+
+**4. Subsumpce.** Práci v den nepřetržitého odpočinku v týdnu lze nařídit jen výjimečně a jen jde-li o některou z **taxativně** vyjmenovaných nutných prací (odst. 3), které **nemohou být provedeny v pracovních dnech**. Betonáž za účelem pouhého urychlení zakázky, kterou lze provést i v pracovních dnech, nespadá pod žádné z písmen a)–h). Nařízení je proto protiprávní.
+
+**5. Řešení.** Zaměstnavatel nesměl práci nařídit — nejde o nutnou práci dle taxativního výčtu a práci bylo možné provést v pracovních dnech. Zedník odmítnutím neporušil žádnou povinnost a pohrůžka postihem je nedůvodná. (Práci by bylo možné konat jen se souhlasem zaměstnance — § 1a — v mezích kogentní úpravy.) Hrozí sankce inspekce práce.
+
+**6. Varianty.** (a) Kdyby šlo o naléhavou opravnou práci (havárie) nebo o práci v nepřetržitém provozu za nepřítomného zaměstnance [písm. a), d)], nařízení by bylo přípustné. (b) Kdyby šlo o svátek, byl by výčet ještě užší (odst. 4) — jen práce z odst. 3 plus nepřetržitý provoz a střežení objektů.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zakázku je třeba stihnout".* Ekonomický tlak neodůvodňuje nařízení práce mimo taxativní výčet; betonáž nelze podřadit pod nutné práce. Neutralizace: taxativní povaha odst. 3.
+- *Protiargument „práce v neděli je běžná".* Práce ve dnech pracovního klidu je výjimkou (odst. 2); plošné rozvrhování na neděle je nepřípustné.
+- *Slabé místo:* hranice mezi „nutnými pracemi" (např. naléhavé opravy) a běžnou prací bývá sporná; klíčové je posouzení, zda práci nešlo provést v pracovních dnech.
+
+#### H. Praktický závěr
+
+Práci ve dnech pracovního klidu lze nařídit jen výjimečně a jen jde-li o taxativně vymezené nutné práce, které nelze provést v pracovních dnech; ve svátky je výčet ještě užší. Jinou práci lze konat jen se souhlasem zaměstnance.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o den nepřetržitého odpočinku v týdnu, nebo o svátek (užší výčet — odst. 4)?
+- [ ] Spadá nařízená práce do taxativního výčtu nutných prací (odst. 3, příp. odst. 4)?
+- [ ] Nelze tuto práci provést v pracovních dnech?
+- [ ] Je nařízení skutečně výjimečné (odst. 2), nikoli plošné?
+- [ ] Jsou zohledněny příplatky (§ 115 svátek, § 118 víkend) a u nočních směn začátek dne dle odst. 6?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh a evidence pracovní doby (§ 96), pokyn k práci ve dnu pracovního klidu, doklad o povaze a naléhavosti prací, mzdové listy (příplatky).
+
 ---
 
 ## Hlava IV — Doba odpočinku — pokračování (Díl 3 — Nepřetržitý odpočinek v týdnu)
@@ -815,6 +1481,43 @@ Zkrácení vyžaduje **dohodu** (zaměstnavatele a zaměstnance) — nikoli jedn
 
 Pro zaměstnance ve zdravotnictví: **4 týdny → 140 hodin** (průměr 35 h/týden). Souvislost s § 90b: pokud byl denní odpočinek u zdravotníka po 24hodinové směně (§ 83a) neposkytnut, **nezapočítává se do týdenního odpočinku**.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel nepřetržité výroby (technologicky nepřerušitelný proces) zkracuje zaměstnancům v rotujícím režimu 12/12 nepřetržitý odpočinek v týdnu na 24 hodin (bez denní složky). Jeden zaměstnanec po dvou týdnech zjistí, že za toto období získal celkem jen 60 hodin odpočinku v týdnu, a namítá, že mu náleží alespoň 70 hodin za 2 týdny. Důkazy: rozvrh, evidence pracovní doby (§ 96), výpočet poskytnutých odpočinků za 2 týdny.
+
+**2. Právní otázka.** Jak lze v nepřetržitých provozech zkrátit nepřetržitý odpočinek v týdnu a jaká je minimální souhrnná doba odpočinku za vyrovnávací období?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 92 odst. 1 (standard 35 h = 24 + 11 h), odst. 2 (mladiství 48 h), odst. 3 (neděle pokud možno společně), odst. 4 (nepřetržité provozy — zkrácení na 24 h, za 2 týdny min. 70 h), odst. 5 (zemědělství), odst. 6 (zdravotnictví — za 4 týdny 140 h).
+- *Související ustanovení téhož zákona:* § 90 odst. 1 (denní odpočinek — součást týdenního), § 90b (zdravotníci — nelze započítat do týdenního), § 91 (dny pracovního klidu), § 78 (definice nepřetržitého provozu).
+- *Související předpisy:* směrnice 2003/88/ES, čl. 5 (min. 24 h týdenního odpočinku + navazující denní odpočinek).
+- *Judikatura:* SDEU C-588/18 (FETICO) — denní a týdenní odpočinek jsou samostatná práva, je třeba je kumulovat.
+
+**4. Subsumpce.** V nepřetržitých provozech a u technologicky nepřerušitelných procesů lze týdenní odpočinek zkrátit na 24 hodin (odst. 4). Kompenzací je požadavek, aby zaměstnanec za **2 týdny** získal nepřetržitý odpočinek v týdnu **v délce alespoň 70 hodin** (průměr 35 h/týden). Poskytnutí jen 60 hodin za 2 týdny tomuto požadavku neodpovídá.
+
+**5. Řešení.** Zaměstnavatel musí zajistit, aby souhrn odpočinku za 2 týdny činil alespoň 70 hodin; jinak porušuje § 92 odst. 4. Zaměstnanec se může domáhat nápravy a poskytnutí chybějícího odpočinku; hrozí sankce inspekce práce a riziko odpovědnosti za škodu na zdraví. Denní a týdenní odpočinek jsou přitom samostatná práva (FETICO) — nelze je libovolně směšovat.
+
+**6. Varianty.** (a) V zemědělství lze týdenní odpočinek zkrátit s delšími cykly (3 týdny → 105 h, sezónně 6 týdnů → 210 h), vždy na základě dohody (odst. 5). (b) U zdravotníků platí cyklus 4 týdny → 140 h (odst. 6), přičemž neposkytnutý denní odpočinek dle § 90b se do týdenního odpočinku nezapočítává.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „v nepřetržitém provozu stačí 24 hodin".* Jen jako minimum jednotlivého týdenního odpočinku; souhrnně musí být za 2 týdny alespoň 70 hodin. Neutralizace: odst. 4 a čl. 5 směrnice.
+- *Protiargument „denní odpočinek je součástí týdenního, takže se kryje".* Denní a týdenní odpočinek jsou samostatná práva (FETICO); nelze jimi vzájemně „nahrazovat" deficity.
+- *Slabé místo:* výpočet souhrnných odpočinků za vyrovnávací období je náročný; bez přesné evidence (§ 96) je dodržení limitu obtížně prokazatelné a chyby jdou k tíži zaměstnavatele.
+
+#### H. Praktický závěr
+
+Standardní týdenní odpočinek je 35 hodin (24 + 11 h, bezprostředně navazující). V nepřetržitých provozech lze zkrátit na 24 hodin, ale za 2 týdny musí činit alespoň 70 hodin; v zemědělství a zdravotnictví platí delší cykly. Mladistvým náleží 48 hodin.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je standardní týdenní odpočinek 35 h (24 + 11 h) bezprostředně navazující?
+- [ ] Při zkrácení v nepřetržitém provozu — činí jednotlivý odpočinek alespoň 24 h a souhrn za 2 týdny alespoň 70 h?
+- [ ] V zemědělství / zdravotnictví — jsou dodrženy příslušné cykly (105/210 h, resp. 140 h)?
+- [ ] Je mladistvým poskytnut odpočinek alespoň 48 h?
+- [ ] Není doba dle § 90b nesprávně započtena do týdenního odpočinku?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh a evidence pracovní doby (§ 96), výpočet poskytnutých odpočinků za vyrovnávací období, kolektivní smlouva / dohoda (zemědělství, zdravotnictví).
+
 ---
 
 ## Hlava V — Práce přesčas
@@ -870,9 +1573,84 @@ Ač § 93 výslovně nestanoví zákaz přesčasu pro určité kategorie, **syst
 - **Mladiství** — § 245 odst. 1 (zákaz absolutní).
 - **Zaměstnanci s kratší pracovní dobou** — § 78 odst. 1 písm. i) (nelze nařídit, lze dohodnout do dosažení stanovené týdenní doby).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní podnik čelí nahodilému výpadku dodávky a kvůli dokončení nasmlouvané zakázky potřebuje navýšit objem práce. V kalendářním týdnu nařídí zaměstnanci A práci přesčas v rozsahu 10 hodin; témuž zaměstnanci za rok již nařídil 148 hodin přesčasu. Zaměstnanci B, který má sjednánu rámcovou dohodu o práci přesčas v pracovní smlouvě, ukládá soustavně 6 hodin přesčasu týdně po celý rok. Zaměstnanec A namítá překročení limitů a A i B namítají, že nejde o „výjimečnou" práci. Důkazy: písemné pokyny k práci přesčas, evidence pracovní doby (§ 96), roční přehled odpracovaných přesčasových hodin, doložení vážných provozních důvodů (výpadek dodávky), pracovní smlouva s doložkou o dohodnutém přesčasu, mzdové listy (příplatky podle § 114).
+
+**2. Právní otázka.** V jakém rozsahu lze přesčas zaměstnanci nařídit jednostranně, kdy je nutná dohoda a jaký je absolutní strop celkového rozsahu práce přesčas?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 93 odst. 1 (výjimečnost), odst. 2 (nařízení jen z vážných provozních důvodů, max. 8 h v jednotlivém týdnu a 150 h v kalendářním roce), odst. 3 (nad nařízený rozsah pouze dohodou), odst. 4 (celkový strop v průměru 8 h týdně za 26, kolektivní smlouvou 52 týdnů), odst. 5 (přesčas kompenzovaný náhradním volnem se do limitu nezapočítává).
+- *Související ustanovení téhož zákona:* § 114 (mzda a příplatek za práci přesčas, alternativa náhradního volna), § 96 (evidence pracovní doby jako důkaz limitů), § 90 a § 91 odst. 2 až 4 (přesčas v době denního odpočinku a ve dnech pracovního klidu), § 78 odst. 1 písm. i) (vymezení práce přesčas).
+- *Související předpisy:* směrnice 2003/88/ES, čl. 6 (maximální týdenní pracovní doba 48 hodin včetně přesčasu).
+- *Judikatura:* nosný závěr ustálené praxe — „vážné provozní důvody" musí být reálné a doložitelné, nelze jimi krýt soustavný personální podstav či špatné plánování; soustavně plánovaný přesčas odporuje požadavku výjimečnosti. (Konkrétní spisové značky neuvádím; řešení se opírá o text § 93 a čl. 6 směrnice 2003/88/ES.)
+
+**4. Subsumpce.** U zaměstnance A je nařízený přesčas omezen na **8 hodin v jednotlivém týdnu** (odst. 2); 10 hodin tento limit překračuje, takže 9. a 10. hodinu lze konat **jen na základě dohody** (odst. 3). Současně se sleduje **roční limit 150 hodin** nařízeného přesčasu — po nařízení 8 hodin se A přiblíží stropu (148 + 8 = 156), takže nařídit lze pouze 2 hodiny a zbytek vyžaduje dohodu. Vážné provozní důvody (výpadek dodávky) jsou splněny a doloženy. U zaměstnance B sice existuje dohoda (odst. 3), avšak musí být respektován **celkový strop** odst. 4 — v průměru 8 h týdně za vyrovnávací období; 6 h týdně jej nepřekračuje, ale trvalost odporuje zásadě výjimečnosti (odst. 1), pokud nejde o opakující se vážné provozní důvody.
+
+**5. Řešení.** Zaměstnanci A lze nařídit přesčas jen do hranice 8 h/týden a do nevyčerpaného zbytku ročního limitu 150 h; nad tento rozsah jen po dohodě (odst. 3), přičemž ani dohodou nelze překročit celkový strop průměru 8 h týdně (odst. 4). Za přesčas náleží dosažená mzda **a příplatek nejméně 25 %** průměrného výdělku, nebo náhradní volno (§ 114); poskytnuté náhradní volno se do limitu odst. 4 **nezapočítává** (odst. 5). U zaměstnance B je třeba dohodu i strop hlídat průběžně; soustavné nasazování přesčasu bez vážných provozních důvodů je v rozporu s odst. 1 a vystavuje zaměstnavatele riziku kontroly inspekce práce. Praktické kroky: vést přesnou evidenci (§ 96), oddělit nařízený a dohodnutý přesčas, dokumentovat provozní důvody.
+
+**6. Varianty.** (a) Kdyby zaměstnanec A již měl za rok nařízeno 150 hodin, nelze mu nařídit ani hodinu — celý přesčas jen dohodou (odst. 3). (b) Kdyby zaměstnavatel za přesčas u B poskytoval výhradně náhradní volno, tyto hodiny by se do stropu odst. 4 nezapočítávaly (odst. 5), takže by reálně mohl zadat přesčasů více; přesto zůstává limit nařízeného přesčasu 8 h/týden a požadavek výjimečnosti.
+
+#### G. Protiargumenty a rizika
+
+- **„Provozní potřeba je trvalá, proto jde o vážný provozní důvod."** Trvalý nedostatek kapacit svědčí naopak o systémovém personálním podstavu, který má být řešen organizačně (nábor, směny), nikoli soustavným přesčasem; odst. 1 a 2 vyžadují výjimečnost a *vážné* (zpravidla nahodilé) důvody. Neutralizace: doložit konkrétní, časově ohraničenou příčinu (výpadek, oprava, nárazová zakázka).
+- **„Zaměstnanec s přesčasem souhlasil, takže limity neplatí."** Dohoda (odst. 3) prolamuje jen limit *nařízeného* přesčasu, nikoli **celkový strop** odst. 4 (průměr 8 h/týden) — ten je kogentní a dohodou jej překročit nelze. Neutralizace: kontrolovat průměr ve vyrovnávacím období.
+- **Slabá místa.** Pojem „vážné provozní důvody" je neostrý a důkazně náročný; chybí jednoznačná judikatura k hranici mezi nahodilou a soustavnou potřebou. Riziko sankce inspekce práce a neplatnosti pokynu při překročení limitů; spor o to, zda byl přesčas „nařízen", nebo „dohodnut", při absenci písemného pokynu.
+
+#### H. Praktický závěr
+
+Práce přesčas je výjimečným institutem: nařídit ji lze jen z vážných provozních důvodů a jen do 8 hodin týdně a 150 hodin ročně; nad tento rozsah pouze dohodou, vždy však při dodržení celkového stropu průměrných 8 hodin týdně za 26 (kolektivní smlouvou 52) týdnů. Odměňování se řídí § 114 (mzda + příplatek nebo náhradní volno), přičemž přesčas kompenzovaný náhradním volnem se do limitu nezapočítává.
+
+**Checklist (zaměstnavatel / zaměstnanec / inspekce práce / soud):**
+- [ ] Je dán a doložitelný **vážný provozní důvod** nahodilé povahy (nikoli trvalý podstav)?
+- [ ] Nepřekračuje nařízený přesčas **8 h v týdnu** a **150 h v roce**? (vede se evidence dle § 96)
+- [ ] Je přesčas nad nařízený rozsah kryt **dohodou** se zaměstnancem (odst. 3)?
+- [ ] Je dodržen **celkový strop** průměru 8 h/týden za 26/52 týdnů (odst. 4)?
+- [ ] Nejde o **chráněnou kategorii** (těhotné, pečující o dítě do 1 roku, mladiství, kratší doba)?
+- [ ] Je za přesčas poskytnut **příplatek či náhradní volno** dle § 114 (a správně se promítá do limitu — odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** písemné pokyny k práci přesčas, evidence pracovní doby (§ 96), roční přehled přesčasových hodin, doklady o vážných provozních důvodech, kolektivní smlouva či dohoda o přesčasu, mzdové listy s příplatky.
+
 #### § 93a — dohodnutá práce přesčas u vedoucích
 
 Pro úplnost: zákoník v § 93a (mimo komentovaný úsek, ale tématicky spjat) zakotvuje zvláštní institut **dohodnuté práce přesčas u vedoucích zaměstnanců** ve zdravotnictví — umožňuje sjednat přesčas až 480 hodin ročně, vždy s explicitním souhlasem.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel kvůli nárazové zakázce nařídil zaměstnankyni pečující o desetiměsíční dítě práci přesčas v rozsahu 10 hodin v jednom týdnu. Současně jinému zaměstnanci (bez ochrany) nařídil 9 hodin přesčasu týdně. Pečující zaměstnankyně namítá, že jí přesčas nelze nařídit, a druhý zaměstnanec namítá, že nařízený přesčas překračuje 8 hodin týdně. Důkazy: pokyn k práci přesčas, evidence pracovní doby (§ 96), doklad o péči o dítě do 1 roku, doklad o vážných provozních důvodech.
+
+**2. Právní otázka.** Komu a v jakém rozsahu lze nařídit práci přesčas, a kdy je třeba dohoda?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 93 odst. 1 (výjimečnost), odst. 2 (nařízení jen z vážných provozních důvodů, max. 8 h/týden a 150 h/rok), odst. 3 (nad limity jen dohodou), odst. 4 (celkový strop 8 h/týden v průměru za 26/52 týdnů), odst. 5 (náhradní volno se nezapočítává do limitu).
+- *Související ustanovení téhož zákona:* § 241 odst. 3 (zákaz nařízení přesčasu těhotným a pečujícím o dítě do 1 roku), § 245 (mladiství), § 78 odst. 1 písm. i) (kratší doba — nelze nařídit), § 114 (příplatek za přesčas).
+- *Související předpisy:* směrnice 2003/88/ES, čl. 6 (max. 48 h týdně vč. přesčasu).
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z textu § 93 a § 241 odst. 3.
+
+**4. Subsumpce.** Pečující o dítě do 1 roku spadá pod § 241 odst. 3 — přesčas jí **nelze nařídit** (lze jen dohodnout). U druhého zaměstnance je nařízený přesčas omezen na **8 hodin v jednotlivém týdnu** (odst. 2); 9 hodin překračuje limit nařízeného přesčasu — 9. hodinu lze konat jen na základě dohody (odst. 3). Vážné provozní důvody musí být doloženy.
+
+**5. Řešení.** Pečující zaměstnankyni nelze přesčas nařídit; nařízení je neúčinné a její odmítnutí není porušením povinnosti. U druhého zaměstnance lze nařídit jen 8 hodin týdně; 9. hodinu jen po dohodě. Práce nad limity (8/150 h) i celkový strop (průměr 8 h/týden) musí být dodrženy. Za přesčas náleží mzda + příplatek (§ 114), nebo náhradní volno (které se nezapočítává do limitu — odst. 5).
+
+**6. Varianty.** (a) Kdyby zaměstnankyně přesčas dobrovolně dohodla, byl by přípustný (zákaz se týká jen nařízení). (b) Kdyby šlo o mladistvého, přesčas by byl zakázán absolutně (§ 245) — ani dohodou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „zakázku musíme stihnout".* Ekonomický tlak nezakládá vážné provozní důvody, jde-li o špatné plánování či trvalý podstav. Neutralizace: vážné provozní důvody musí být nahodilé a doložitelné.
+- *Protiargument „přesčas jsme jen nařídili, ne dohodli".* U chráněných osob (§ 241 odst. 3, § 245) nelze nařídit vůbec; nad limity (odst. 3) je nutná dohoda.
+- *Slabé místo:* hranice „vážných provozních důvodů" je neostrá; navíc dodržení celkového stropu (průměr 8 h/týden za 26/52 týdnů) vyžaduje pečlivý výpočet, jinak hrozí překročení.
+
+#### H. Praktický závěr
+
+Přesčas je výjimečný. Nařídit lze max. 8 h týdně a 150 h ročně, jen z doložených vážných provozních důvodů; nad to jen dohodou. Celkový průměr nesmí přesáhnout 8 h/týden za 26 (52) týdnů. Chráněným osobám (těhotné, pečující o dítě do 1 roku, mladiství, zaměstnanci s kratší dobou) nelze přesčas nařídit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou dány vážné provozní důvody pro nařízení přesčasu (a jsou doložitelné)?
+- [ ] Nepřekračuje nařízený přesčas 8 h v týdnu a 150 h v roce?
+- [ ] Je práce nad limity podložena dohodou (odst. 3)?
+- [ ] Nespadá zaměstnanec do okruhu, jemuž nelze přesčas nařídit (§ 241 odst. 3, § 245, § 78 odst. 1 písm. i)?
+- [ ] Nepřekračuje celkový průměr 8 h/týden za vyrovnávací období (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** pokyn k práci přesčas, evidence pracovní doby (§ 96), doklad o vážných provozních důvodech, doklady o ochraně zaměstnance (péče o dítě, věk), mzdové listy (příplatek / náhradní volno).
 
 ---
 
@@ -916,6 +1694,43 @@ Zaměstnavatel musí zajistit **přiměřené sociální zajištění** — typi
 
 V noci je dostupnost externí zdravotnické pomoci ztížená (méně personálu v provozech, delší dojezdy záchranky). Proto zákon ukládá zvýšené nároky na **vlastní lékárničku, defibrilátor (AED) tam, kde je to vhodné, prostředky pro přivolání RZP** (telefon, místní spojení s dispečinkem). Konkrétní rozsah vybavení vychází z hodnocení rizik dle § 102 (Část pátá).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec ostrahy pracuje v rotujícím režimu 12hodinových nočních směn (18:00–6:00). Zaměstnavatel mu neobjednal vstupní pracovnělékařskou prohlídku a pracoviště nevybavil prostředky pro přivolání rychlé lékařské pomoci. Zaměstnanci se v noci přitíží a pomoc dorazí pozdě. Zaměstnanec (resp. inspekce práce) namítá porušení povinností zaměstnavatele při noční práci. Důkazy: rozvrh a evidence pracovní doby (§ 96), doklady o (ne)provedení prohlídky, popis vybavení pracoviště, záznam o události.
+
+**2. Právní otázka.** Jaké povinnosti má zaměstnavatel vůči zaměstnanci pracujícímu v noci a je 12hodinová noční směna v souladu se zákonem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94 odst. 1 (max. délka směny zaměstnance v noci 8 h v 24 h, jinak průměr za 26 týdnů z pětidenního týdne), odst. 2 (povinná bezplatná pracovnělékařská prohlídka), odst. 3 (přiměřené sociální zajištění), odst. 4 (vybavení pracoviště prostředky první pomoci a pro přivolání RZP).
+- *Související ustanovení téhož zákona:* § 78 odst. 1 písm. j), k) (noční doba a zaměstnanec pracující v noci), § 116 (příplatek za noční práci), § 102 (prevence rizik — Část pátá).
+- *Související předpisy:* zákon č. 373/2011 Sb. a vyhláška č. 79/2013 Sb. (pracovnělékařské služby); směrnice 2003/88/ES, čl. 8–9.
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z textu § 94.
+
+**4. Subsumpce.** Zaměstnanec odpracuje pravidelně více než 3 hodiny v noci — je „zaměstnancem pracujícím v noci" [§ 78 odst. 1 písm. k)]. Zaměstnavatel proto **musí** zajistit bezplatnou pracovnělékařskou prohlídku (odst. 2) a vybavit pracoviště prostředky první pomoci a pro přivolání RZP (odst. 4). 12hodinová noční směna je přípustná jen tehdy, je-li dodržen průměr 8 h za 26 týdnů (z pětidenního týdne); jinak je v rozporu s odst. 1.
+
+**5. Řešení.** Neprovedení prohlídky a chybějící vybavení jsou porušením § 94 odst. 2 a 4. Zaměstnavatel musí prohlídku zajistit a pracoviště vybavit; hrozí sankce inspekce práce a při škodě na zdraví odpovědnost (§ 269). 12hodinové směny lze zachovat jen při dodržení průměrného limitu 8 h. Za noční práci náleží příplatek (§ 116).
+
+**6. Varianty.** (a) Kdyby zaměstnanec pracoval v noci jen ojediněle (např. 2× ročně), nebyl by „zaměstnancem pracujícím v noci" a ochrana § 94 by se v plném rozsahu neuplatnila. (b) Kdyby zaměstnavatel nedodržel ani průměr 8 h za 26 týdnů, šlo by o porušení limitu délky noční směny (odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „12 hodin v noci je běžné".* Přípustné jen při dodržení průměru 8 h za 26 týdnů (z pětidenního týdne). Neutralizace: text odst. 1.
+- *Protiargument „prohlídku si zaměstnanec zařídí sám".* Neobstojí — zaměstnavatel ji musí zajistit a hradit (odst. 2).
+- *Slabé místo:* prokázání kvalifikace „zaměstnance pracujícího v noci" (průměr alespoň 1× týdně po dobu 26 týdnů) vyžaduje přesnou evidenci; bez ní je rozsah povinností sporný.
+
+#### H. Praktický závěr
+
+U zaměstnance pracujícího v noci musí zaměstnavatel hlídat délku směny (max. 8 h v 24 h, případně průměr za 26 týdnů), zajistit bezplatnou pracovnělékařskou prohlídku, přiměřené sociální zajištění a vybavení pracoviště prostředky první pomoci a pro přivolání RZP. Za noční práci náleží příplatek (§ 116).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je zaměstnanec „zaměstnancem pracujícím v noci" dle § 78 odst. 1 písm. k)?
+- [ ] Nepřekračuje délka noční směny 8 h v 24 h (nebo průměr 8 h za 26 týdnů z pětidenního týdne)?
+- [ ] Byla zajištěna bezplatná pracovnělékařská prohlídka (vstupní, periodická, na žádost)?
+- [ ] Je zajištěno přiměřené sociální zajištění (možnost občerstvení) a vybavení pracoviště (odst. 4)?
+- [ ] Je vyplácen příplatek za noční práci (§ 116)?
+
+**Typicky rozhodné důkazy / podklady:** rozvrh a evidence pracovní doby (§ 96), doklady o pracovnělékařských prohlídkách, popis vybavení pracoviště, hodnocení rizik (§ 102), mzdové listy.
+
 ---
 
 ## Hlava VII — Pracovní pohotovost
@@ -957,6 +1772,43 @@ Pokud zaměstnanec během pohotovosti k výkonu práce **vůbec nedojde**, doba 
 #### Pozor: SDEU a doba dosažitelnosti
 
 Judikatura SDEU (rozsudek C-518/15 Matzak, C-580/19 Stadt Offenbach) upozorňuje, že **pokud pohotovost fakticky výrazně omezí možnosti zaměstnance disponovat svým časem** (např. povinnost dostavit se na pracoviště do 2–3 minut), může jít fakticky o **pracovní dobu** ve smyslu směrnice 2003/88/ES — bez ohledu na národní klasifikaci. Zaměstnavatel proto musí sjednávat pohotovost s realistickým reakčním časem; jinak hrozí, že soud rekvalifikuje celou pohotovost na pracovní dobu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel (servisní firma) sjednal s technikem pracovní pohotovost tak, že technik musí být dosažitelný telefonicky a po zavolání se dostavit na pracoviště. Reakční čas zaměstnavatel stanovil na pouhé 3 minuty od telefonátu. Technik drží pohotovost doma, fakticky ale nemůže opustit bezprostřední okolí bydliště, věnovat se rodině ani pít alkohol. Domáhá se toho, aby celá doba pohotovosti byla posouzena jako pracovní doba. Důkazy: dohoda o pohotovosti, evidence pohotovosti a výkonů (§ 96), záznamy o povoláních, doložení reálných omezení.
+
+**2. Právní otázka.** Je pracovní pohotovost s extrémně krátkým reakčním časem stále jen pohotovostí (odměňovanou dle § 140), nebo se může stát pracovní dobou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 95 odst. 1 (pohotovost jen po dohodě, odměna dle § 140), odst. 2 (za výkon práce mzda/plat, nikoli odměna; nad stanovenou dobu jde o přesčas), odst. 3 (pohotovost bez výkonu se do pracovní doby nezapočítává).
+- *Související ustanovení téhož zákona:* § 78 odst. 1 písm. h) (pohotovost jen mimo pracoviště), § 78 odst. 1 písm. a) (pracovní doba), § 140 (odměna za pohotovost — min. 10 % průměrného výdělku), § 93 (přesčas), § 96 (evidence).
+- *Související předpisy:* směrnice 2003/88/ES, čl. 2.
+- *Judikatura:* SDEU C-518/15 Matzak, C-580/19 Stadt Offenbach — pohotovost výrazně omezující dispozici zaměstnance s časem může být pracovní dobou bez ohledu na národní klasifikaci.
+
+**4. Subsumpce.** Pohotovost je sjednána mimo pracoviště (doma) — formálně jde o pohotovost dle § 78 odst. 1 písm. h). Avšak reakční čas 3 minuty fakticky zcela vylučuje, aby zaměstnanec disponoval svým časem. Podle judikatury SDEU (Matzak, Stadt Offenbach) může být taková doba kvalifikována jako **pracovní doba** ve smyslu směrnice, nehledě na národní označení.
+
+**5. Řešení.** Hrozí rekvalifikace celé pohotovosti na pracovní dobu — s důsledky pro odměňování (mzda místo odměny § 140), započítání do týdenní pracovní doby a limity přesčasu a odpočinku. Zaměstnavatel by měl sjednat realistický reakční čas, který skutečně umožní volné nakládání s časem. Technik se může domáhat doplatku mzdy; klíčové je doložit míru faktického omezení. Za skutečně odpracovanou dobu (povolání) náleží mzda + příplatky, nad stanovenou dobu jako přesčas (odst. 2).
+
+**6. Varianty.** (a) Kdyby reakční čas byl přiměřený (např. 30–60 minut) a zaměstnanec mohl reálně nakládat se svým časem, šlo by o pohotovost odměňovanou dle § 140 a do pracovní doby by se (bez výkonu) nezapočítávala (odst. 3). (b) Kdyby měl být zaměstnanec přítomen přímo na pracovišti zaměstnavatele, nešlo by o pohotovost vůbec, nýbrž o pracovní dobu (§ 78 odst. 1 písm. h) a contrario).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „je to doma, tedy jen pohotovost".* Místo není jediným kritériem — rozhoduje i faktická míra omezení (Matzak). Neutralizace: doložení reálných omezení (3min reakční čas).
+- *Protiargument „za pohotovost platíme 10 %".* Pokud jde fakticky o pracovní dobu, náleží mzda, nikoli jen odměna dle § 140. Riziko doplatku.
+- *Slabé místo:* hranice mezi přiměřeným a nepřiměřeným reakčním časem není v zákoně stanovena; výsledek závisí na skutkovém posouzení míry omezení a je předvídatelný jen rámcově.
+
+#### H. Praktický závěr
+
+Pracovní pohotovost je možná jen po dohodě a jen mimo pracoviště; za pouhé držení náleží odměna dle § 140 (min. 10 %), za výkon práce mzda (nad stanovenou dobu přesčas). Při extrémně krátkém reakčním čase hrozí rekvalifikace pohotovosti na pracovní dobu (Matzak) — sjednávejte realistický reakční čas.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je pohotovost sjednána dohodou a na jiném místě než na pracovišti zaměstnavatele?
+- [ ] Je reakční čas realistický (umožňuje skutečné nakládání s časem)?
+- [ ] Je za držení pohotovosti vyplácena odměna dle § 140 (min. 10 %)?
+- [ ] Je výkon práce z pohotovosti odměňován mzdou (nad stanovenou dobu jako přesčas)?
+- [ ] Je pohotovost i výkon práce řádně evidován (§ 96)?
+
+**Typicky rozhodné důkazy / podklady:** dohoda o pracovní pohotovosti, evidence pohotovosti a výkonů (§ 96), záznamy o povoláních a reakčním čase, mzdové listy.
 
 ---
 
@@ -1030,6 +1882,43 @@ Zaměstnanec má právo:
 
 Toto právo posiluje informační symetrii v pracovněprávním vztahu a má i kontrolní funkci (zaměstnanec si může nezávisle ověřit dodržování limitů a výpočet mzdy).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Bývalý zaměstnanec (skladník) žaluje zaměstnavatele o doplatek mzdy za přesčasy, které podle svého tvrzení odpracoval, ale které mu nebyly proplaceny. Zaměstnavatel vedl evidenci pracovní doby jen sumárně (měsíční souhrn bez začátku a konce směn a bez rozlišení přesčasu a noční práce). Zaměstnanec předkládá vlastní záznamy (fotografie píchaček, svědectví kolegů). Důkazy: (neúplná) evidence zaměstnavatele, vlastní záznamy zaměstnance, výplatní pásky, svědci.
+
+**2. Právní otázka.** Jak je rozloženo důkazní břemeno ve sporu o mzdu za odpracovanou dobu, vedl-li zaměstnavatel evidenci pracovní doby nedostatečně, a jaké náležitosti evidence vyžaduje § 96?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96 odst. 1 (kogentní povinnost evidovat začátek a konec směny, přesčasu, noční práce, doby v pohotovosti a pohotovosti), odst. 2 (právo zaměstnance nahlédnout a pořídit výpisy na náklady zaměstnavatele).
+- *Související ustanovení téhož zákona:* § 78 odst. 1 písm. c), i), § 93 (přesčas), § 94 (noční práce), § 95 (pohotovost), § 109 a násl. (mzda), § 114, § 116 (příplatky).
+- *Související předpisy:* zákon č. 251/2005 Sb., § 5 (kontrola inspekce); o. s. ř. (důkazní břemeno).
+- *Judikatura:* NS 21 Cdo 3989/2011 — zaměstnavatel se ubrání tvrzení o výkonu práce, jen prokáže-li dle jím vedené evidence, že zaměstnanec nepracoval; ÚS II.ÚS 107/11 — evidence je uložena zákonem, jen prokáže-li se její rozpor s realitou, nelze k ní přihlížet.
+
+**4. Subsumpce.** § 96 odst. 1 ukládá vést evidenci **per zaměstnanec, per složka, časově přesně** (začátek a konec). Pouhý měsíční souhrn tyto náležitosti nesplňuje. Podle NS 21 Cdo 3989/2011 jde nedostatečná evidence k tíži zaměstnavatele — nemůže-li jí prokázat, že zaměstnanec nepracoval, neunese důkazní břemeno.
+
+**5. Řešení.** Prokáže-li zaměstnanec existenci pracovního poměru a tvrdí výkon práce, je na zaměstnavateli, aby řádnou evidencí prokázal opak. Nedostatečná evidence znemožňuje zaměstnavateli unést toto břemeno; soud pak může vyjít z tvrzení a důkazů zaměstnance (vlastní záznamy, svědci). Zaměstnanci může být přiznán doplatek mzdy a příplatků. Zaměstnavateli navíc hrozí sankce inspekce práce.
+
+**6. Varianty.** (a) Kdyby zaměstnavatel vedl řádnou (časově přesnou, členěnou) evidenci prokazující, že zaměstnanec přesčas nepracoval, ubránil by se nároku (NS 21 Cdo 3989/2011). (b) Kdyby zaměstnanec nevyužil práva nahlédnout do evidence (§ 96 odst. 2) a nereagoval na nesrovnalosti, mohlo by to oslabit věrohodnost jeho pozdějších tvrzení (ÚS II.ÚS 107/11).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „evidenci vedeme, byť souhrnně".* Souhrnná evidence nesplňuje náležitosti § 96 odst. 1 (začátek/konec, členění); jde k tíži zaměstnavatele. Neutralizace: NS 21 Cdo 3989/2011.
+- *Protiargument „zaměstnanec si měl hlídat své údaje".* Argument částečně platí (ÚS II.ÚS 107/11), ale nezbavuje zaměstnavatele zákonné povinnosti vést evidenci řádně.
+- *Slabé místo:* zaměstnanec musí svá tvrzení o rozsahu práce alespoň věrohodně doložit; pouhé tvrzení bez jakýchkoli důkazů nemusí obstát ani při vadné evidenci zaměstnavatele.
+
+#### H. Praktický závěr
+
+Evidence pracovní doby je kogentní povinností: per zaměstnanec, per složka (směna, přesčas, noční práce, pohotovost), s vyznačením začátku a konce. Nedostatečná evidence jde k tíži zaměstnavatele ve sporu o mzdu. Zaměstnanec má právo nahlédnout a pořídit výpisy na náklady zaměstnavatele.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je evidence vedena pro každého zaměstnance jednotlivě?
+- [ ] Vyznačuje začátek a konec směny, přesčasu, noční práce, doby v pohotovosti i pohotovosti?
+- [ ] Je časově přesná (nikoli jen denní/měsíční souhrn)?
+- [ ] Bylo zaměstnanci umožněno nahlédnout a pořídit výpisy na náklady zaměstnavatele (odst. 2)?
+- [ ] Odpovídá evidence skutečnosti (jinak k ní nelze přihlížet — ÚS II.ÚS 107/11)?
+
+**Typicky rozhodné důkazy / podklady:** evidence pracovní doby (§ 96), docházkový systém, rozvrhy směn (§ 84), výplatní pásky, vlastní záznamy zaměstnance, svědecké výpovědi.
+
 ---
 
 ### § 97 — Pružné rozvržení a překážky v práci
@@ -1068,6 +1957,43 @@ Průměrná délka směny se vypočítá ze stanovené (popř. kratší) týdenn
 
 Specifika v kontu: překážky se kompenzují **v rozsahu nezbytně nutné doby** nebo **v rozsahu rozvržené směny na daný den**. Zaměstnanec tedy „čerpá" volno v reálné délce rozvržené směny, nikoliv průměrné — což respektuje skutečné rozvržení v kontu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec v pružném rozvržení (základní doba 9:00–14:00) potřeboval doprovodit rodiče k lékaři, přičemž doprovod (důležitá osobní překážka s nárokem na pracovní volno dle § 191 ve spojení s nařízením vlády č. 590/2006 Sb.) zasáhl dobu 8:00–11:00. Část překážky (8:00–9:00) tak připadla na volitelnou dobu a část (9:00–11:00) na základní dobu. Zaměstnavatel chce uznat jako výkon práce jen 2 hodiny (zásah do základní doby). Důkazy: potvrzení o doprovodu/ošetření, rozpis základní a volitelné doby, evidence pracovní doby.
+
+**2. Právní otázka.** V jakém rozsahu se v pružném rozvržení posuzuje jako výkon práce důležitá osobní překážka, zejména jde-li o překážku s přesně vymezenou dobou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 97 odst. 1 (překážka na straně zaměstnance — výkon práce jen v rozsahu základní doby), odst. 2 (výjimka — překážky s přesně vymezenou délkou, příp. § 203 odst. 2 písm. a) — celá doba), odst. 3 (překážky na straně zaměstnavatele — průměrná délka směny), odst. 4 (průměrná délka směny), odst. 5 (konto).
+- *Související ustanovení téhož zákona:* § 85 (pružné rozvržení), § 191 (důležité osobní překážky), § 203 (jiné úkony v obecném zájmu).
+- *Související předpisy:* nařízení vlády č. 590/2006 Sb. (rozsah překážek a pracovního volna).
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z § 97.
+
+**4. Subsumpce.** Doprovod k lékaři dle § 191 s vymezeným rozsahem pracovního volna spadá pod **výjimku § 97 odst. 2** (překážka vymezená přesnou délkou nezbytně nutné doby). Posuzuje se proto jako výkon práce **celá** doba překážky (8:00–11:00), nikoli jen zásah do základní doby. Obecné pravidlo odst. 1 (jen základní doba) se zde neuplatní.
+
+**5. Řešení.** Zaměstnavatel musí uznat jako výkon práce celou dobu nezbytně nutné překážky dle § 191 (zde 3 hodiny), nikoli jen 2 hodiny zásahu do základní doby (§ 97 odst. 2). Nesprávné posouzení vede k chybnému krácení mzdy/náhrady. Zaměstnanec se může domáhat doplatku. Hrozí sankce inspekce práce.
+
+**6. Varianty.** (a) Kdyby šlo o překážku **bez** přesně vymezené délky (např. zaměstnanec si jen potřeboval vyřídit soukromou záležitost), platilo by obecné pravidlo odst. 1 — výkon práce jen v rozsahu zásahu do základní doby. (b) Kdyby překážku způsobil zaměstnavatel (odst. 3), počítala by se jako výkon práce za každý den v rozsahu průměrné délky směny (typicky 8 h).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „uznáváme jen zásah do základní doby".* Platí jen pro překážky bez přesně vymezené délky (odst. 1). U překážek dle § 191 s vymezeným rozsahem se uplatní odst. 2 (celá doba).
+- *Protiargument „volitelnou dobu si zaměstnanec dožene".* Neplatí u překážek dle odst. 2 — ty se počítají celé jako výkon práce.
+- *Slabé místo:* sporné bývá zařazení konkrétní překážky pod odst. 2 (přesně vymezená doba); nesprávná klasifikace vede k chybnému výpočtu náhrady mzdy.
+
+#### H. Praktický závěr
+
+V pružném rozvržení se osobní překážka posuzuje jako výkon práce zásadně jen v rozsahu zásahu do základní doby (odst. 1). Výjimkou jsou překážky s přesně vymezenou délkou (§ 191) a činnosti dle § 203 odst. 2 písm. a), které se počítají celé. Překážky na straně zaměstnavatele se počítají v rozsahu průměrné délky směny.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o překážku na straně zaměstnance, nebo zaměstnavatele?
+- [ ] Má překážka přesně vymezenou délku (§ 191), nebo jde o činnost dle § 203 odst. 2 písm. a) — pak celá doba (odst. 2)?
+- [ ] Není-li tomu tak — zasáhla překážka do základní doby (jen ta se uznává — odst. 1)?
+- [ ] U překážek zaměstnavatele — je započtena průměrná délka směny (odst. 3, 4)?
+- [ ] V kontu — je volno poskytnuto v nezbytně nutné době, příp. v délce rozvržené směny (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** potvrzení o překážce (ošetření, doprovod), rozpis základní a volitelné doby, evidence pracovní doby (§ 96), nařízení vlády č. 590/2006 Sb. (rozsah volna).
+
 ---
 
 ### § 98 — Přesčas v pružné době a v kontu
@@ -1094,6 +2020,43 @@ Toto pravidlo zabraňuje, aby zaměstnanec „v pružném režimu" vytvořil př
 V kontu pracovní doby je přesčas vázán na **stanovenou týdenní pracovní dobu × počet týdnů vyrovnávacího období**. Příklad: vyrovnávací období 26 týdnů × 40 hodin = 1040 hodin. Vše nad 1040 hodin za 26 týdnů je přesčas.
 
 Tento výpočet logicky koresponduje s konstrukcí konta jako „banky pracovní doby" s ročním/půlročním vyhodnocením.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní podnik uplatňuje konto pracovní doby s vyrovnávacím obdobím 26 týdnů (stanovená týdenní pracovní doba 40 hodin). Zaměstnanec za celé 26týdenní období odpracoval 1100 hodin. Zaměstnavatel mu odmítá uznat hodiny nad 1040 jako přesčas s tím, že „v kontu se přesčas posuzuje jinak". Zaměstnanec se domáhá proplacení 60 hodin přesčasu. Důkazy: účty pracovní doby (§ 87), rozvrhy, evidence pracovní doby (§ 96), kolektivní smlouva.
+
+**2. Právní otázka.** Jak se v kontu pracovní doby zjišťuje práce přesčas a od jaké hranice jde o přesčas?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 98 odst. 1 (pružné rozvržení — přesčas nad stanovenou týdenní i nad základní dobu), odst. 2 (konto — přesčas nad stanovenou týdenní pracovní dobu × počet týdnů vyrovnávacího období dle § 86 odst. 3 / § 87 odst. 3).
+- *Související ustanovení téhož zákona:* § 86 odst. 3 (vyrovnávací období konta), § 87 odst. 3 (kratší období), § 93 (limity přesčasu), § 114 (příplatek), § 78 odst. 1 písm. i).
+- *Související předpisy:* směrnice 2003/88/ES, čl. 6.
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z výpočtového pravidla § 98 odst. 2.
+
+**4. Subsumpce.** V kontu je přesčasem práce nad **stanovenou týdenní pracovní dobu × počet týdnů vyrovnávacího období** (§ 98 odst. 2). Zde: 40 h × 26 týdnů = 1040 hodin. Zaměstnanec odpracoval 1100 hodin, tj. o 60 hodin více — těchto 60 hodin je prací přesčas. Argument zaměstnavatele, že „v kontu se přesčas neposuzuje", je nesprávný.
+
+**5. Řešení.** Zaměstnanci náleží za 60 hodin přesčas (mzda + příplatek dle § 114, nebo náhradní volno). Výpočet 1040 hodin je dán § 98 odst. 2. Zaměstnavatel je povinen přesčas vyhodnotit a vypořádat po skončení vyrovnávacího období. Hrozí sankce inspekce práce a doplatek. (Případný přenos části přesčasu do dalšího období je možný jen za podmínek § 86 odst. 4 — kolektivní smlouva, max. 120 h.)
+
+**6. Varianty.** (a) Kdyby šlo o pružné rozvržení (nikoli konto), přesčas by se zjišťoval kumulativně jako práce nad stanovenou týdenní dobu i nad základní dobu (§ 98 odst. 1). (b) Kdyby kolektivní smlouva sjednala přenos přesčasu (§ 86 odst. 4), mohla by být část přesčasu (max. 120 h) započtena do následujícího vyrovnávacího období místo okamžitého proplacení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „v kontu se přesčas neproplácí".* Nesprávné — přesčas se zjišťuje dle § 98 odst. 2 (nad stanovenou dobu × počet týdnů) a musí být vypořádán. Neutralizace: výpočtové pravidlo.
+- *Protiargument „přesčas přeneseme do dalšího období".* Jen za podmínek § 86 odst. 4 (kolektivní smlouva, max. 120 h); jinak nelze.
+- *Slabé místo:* výpočet je citlivý na správné určení vyrovnávacího období a stanovené týdenní doby; chyba ve vstupních hodnotách zkresluje výši přesčasu.
+
+#### H. Praktický závěr
+
+V pružném rozvržení je přesčas práce nad stanovenou týdenní i nad základní dobu; v kontu pracovní doby je přesčasem práce nad součin stanovené týdenní doby a počtu týdnů vyrovnávacího období. Přesčas musí být po skončení období vypořádán (mzda + příplatek nebo náhradní volno), přenos jen za podmínek § 86 odst. 4.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o pružné rozvržení (odst. 1), nebo o konto (odst. 2)?
+- [ ] V kontu — je správně určena hranice přesčasu (stanovená týdenní doba × počet týdnů období)?
+- [ ] Byl přesčas po skončení vyrovnávacího období vyhodnocen a vypořádán?
+- [ ] Je případný přenos přesčasu podložen kolektivní smlouvou a v limitu 120 h (§ 86 odst. 4)?
+- [ ] Jsou dodrženy celkové limity přesčasu dle § 93?
+
+**Typicky rozhodné důkazy / podklady:** účty pracovní doby a mzdy (§ 87), rozvrhy a evidence pracovní doby (§ 96), kolektivní smlouva (přenos přesčasu), mzdové listy.
 
 ---
 
@@ -1131,6 +2094,43 @@ Zákoník nestanoví formu projednání. V praxi obvyklé:
 - **Přestupkové odpovědnosti** zaměstnavatele (§ 26 zákona o inspekci práce),
 - **Žalobě odborové organizace** o určení, že zaměstnavatel porušil své povinnosti (§ 287 a násl.),
 - **Neplatnosti vnitřního předpisu** zaměstnavatele dle § 305 (vyhláška vnitřního předpisu vyžaduje projednání).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel, u něhož působí odborová organizace, vydal vnitřní předpis zavádějící hromadnou změnu rozvržení pracovní doby (přechod celého závodu na třísměnný provoz) a zároveň plošně rozšířil nařizování práce přesčas. Vnitřní předpis vydal bez předchozího projednání s odborovou organizací. Odbory namítají porušení § 99 a neplatnost vnitřního předpisu. Důkazy: vnitřní předpis, doklad o (ne)projednání, komunikace s odbory.
+
+**2. Právní otázka.** Je zaměstnavatel povinen předem projednat hromadnou úpravu pracovní doby a přesčasy s odborovou organizací, a jaké jsou důsledky neprojednání?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 99 (povinnost předem projednat s odborovou organizací opatření o hromadné úpravě pracovní doby, práci přesčas, nařizování práce ve dnech pracovního klidu a noční práci se zřetelem na BOZP).
+- *Související ustanovení téhož zákona:* § 287 a násl. (práva odborové organizace), § 305 (vnitřní předpis — projednání), § 278 a § 280 (informování a projednání), § 93 (přesčas), § 91 (dny pracovního klidu), § 94 (noční práce).
+- *Související předpisy:* zákon č. 251/2005 Sb., § 26 (přestupek); směrnice 2002/14/ES (informování a projednání).
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z textu § 99 a § 305.
+
+**4. Subsumpce.** Hromadná změna rozvržení (přechod na třísměnný provoz) i plošné nařizování přesčasů jsou opatřeními výslovně podléhajícími **předchozímu projednání** s odborovou organizací (§ 99). Projednání je konzultační, nikoli souhlasné — zaměstnavatel nemusí získat souhlas, ale **musí** projednat předem. Vydání vnitřního předpisu bez projednání je porušením § 99 i § 305.
+
+**5. Řešení.** Zaměstnavatel měl opatření předem projednat (písemné předložení záměru, jednání, záznam). Neprojednání zakládá přestupkovou odpovědnost (§ 26 zákona o inspekci práce), může vést k žalobě odborové organizace (§ 287 a násl.) a k **neplatnosti vnitřního předpisu** (§ 305). Náprava: projednání dodatečně provést a vnitřní předpis řádně vydat. Samotná povinnost projednat však neznamená právo veta odborů.
+
+**6. Varianty.** (a) Kdyby u zaměstnavatele odborová organizace nepůsobila, povinnost projednání dle § 99 by odpadla (není s kým projednávat). (b) Kdyby šlo jen o individuální (nikoli hromadnou) úpravu pracovní doby jednoho zaměstnance, § 99 by se neuplatnil — projednání se týká hromadných opatření.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „projednání není souhlas, takže ho nepotřebujeme".* Záměna — projednání sice není souhlas, ale je povinné a musí předcházet opatření. Neutralizace: text § 99 („je povinen předem projednat").
+- *Protiargument „opatření je urgentní".* Urgentnost nezbavuje povinnosti projednat; lze ji jen zohlednit při délce lhůty k vyjádření.
+- *Slabé místo:* § 99 nestanoví formu projednání; spor o to, zda projednání proběhlo „řádně", se posuzuje podle okolností (písemnost, lhůta, záznam) a může být sporný.
+
+#### H. Praktický závěr
+
+Hromadnou úpravu pracovní doby, přesčasy, nařizování práce ve dnech pracovního klidu a noční práci musí zaměstnavatel předem projednat s odborovou organizací. Jde o konzultaci, nikoli souhlas; neprojednání však zakládá přestupkovou odpovědnost a může způsobit neplatnost vnitřního předpisu (§ 305).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Působí u zaměstnavatele odborová organizace?
+- [ ] Jde o opatření spadající pod § 99 (hromadná úprava pracovní doby, přesčasy, dny pracovního klidu, noční práce)?
+- [ ] Proběhlo projednání předem (před přijetím opatření / vydáním vnitřního předpisu)?
+- [ ] Je projednání doloženo (písemné předložení, lhůta, záznam)?
+- [ ] Není opatření realizováno až po řádném projednání (jinak hrozí neplatnost dle § 305)?
+
+**Typicky rozhodné důkazy / podklady:** vnitřní předpis a doklad o jeho projednání, korespondence s odborovou organizací, záznam z jednání, rozvrhy a podklady k navrhované úpravě.
 
 ---
 
@@ -1182,6 +2182,43 @@ Aktuálně toto zmocnění realizováno nařízením vlády č. 182/2007 Sb. (s 
 #### Postavení zmocňovacích ustanovení
 
 § 100 končí Část čtvrtou a uzavírá ji odkazem na **podzákonné předpisy** pro odvětvové odchylky. Tato struktura odráží zásadu, že obecná úprava v zákoníku zachytí standardní pracovní vztahy, zatímco specifika dopravy a nepřetržitých rizikových provozů vyžadují detailní úpravu nařízením vlády — flexibilnější a technicky bližší dotčeným oborům.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Průmyslový podnik (chemička) provozuje vlastní jednotku hasičského záchranného sboru podniku, jejíž členové jsou zaměstnanci podniku a vykonávají činnost v jednotce jako své zaměstnání. Podnik chce v nerovnoměrném rozvržení nasazovat hasiče na směny v délce 18 hodin a současně jim na základě „odvětvové výjimky" prodloužit stanovenou týdenní pracovní dobu nad 40 hodin. Hasiči namítají, že 18hodinová směna a prodloužení stanovené týdenní doby jsou nepřípustné. Důkazy: rozvrh, vnitřní předpisy, popis jednotky a pracovních povinností členů.
+
+**2. Právní otázka.** V jakém rozsahu lze nařízením vlády odchýlit úpravu pracovní doby pro podnikové hasiče a kde jsou meze této odchylky (délka směny, stanovená týdenní doba)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 100 odst. 1 (kogentní zmocnění — odchylky pro zaměstnance v dopravě), odst. 2 (fakultativní zmocnění pro podnikové hasiče; stanovená týdenní pracovní doba zůstává; délka směny při nerovnoměrném rozvržení max. 16 hodin).
+- *Související ustanovení téhož zákona:* § 79 (stanovená týdenní pracovní doba), § 83 (délka směny — obecně 12 h), § 78 (definice).
+- *Související předpisy:* nařízení vlády č. 182/2007 Sb. (podnikoví hasiči); nařízení vlády č. 589/2006 Sb. (doprava); směrnice 2003/88/ES.
+- *Judikatura:* (specifická judikatura sporá) — řešení vychází z výslovných mezí § 100 odst. 2.
+
+**4. Subsumpce.** Pro podnikové hasiče může vláda nařízením stanovit odchylky (odst. 2), avšak se **dvěma kogentními mezemi**: (i) **stanovená týdenní pracovní doba zůstává** dle § 79 — nelze ji prodloužit; (ii) délka směny při nerovnoměrném rozvržení **nesmí přesáhnout 16 hodin**. Záměr nasadit 18hodinové směny a prodloužit stanovenou týdenní dobu obě meze překračuje.
+
+**5. Řešení.** 18hodinová směna podnikových hasičů při nerovnoměrném rozvržení je nepřípustná (max. 16 hodin — odst. 2). Prodloužení stanovené týdenní pracovní doby nad rámec § 79 je rovněž vyloučeno. Podnik musí rozvrhnout směny nejvýše na 16 hodin a respektovat stanovenou týdenní dobu; odchylky jen v mezích nařízení vlády č. 182/2007 Sb. Hrozí sankce inspekce práce.
+
+**6. Varianty.** (a) Kdyby šlo o zaměstnance v dopravě (např. řidiče nákladního vozidla, posádky letadel), uplatnily by se odchylky dle § 100 odst. 1 a příslušných nařízení vlády / unijních předpisů (561/2006, 165/2014). (b) Kdyby podnik rozvrhl hasičům směny do 16 hodin při zachování stanovené týdenní doby, byl by postup v souladu s § 100 odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „máme odvětvovou výjimku".* Výjimka (nařízení vlády) je limitována mezemi § 100 odst. 2 — nelze prodloužit stanovenou týdenní dobu ani překročit 16hodinovou směnu. Neutralizace: text odst. 2.
+- *Protiargument „hasiči v zásahu pracují déle".* Mez 16 hodin se týká rozvržené směny při nerovnoměrném rozvržení; mimořádné situace neumožňují plošně rozvrhovat delší směny.
+- *Slabé místo:* hranice mezi „činností v jednotce jako zaměstnání" a jinou činností zaměstnance může být sporná; nesprávné zařazení ovlivní použitelnost odchylek.
+
+#### H. Praktický závěr
+
+§ 100 zmocňuje vládu upravit nařízením odchylky pro dopravu (kogentně) a pro podnikové hasiče (fakultativně). U podnikových hasičů platí dvě kogentní meze: stanovená týdenní pracovní doba se nemění a směna při nerovnoměrném rozvržení nesmí přesáhnout 16 hodin. Odchylky vždy jen v mezích příslušného nařízení vlády a unijního rámce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá zaměstnanec do okruhu dle § 100 odst. 1 (doprava), nebo odst. 2 (podnikoví hasiči)?
+- [ ] Je odchylka podložena příslušným nařízením vlády (č. 589/2006 Sb., č. 182/2007 Sb. apod.)?
+- [ ] U podnikových hasičů — je zachována stanovená týdenní pracovní doba dle § 79?
+- [ ] U podnikových hasičů — nepřesahuje směna při nerovnoměrném rozvržení 16 hodin?
+- [ ] Respektuje úprava unijní rámec (směrnice 2003/88/ES, odvětvové předpisy)?
+
+**Typicky rozhodné důkazy / podklady:** rozvrhy a evidence pracovní doby (§ 96), vnitřní předpisy, popis jednotky a pracovních povinností členů, příslušná nařízení vlády.
 
 ---
 
