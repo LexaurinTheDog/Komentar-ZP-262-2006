@@ -215,6 +215,10 @@ Kolektivní spory — **rozhodce** (§ 12 ZKV) nebo **MPSV** (zprostředkovatel)
 
 > **Poznámka k vývoji:** Zákoník práce je dynamicky se vyvíjející předpis. Nejvýznamnější novely od přijetí: 365/2011 Sb. (velká novela 2012), 303/2013 Sb. (koordinace s NOZ), 285/2020 Sb. (nová úprava dovolené), 281/2023 Sb. (velká novela 2023 — informování o PP, dovolená DPP/DPČ, work-life balance), 230/2024 Sb. (valorizace minimální mzdy, zrušení zaručené mzdy v privátu), 320/2024 Sb. (další úpravy 2025). Před aplikací vždy ověřte aktuální znění k danému datu.
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
