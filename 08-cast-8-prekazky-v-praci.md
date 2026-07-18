@@ -110,6 +110,52 @@ Ustanovení zakládá kogentní povinnost zaměstnavatele omluvit nepřítomnost
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=51b80b94fbe5fb07e1f0 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 191
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnavatel je povinen omluvit nepřítomnost zaměstnance v práci po dobu jeho dočasné pracovní neschopnosti podle zvláštních právních předpisů58), po dobu karantény nařízené podle zvláštního právního předpisu59), po dobu mateřské, otcovské nebo rodičovské dovolené, po dobu ošetřování dítěte mladšího než 10 let nebo jiné fyzické osoby v případech podle [[§ 39|§ 39]] zákona [[o nemocenském pojištění|o nemocenském pojištění]] a po dobu péče o dítě mladší než 10 let z důvodů stanovených v [[§ 39|§ 39]] zákona [[o nemocenském pojištění|o nemocenském pojištění]] nebo z důvodu, kdy se fyzická osoba, která o dítě jinak pečuje, podrobila vyšetření nebo ošetření u poskytovatele zdravotních služeb, které nebylo možno zabezpečit mimo pracovní dobu zaměstnance, a proto nemůže o dítě pečovat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 39
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=51b80b94fbe5fb07e1f0 -->
+
 ### § 191a — Omluvená nepřítomnost při poskytování dlouhodobé péče
 
 > **§ 191a**
@@ -179,6 +225,52 @@ Dlouhodobá péče je překážkou navázanou na dlouhodobé ošetřovné (§ 41
 **Typicky rozhodné důkazy / podklady:** rozhodnutí lékaře o potřebě dlouhodobé péče, doklad o hospitalizaci, doklad o příbuzenském/spolužijícím vztahu, písemná žádost zaměstnance, písemné sdělení provozních důvodů zaměstnavatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0b8c2a6d5e43bd2e93ae generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 191a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnavatel je povinen omluvit nepřítomnost zaměstnance v práci po dobu poskytování dlouhodobé péče v případech podle [[§ 41a až 41c|§ 41a až 41c]] zákona [[o nemocenském pojištění|o nemocenském pojištění]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 41a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0b8c2a6d5e43bd2e93ae -->
 
 ### Náhrada mzdy, platu nebo odměny z dohod o pracích konaných mimo pracovní poměr při dočasné pracovní neschopnosti (karanténě)
 
@@ -332,6 +424,62 @@ V prvních 14 dnech DPN/karantény hradí příjem zaměstnavatel (60 % redukova
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3dfbab5aee2930a53631 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 192
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnanci, který byl uznán dočasně práce neschopným nebo kterému byla nařízena karanténa, přísluší v době prvních 14 kalendářních dnů trvání dočasné pracovní neschopnosti nebo karantény náhrada mzdy nebo platu ve dnech podle věty druhé a ve výši podle odstavce 2, pokud ke dni vzniku dočasné pracovní neschopnosti nebo karantény zaměstnanec splňuje podmínky nároku na nemocenské podle předpisů [[o nemocenském pojištění|o nemocenském pojištění]]. V mezích období uvedeného ve větě první přísluší tato náhrada mzdy nebo platu za dny, které jsou pro zaměstnance pracovními dny, a za svátky, za které jinak přísluší zaměstnanci náhrada mzdy nebo se mu plat nebo mzda nekrátí, pokud v těchto jednotlivých dnech splňuje podmínky nároku na výplatu nemocenského podle předpisů [[o nemocenském pojištění|o nemocenském pojištění]], a pokud pracovní poměr trvá, ne však déle než do dne vyčerpání podpůrčí doby určené pro výplatu nemocenského61). Vznikla-li dočasná pracovní neschopnost ode dne, v němž má zaměstnanec směnu již odpracovanou, počíná období 14 kalendářních dnů dočasné pracovní neschopnosti pro účely poskytování náhrady mzdy nebo platu následujícím kalendářním dnem. Jestliže v období prvních 14 kalendářních dnů trvání dočasné pracovní neschopnosti nebo karantény náleží nemocenské62), peněžitá pomoc v mateřství63), dávka otcovské poporodní péče113) nebo dlouhodobé ošetřovné, náhrada mzdy nebo platu nepřísluší. Vznikne-li zaměstnanci v době dočasné pracovní neschopnosti nebo karantény právo na náhradu mzdy nebo platu podle věty první až třetí, nepřísluší mu současně náhrada mzdy nebo platu z důvodu jiné překážky v práci.
+>
+> (2) Náhrada mzdy nebo platu podle odstavce 1 přísluší ve výši 60 % průměrného výdělku. Pro účely stanovení náhrady mzdy nebo platu se zjištěný průměrný výdělek upraví obdobným způsobem, jakým se upravuje denní vyměřovací základ pro výpočet nemocenského z nemocenského pojištění64), s tím, že pro účely této úpravy se příslušná redukční hranice stanovená pro účely nemocenského pojištění64a) vynásobí koeficientem 0,175 a poté zaokrouhlí na haléře směrem nahoru. Má-li zaměstnanec za pracovní den, v němž mu vzniklo nebo zaniklo právo na náhradu mzdy nebo platu podle odstavce 1, také právo na mzdu nebo plat za část pracovní doby, přísluší mu za tento den jen poměrný díl náhrady mzdy nebo platu připadající na tu část pracovní doby, za kterou mu nenáleží mzda nebo plat.
+>
+> (3) Dohodnutá nebo vnitřním předpisem stanovená výše náhrady mzdy nebo platu nad výši uvedenou v odstavci 2 větě první nesmí převýšit průměrný výdělek (§ 356 odst. 1).
+>
+> (4) Náhrada mzdy nebo platu stanovená podle odstavců 2 a [[#§ 3|3]] musí být snížena o 50 %, jde-li o případy, kdy je podle předpisů [[o nemocenském pojištění|o nemocenském pojištění]] nárok na nemocenské v poloviční výši65).
+>
+> (5) Porušil-li zaměstnanec v období prvních 14 kalendářních dnů dočasné pracovní neschopnosti povinnosti uvedené v odstavci 6 větě první, které jsou součástí režimu dočasně práce neschopného pojištěnce, může zaměstnavatel se zřetelem na závažnost porušení těchto povinností náhradu mzdy nebo platu snížit nebo neposkytnout. Náhrada mzdy nebo platu nesmí být snížena nebo neposkytnuta, jestliže byla pro totéž porušení režimu dočasně práce neschopného pojištěnce dána zaměstnanci výpověď podle § 52 písm. h).
+>
+> (6) Zaměstnavatel je oprávněn kontrolovat, zda zaměstnanec, který byl uznán dočasně práce neschopným, dodržuje v období prvních 14 kalendářních dnů dočasné pracovní neschopnosti stanovený režim dočasně práce neschopného pojištěnce, pokud jde o povinnost stanovenou zvláštním právním předpisem66) zdržovat se v místě pobytu a dodržovat dobu a rozsah povolených vycházek. Zaměstnavatel je povinen v případě zjištění porušení povinnosti uvedené ve větě první zaměstnancem vyhotovit o kontrole písemný záznam s uvedením skutečností, které znamenají porušení tohoto režimu; stejnopis tohoto záznamu je zaměstnavatel povinen doručit zaměstnanci, který tento režim porušil, územní správě sociálního zabezpečení příslušné podle místa pobytu zaměstnance v době dočasné pracovní neschopnosti67) a ošetřujícímu lékaři dočasně práce neschopného zaměstnance. Zaměstnavatel je oprávněn požádat ošetřujícího lékaře, který stanovil zaměstnanci režim dočasně práce neschopného pojištěnce, o sdělení tohoto režimu v rozsahu, který je zaměstnavatel oprávněn kontrolovat, a o zhodnocení zaměstnavatelem zjištěných případů porušení tohoto režimu. Zaměstnanec je povinen umožnit zaměstnavateli kontrolu dodržování svých povinností uvedených ve větě první.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 356, § 3, § 52
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3dfbab5aee2930a53631 -->
+
 ### § 193 — Vyplacení náhrady mzdy nebo platu
 
 > **§ 193**
@@ -392,6 +540,52 @@ Náhrada mzdy se vyplácí v nejbližším pravidelném výplatním termínu po 
 **Typicky rozhodné důkazy / podklady:** vnitřní předpis o lhůtě pro doklady, výpis ze systému eNeschopenka (datum vzniku/dostupnosti), výplatní termín dle § 141, doklad o provedené/neprovedené výplatě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=278ba2a91f54bee71730 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 193
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Náhrada mzdy nebo platu přísluší na základě dokladů stanovených pro uplatnění nároku na nemocenské a musí být vyplacena v nejbližším pravidelném termínu výplaty mzdy nebo platu po předložení těchto dokladů. Zaměstnavatel je povinen určit, do kdy nejpozději před výplatním termínem musí být předloženy doklady pro poskytnutí náhrady mzdy nebo platu, aby tato náhrada mohla být v tomto výplatním termínu vyplacena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=278ba2a91f54bee71730 -->
 
 ### § 194 — Náhrada odměny při DPN u dohod o pracích konaných mimo pracovní poměr
 
@@ -455,6 +649,52 @@ Náhrada odměny při DPN se vztahuje i na dohody (DPP, DPČ), je-li zaměstnane
 **Typicky rozhodné důkazy / podklady:** dohoda o provedení práce / pracovní činnosti, výplatní doklady prokazující rozhodný příjem a účast na pojištění, eNeschopenka, rozvrh dohodnutých směn, výpočet pravděpodobného výdělku.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6a51a90753b6fad4324f generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 194
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnanci, který pracuje na základě dohody o provedení práce nebo dohody o pracovní činnosti, přísluší v době prvních 14 kalendářních dnů trvání dočasné pracovní neschopnosti (karantény) náhrada odměny z dohody za podmínek stanovených v [[#§ 192|§ 192]] a [[#§ 193|193]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 192, § 193
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6a51a90753b6fad4324f -->
 
 ### Mateřská a rodičovská dovolená
 
@@ -566,6 +806,60 @@ Mateřská dovolená činí 28 (resp. 37) týdnů, nastupuje se mezi 6. a 8. tý
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=57608d77b7492859ade1 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 195 — Mateřská dovolená
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) V souvislosti s porodem a péčí o narozené dítě přísluší zaměstnankyni mateřská dovolená po dobu 28 týdnů; porodila-li zároveň 2 nebo více dětí, přísluší jí mateřská dovolená po dobu 37 týdnů.
+>
+> (2) Mateřskou dovolenou zaměstnankyně nastupuje zpravidla od počátku šestého týdne před očekávaným dnem porodu, nejdříve však od počátku osmého týdne před tímto dnem.
+>
+> (3) Vyčerpá-li zaměstnankyně z mateřské dovolené před porodem méně než 6 týdnů, protože porod nastal dříve, než určil lékař, přísluší mateřská dovolená ode dne jejího nástupu až do uplynutí doby stanovené v odstavci 1. Vyčerpá-li však zaměstnankyně z mateřské dovolené před porodem méně než 6 týdnů z jiného důvodu, přísluší jí mateřská dovolená ode dne porodu jen do uplynutí 22 týdnů, popřípadě 31 týdnů, jde-li o zaměstnankyni, která porodila zároveň 2 nebo více dětí.
+>
+> (4) Jestliže se dítě narodilo mrtvé, přísluší zaměstnankyni mateřská dovolená po dobu 14 týdnů.
+>
+> (5) Mateřská dovolená v souvislosti s porodem nesmí být nikdy kratší než 14 týdnů a nemůže v žádném případě skončit ani být přerušena (§ 198 odst. 2) před uplynutím 6 týdnů ode dne porodu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 198
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=57608d77b7492859ade1 -->
+
 ### § 195a — Otcovská dovolená
 
 > **§ 195a**
@@ -643,6 +937,52 @@ Otcovská dovolená je nárokové právo zaměstnance po dobu poskytování dáv
 **Typicky rozhodné důkazy / podklady:** rodný list dítěte / rozhodnutí o převzetí do péče, žádost a doklad o nároku na dávku otcovské poporodní péče (ČSSZ), oznámení zaměstnavateli o termínu čerpání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2365b32648339fcc8cdf generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 195a — Otcovská dovolená
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> V souvislosti s narozením dítěte a péčí o ně je zaměstnavatel povinen poskytnout zaměstnanci otcovskou dovolenou. Otcovská dovolená přísluší zaměstnanci po dobu poskytování dávky otcovské poporodní péče podle § 38a až 38d zákona o nemocenském pojištění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 38a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2365b32648339fcc8cdf -->
 
 ### § 196 — Rodičovská dovolená
 
@@ -740,6 +1080,54 @@ Rodičovská dovolená je nárokové právo zaměstnance do 3 let věku dítěte
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b8577f737f6bcf324076 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 196 — Rodičovská dovolená
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) K prohloubení péče o dítě je zaměstnavatel povinen poskytnout zaměstnanci na jeho písemnou žádost rodičovskou dovolenou. Rodičovská dovolená přísluší matce dítěte po skončení mateřské dovolené a otci od narození dítěte, a to v rozsahu, o jaký požádají, ne však déle než do doby, kdy dítě dosáhne věku 3 let.
+>
+> (2) Žádost podle odstavce 1 podává zaměstnanec alespoň 30 dnů před nástupem na rodičovskou dovolenou, nebrání-li tomu vážné důvody na jeho straně; žádost musí obsahovat dobu trvání rodičovské dovolené a lze ji podávat i opakovaně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b8577f737f6bcf324076 -->
+
 ### § 197 — Mateřská a rodičovská dovolená při převzetí dítěte nebo při péči o dítě
 
 > **§ 197**
@@ -828,6 +1216,58 @@ Mateřská a rodičovská dovolená náleží i osobě, která převzala dítě 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí soudu/orgánu o svěření do náhradní rodinné péče, rodný list dítěte (věk a datum převzetí), oznámení/žádost zaměstnavateli, případně doklad o prohlášení podle § 12a zákona o důchodovém pojištění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f7d23fca78c2337c56d8 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 197 — Mateřská a rodičovská dovolená při převzetí dítěte nebo při péči o dítě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Právo na mateřskou a rodičovskou dovolenou má též zaměstnankyně nebo zaměstnanec, kteří převzali dítě do péče nahrazující péči rodičů na základě rozhodnutí příslušného orgánu; rozhodnutím příslušného orgánu se rozumí rozhodnutí, které se považuje za rozhodnutí o svěření dítěte do péče nahrazující péči rodičů pro účely státní sociální podpory68).
+>
+> (2) Mateřská dovolená podle odstavce 1 přísluší zaměstnankyni ode dne převzetí dítěte po dobu 22 týdnů, a převzala-li zaměstnankyně 2 nebo více dětí, po dobu 31 týdnů, nejdéle však do dne, kdy dítě dosáhne věku 1 roku.
+>
+> (3) Rodičovská dovolená podle odstavce 1 přísluší ode dne převzetí dítěte až do dne, kdy dítě dosáhne věku 3 let; zaměstnankyni, která čerpala mateřskou dovolenou podle odstavce 2, rodičovská dovolená přísluší až po skončení této mateřské dovolené. Bylo-li dítě převzato po dosažení věku 3 let, nejdéle však do 7 let jeho věku, přísluší rodičovská dovolená po dobu 22 týdnů. Při převzetí dítěte před dosažením věku 3 let tak, že by doba 22 týdnů uplynula po dosažení 3 let věku, rodičovská dovolená přísluší do uplynutí 22 týdnů ode dne převzetí dítěte.
+>
+> (4) Rodičovská dovolená přísluší také zaměstnanci pečujícímu osobně o dítě, jehož není rodičem, a to po dobu trvání účinků společného prohlášení podle [[§ 12a|§ 12a]] zákona [[o důchodovém pojištění|o důchodovém pojištění]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 12a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f7d23fca78c2337c56d8 -->
 
 ### § 198 — Společná ustanovení o mateřské, otcovské a rodičovské dovolené
 
@@ -919,6 +1359,58 @@ Společná ustanovení umožňují souběžné čerpání dovolených oběma rod
 **Typicky rozhodné důkazy / podklady:** doklad o převzetí dítěte do léčebného ústavu a o jeho propuštění, oznámení o nástupu do práce a o obnovení dovolené, rodný list dítěte (věk), případně doklad o svěření dítěte do náhradní péče (odst. 3) nebo úmrtní list (odst. 4).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1f6c739cc9078a7ea66b generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 198 — Společná ustanovení o mateřské, otcovské a rodičovské dovolené
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Mateřskou, otcovskou a rodičovskou dovolenou jsou zaměstnankyně a zaměstnanec oprávněni čerpat současně.
+>
+> (2) Jestliže dítě bylo ze zdravotních důvodů převzato do péče léčebného ústavu a zaměstnanec nebo zaměstnankyně zatím nastoupí do práce, přeruší se tímto nástupem mateřská nebo rodičovská dovolená; její nevyčerpaná část přísluší ode dne opětovného převzetí dítěte z ústavu do své péče, ne však déle než do doby, kdy dítě dosáhne věku 3 let.
+>
+> (3) Jestliže se zaměstnankyně nebo zaměstnanec přestane starat o dítě, a dítě bylo z toho důvodu svěřeno do rodinné nebo ústavní péče nahrazující péči rodičů, nepřísluší mateřská nebo rodičovská dovolená po dobu, po kterou o dítě nepečují.
+>
+> (4) Jestliže dítě zemře v době, kdy je zaměstnankyně na mateřské nebo rodičovské dovolené nebo zaměstnanec na rodičovské dovolené, přísluší mateřská nebo rodičovská dovolená ještě po dobu 2 týdnů ode dne úmrtí dítěte, nejdéle do dne, kdy by dítě dosáhlo věku 1 roku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f6c739cc9078a7ea66b -->
 
 ### Jiné důležité osobní překážky v práci
 
@@ -1035,6 +1527,56 @@ V praxi je typický scénář, kdy stát jako zaměstnavatel vyšle úředníka 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7f97e9757ee5ba876812 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 199
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Nemůže-li zaměstnanec konat práci pro jiné důležité osobní překážky v práci týkající se jeho osoby, než jsou uvedeny v [[#§ 191|§ 191]], je zaměstnavatel povinen poskytnout mu nejméně ve stanoveném rozsahu pracovní volno a ve stanovených případech i náhradu mzdy nebo platu podle odstavce 2. Náhrada mzdy nebo platu přísluší ve výši průměrného výdělku.
+>
+> (2) Vláda stanoví nařízením okruh překážek v práci podle odstavce 1, rozsah pracovního volna, případy, ve kterých přísluší náhrada mzdy nebo platu, včetně případného spolurozhodování odborové organizace o vyslání zaměstnanců na pohřeb spoluzaměstnance, a to i vůči zaměstnancům, kteří si rozvrhují pracovní dobu do směn sami ([[#§ 87a|§ 87a]]).
+>
+> (3) Poskytne-li zaměstnavatel zaměstnanci pracovní volno za účelem vyslání národního experta69) do orgánu nebo instituce Evropské unie, do jiné mezinárodní vládní organizace, do mírové nebo záchranné operace anebo za účelem humanitární pomoci v zahraničí, přísluší zaměstnanci náhrada mzdy nebo platu ve výši průměrného výdělku. O poskytnutí pracovního volna zaměstnavatel vydá zaměstnanci písemné potvrzení, v němž uvede údaj o délce trvání pracovního volna. Délka takto poskytnutého pracovního volna nesmí přesáhnout dobu 4 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 191, § 87a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7f97e9757ee5ba876812 -->
+
 ### Díl 2 — Překážky v práci z důvodu obecného zájmu
 
 ### § 200 — Obecné pravidlo pro překážky z důvodu obecného zájmu
@@ -1117,6 +1659,52 @@ U překážek z důvodu obecného zájmu (veřejné funkce, občanské povinnost
 **Typicky rozhodné důkazy / podklady:** doklad o zvolení/jmenování a o (ne)uvolnění pro funkci, předvolání/potvrzení orgánu u občanských povinností, dohoda nebo vnitřní předpis o placenosti volna, mzdové podklady.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cea9076206f2f7a3ced5 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 200
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnanci od zaměstnavatele přísluší pracovní volno v nezbytně nutném rozsahu k výkonu veřejných funkcí, občanských povinností a jiných úkonů v obecném zájmu, pokud tuto činnost nelze provést mimo pracovní dobu. Náhrada mzdy nebo platu od zaměstnavatele v těchto případech nepřísluší, není-li dále v tomto zákoně stanoveno jinak, nebo není-li dohodnuto nebo vnitřním předpisem stanoveno jinak. Zvláštní právní předpisy upravující překážky v práci z důvodu obecného zájmu tím nejsou dotčeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cea9076206f2f7a3ced5 -->
 
 ### § 201 — Výkon veřejné funkce
 
@@ -1210,6 +1798,60 @@ Veřejnou funkcí je jen funkce s časovým vymezením obsazovaná volbou nebo j
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=005fc252d1f3d918b681 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 201 — Výkon veřejné funkce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Výkonem veřejné funkce se pro účely tohoto zákona rozumí plnění povinností vyplývajících z funkce, která je
+>
+> - a) vymezena funkčním nebo časovým obdobím a
+>
+> - b) obsazovaná na základě přímé nebo nepřímé volby nebo jmenováním podle zvláštních právních předpisů.
+>
+> (2) Výkonem veřejné funkce je například výkon funkce poslance Poslanecké sněmovny Parlamentu, senátora Senátu Parlamentu, člena zastupitelstva územního samosprávného celku nebo přísedícího.
+>
+> (3) Zaměstnanci, který vykonává veřejnou funkci vedle plnění povinností vyplývajících z pracovního poměru, může být z důvodu výkonu veřejné funkce poskytnuto pracovní volno v rozsahu nejvýše 20 pracovních dnů (směn) v kalendářním roce, nestanoví-li jiný právní předpis jiný rozsah uvolnění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=005fc252d1f3d918b681 -->
+
 ### § 202 — Výkon občanské povinnosti
 
 > **§ 202**
@@ -1293,6 +1935,52 @@ Občanské povinnosti (svědek, znalec, tlumočník, první pomoc, opatření pr
 **Typicky rozhodné důkazy / podklady:** předvolánka a potvrzení o účasti/době jednání, doklad o poskytnutí pomoci (požární, zdravotní), žádost o volno, mzdové podklady pro vyčíslení ušlého výdělku, případně vnitřní předpis/kolektivní smlouva o placeném volnu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4dde448fb66379790c84 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 202 — Výkon občanské povinnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> O výkon občanských povinností jde zejména u svědků, tlumočníků, soudních znalců a jiných osob předvolaných k jednání u soudu, správního úřadu, jiného státního orgánu nebo orgánu územního samosprávného celku, při poskytnutí první pomoci, při opatřeních proti infekčnímu onemocnění, při poskytnutí osobní pomoci při požární ochraně, při živelních událostech, nebo v obdobných mimořádných případech a dále v případech, kdy je fyzická osoba povinna podle právních předpisů osobní pomoc poskytnout.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4dde448fb66379790c84 -->
 
 ### § 203 — Jiné úkony v obecném zájmu
 
@@ -1437,6 +2125,86 @@ Bez náhrady mzdy/platu. Typické situace: účast ve sportovní reprezentaci kl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=340beb7dd973e53abd88 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 203 — Jiné úkony v obecném zájmu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Jiné úkony v obecném zájmu stanoví tento zákon nebo zvláštní zákon70).
+>
+> (2) Pracovní volno pro jiný úkon v obecném zájmu zaměstnanci
+>
+> - a) přísluší s náhradou mzdy nebo platu ve výši průměrného výdělku k výkonu funkce člena
+>
+>   - 1. orgánu odborové organizace podle tohoto zákona,
+>
+>   - 2. rady zaměstnanců nebo volební komise podle tohoto zákona, jakož i zástupce pro oblast bezpečnosti a ochrany zdraví při práci podle tohoto zákona (§ 283 až 285),
+>
+>   - 3. vyjednávacího výboru nebo evropské rady zaměstnanců podle tohoto zákona (§ 288 až 298),
+>
+>   - 4. orgánu právnické osoby voleného za zaměstnance podle zvláštního právního předpisu71),
+>
+>   - 5. vyjednávacího výboru a člena výboru zaměstnanců podle zvláštního právního předpisu71a).
+>
+> - b) přísluší k výkonu jiné odborové činnosti, zejména k účasti na schůzích, konferencích nebo sjezdech,
+>
+> - c) přísluší k účasti na školení pořádaném odborovou organizací v rozsahu 5 pracovních dnů v kalendářním roce, nebrání-li tomu vážné provozní důvody, s náhradou mzdy nebo platu ve výši průměrného výdělku,
+>
+> - d) k činnosti dárce při odběru krve a při aferéze; přísluší pracovní volno s náhradou mzdy nebo platu ve výši průměrného výdělku za dobu cesty k odběru, odběru, cesty zpět a zotavení po odběru, pokud tyto skutečnosti zasahují do pracovní doby v rámci 24 hodin od nástupu cesty k odběru. Pokud na cestu k odběru, na odběr a cestu zpět nestačí 24 hodin, přísluší pracovní volno s náhradou mzdy nebo platu ve výši průměrného výdělku za prokázanou nezbytně nutnou další dobu, pokud zasahuje do pracovní doby. Nedojde-li k odběru, přísluší pracovní volno s náhradou mzdy nebo platu ve výši průměrného výdělku jen za prokázanou nezbytně nutnou dobu nepřítomnosti v práci,
+>
+> - e) k činnosti dárce dalších biologických materiálů; přísluší pracovní volno s náhradou mzdy nebo platu ve výši průměrného výdělku za dobu cesty k odběru, odběru, cesty zpět a zotavení po odběru, pokud uvedené skutečnosti zasahují do pracovní doby v rámci 48 hodin od nástupu cesty k odběru. Podle charakteru odběru a zdravotního stavu dárce může lékař určit, že pracovní volno s náhradou mzdy nebo platu ve výši průměrného výdělku se zkracuje nebo prodlužuje; při prodloužení však nejvýše po dobu zasahující do pracovní doby v rámci 96 hodin od nástupu cesty k odběru. Nedojde-li k odběru, přísluší pracovní volno s náhradou mzdy nebo platu ve výši průměrného výdělku jen za prokázanou nezbytně nutnou dobu nepřítomnosti v práci,
+>
+> - f) k činnosti zaměstnance při přednášce nebo výuce včetně zkušební činnosti; přísluší pracovní volno v rozsahu nejvýše 12 směn (pracovních dnů) v kalendářním roce, pokud tomu nebrání vážné provozní důvody na straně zaměstnavatele. Kratší části jednotlivých směn, ve kterých bylo poskytnuto pracovní volno, se sčítají,
+>
+> - g) k činnosti člena Horské služby a fyzické osoby, která na její výzvu a podle jejích pokynů osobně pomáhá při záchranné akci v terénu; přísluší pracovní volno v nezbytně nutném rozsahu,
+>
+> - h) k činnosti zprostředkovatele a rozhodce při kolektivním vyjednávání; přísluší pracovní volno v nezbytně nutném rozsahu,
+>
+> - i) k činnosti dobrovolného sčítacího orgánu při sčítání lidu, domů a bytů včetně doplňujících výběrových šetření obyvatelstva; přísluší pracovní volno v nezbytně nutném rozsahu, nejvýše 10 směn (pracovních dnů) v kalendářním roce, pokud tomu nebrání vážné provozní důvody na straně zaměstnavatele,
+>
+> - j) k činnosti dobrovolného zdravotníka Červeného kříže při zajišťování zdravotního dozoru při sportovní nebo společenské akci; přísluší pracovní volno v nezbytně nutném rozsahu, pokud tomu nebrání vážné provozní důvody na straně zaměstnavatele,
+>
+> - k) k činnosti při organizované zájmové tělovýchovné, sportovní nebo kulturní akci a nezbytné přípravě na ni; přísluší pracovní volno v nezbytně nutném rozsahu, pokud tomu nebrání vážné provozní důvody na straně zaměstnavatele.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 283, § 288
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=340beb7dd973e53abd88 -->
+
 ### § 203a — Pracovní volno související s akcí pro děti a mládež
 
 > **§ 203a**
@@ -1571,6 +2339,82 @@ Zaměstnavatel je povinen **doložit** poskytnutí náhrady a splnění podmíne
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7db1a670a5645e379ddc generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 203a — Pracovní volno související s akcí pro děti a mládež
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Pracovní volno pro jiný úkon v obecném zájmu přísluší zaměstnanci
+>
+> - a) k činnosti vedoucích táborů pro děti a mládež a jejich zástupců pro věci hospodářské a zdravotní,
+>
+> - b) k činnosti oddílových vedoucích, vychovatelů, instruktorů a středních zdravotnických pracovníků v táborech pro děti a mládež a
+>
+> - c) k obdobným činnostem na sportovních soustředěních dětí a mládeže,
+>
+> a to v nezbytně nutném rozsahu, nejvýše však 3 týdny v kalendářním roce.
+>
+> (2) Pracovní volno zaměstnanci přísluší,
+>
+> - a) nebrání-li tomu vážné provozní důvody na straně zaměstnavatele a
+>
+> - b) zaměstnanec nejméně po dobu 1 roku bezprostředně před uvolněním pracoval soustavně a bezplatně s dětmi nebo s mládeží; tato podmínka se nevyžaduje, jde-li o tábory nebo sportovní soustředění pro zdravotně postižené děti a mládež.
+>
+> (3) Za dobu čerpání pracovního volna přísluší zaměstnanci za podmínek a v rozsahu uvedených v odstavcích 4 a [[#§ 5|5]] náhrada mzdy nebo platu, pokud se jedná o akci pořádanou právnickou osobou,
+>
+> - a) zapsanou ve veřejném rejstříku právnických a fyzických osob po dobu nejméně 5 let a
+>
+> - b) práce s dětmi a mládeží tvoří podstatnou část její hlavní činnosti.
+>
+> Tuto skutečnost je zaměstnanec povinen zaměstnavateli prokázat.
+>
+> (4) V kalendářním roce přísluší zaměstnanci náhrada mzdy nebo platu za počet hodin pracovního volna odpovídající délce jeho stanovené nebo kratší týdenní pracovní doby (dále jen „roční limit“); tato náhrada se poskytuje od započetí prvního čerpání pracovního volna v kalendářním roce. Při změně délky stanovené nebo kratší týdenní pracovní doby v průběhu kalendářního roku se počet hodin zbývajících do ročního limitu vyjádří stejným poměrem k nové délce stanovené nebo kratší týdenní pracovní doby.
+>
+> (5) Náhrada mzdy nebo platu přísluší zaměstnanci ve výši průměrného hodinového výdělku, nejvýše však ve výši jedné stočtyřiasedmdesátiny průměrné mzdy v národním hospodářství na přepočtené počty zaměstnanců zveřejněné Českým statistickým úřadem za první až třetí kalendářní čtvrtletí kalendářního roku předcházejícího kalendářnímu roku, ve kterém se poskytuje pracovní volno s náhradou mzdy nebo platu. Výši jedné stočtyřiasedmdesátiny průměrné mzdy podle věty první vyhlásí Ministerstvo práce a sociálních věcí sdělením uveřejněným ve Sbírce zákonů; částka se zaokrouhlí na desetihaléře směrem nahoru.
+>
+> (6) Zaměstnavatel má nárok na úhradu poskytnuté náhrady mzdy nebo platu ze státního rozpočtu podle jiného právního předpisu71b); nehradí se náhrada mzdy nebo platu nad rozsah stanovený v odstavcích 3 až 5. Zaměstnavatel musí doložit poskytnutí náhrady mzdy nebo platu a splnění podmínek pro její poskytnutí.
+>
+> (7) Za děti a mládež se pro účely tohoto ustanovení považují fyzické osoby mladší než 26 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7db1a670a5645e379ddc -->
+
 ### § 204 — Pracovní volno související s brannou povinností
 
 > **§ 204**
@@ -1652,6 +2496,56 @@ Branná povinnost zakládá nárok na pracovní volno v nezbytně nutném rozsah
 **Typicky rozhodné důkazy / podklady:** povolávací rozkaz / předvolání vojenského správního úřadu, doklad o době cvičení a cest, mzdové podklady pro průměrný výdělek, doklady pro refundaci od vojenského úřadu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e672278593b14fe0190b generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 204 — Pracovní volno související s brannou povinností
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnanci přísluší od zaměstnavatele pracovní volno v nezbytně nutném rozsahu, je-li zaměstnanec povinen dostavit se k příslušnému vojenskému správnímu úřadu v souvislosti s výkonem branné povinnosti.
+>
+> (2) Zaměstnanci přísluší od zaměstnavatele pracovní volno v nezbytně nutném rozsahu rovněž po dobu, kterou potřebuje na cestu do místa povolání a dobu výkonu vojenského cvičení nebo služby v operačním nasazení a na zotavenou, pokud plnění jeho pracovních úkolů zasahuje do doby 24 hodin po ukončení vojenského cvičení nebo služby v operačním nasazení.
+>
+> (3) Náhradu mzdy nebo platu za pracovní volno související s brannou povinností podle odstavce 1 hradí ve výši průměrného výdělku příslušný vojenský správní úřad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e672278593b14fe0190b -->
 
 ### § 205 — Překážky v práci z důvodu školení, jiné formy přípravy nebo studia
 
@@ -1736,6 +2630,52 @@ Branná povinnost zakládá nárok na pracovní volno v nezbytně nutném rozsah
 **Typicky rozhodné důkazy / podklady:** kvalifikační dohoda, doklad o studiu/školení a o souladu s potřebou zaměstnavatele, harmonogram a potvrzení o zkouškách, mzdové podklady pro náhradu mzdy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=97ad04b1cfb1f19c7674 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 205 — Překážky v práci z důvodu školení, jiné formy přípravy nebo studia
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Účast na školení, jiná forma přípravy nebo studium, v nichž má zaměstnanec získat předpoklady stanovené právními předpisy nebo požadavky nezbytné pro řádný výkon sjednané práce, které je v souladu s potřebou zaměstnavatele, zasahuje-li do pracovní doby, je překážkou v práci na straně zaměstnance, za kterou přísluší náhrada mzdy nebo platu ([[#§ 232|§ 232]]).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 232
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=97ad04b1cfb1f19c7674 -->
 
 ## Hlava II — Společné ustanovení o překážkách v práci na straně zaměstnance
 
@@ -1854,6 +2794,58 @@ Tím je zajištěna **fiskální stabilita** systému veřejných rozpočtů —
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=93057592b5305b26c2bc generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 206
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Je-li překážka v práci zaměstnanci předem známa, musí včas požádat zaměstnavatele o poskytnutí pracovního volna. Jinak je zaměstnanec povinen uvědomit zaměstnavatele o překážce a o předpokládané době jejího trvání bez zbytečného průtahu.
+>
+> (2) Překážku v práci je zaměstnanec povinen prokázat zaměstnavateli. Ke splnění povinnosti podle věty první jsou právnické a fyzické osoby povinny poskytnout zaměstnanci potřebnou součinnost.
+>
+> (3) Jestliže je podle zvláštního právního předpisu zaměstnanec uvolněn pro překážku v práci z důvodu obecného zájmu, je právnická nebo fyzická osoba, pro kterou byl zaměstnanec činný, popřípadě z jejíhož podnětu byl uvolněn, povinna uhradit zaměstnavateli, u něhož byl zaměstnanec v době uvolnění v pracovním poměru, náhradu mzdy nebo platu, která byla zaměstnanci poskytnuta, pokud se s touto právnickou nebo fyzickou osobou nedohodl na upuštění od úhrady.
+>
+> (4) Podle odstavce 3 se hradí náhrada mzdy nebo platu, kterou uvolňující zaměstnavatel poskytl podle tohoto zákona (§ 351 až 362); neuhrazuje se náhrada mzdy nebo platu nad rozsah stanovený tímto zákonem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 351
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=93057592b5305b26c2bc -->
+
 ## Hlava III — Překážky v práci na straně zaměstnavatele
 
 ### § 207 — Prostoje a přerušení práce způsobené nepříznivými povětrnostními vlivy
@@ -1946,6 +2938,56 @@ Místo nečinnosti v období prostoje nebo přerušení může zaměstnavatel za
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ca7537e4e6b27f1ea364 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 207 — Prostoje a přerušení práce způsobené nepříznivými povětrnostními vlivy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Nemůže-li zaměstnanec konat práci
+>
+> - a) pro přechodnou závadu způsobenou poruchou na strojním zařízení, kterou nezavinil, v dodávce surovin nebo pohonné síly, chybnými pracovními podklady nebo jinými provozními příčinami, jde o prostoj, a nebyl-li převeden na jinou práci, přísluší mu náhrada mzdy nebo platu ve výši nejméně 80 % průměrného výdělku,
+>
+> - b) v důsledku přerušení práce způsobené nepříznivými povětrnostními vlivy nebo živelní událostí a nebyl-li převeden na jinou práci, přísluší mu náhrada mzdy nebo platu ve výši nejméně 60 % průměrného výdělku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ca7537e4e6b27f1ea364 -->
+
 ### Jiné překážky v práci na straně zaměstnavatele
 
 ### § 208 — Jiné překážky na straně zaměstnavatele
@@ -2018,6 +3060,52 @@ Pokud zaměstnavatel **uplatňuje konto pracovní doby** podle § 86 a 87 ZP, §
 **Typicky rozhodné důkazy / podklady:** doklad o příčině nemožnosti přidělovat práci (ztráta odběratele, organizační rozhodnutí, opatření veřejné moci), rozvrh směn, případný vnitřní předpis / dohoda s odbory podle § 209, doklad o (ne)zavedení konta pracovní doby, mzdové podklady.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4bf2b1a7d57f85e81baf generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 208
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Nemohl-li zaměstnanec konat práci pro jiné překážky na straně zaměstnavatele, než jsou uvedeny v [[#§ 207|§ 207]], přísluší mu náhrada mzdy nebo platu ve výši průměrného výdělku; to neplatí, bylo-li uplatněno konto pracovní doby ([[#§ 86|§ 86]] a [[#§ 87|87]]).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 207, § 86, § 87
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4bf2b1a7d57f85e81baf -->
 
 ### § 209 — Částečná práce (částečná nezaměstnanost)
 
@@ -2101,6 +3189,54 @@ V období **pandemie COVID-19** (2020–2022) byly aktivně využívány program
 **Typicky rozhodné důkazy / podklady:** doklad o dočasném omezení odbytu/poptávky (statistika zakázek, sezónní výkyv), vnitřní předpis nebo dohoda s odborovou organizací, evidence rozvrhu a skutečně přidělené práce, mzdové podklady pro průměrný výdělek.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9226719a72e139b64216 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 209
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) O jinou překážku v práci na straně jiného zaměstnavatele, než uvedeného v § 109 odst. 3, jde také tehdy, kdy zaměstnavatel nemůže přidělovat zaměstnanci práci v rozsahu týdenní pracovní doby z důvodu dočasného omezení odbytu jeho výrobků nebo omezení poptávky po jím poskytovaných službách.
+>
+> (2) Upraví-li v případech podle odstavce 1 dohoda mezi zaměstnavatelem a odborovou organizací výši poskytované náhrady mzdy, která přísluší zaměstnanci, musí náhrada mzdy činit nejméně 60 % průměrného výdělku; nepůsobí-li u zaměstnavatele odborová organizace, může být dohoda nahrazena vnitřním předpisem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 109
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9226719a72e139b64216 -->
 
 ### § 210 — Cestování mimo pracovní úkoly v rámci směny
 
@@ -2186,6 +3322,52 @@ Doba cesty mimo plnění pracovních úkolů spadající do směny je překážk
 **Typicky rozhodné důkazy / podklady:** cestovní příkaz / pozvánka, jízdní doklady a rozvrh směny, doklad o způsobu odměňování (úkolová × časová mzda), výpočet průměrného výdělku, evidence činnosti v jednotlivých úsecích cesty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e5a080004a8105aa610b generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 210
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Doba strávená na pracovní cestě nebo na cestě mimo pravidelné pracoviště jinak než plněním pracovních úkolů, která spadá do směny, se považuje za překážku v práci na straně zaměstnavatele, při které se zaměstnanci mzda nebo plat nekrátí. Jestliže však zaměstnanci v důsledku způsobu odměňování mzda ušla, přísluší mu náhrada mzdy ve výši průměrného výdělku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e5a080004a8105aa610b -->
 
 ## Závěrečná synoptická tabulka — sazby náhrady mzdy/platu při překážkách
 

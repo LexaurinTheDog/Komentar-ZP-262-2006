@@ -87,6 +87,52 @@ Toto rozlišení vychází z hospodárnosti veřejných prostředků — u veře
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9dcf9b6cdbe797b29e19 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 151
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnavatel je povinen poskytovat zaměstnanci, není-li v tomto zákoně dále stanoveno jinak, náhradu výdajů, které mu vzniknou v souvislosti s výkonem práce, v rozsahu a za podmínek stanovených v této části.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9dcf9b6cdbe797b29e19 -->
+
 ### § 152 — Vymezení cestovních výdajů (katalog kvalifikovaných cest)
 
 > **§ 152**
@@ -192,6 +238,66 @@ Sjednání místa výkonu práce v zahraničí (mimo území ČR) zakládá spec
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2f617c8ffcfc88bd83fc generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 152
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Cestovními výdaji, za které poskytuje zaměstnavatel zaměstnanci cestovní náhrady, se rozumí výdaje, které vzniknou zaměstnanci při
+>
+> - a) pracovní cestě ([[#§ 42|§ 42]]),
+>
+> - b) cestě mimo pravidelné pracoviště,
+>
+> - c) mimořádné cestě v souvislosti s výkonem práce mimo rozvrh směn v místě výkonu práce nebo pravidelného pracoviště,
+>
+> - d) přeložení ([[#§ 43|§ 43]]),
+>
+> - e) dočasném přidělení ([[#§ 43a|§ 43a]]),
+>
+> - f) přijetí do zaměstnání v pracovním poměru,
+>
+> - g) výkonu práce v zahraničí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 42, § 43, § 43a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2f617c8ffcfc88bd83fc -->
+
 ### § 153 — Určení podmínek cesty zaměstnavatelem (písemná forma)
 
 > **§ 153**
@@ -261,6 +367,54 @@ Podmínky cesty určuje zaměstnavatel jednostranně a předem písemně; písem
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6ddc7f7109d743e35033 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 153
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Podmínky, které mohou ovlivnit poskytování a výši cestovních náhrad, zejména dobu a místo nástupu a ukončení cesty, místo plnění pracovních úkolů, způsob dopravy a ubytování, určí předem písemně zaměstnavatel; přitom přihlíží k oprávněným zájmům zaměstnance.
+>
+> (2) Jestliže jsou vzhledem k okolnostem práva zaměstnance na cestovní náhrady a jejich výši nezpochybnitelné, předchozí písemná forma určení podmínek se nevyžaduje, netrvá-li na ní zaměstnanec.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6ddc7f7109d743e35033 -->
+
 ### § 154 — Zahraniční pracovní cesta (definice)
 
 > **§ 154**
@@ -323,6 +477,52 @@ Zahraniční pracovní cesta je čistě geografický pojem; tuzemský a zahrani�
 **Typicky rozhodné důkazy / podklady:** oznámení zaměstnance o přechodu hranice, letenky a palubní vstupenky, mýtné/GPS záznamy, cestovní příkaz, jízdní řád / itinerář cesty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=28833700c28ab5d2474c generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 154
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zahraniční pracovní cestou se rozumí cesta konaná mimo území České republiky. Dobou rozhodnou pro vznik práva zaměstnance na náhradu cestovních výdajů v cizí měně je doba přechodu státní hranice České republiky, kterou oznámí zaměstnanec zaměstnavateli, nebo doba odletu z České republiky a příletu do České republiky při letecké přepravě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=28833700c28ab5d2474c -->
 
 ### § 155 — Cestovní náhrady při dohodách o pracích konaných mimo pracovní poměr
 
@@ -388,6 +588,54 @@ U DPP a DPČ neplatí automatický nárok na cestovní náhrady — musí být v
 **Typicky rozhodné důkazy / podklady:** text dohody (DPP/DPČ), doklad o místě bydliště zaměstnance, doklady o cestě a místě plnění úkolu, vnitřní předpis o náhradách u dohod.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a190a2a23230ada8baed generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 155
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Cestovní náhrady je možné zaměstnanci, který koná pro zaměstnavatele práci na základě dohod o pracích konaných mimo pracovní poměr, poskytnout pouze v případě, že bylo sjednáno toto právo, jakož i místo pravidelného pracoviště zaměstnance.
+>
+> (2) Má-li zaměstnanec podle dohody o provedení práce vykonat pracovní úkol v místě mimo obec bydliště, má právo na cestovní náhrady, bylo-li jejich poskytnutí sjednáno, i když není sjednáno místo pravidelného pracoviště.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a190a2a23230ada8baed -->
 
 ## Hlava II — Poskytnutí cestovních náhrad zaměstnanci zaměstnavatele, který není uveden v § 109 odst. 3
 
@@ -478,6 +726,66 @@ Odst. 3 obsahuje dvě sdělení:
 **Typicky rozhodné důkazy / podklady:** vnitřní předpis / kolektivní smlouva o náhradách, cestovní příkazy, mzdové a účetní doklady, evidence cest a dojíždění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=aa7d44e5fef9e328af26 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 156 — Druhy cestovních náhrad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnavatel uvedený v této hlavě je povinen za podmínek stanovených v této hlavě poskytnout zaměstnanci při pracovní cestě náhradu
+>
+> - a) jízdních výdajů,
+>
+> - b) jízdních výdajů k návštěvě člena rodiny,
+>
+> - c) výdajů za ubytování,
+>
+> - d) zvýšených stravovacích výdajů (dále jen „stravné“),
+>
+> - e) nutných vedlejších výdajů.
+>
+> (2) Pro účely poskytování cestovních náhrad se za pracovní cestu považuje i cesta uvedená v § 152 písm. b) a c).
+>
+> (3) Zaměstnavatel může zaměstnanci poskytovat i další náhrady výdajů, za cestovní náhrady se však považují pouze ty, které byly poskytnuty v souladu s [[#§ 152|§ 152]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 152
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aa7d44e5fef9e328af26 -->
 
 ### Náhrada jízdních výdajů
 
@@ -590,6 +898,66 @@ Klíčové je rozlišení „souhlasu" a „žádosti": vlastní auto z iniciati
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9265b076651300743f62 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 157
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Náhrada jízdních výdajů za použití určeného hromadného dopravního prostředku dálkové přepravy a taxislužby přísluší zaměstnanci v prokázané výši.
+>
+> (2) Použije-li zaměstnanec se souhlasem zaměstnavatele místo určeného hromadného dopravního prostředku dálkové přepravy jiný dopravní prostředek, včetně silničního motorového vozidla, s výjimkou vozidla poskytnutého zaměstnavatelem, přísluší mu náhrada jízdních výdajů ve výši odpovídající ceně jízdného za určený hromadný dopravní prostředek.
+>
+> (3) Použije-li zaměstnanec na žádost zaměstnavatele silniční motorové vozidlo, s výjimkou vozidla poskytnutého zaměstnavatelem, přísluší mu za každý 1 km jízdy základní náhrada a náhrada výdajů za spotřebovanou pohonnou hmotu.
+>
+> (4) Sazba základní náhrady za 1 km jízdy činí nejméně u
+>
+> - a) jednostopých vozidel a tříkolek 1,00 Kč,
+>
+> - b) osobních silničních motorových vozidel 3,80 Kč;
+>
+> při použití přívěsu k silničnímu motorovému vozidlu zaměstnavatel sazbu základní náhrady za 1 km jízdy zvýší nejméně o 15 %. Tato sazba základní náhrady se mění v závislosti na vývoji cen prováděcím právním předpisem vydaným podle [[#§ 189|§ 189]].
+>
+> (5) Základní náhrada u nákladních automobilů, autobusů nebo traktorů přísluší zaměstnanci nejméně ve výši dvojnásobku sazby stanovené v odstavci 4 písm. b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 189
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9265b076651300743f62 -->
+
 ### § 158 — Náhrada za spotřebovanou pohonnou hmotu
 
 > **§ 158**
@@ -679,6 +1047,58 @@ Náhrada za PHM = cena PHM × spotřeba × km. Cena se primárně prokazuje dokl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=75db4a100f5da3f28d68 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 158
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Nebyla-li výše sazby základní náhrady sjednána nebo určena zaměstnavatelem před vysláním zaměstnance na pracovní cestu, přísluší zaměstnanci sazba základní náhrady podle § 157 odst. 4 a [[#§ 5|5.]]
+>
+> (2) Náhradu za spotřebovanou pohonnou hmotu určí zaměstnavatel násobkem ceny pohonné hmoty a množství spotřebované pohonné hmoty.
+>
+> (3) Cenu pohonné hmoty prokazuje zaměstnanec dokladem o nákupu, ze kterého je patrná souvislost s pracovní cestou. Prokazuje-li zaměstnanec cenu pohonné hmoty více doklady o jejím nákupu, ze kterých je patrná souvislost s pracovní cestou, vypočítá se cena pohonné hmoty pro určení výše náhrady aritmetickým průměrem zaměstnancem prokázaných cen. Jestliže zaměstnanec hodnověrným způsobem cenu pohonné hmoty zaměstnavateli neprokáže, použije zaměstnavatel pro určení výše náhrady průměrnou cenu příslušné pohonné hmoty stanovenou prováděcím právním předpisem vydaným podle [[#§ 189|§ 189]].
+>
+> (4) Spotřebu pohonné hmoty silničního motorového vozidla vypočítá zaměstnavatel z údajů o spotřebě uvedených v technickém průkazu nebo osvědčení o registraci použitého vozidla, které je zaměstnanec povinen zaměstnavateli předložit. Jestliže technický průkaz vozidla ani osvědčení o registraci vozidla tyto údaje neobsahuje, přísluší zaměstnanci náhrada výdajů za pohonné hmoty, jen pokud spotřebu pohonné hmoty prokáže technickým průkazem vozidla nebo osvědčením o registraci vozidla shodného typu se shodným objemem válců. Při určení spotřeby pohonné hmoty použije zaměstnavatel údaj o spotřebě pro kombinovaný provoz podle norem Evropské unie. Není-li tento údaj v technickém průkazu vozidla ani osvědčení o registraci vozidla uveden, vypočítá zaměstnavatel spotřebu pohonné hmoty vozidla aritmetickým průměrem z údajů v technickém průkazu vozidla nebo osvědčení o registraci vozidla uvedených.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 157, § 5, § 189
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=75db4a100f5da3f28d68 -->
+
 ### § 159 — Místní hromadná doprava
 
 > **§ 159**
@@ -744,6 +1164,54 @@ MHD je samostatná složka jízdného, náležící i vedle dálkového jízdné
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=18493b7f464a88ed750c generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 159
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Náhrada jízdních výdajů za použití místní hromadné dopravy v souladu s určenými podmínkami pracovní cesty přísluší zaměstnanci v prokázané výši; tato náhrada náleží zaměstnanci i vedle náhrad podle § 157 odst. 1 až 3.
+>
+> (2) Při poskytnutí náhrady jízdních výdajů za použití místní hromadné dopravy při pracovních cestách v obci, ve které má zaměstnanec sjednáno místo výkonu práce, zaměstnavatel poskytne tuto náhradu ve výši odpovídající ceně jízdného platné v době konání pracovní cesty, aniž by zaměstnanec musel jízdní výdaje prokazovat. Náhrada jízdních výdajů zaměstnanci nepřísluší, pokud zaměstnavatel zajistí zaměstnanci použití místní hromadné dopravy způsobem, na který zaměstnanec finančně nepřispívá.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 157
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=18493b7f464a88ed750c -->
+
 ### § 160 — Přerušení pracovní cesty ze strany zaměstnance
 
 > **§ 160**
@@ -804,6 +1272,52 @@ Po předem dohodnutém přerušení cesty z důvodů zaměstnance (bez navazují
 **Typicky rozhodné důkazy / podklady:** cestovní příkaz, písemná dohoda o přerušení cesty, jízdenky / doklady o trase, doklad o ukončení (zahájení) výkonu práce.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4d78c4941bd6335d1643 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 160
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Za použití dopravního prostředku po ukončení předem dohodnutého přerušení pracovní cesty z důvodů na straně zaměstnance, po kterém již nenásleduje výkon práce, je povinen zaměstnavatel uhradit zaměstnanci náhradu jízdních výdajů pouze do výše, která by náležela zaměstnanci v případě, že by k přerušení pracovní cesty nedošlo. Obdobně se postupuje při předem dohodnutém přerušení pracovní cesty z důvodu na straně zaměstnance před výkonem práce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4d78c4941bd6335d1643 -->
 
 ### § 161 — Náhrada jízdních výdajů k návštěvě člena rodiny
 
@@ -882,6 +1396,56 @@ Při cestě nad 7 kalendářních dnů náleží náhrada jízdného k návště
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4917d438419012e27cb5 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 161 — Náhrada jízdních výdajů k návštěvě člena rodiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Trvá-li pracovní cesta déle než 7 kalendářních dnů, přísluší zaměstnanci náhrada jízdních výdajů k návštěvě člena rodiny do jeho bydliště nebo do jiného předem dohodnutého místa pobytu člena rodiny a zpět ve výši a za shodných podmínek jako v § 157 až 160 s tím, že zaměstnavatel poskytne zaměstnanci náhradu jízdních výdajů nejvýše v částce odpovídající jízdním výdajům do místa výkonu práce nebo pravidelného pracoviště anebo bydliště na území České republiky. Za limitující se přitom považuje částka, která je pro zaměstnance nejvýhodnější.
+>
+> (2) Při použití letecké přepravy hradí zaměstnavatel zaměstnanci jízdní výdaje k návštěvě člena rodiny pouze ve výši odpovídající ceně jízdného silničního nebo železničního dopravního prostředku dálkové přepravy, který určí zaměstnavatel. Ustanovení odstavce 1 platí i zde.
+>
+> (3) Náhradu jízdních výdajů k návštěvě člena rodiny poskytne zaměstnavatel nejdéle v průběhu čtvrtého týdne od počátku pracovní cesty nebo od minulé návštěvy člena rodiny, pokud se se zaměstnancem nedohodne na době kratší.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 157
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4917d438419012e27cb5 -->
+
 ### § 162 — Náhrada výdajů za ubytování
 
 > **§ 162**
@@ -944,6 +1508,54 @@ Ubytování se hradí v prokázané výši, ale jen v souladu s podmínkami cest
 **Typicky rozhodné důkazy / podklady:** cestovní příkaz s určenou úrovní ubytování, hotelová faktura, storno/rezervační podmínky, doklad o návštěvě rodiny nebo o přerušení cesty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=aa40018f2ccdc6983c82 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 162 — Náhrada výdajů za ubytování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnanci přísluší náhrada výdajů za ubytování, které vynaložil v souladu s podmínkami pracovní cesty, a to ve výši, kterou zaměstnavateli prokáže. Po dobu návštěvy člena rodiny hradí zaměstnavatel zaměstnanci prokázané výdaje za ubytování pouze v případě, že si je musel zaměstnanec vzhledem k podmínkám pracovní cesty nebo ubytovacích služeb zachovat.
+>
+> (2) Po dobu předem dohodnutého přerušení pracovní cesty z důvodů na straně zaměstnance není zaměstnavatel povinen zaměstnanci náhradu výdajů za ubytování poskytnout, i když musel po tuto dobu zaměstnanec s ohledem na podmínky pracovní cesty nebo ubytovací služby výdaje za ubytování uhradit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aa40018f2ccdc6983c82 -->
 
 ### § 163 — Stravné (vnitrostátní)
 
@@ -1076,6 +1688,78 @@ Stravné je paušál ve třech časových pásmech, neprokazuje se. Za bezplatn�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c0af47d6f2fd6ce66d3a generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 163 — Stravné
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Za každý kalendářní den pracovní cesty přísluší zaměstnanci stravné nejméně ve výši
+>
+> - a) 58 Kč, trvá-li pracovní cesta 5 až 12 hodin,
+>
+> - b) 88 Kč, trvá-li pracovní cesta déle než 12 hodin, nejdéle však 18 hodin,
+>
+> - c) 138 Kč, trvá-li pracovní cesta déle než 18 hodin.
+>
+> Tato výše stravného se mění v závislosti na vývoji cen prováděcím právním předpisem vydaným podle [[#§ 189|§ 189]].
+>
+> (2) Bylo-li zaměstnanci během pracovní cesty poskytnuto jídlo, které má charakter snídaně, oběda nebo večeře, na které zaměstnanec finančně nepřispívá (dále jen „bezplatné jídlo“), přísluší zaměstnanci stravné snížené za každé bezplatné jídlo až o hodnotu
+>
+> - a) 70 % stravného, trvá-li pracovní cesta 5 až 12 hodin,
+>
+> - b) 35 % stravného, trvá-li pracovní cesta déle než 12 hodin, nejdéle však 18 hodin,
+>
+> - c) 25 % stravného, trvá-li pracovní cesta déle než 18 hodin.
+>
+> (3) Nesjedná-li zaměstnavatel nebo neurčí před vysláním zaměstnance na pracovní cestu vyšší stravné, než je stanovené v odstavci 1, přísluší zaměstnanci stravné podle odstavce 1. Nesjedná-li zaměstnavatel nebo neurčí před vysláním zaměstnance nižší hodnotu snížení stravného, přísluší zaměstnanci stravné snížené o nejvyšší hodnotu stanovenou v odstavci 2.
+>
+> (4) Při pracovní cestě, která spadá do 2 kalendářních dnů, se upustí od odděleného posuzování doby trvání pracovní cesty v kalendářním dnu, je-li to pro zaměstnance výhodnější.
+>
+> (5) Po dobu návštěvy člena rodiny nebo po dobu dohodnutého přerušení pracovní cesty z důvodů na straně zaměstnance stravné zaměstnanci nepřísluší. Doba rozhodná pro právo na stravné před návštěvou člena rodiny nebo dohodnutým přerušením pracovní cesty končí ukončením výkonu práce, nebo jiným předem dohodnutým způsobem, a po návštěvě člena rodiny nebo přerušení pracovní cesty z důvodů na straně zaměstnance začíná současně se začátkem výkonu práce, nebo jiným předem dohodnutým způsobem.
+>
+> (6) Je-li zaměstnanec vyslán na pracovní cestu do místa svého bydliště, které je odlišné od jeho místa výkonu práce nebo pravidelného pracoviště, přísluší mu stravné pouze za cestu do místa jeho bydliště a zpět a za dobu výkonu práce v tomto místě.
+>
+> (7) Důvody pro neposkytnutí stravného stanovené v odstavcích 5 a [[#§ 6|6]] je zakázáno rozšiřovat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 189, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c0af47d6f2fd6ce66d3a -->
+
 ### § 164 — Náhrada nutných vedlejších výdajů
 
 > **§ 164**
@@ -1145,6 +1829,52 @@ Nutné vedlejší výdaje jsou „zbytkovou" kategorií pro výdaje v přímé s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=aadacb83abbae5a3164d generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 164 — Náhrada nutných vedlejších výdajů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnanci přísluší náhrada nutných vedlejších výdajů, které mu vzniknou v přímé souvislosti s pracovní cestou, a to ve výši, kterou zaměstnavateli prokáže. Nemůže-li zaměstnanec výši výdajů prokázat, přísluší mu náhrada odpovídající ceně věcí a služeb obvyklé v době a místě konání pracovní cesty.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aadacb83abbae5a3164d -->
+
 ### Díl 2 — Náhrady při přeložení a dočasném přidělení
 
 ### § 165 — Pravidla pro přeložení a dočasné přidělení
@@ -1211,6 +1941,54 @@ Při přeložení a dočasném přidělení (nové místo odlišné od sjednané
 **Typicky rozhodné důkazy / podklady:** dohoda o přeložení / dočasném přidělení, evidence přítomnosti a denních návratů, cestovní příkazy na souběžné cesty, doklad o bydlišti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e05c637b4c0d51f2664b generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 165
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Je-li zaměstnanec přeložen nebo dočasně přidělen k jinému zaměstnavateli do jiného místa výkonu práce, než bylo sjednáno v pracovní smlouvě, které je současně odlišné od bydliště zaměstnance, přísluší mu náhrady ve výši a za podmínek stanovených v § 157 až 164. Jestliže se zaměstnanec denně vrací do bydliště, doba strávená v tomto místě se nezapočítává do doby rozhodné pro poskytování stravného.
+>
+> (2) Zaměstnanci, který pobírá stravné podle odstavce 1 a je v téže době vyslán na pracovní cestu mimo místo přeložení nebo dočasného přidělení, přísluší stravné, které je pro zaměstnance výhodnější. Ostatní cestovní náhrady přísluší zaměstnanci jako při pracovní cestě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 157
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e05c637b4c0d51f2664b -->
 
 ### Díl 3 — Cestovní náhrady při zahraniční pracovní cestě
 
@@ -1290,6 +2068,64 @@ Při zahraniční pracovní cestě náleží šest druhů náhrad; stravné se �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a20efaf22131a6c592e6 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 166 — Druhy cestovních náhrad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnavatel je povinen za podmínek dále stanovených poskytnout zaměstnanci stravné ve výši a za podmínek stanovených v [[#§ 163|§ 163]], s výjimkou odstavce 4, a náhradu
+>
+> - a) jízdních výdajů,
+>
+> - b) jízdních výdajů k návštěvě člena rodiny,
+>
+> - c) výdajů za ubytování,
+>
+> - d) stravovacích výdajů v cizí měně (dále jen „zahraniční stravné“),
+>
+> - e) nutných vedlejších výdajů.
+>
+> (2) Zaměstnavatel může při zahraniční pracovní cestě poskytnout zaměstnanci i další cestovní náhrady.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 163
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a20efaf22131a6c592e6 -->
+
 ### § 167 — Náhrada jízdních výdajů při zahraniční pracovní cestě
 
 > **§ 167**
@@ -1354,6 +2190,52 @@ Jízdné při zahraniční cestě se řídí §§ 157–160; náhrada za PHM se 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4d58f2718cf2f67f1bca generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 167 — Náhrada jízdních výdajů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Náhrada jízdních výdajů přísluší zaměstnanci ve výši a za podmínek stanovených v § 157 až 160 s tím, že náhradu za spotřebovanou pohonnou hmotu v cizí měně a doložené ceně je povinen uhradit pouze za kilometry ujeté mimo území České republiky. Nemá-li z vážných důvodů zaměstnanec doklad o nákupu pohonné hmoty mimo území České republiky, může mu zaměstnavatel poskytnout náhradu za spotřebovanou pohonnou hmotu v cizí měně i na základě jeho prohlášení o skutečně vynaložené ceně pohonné hmoty a důvodech jejího nedoložení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 157
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4d58f2718cf2f67f1bca -->
+
 ### § 168 — Jízdné k návštěvě člena rodiny při zahraniční cestě
 
 > **§ 168**
@@ -1415,6 +2297,52 @@ Náhrada jízdného k návštěvě člena rodiny při zahraniční cestě vznik�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e62e873a429712ec0619 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 168 — Náhrada jízdních výdajů k návštěvě člena rodiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Trvá-li zahraniční pracovní cesta déle než 1 měsíc a byla-li návštěva člena rodiny zaměstnavatelem sjednána nebo určena před vysláním zaměstnance na zahraniční pracovní cestu, přísluší zaměstnanci náhrada jízdních výdajů k návštěvě člena rodiny do jeho bydliště, nebo do jiného předem dohodnutého místa pobytu člena rodiny a zpět podle [[#§ 167|§ 167]], nejvýše však v částce odpovídající jízdním výdajům do místa výkonu práce nebo pravidelného pracoviště anebo bydliště zaměstnance na území České republiky. Za limitní se přitom považuje částka, která je pro zaměstnance nejvýhodnější.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 167
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e62e873a429712ec0619 -->
+
 ### § 169 — Náhrada výdajů za ubytování při zahraniční cestě
 
 > **§ 169**
@@ -1465,6 +2393,52 @@ Ubytování při zahraniční cestě se řídí § 162 — prokázaná výše v 
 **Typicky rozhodné důkazy / podklady:** cestovní příkaz s určenou úrovní ubytování, hotelová faktura (případně překlad), doklad o době návštěvy rodiny / přerušení cesty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=33726a8895a46e982098 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 169 — Náhrada výdajů za ubytování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnanci přísluší náhrada výdajů za ubytování, které vynaložil v souladu s podmínkami zahraniční pracovní cesty, a to podle [[#§ 162|§ 162]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 162
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=33726a8895a46e982098 -->
 
 ### § 170 — Zahraniční stravné
 
@@ -1587,6 +2561,74 @@ Zahraniční stravné se vyplácí v cizí měně dle vyhláškové sazby MF ve 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=35d55ed7548d6402d155 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 170 — Zahraniční stravné
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnanci přísluší při zahraniční pracovní cestě zahraniční stravné v cizí měně ve výši a za podmínek dále stanovených.
+>
+> (2) Sjedná-li zaměstnavatel nebo určí před vysláním zaměstnance na zahraniční pracovní cestu základní sazbu zahraničního stravného, musí tato základní sazba činit v celých měnových jednotkách, s přihlédnutím k podmínkám zahraniční pracovní cesty a způsobu stravování, nejméně 75 % a u členů posádek plavidel vnitrozemské plavby nejméně 50 % základní sazby zahraničního stravného stanovené pro příslušný stát prováděcím právním předpisem vydaným podle [[#§ 189|§ 189]]. Jestliže zaměstnavatel nepostupuje podle věty první, určí zaměstnanci zahraniční stravné z výše základní sazby zahraničního stravného stanovené prováděcím právním předpisem vydaným podle [[#§ 189|§ 189]]. Výši zahraničního stravného určí zaměstnavatel ze základní sazby zahraničního stravného sjednané nebo stanovené pro stát, ve kterém zaměstnanec stráví v kalendářním dni nejvíce času.
+>
+> (3) Zaměstnanci přísluší zahraniční stravné ve výši základní sazby podle odstavce 2, jestliže doba strávená mimo území České republiky trvá v kalendářním dni déle než 18 hodin. Trvá-li tato doba déle než 12 hodin, nejvýše však 18 hodin, poskytne zaměstnavatel zaměstnanci zahraniční stravné ve výši dvou třetin této sazby zahraničního stravného, a ve výši jedné třetiny této sazby zahraničního stravného, trvá-li doba strávená mimo území České republiky 12 hodin a méně, avšak alespoň 1 hodinu, nebo déle než 5 hodin, pokud zaměstnanci vznikne za cestu na území České republiky právo na stravné podle [[#§ 163|§ 163]] nebo [[#§ 176|§ 176]]. Trvá-li doba strávená mimo území České republiky méně než 1 hodinu, zahraniční stravné se neposkytuje.
+>
+> (4) Doby strávené mimo území České republiky, které trvají 1 hodinu a déle při více zahraničních pracovních cestách v jednom kalendářním dni, se pro účely zahraničního stravného sčítají. Doby, za které nevznikne zaměstnanci právo na zahraniční stravné, se připočítávají k době rozhodné pro poskytnutí stravného podle [[#§ 163|§ 163]].
+>
+> (5) Bylo-li zaměstnanci během zahraniční pracovní cesty poskytnuto bezplatné jídlo, přísluší zaměstnanci zahraniční stravné snížené za každé bezplatné jídlo až o hodnotu
+>
+> - a) 70 % zahraničního stravného, jde-li o zahraniční stravné v třetinové výši základní sazby,
+>
+> - b) 35 % zahraničního stravného, jde-li o zahraniční stravné ve dvoutřetinové výši základní sazby,
+>
+> - c) 25 % zahraničního stravného, jde-li o zahraniční stravné ve výši základní sazby.
+>
+> Nesjedná-li zaměstnavatel nižší hodnotu snížení zahraničního stravného, nebo ji neurčí před vysláním zaměstnance na zahraniční pracovní cestu, přísluší zaměstnanci zahraniční stravné snížené o nejvyšší hodnotu stanovenou ve větě první.
+>
+> (6) Po dobu návštěvy člena rodiny nebo po dobu dohodnutého přerušení zahraniční pracovní cesty z důvodů na straně zaměstnance zahraniční stravné zaměstnanci nepřísluší. Doba rozhodná pro právo na zahraniční stravné před návštěvou člena rodiny nebo dohodnutým přerušením zahraniční pracovní cesty z důvodu na straně zaměstnance končí ukončením výkonu práce, nebo jiným předem dohodnutým způsobem, a po návštěvě člena rodiny nebo přerušení zahraniční pracovní cesty z důvodů na straně zaměstnance začíná současně se začátkem výkonu práce, nebo jiným předem dohodnutým způsobem.
+>
+> (7) Je-li zaměstnanec vyslán na zahraniční pracovní cestu do svého bydliště, přísluší mu stravné a zahraniční stravné pouze za cestu do bydliště a zpět, za cesty k výkonu práce a zpět a za dobu výkonu práce v tomto místě.
+>
+> (8) Důvody pro neposkytnutí zahraničního stravného stanovené v odstavcích 6 a [[#§ 7|7]] je zakázáno rozšiřovat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 189, § 163, § 176, § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=35d55ed7548d6402d155 -->
+
 ### § 171 — Nutné vedlejší výdaje při zahraniční pracovní cestě
 
 > **§ 171**
@@ -1635,6 +2677,52 @@ V praxi je § 171 čistě odkazovací — nutné vedlejší výdaje zahraniční
 **Typicky rozhodné důkazy / podklady:** vízový doklad a potvrzení o platbě, pojistná smlouva na dobu cesty, doklad o očkování, vyúčtování telefonního operátora s vyznačením pracovních hovorů, určení podmínek cesty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f8c4149a3de38f5fdee9 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 171 — Náhrada nutných vedlejších výdajů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnanci přísluší náhrada nutných vedlejších výdajů podle [[#§ 164|§ 164]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 164
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f8c4149a3de38f5fdee9 -->
 
 ### Díl 4 — Náhrady při výkonu práce v zahraničí
 
@@ -1705,6 +2793,52 @@ Vlastní výkon práce v zahraničí (období mezi první a poslední cestou) z�
 **Typicky rozhodné důkazy / podklady:** dodatek se sjednaným místem výkonu práce v zahraničí, letenky/jízdenky obou, doklady o ubytování, písemný souhlas s cestou člena rodiny, vyúčtování cesty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=080670565dbb0ee4a7cd generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 172
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Bylo-li sjednáno místo výkonu práce, popřípadě i pravidelné pracoviště mimo území České republiky, přísluší zaměstnanci za dny první cesty z České republiky do místa výkonu práce nebo pravidelného pracoviště a zpět cestovní náhrady jako při zahraniční pracovní cestě. Jestliže se zaměstnancem cestuje se souhlasem zaměstnavatele i člen rodiny, přísluší zaměstnanci i náhrada prokázaných jízdních, ubytovacích a nutných vedlejších výdajů, které vznikly tomuto členu rodiny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=080670565dbb0ee4a7cd -->
 
 ## Hlava III — Poskytnutí cestovních náhrad zaměstnanci zaměstnavatele, který je uveden v § 109 odst. 3
 
@@ -1777,6 +2911,52 @@ Hlava III neuznává ani nové druhy náhrad mimo zákonný katalog. Zaměstnava
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3c02a96011fbfc76c457 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 173
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnavatel uvedený v této hlavě poskytne zaměstnanci cestovní náhrady ve výši a za podmínek stanovených v této hlavě. Jiné nebo vyšší cestovní náhrady nesmí zaměstnavatel zaměstnanci poskytovat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3c02a96011fbfc76c457 -->
+
 ### § 174 — Použití Hlavy II s odchylkami
 
 > **§ 174**
@@ -1830,6 +3010,52 @@ Hlava III neuznává ani nové druhy náhrad mimo zákonný katalog. Zaměstnava
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=16cc0eee1db6679bf4dc generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 174
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Při poskytování cestovních náhrad postupuje zaměstnavatel podle části sedmé hlavy II, s dále stanovenými odchylkami.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=16cc0eee1db6679bf4dc -->
+
 ### Díl 2 — Odchylky při poskytnutí cestovních náhrad při pracovní cestě
 
 ### § 175 — Závazná sazba základní náhrady
@@ -1879,6 +3105,52 @@ V Hlavě II je sazba základní náhrady **minimem** (lze ji navýšit). V Hlav�
 **Typicky rozhodné důkazy / podklady:** platná vyhláška MPSV, vnitřní předpis o cestovních náhradách, kniha jízd a vyúčtování, doklady o ceně PHM.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=350fdb478fe4fe27e949 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 175 — Náhrada jízdních výdajů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Sazba základní náhrady stanovená v § 157 odst. 4 a [[#§ 5|5]] je pro zaměstnavatele závazná a nemůže ji sjednat nebo před pracovní cestou určit odchylně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 157, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=350fdb478fe4fe27e949 -->
 
 ### § 176 — Stravné v rozpočtové sféře
 
@@ -1983,6 +3255,78 @@ Nestanoví-li zaměstnavatel výši stravného předem, použije se **dolní saz
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=af69520f526aa7a83bf3 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 176 — Stravné
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Při poskytnutí stravného se § 163 odst. 1 až 3 nepoužijí. Zaměstnanci přísluší za každý kalendářní den pracovní cesty stravné ve výši
+>
+> - a) 58 Kč až 69 Kč, trvá-li pracovní cesta 5 až 12 hodin,
+>
+> - b) 88 Kč až 106 Kč, trvá-li pracovní cesta déle než 12 hodin, nejvýše však 18 hodin,
+>
+> - c) 138 Kč až 165 Kč, trvá-li pracovní cesta déle než 18 hodin.
+>
+> Tato výše stravného se mění v závislosti na vývoji cen prováděcím právním předpisem vydaným podle [[#§ 189|§ 189]].
+>
+> (2) Znemožní-li zaměstnavatel vysláním na pracovní cestu, která trvá méně než 5 hodin, zaměstnanci se stravovat obvyklým způsobem, může mu poskytnout stravné až do výše stravného podle odstavce 1 písm. a).
+>
+> (3) Bylo-li zaměstnanci během pracovní cesty poskytnuto bezplatné jídlo, přísluší zaměstnanci stravné snížené za každé bezplatné jídlo o hodnotu
+>
+> - a) 70 % stravného, trvá-li pracovní cesta 5 až 12 hodin,
+>
+> - b) 35 % stravného, trvá-li pracovní cesta déle než 12 hodin, nejdéle však 18 hodin,
+>
+> - c) 25 % stravného, trvá-li pracovní cesta déle než 18 hodin.
+>
+> (4) Stravné zaměstnanci nepřísluší, pokud mu během pracovní cesty, která trvá
+>
+> - a) 5 až 12 hodin, byla poskytnuta 2 bezplatná jídla,
+>
+> - b) déle než 12 hodin, nejdéle však 18 hodin, byla poskytnuta 3 bezplatná jídla.
+>
+> (5) Nesjedná-li zaměstnavatel nebo neurčí před vysláním zaměstnance na pracovní cestu výši stravného, přísluší zaměstnanci stravné ve výši dolní sazby rozpětí podle odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 163, § 189
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=af69520f526aa7a83bf3 -->
+
 ### Díl 3 — Náhrady při přijetí a přeložení
 
 ### § 177 — Náhrady při přijetí do zaměstnání nebo přeložení
@@ -2045,6 +3389,54 @@ Náhrady mohou trvat **do okamžiku**, kdy zaměstnanec (nebo člen jeho rodiny 
 **Typicky rozhodné důkazy / podklady:** pracovní smlouva s místem výkonu práce, vnitřní předpis o náhradách při přijetí/přeložení, doklady o přechodném ubytování a jízdném, doklad o získání bytu (kupní/nájemní smlouva).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a65b58f3645c91d4061f generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 177
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Je-li zaměstnavatelem sjednáno, popřípadě vnitřním předpisem stanoveno poskytnutí náhrad při přijetí do zaměstnání v pracovním poměru nebo přeložení do jiného místa, mohou se tyto náhrady poskytovat až do výše a rozsahu podle [[#§ 165|§ 165]].
+>
+> (2) Náhrady podle odstavce 1 může zaměstnavatel zaměstnanci poskytovat do doby, než zaměstnanec nebo člen jeho rodiny a jiná fyzická osoba, kteří s ním žijí v domácnosti, získají v obci místa výkonu práce přiměřený byt, nejdéle však 4 roky, a jde-li o pracovní poměr, který je sjednáván na dobu určitou, nejdéle do skončení tohoto pracovního poměru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 165
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a65b58f3645c91d4061f -->
 
 ### § 178 — Náhrady při přestěhování
 
@@ -2115,6 +3507,60 @@ Stejně jako u § 177 jde o **možnost** zaměstnavatele („může poskytnout")
 **Typicky rozhodné důkazy / podklady:** doklad stěhovací firmy, jízdenky zaměstnance a člena rodiny, doklady o manipulačních/nutných vedlejších výdajích, doklady a popis prací k úpravě bytu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=369748ec2214d8d4e0b6 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 178
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnanci, kterému zaměstnavatel poskytuje nebo by mohl poskytovat náhrady podle [[#§ 165|§ 165]] a [[#§ 177|177]] a který se přestěhuje do obce, v níž mu právo nebo možnost poskytování těchto náhrad zanikne, může zaměstnavatel poskytnout náhradu prokázaných
+>
+> - a) výdajů za přepravu bytového zařízení,
+>
+> - b) jízdních výdajů a jízdních výdajů člena rodiny z bydliště do nového bydliště,
+>
+> - c) nutných vedlejších výdajů souvisejících s přepravou bytového zařízení,
+>
+> - d) nezbytných nutných výdajů spojených s úpravou bytu, a to až do výše 15 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 165, § 177
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=369748ec2214d8d4e0b6 -->
 
 ### Díl 4 — Odchylky při poskytnutí cestovních náhrad při zahraniční pracovní cestě
 
@@ -2201,6 +3647,68 @@ Analogie § 176 odst. 4: pokud zaměstnanec dostane 2 bezplatná jídla na cest�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9009a0f365bc61aa2cad generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 179
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Při poskytování zahraničního stravného se ustanovení § 170 odst. 2 věty první a odstavce 5 nepoužije. Zaměstnanci přísluší za každý kalendářní den zahraniční pracovní cesty zahraniční stravné ve výši základní sazby zahraničního stravného stanoveného prováděcím právním předpisem vydaným podle [[#§ 189|§ 189]].
+>
+> (2) Vedoucím organizačních složek státu a jejich zástupcům a statutárním orgánům a jejich zástupcům je možné určit zahraniční stravné až do výše přesahující o 15 % základní sazbu zahraničního stravného uvedenou v odstavci 1, pokud zvláštní právní předpis nestanoví jinak57).
+>
+> (3) Bylo-li zaměstnanci během zahraniční pracovní cesty v zahraničí poskytnuto bezplatné jídlo, přísluší zaměstnanci zahraniční stravné snížené za každé bezplatné jídlo o hodnotu
+>
+> - a) 70 % zahraničního stravného, jde-li o zahraniční stravné v třetinové výši základní sazby,
+>
+> - b) 35 % zahraničního stravného, jde-li o zahraniční stravné ve dvoutřetinové výši základní sazby,
+>
+> - c) 25 % zahraničního stravného, jde-li o zahraniční stravné ve výši základní sazby.
+>
+> (4) Zahraniční stravné zaměstnanci nepřísluší, pokud mu během zahraniční pracovní cesty, která trvá
+>
+> - a) 12 hodin a méně, byla poskytnuta 2 bezplatná jídla,
+>
+> - b) déle než 12 hodin, nejdéle však 18 hodin, byla poskytnuta 3 bezplatná jídla.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 170, § 189
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9009a0f365bc61aa2cad -->
+
 ### § 180 — Kapesné
 
 > **§ 180**
@@ -2260,6 +3768,52 @@ Kapesné je **fakultativní** — zaměstnavatel není povinen ho poskytnout, al
 **Typicky rozhodné důkazy / podklady:** vnitřní předpis/dohoda o kapesném, výpočet zahraničního stravného, cestovní příkaz, mzdové vyúčtování s rozlišením osvobozené a zdanitelné části.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dad980dbc363ebf5002f generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 180
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnavatel může zaměstnanci poskytnout kapesné do výše 40 % zahraničního stravného poskytnutého zaměstnanci podle § 170 odst. 3 a § 179 odst. 1 a [[#§ 2|2.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 170, § 179, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dad980dbc363ebf5002f -->
 
 ### Díl 5 — Náhrady při výkonu práce v zahraničí
 
@@ -2344,6 +3898,54 @@ Doba 14 týdnů odpovídá části standardní mateřské dovolené v ČR (§ 19
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=46e42b3b31c99124ed76 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 181
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Vedle náhrad stanovených v [[#§ 172|§ 172]] přísluší zaměstnanci náhrady stanovené v prováděcím právním předpisu vydaném podle [[#§ 189|§ 189]]. Zaměstnanci nepřísluší stravné za dobu pracovní cesty na území České republiky a zahraniční stravné v zemi výkonu práce nebo pravidelného pracoviště.
+>
+> (2) Zaměstnankyni, jež čerpá ve státě místa výkonu práce v zahraničí mateřskou, popřípadě rodičovskou dovolenou a zaměstnanci, jenž čerpá v tomto místě rodičovskou dovolenou, poskytne zaměstnavatel náhradu výdajů za ubytování po dobu 14 týdnů ve stejné výši jako před nástupem na mateřskou, popřípadě rodičovskou dovolenou; po tuto dobu přísluší zaměstnankyni či zaměstnanci i další náhrady výdajů stanovené prováděcím právním předpisem vydaným podle § 189 odst. 6. Podmínkou vzniku práva podle věty první je, že zaměstnankyně nebo zaměstnanec oznámí zaměstnavateli úmysl čerpat mateřskou nebo rodičovskou dovolenou v zahraničí alespoň 10 týdnů před očekávaným dnem porodu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 172, § 189
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=46e42b3b31c99124ed76 -->
+
 ## Hlava IV — Společná ustanovení o cestovních náhradách
 
 ### § 182 — Paušalizace cestovních náhrad
@@ -2421,6 +4023,54 @@ Zákon umožňuje tři formy:
 **Typicky rozhodné důkazy / podklady:** dohoda/vnitřní předpis/individuální určení paušálu, kalkulace průměrných výdajů, evidence cest, pravidlo krácení za nepracovní dobu, mzdové listy.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ccb15dd06c6b01b9f521 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 182 — Paušalizace cestovních náhrad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Při sjednání paušální měsíční nebo denní částky cestovní náhrady, popřípadě při jejím stanovení vnitřním předpisem nebo individuálním písemným určením se vychází z průměrných podmínek rozhodných pro poskytování cestovních náhrad skupině zaměstnanců nebo zaměstnanci, z výše cestovních náhrad a z očekávaných průměrných výdajů této skupiny zaměstnanců nebo tohoto zaměstnance. Současně se určí způsob krácení paušální částky za dobu, kdy zaměstnanec nevykonává práci.
+>
+> (2) Na žádost zaměstnance je zaměstnavatel povinen předložit mu k nahlédnutí doklady, na jejichž základě byla paušální částka určena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ccb15dd06c6b01b9f521 -->
 
 ### § 183 — Záloha na cestovní náhrady a vyúčtování
 
@@ -2530,6 +4180,60 @@ Lhůta je rovněž dispozitivní; bez dohody platí 10 dnů. Zaokrouhlení dopla
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=b060889f397fc6a9809f generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 183 — Záloha na cestovní náhrady a její vyúčtování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnavatel je povinen poskytnout zaměstnanci zúčtovatelnou zálohu až do předpokládané výše cestovních náhrad, pokud se se zaměstnancem nedohodne, že záloha nebude poskytnuta.
+>
+> (2) Při zahraniční pracovní cestě může zaměstnavatel po dohodě se zaměstnancem poskytnout zálohu v cizí měně nebo její část též cestovním šekem nebo zapůjčením platební karty zaměstnavatele. Zaměstnavatel se může se zaměstnancem dohodnout na poskytnutí zálohy na zahraniční stravné v české měně nebo v jiné než v prováděcím právním předpisu vydaném podle [[#§ 189|§ 189]] stanovené cizí měně pro příslušný stát, pokud je k této měně Českou národní bankou vyhlašován kurz. Při určení výše zahraničního stravného v dohodnuté měně se nejprve zjistí korunová hodnota zahraničního stravného, která se přepočítá na dohodnutou měnu. Pro určení korunové hodnoty zahraničního stravného a částky zahraničního stravného v dohodnuté měně se použijí kurzy vyhlášené Českou národní bankou a platné v den vyplacení zálohy.
+>
+> (3) Jestliže se zaměstnanec se zaměstnavatelem nedohodne na jiné době, je zaměstnanec povinen do 10 pracovních dnů po dni ukončení pracovní cesty nebo jiné skutečnosti zakládající právo na cestovní náhradu předložit zaměstnavateli písemné doklady potřebné k vyúčtování cestovních náhrad a vrátit nevyúčtovanou zálohu. Částka, kterou má zaměstnanec zaměstnavateli vrátit v české měně, se zaokrouhlí na celé koruny směrem nahoru.
+>
+> (4) Částku, o kterou byla poskytnutá záloha při zahraniční pracovní cestě vyšší, než činí právo zaměstnance, vrací zaměstnanec zaměstnavateli ve měně, kterou mu zaměstnavatel poskytl, nebo ve měně, na kterou zaměstnanec tuto měnu v zahraničí směnil, anebo v české měně. Částku, o kterou byla poskytnutá záloha při zahraniční pracovní cestě nižší, než činí právo zaměstnance, doplácí zaměstnavatel zaměstnanci v české měně, pokud se nedohodnou jinak. Při vyúčtování zálohy použije zaměstnavatel zaměstnancem doložený kurz, kterým byla poskytnutá měna v zahraničí směněna na jinou měnu, a kurzy uvedené v odstavci 2.
+>
+> (5) Nedohodnou-li se smluvní strany na jiné době, je zaměstnavatel povinen do 10 pracovních dnů ode dne předložení písemných dokladů zaměstnancem provést vyúčtování cestovních náhrad a uspokojit jeho práva. Částka, kterou má zaměstnavatel zaměstnanci poskytnout v české měně, se zaokrouhlí na celé koruny směrem nahoru.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 189
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b060889f397fc6a9809f -->
+
 ### § 184 — Cestovní náhrady bez poskytnuté zálohy
 
 > **§ 184**
@@ -2581,6 +4285,52 @@ Rozdíl spočívá v **rozhodném kurzu**: pro přepočet měn se použijí kurz
 **Typicky rozhodné důkazy / podklady:** dohoda o neposkytnutí zálohy, doklady o nástupu a ukončení cesty, účtenky a doklady o výdajích, kurzovní lístek ČNB ke dni nástupu cesty.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c7d62b83ce617946b7ef generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 184
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Při poskytování cestovních náhrad, na které nebyla poskytnuta záloha, se přiměřeně použije [[#§ 183|§ 183]] s tím, že pro přepočet měn se použijí kurzy vyhlášené Českou národní bankou a platné v den nástupu zahraniční pracovní cesty.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 183
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c7d62b83ce617946b7ef -->
 
 ### § 185 — Náhrada neprokázaných výdajů
 
@@ -2642,6 +4392,52 @@ Závěrečná klauzule odkazuje na § 158 odst. 3 — pro **náhradu za PHM** pl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=893b741e3fbea8aaebee generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 185
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Požaduje-li se pro poskytnutí cestovních náhrad prokázání příslušných výdajů, a zaměstnanec je neprokáže, může mu zaměstnavatel poskytnout tuto náhradu v jím uznané výši, která odpovídá určeným podmínkám, pokud tento zákon nestanoví jinak (§ 158 odst. 3).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 158
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=893b741e3fbea8aaebee -->
+
 ### § 186 — Oznamovací povinnost zaměstnance
 
 > **§ 186**
@@ -2701,6 +4497,52 @@ Nesplnění oznamovací povinnosti může mít důsledky:
 **Typicky rozhodné důkazy / podklady:** cestovní příkaz, program cesty/jednání, doklady o poskytnutých bezplatných jídlech či ubytování, vyúčtování zaměstnance, vnitřní předpis o cestovních náhradách.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=19afb5c618602d5135a7 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 186
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnanec je povinen bez zbytečného odkladu oznámit zaměstnavateli změnu skutečnosti, která je rozhodná pro poskytnutí cestovní náhrady.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=19afb5c618602d5135a7 -->
 
 ### § 187 — Pojem „člena rodiny"
 
@@ -2784,6 +4626,52 @@ Klíčový faktický prvek je **společná domácnost** — § 22 občanského z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=07ad42cc430ca7fb3220 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 187
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Za člena rodiny zaměstnance se pro účely poskytování cestovních náhrad, s výjimkou § 177 odst. 2, považuje jeho manžel, partner51a), vlastní dítě, osvojenec, dítě svěřené zaměstnanci do pěstounské péče nebo do výchovy, vlastní rodiče, osvojitel, opatrovník a pěstoun. Jiná fyzická osoba je postavena na roveň člena rodiny pouze za předpokladu, že žije se zaměstnancem v domácnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 177
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=07ad42cc430ca7fb3220 -->
+
 ### § 188 — Cestovní náhrady dle mezinárodní smlouvy
 
 > **§ 188**
@@ -2859,6 +4747,58 @@ Konstrukce respektuje vyšší životní náklady zahraničního hosta v ČR (re
 **Typicky rozhodné důkazy / podklady:** text mezinárodní smlouvy a dohody o vzájemné výměně, doklad o smluvním per diem, výpočet nároku dle ZP, vyúčtování cesty a stravného hosta.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a338cfb4fc0b30b21b55 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 188 — Cestovní náhrady poskytované podle mezinárodní smlouvy nebo na základě dohod o vzájemné výměně zaměstnanců se zahraničním zaměstnavatelem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnanci, který je vyslán na zahraniční pracovní cestu, a po tuto dobu mu přísluší podle mezinárodní smlouvy náhrada cestovních výdajů nebo náhrada obdobných výdajů v nižší výši než podle této části, poskytne zaměstnavatel cestovní náhradu ve výši rozdílu mezi právem podle této části a náhradou poskytovanou podle mezinárodní smlouvy.
+>
+> (2) Zaměstnanci, který je vyslán na zahraniční pracovní cestu, a po tuto dobu mu přísluší podle mezinárodní smlouvy náhrada cestovních výdajů nebo náhrada obdobných výdajů ve stejné nebo vyšší výši než podle této části, zaměstnavatel cestovní náhrady podle této části neposkytne.
+>
+> (3) Náhrady cestovních výdajů nebo náhrady obdobných výdajů, které jsou zaměstnanci poskytovány podle mezinárodní smlouvy, se považují za cestovní náhrady poskytované podle této části.
+>
+> (4) Jestliže zaměstnavatel sjedná v dohodě o vzájemné výměně zaměstnanců, že bude zahraničnímu zaměstnanci vyslanému do České republiky poskytovat stravné, je povinen jej poskytovat nejméně ve výši horní hranice stravného stanovené v § 176 odst. 1. Zaměstnavatel uvedený v části sedmé hlavě III může poskytovat stravné zahraničnímu zaměstnanci až do výše dvojnásobku stravného stanoveného ve větě první a kapesné až do výše 40 % takto sjednaného nebo určeného stravného.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 176
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a338cfb4fc0b30b21b55 -->
 
 ### § 189 — Zmocňovací ustanovení (vyhlášky MPSV a MF)
 
@@ -2979,6 +4919,78 @@ Aktuální nařízení vlády vydané podle § 189 odst. 6 je **nařízení č. 
 **Typicky rozhodné důkazy / podklady:** aktuální vyhláška MPSV a vyhláška MF, případné mimořádné vyhlášky, nařízení vlády č. 62/1994 Sb., vnitřní předpis o cestovních náhradách, vyúčtování cest.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=eea30e930d4148da304c generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 189 — Zmocňovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) V pravidelném termínu od 1. ledna Ministerstvo práce a sociálních věcí vyhláškou
+>
+> - a) mění sazbu základní náhrady za používání silničních motorových vozidel stanovenou v § 157 odst. 4,
+>
+> - b) mění stravné stanovené v § 163 odst. 1 a § 176 odst. 1,
+>
+> - c) stanoví průměrnou cenu pohonných hmot,
+>
+> a to podle údajů Českého statistického úřadu o cenách vozidel, o cenách jídel a nealkoholických nápojů ve veřejném stravování a o cenách pohonných hmot.
+>
+> (2) V mimořádném termínu Ministerstvo práce a sociálních věcí upraví vyhláškou sazbu základní náhrady za používání silničních motorových vozidel, stravné nebo průměrnou cenu pohonných hmot, jakmile se podle údajů Českého statistického úřadu některá z cen uvedených v odstavci 1 ode dne účinnosti tohoto zákona, nebo ode dne účinnosti poslední úpravy obsažené ve vyhlášce, zvýší nebo sníží alespoň o 20 %.
+>
+> (3) Stravné se zaokrouhluje na celé koruny do výše 50 haléřů směrem dolů a od 50 haléřů včetně směrem nahoru. Sazba základní náhrady a průměrné ceny pohonných hmot se zaokrouhlují na desetihaléře směrem nahoru.
+>
+> (4) V pravidelném termínu od 1. ledna Ministerstvo financí vyhláškou stanoví výši základních sazeb zahraničního stravného v celých měnových jednotkách příslušné cizí měny, a to na základě návrhu Ministerstva zahraničních věcí vypracovaného podle podkladů zastupitelských úřadů o cenách jídel a nealkoholických nápojů ve veřejných stravovacích zařízeních střední kvalitativní třídy a v zařízeních první kvalitativní třídy v rozvojových zemích Asie, Afriky a Latinské Ameriky, a s využitím statistických údajů mezinárodních institucí.
+>
+> (5) V mimořádném termínu Ministerstvo financí upraví vyhláškou výši základní sazby zahraničního stravného, jakmile se cena uvedená v odstavci 4 a kurz stanovené cizí měny od poslední úpravy zvýší nebo sníží alespoň o 20 %.
+>
+> (6) Vláda stanoví nařízením pro zaměstnance, se kterými sjedná zaměstnavatel uvedený v části sedmé hlavě III místo výkonu práce, popřípadě i pravidelné pracoviště, mimo území České republiky, náhradu
+>
+> - a) zvýšených životních nákladů,
+>
+> - b) zvýšených vybavovacích výdajů,
+>
+> - c) jízdních výdajů a výdajů za ubytování při některých cestách do České republiky a zpět,
+>
+> - d) výdajů spojených s přepravou osobních věcí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 157, § 163, § 176
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eea30e930d4148da304c -->
 
 ## Daňový a pojistný režim cestovních náhrad — shrnutí napříč částí sedmou
 

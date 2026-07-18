@@ -77,6 +77,58 @@ Odst. 2 byl rovněž historicky vykládán v souvislosti se **zákazem poskytov�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2f9817a0b02d39e34f55 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 224
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnavatelé jsou povinni vytvářet zaměstnancům pracovní podmínky, které umožňují bezpečný výkon práce, a v souladu se zvláštními právními předpisy zajišťovat pro zaměstnance pracovnělékařské služby.
+>
+> (2) Zaměstnavatel může zaměstnanci poskytnout odměnu zejména
+>
+> - a) při životním nebo pracovním jubileu a při prvním skončení pracovního poměru po přiznání invalidního důchodu pro invaliditu třetího stupně nebo po nabytí nároku na starobní důchod,
+>
+> - b) za poskytnutí pomoci při předcházení požárům nebo při živelních událostech, jejich likvidaci nebo odstraňování jejich následků nebo při jiných mimořádných událostech, při nichž může být ohrožen život, zdraví nebo majetek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2f9817a0b02d39e34f55 -->
+
 ### § 225 — Spolurozhodování o FKSP s odborovou organizací
 
 > **§ 225**
@@ -133,6 +185,52 @@ Není-li u zaměstnavatele odborová organizace, není koho do spolurozhodován�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=92185064f0cd9cb387b8 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 225
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnavatel, který podle zvláštního právního předpisu73) vytváří fond kulturních a sociálních potřeb, spolurozhoduje s odborovou organizací o přídělu do tohoto fondu a o jeho čerpání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=92185064f0cd9cb387b8 -->
+
 ### § 226 — Úschova osobních věcí
 
 > **§ 226**
@@ -184,6 +282,52 @@ Splnění této povinnosti se typicky realizuje zřízením **šaten s uzamykate
 **Typicky rozhodné důkazy / podklady:** protokol o škodní události, fotodokumentace místa úschovy a poškození, doklady o hodnotě věcí, svědecké výpovědi, vnitřní pravidla o úschově/trezoru.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5f40c2a629bb7dc743a6 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 226
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnavatel je povinen zajistit bezpečnou úschovu svršků a osobních předmětů, které zaměstnanci obvykle nosí do zaměstnání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5f40c2a629bb7dc743a6 -->
 
 ## Hlava II — Odborný rozvoj zaměstnanců
 
@@ -254,6 +398,60 @@ Klíčová **systémová odlišnost** mezi prohlubováním a zvyšováním kvali
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4f2e9ecda1ab61ebdb74 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 227
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Odborný rozvoj zaměstnanců zahrnuje zejména
+>
+> - a) zaškolení a zaučení,
+>
+> - b) odbornou praxi absolventů škol,
+>
+> - c) prohlubování kvalifikace,
+>
+> - d) zvyšování kvalifikace.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4f2e9ecda1ab61ebdb74 -->
+
 ### § 228 — Zaškolení a zaučení
 
 > **§ 228**
@@ -313,6 +511,54 @@ Klíčovým systémovým rysem § 228 je, že **zaškolení/zaučení se považu
 **Typicky rozhodné důkazy / podklady:** pracovní smlouva s druhem práce, plán/záznam zaškolení, doklad o školení BOZP, protokol o případné škodě, rozvrh směn.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ab9c56f6e9f0dc771896 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 228 — Zaškolení a zaučení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnance, který vstupuje do zaměstnání bez kvalifikace, je zaměstnavatel povinen zaškolit nebo zaučit; zaškolení nebo zaučení se považuje za výkon práce, za který přísluší zaměstnanci mzda nebo plat.
+>
+> (2) Zaměstnavatel je povinen zaškolit nebo zaučit zaměstnance, který přechází z důvodů na straně zaměstnavatele na nové pracoviště nebo na nový druh práce, pokud je to nezbytné.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ab9c56f6e9f0dc771896 -->
 
 ### § 229 — Odborná praxe absolventů škol
 
@@ -378,6 +624,54 @@ V praxi absolventská praxe často zahrnuje **mentoring** zkušenějšího koleg
 **Typicky rozhodné důkazy / podklady:** diplom s datem ukončení, doklady o předchozí odborné praxi a jejím rozsahu, popis druhu práce, adaptační/mentoringový plán.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=369d5bb346d1b6e145ef generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 229 — Odborná praxe absolventů škol
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnavatelé jsou povinni zabezpečit absolventům středních škol, konzervatoří, vyšších odborných škol a vysokých škol přiměřenou odbornou praxi k získání praktických zkušeností a dovedností potřebných pro výkon práce; odborná praxe se považuje za výkon práce, za který přísluší zaměstnanci mzda nebo plat.
+>
+> (2) Absolventem se pro účely odstavce 1 rozumí zaměstnanec vstupující do zaměstnání na práci odpovídající jeho kvalifikaci, jestliže celková doba jeho odborné praxe nedosáhla po řádném (úspěšném) ukončení studia (přípravy) 2 let, přičemž se do této doby nezapočítává doba mateřské nebo rodičovské dovolené.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=369d5bb346d1b6e145ef -->
 
 ### § 230 — Prohlubování kvalifikace
 
@@ -466,6 +760,60 @@ Zvláštní právní předpis (lex specialis) má přednost před § 230 v rozsa
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d7196f1d6059c2d9ef5a generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 230 — Prohlubování kvalifikace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Prohlubováním kvalifikace se rozumí její průběžné doplňování, kterým se nemění její podstata a které umožňuje zaměstnanci výkon sjednané práce; za prohlubování kvalifikace se považuje též její udržování a obnovování.
+>
+> (2) Zaměstnanec je povinen prohlubovat si svoji kvalifikaci k výkonu sjednané práce. Zaměstnavatel je oprávněn uložit zaměstnanci účast na školení a studiu, nebo jiných formách přípravy k prohloubení jeho kvalifikace, popřípadě na zaměstnanci požadovat, aby prohlubování kvalifikace absolvoval i u jiné právnické nebo fyzické osoby.
+>
+> (3) Účast na školení nebo jiných formách přípravy anebo studiu za účelem prohloubení kvalifikace se považuje za výkon práce, za který přísluší zaměstnanci mzda nebo plat.
+>
+> (4) Náklady vynaložené na prohlubování kvalifikace je povinen hradit zaměstnavatel. Požaduje-li zaměstnanec, aby mohl absolvovat prohlubování kvalifikace ve finančně náročnější formě, může se na nákladech prohlubování kvalifikace podílet. Ustanovení odstavce 3 tím však není dotčeno.
+>
+> (5) Zvláštní právní předpisy110) upravující prohlubování kvalifikace nejsou tímto zákonem dotčeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d7196f1d6059c2d9ef5a -->
+
 ### Zvýšení kvalifikace a kvalifikační dohoda — §§ 231–235
 
 ### § 231 — Pojem zvýšení (zvyšování) kvalifikace
@@ -540,6 +888,56 @@ Odst. 3 ponechává nedotčené zvláštní úpravy zvyšování kvalifikace —
 **Typicky rozhodné důkazy / podklady:** korespondence o studiu a jeho podpoře, plán vzdělávání, popis druhu práce a personálních potřeb, případná kvalifikační dohoda, potvrzení o studiu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=dd902bc6e382a12de6e7 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 231
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zvýšením kvalifikace se rozumí změna hodnoty kvalifikace; zvýšením kvalifikace je též její získání nebo rozšíření.
+>
+> (2) Zvyšováním kvalifikace je studium, vzdělávání, školení, nebo jiná forma přípravy k dosažení vyššího stupně vzdělání, jestliže jsou v souladu s potřebou zaměstnavatele.
+>
+> (3) Zvláštní právní předpisy110) upravující zvyšování kvalifikace nejsou tímto zákonem dotčeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dd902bc6e382a12de6e7 -->
 
 ### § 232 — Pracovní úlevy při zvyšování kvalifikace
 
@@ -623,6 +1021,66 @@ Pro **přijímací zkoušku** přísluší volno v nezbytně nutném rozsahu (od
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8b78ce42fe7d7d8efdc9 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 232
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Nejsou-li dohodnuta nebo stanovena vyšší nebo další práva, přísluší zaměstnanci od zaměstnavatele při zvyšování kvalifikace pracovní volno s náhradou mzdy nebo platu ve výši průměrného výdělku
+>
+> - a) v nezbytně nutném rozsahu k účasti na vyučování, výuce nebo školení,
+>
+> - b) 2 pracovní dny na přípravu a vykonání každé zkoušky v rámci studia v programu uskutečňovaném vysokou školou nebo vyšší odbornou školou,
+>
+> - c) 5 pracovních dnů na přípravu a vykonání závěrečné zkoušky, maturitní zkoušky nebo absolutoria,
+>
+> - d) 10 pracovních dnů na vypracování a obhajobu absolventské práce, bakalářské práce, diplomové práce, disertační práce nebo písemné práce, kterou je zakončováno studium v programu celoživotního vzdělávání uskutečňovaném vysokou školou,
+>
+> - e) 40 pracovních dnů na přípravu a vykonání státní závěrečné zkoušky, státní rigorózní zkoušky v oblasti lékařství, veterinárního lékařství a hygieny a státní doktorské zkoušky.
+>
+> (2) K účasti na přijímací zkoušce přísluší zaměstnanci pracovní volno v nezbytně nutném rozsahu.
+>
+> (3) Za pracovní volno poskytnuté k vykonání přijímací zkoušky, opravné zkoušky, k účasti na promoci nebo obdobném ceremoniálu nepřísluší náhrada mzdy nebo platu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8b78ce42fe7d7d8efdc9 -->
+
 ### § 233 — Sledování průběhu zvyšování kvalifikace a zastavení úlev
 
 > **§ 233**
@@ -686,6 +1144,56 @@ Zastavení úlev je odlišný institut od zániku povinnosti uhradit náklady z 
 **Typicky rozhodné důkazy / podklady:** výpis studijních výsledků, evidence účasti a zkoušek, korespondence o (ne)vážných důvodech, případný lékařský posudek, doklad o informování o zastavení úlev.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9ff3739de61151a899d7 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 233
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnavatel je oprávněn sledovat průběh a výsledky zvyšování kvalifikace zaměstnance; poskytování pracovních úlev může zastavit, jen jestliže
+>
+> - a) zaměstnanec se stal dlouhodobě nezpůsobilým pro výkon práce, pro kterou si zvyšuje kvalifikaci,
+>
+> - b) zaměstnanec bez zavinění zaměstnavatele po delší dobu neplní bez vážného důvodu podstatné povinnosti při zvyšování kvalifikace.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9ff3739de61151a899d7 -->
 
 ### § 234 — Kvalifikační dohoda
 
@@ -786,6 +1294,66 @@ c) **Druhy nákladů a celkovou částku**, kterou bude zaměstnanec povinen uhr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c291c830cb56a36a7c82 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 234
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Uzavře-li zaměstnavatel se zaměstnancem v souvislosti se zvyšováním kvalifikace kvalifikační dohodu, je její součástí zejména závazek zaměstnavatele umožnit zaměstnanci zvýšení kvalifikace a závazek zaměstnance setrvat u zaměstnavatele v zaměstnání po sjednanou dobu, nejdéle však po dobu 5 let, nebo uhradit zaměstnavateli náklady spojené se zvýšením kvalifikace, které zaměstnavatel na zvýšení kvalifikace zaměstnance vynaložil, a to i tehdy, když zaměstnanec skončí pracovní poměr před zvýšením kvalifikace. Závazek zaměstnance k setrvání v zaměstnání začíná od zvýšení kvalifikace.
+>
+> (2) Kvalifikační dohoda může být uzavřena také při prohlubování kvalifikace ([[#§ 230|§ 230]]), jestliže předpokládané náklady dosahují alespoň 75 000 Kč; v takovém případě nelze prohloubení kvalifikace zaměstnanci uložit.
+>
+> (3) Kvalifikační dohoda musí obsahovat
+>
+> - a) druh kvalifikace a způsob jejího zvýšení nebo prohloubení,
+>
+> - b) dobu, po kterou se zaměstnanec zavazuje setrvat u zaměstnavatele v zaměstnání po ukončení, zvýšení nebo prohloubení kvalifikace,
+>
+> - c) druhy nákladů a celkovou částku nákladů, kterou bude zaměstnanec povinen uhradit zaměstnavateli, pokud nesplní svůj závazek setrvat v zaměstnání.
+>
+> (4) Kvalifikační dohoda musí být uzavřena písemně.
+>
+> (5) Vláda může nařízením zvýšit částku podle odstavce 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 230
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c291c830cb56a36a7c82 -->
+
 ### § 235 — Doplňující pravidla k povinnosti úhrady nákladů
 
 > **§ 235**
@@ -874,6 +1442,64 @@ d) **Zaměstnavatel nevyužíval kvalifikaci** v posledních 12 měsících po d
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=88681d19479c6bac201c generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 235
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Do doby setrvání zaměstnance v zaměstnání na základě kvalifikační dohody se nezapočítává doba rodičovské dovolené v rozsahu rodičovské dovolené matky dítěte ([[#§ 196|§ 196]]) a nepřítomnost zaměstnance v práci pro výkon nepodmíněného trestu odnětí svobody a vazby, došlo-li k pravomocnému odsouzení.
+>
+> (2) Nesplní-li zaměstnanec svůj závazek z kvalifikační dohody pouze zčásti, povinnost nahradit náklady zvýšení nebo prohloubení kvalifikace se poměrně sníží.
+>
+> (3) Povinnost zaměstnance k úhradě nákladů z kvalifikační dohody nevzniká, jestliže
+>
+> - a) zaměstnavatel v průběhu zvyšování kvalifikace zastavil poskytování plnění sjednaného v kvalifikační dohodě, protože zaměstnanec se bez svého zavinění stal dlouhodobě nezpůsobilým pro výkon práce, pro kterou si zvyšoval kvalifikaci,
+>
+> - b) pracovní poměr skončil výpovědí danou zaměstnavatelem, pokud nejde o výpověď z důvodů porušení povinnosti zaměstnance vyplývající z právních předpisů vztahujících se k vykonávané práci při plnění pracovních úkolů nebo v přímé souvislosti s ním, nebo jestliže pracovní poměr skončil dohodou z důvodů uvedených v § 52 písm. a) až e),
+>
+> - c) zaměstnanec nemůže vykonávat podle lékařského posudku vydaného poskytovatelem pracovnělékařských služeb nebo rozhodnutí příslušného správního orgánu, který lékařský posudek přezkoumává, práci, pro kterou si zvyšoval kvalifikaci, popřípadě pozbyl dlouhodobě způsobilosti konat dále dosavadní práci z důvodů pracovního úrazu, onemocnění nemocí z povolání, nebo pro ohrožení touto nemocí anebo dosáhl-li na pracovišti určeném pravomocným rozhodnutím příslušného orgánu ochrany veřejného zdraví nejvyšší přípustné expozice,
+>
+> - d) zaměstnavatel nevyužíval v posledních 12 měsících po dobu nejméně 6 měsíců kvalifikaci zaměstnance, které zaměstnanec na základě kvalifikační dohody dosáhl.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 196, § 52
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=88681d19479c6bac201c -->
+
 ## Hlava III — Stravování zaměstnanců
 
 ### § 236 — Stravování zaměstnanců
@@ -959,6 +1585,62 @@ Odst. 3 dovoluje fakultativně rozšířit zvýhodněné (dotované) stravován�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8af9d8a48dd0aca1fae7 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 236
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnavatel je povinen umožnit zaměstnancům ve všech směnách stravování; tuto povinnost nemá vůči zaměstnancům vyslaným na pracovní cestu.
+>
+> (2) Bylo-li to dohodnuto v kolektivní smlouvě nebo stanoveno ve vnitřním předpisu, poskytuje se zaměstnancům stravování; zároveň mohou být dohodnuty nebo stanoveny další podmínky pro vznik práva na toto stravování a výše finančního příspěvku zaměstnavatele, jakož i bližší vymezení okruhu zaměstnanců, kterým se stravování poskytuje, organizace stravování, způsob jeho provádění a financování zaměstnavatelem, nejsou-li tyto záležitosti upraveny pro určený okruh zaměstnavatelů zvláštním právním předpisem75). Tím nejsou dotčeny daňové předpisy.
+>
+> (3) Bylo-li to dohodnuto v kolektivní smlouvě nebo stanoveno ve vnitřním předpisu, může být cenově zvýhodněné stravování poskytováno
+>
+> - a) bývalým zaměstnancům zaměstnavatele, kteří u něj pracovali do odchodu do starobního důchodu nebo invalidního důchodu pro invaliditu třetího stupně,
+>
+> - b) zaměstnancům po dobu čerpání jejich dovolené,
+>
+> - c) zaměstnancům po dobu jejich dočasné pracovní neschopnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8af9d8a48dd0aca1fae7 -->
+
 ## Hlava IV — Zvláštní pracovní podmínky některých zaměstnanců
 
 ### Díl 1 — Zaměstnávání fyzických osob se zdravotním postižením
@@ -1019,6 +1701,52 @@ Odst. 3 dovoluje fakultativně rozšířit zvýhodněné (dotované) stravován�
 **Typicky rozhodné důkazy / podklady:** přepočtený počet zaměstnanců, evidence náhradního plnění/odvodu, dokumentace úprav pracoviště, posudky a doklady o zdravotním postižení, korespondence k přijetí do zaměstnání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5c414228712e588467cb generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 237
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Povinnosti zaměstnavatelů k zaměstnávání fyzických osob se zdravotním postižením a k vytváření potřebných pracovních podmínek pro ně stanoví zvláštní právní předpisy76).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5c414228712e588467cb -->
 
 ### Díl 2 — Pracovní podmínky zaměstnankyň
 
@@ -1089,6 +1817,54 @@ Důsledkem zákazu (objektivního nebo individualizovaného) je povinnost zaměs
 **Typicky rozhodné důkazy / podklady:** potvrzení o těhotenství, kategorizace práce a protokoly o expozici, vyhláška o zakázaných pracích, lékařský posudek pracovnělékařské služby, doklad o převedení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0847188b04afefa66cdc generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 238
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnankyně je zakázáno zaměstnávat pracemi, které ohrožují jejich mateřství. Ministerstvo zdravotnictví stanoví vyhláškou práce a pracoviště, které jsou zakázány těhotným zaměstnankyním, zaměstnankyním, které kojí, a zaměstnankyním-matkám do konce devátého měsíce po porodu.
+>
+> (2) Je zakázáno zaměstnávat těhotnou zaměstnankyni, zaměstnankyni, která kojí, a zaměstnankyni-matku do konce devátého měsíce po porodu pracemi, pro které nejsou podle lékařského posudku zdravotně způsobilé.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0847188b04afefa66cdc -->
 
 ### Díl 3 — Pracovní podmínky zaměstnankyň, zaměstnankyň-matek, zaměstnanců pečujících o dítě a o jiné fyzické osoby
 
@@ -1162,6 +1938,56 @@ Dávka se poskytuje za období převedení; nárok zaniká dnem nástupu na mate
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=60b26a914529e5af984f generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 239
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Koná-li těhotná zaměstnankyně práci, která je těhotným zaměstnankyním zakázána nebo která podle lékařského posudku ohrožuje její těhotenství, je zaměstnavatel povinen převést ji dočasně na práci, která je pro ni vhodná a při níž může dosahovat stejného výdělku jako na dosavadní práci. Požádá-li těhotná zaměstnankyně pracující v noci o zařazení na denní práci, je zaměstnavatel povinen její žádosti vyhovět.
+>
+> (2) Ustanovení odstavce 1 platí obdobně pro zaměstnankyni-matku do konce devátého měsíce po porodu a zaměstnankyni, která kojí.
+>
+> (3) Dosahuje-li zaměstnankyně při práci, na niž byla převedena, bez svého zavinění nižšího výdělku než na dosavadní práci, poskytuje se jí na vyrovnání tohoto rozdílu vyrovnávací příspěvek podle zvláštního právního předpisu77).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=60b26a914529e5af984f -->
+
 ### § 240 — Pracovní cesty a přesčas pečujících zaměstnanců
 
 > **§ 240**
@@ -1230,6 +2056,56 @@ b) **U zaměstnanců pečujících o dítě mladší než 1 rok** zaměstnavatel
 **Typicky rozhodné důkazy / podklady:** cestovní příkaz, rodné listy dětí, rozhodnutí o stupni závislosti pečované osoby, doklad o osamělosti, evidence nařízených přesčasů a pracovních cest.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9002c898ed9b572986d2 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 240
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Těhotné zaměstnankyně a zaměstnankyně a zaměstnanci pečující o děti mladší než 9 let smějí být vysíláni na pracovní cestu mimo obvod obce svého pracoviště nebo bydliště jen se svým souhlasem; přeložit je může zaměstnavatel jen na jejich žádost.
+>
+> (2) Ustanovení odstavce 1 platí i pro osamělou zaměstnankyni a osamělého zaměstnance, kteří pečují o dítě mladší než 15 let, jakož i pro zaměstnankyni nebo zaměstnance, kteří převážně sami dlouhodobě pečují o osobu, která se podle zvláštního právního předpisu považuje za osobu závislou na pomoci jiné fyzické osoby ve stupni II (středně těžká závislost), ve stupni III (těžká závislost) nebo stupni IV (úplná závislost)77a).
+>
+> (3) Zakazuje se zaměstnávat těhotné zaměstnankyně prací přesčas. Zaměstnankyním a zaměstnancům, kteří pečují o dítě mladší než 1 rok, nesmí zaměstnavatel nařídit práci přesčas.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9002c898ed9b572986d2 -->
 
 ### § 241 — Kratší pracovní doba a jiná úprava pracovní doby (klíčové ustanovení)
 
@@ -1338,6 +2214,64 @@ Odst. 3 (zaveden novelou č. 285/2020 Sb., transponující směrnici EU 2019/115
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5bfdc965c291623b4bfb generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 241
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnavatel je povinen přihlížet při zařazování do směn též k potřebám zaměstnankyně nebo zaměstnance pečujícího o dítě.
+>
+> (2) Požádá-li
+>
+> - a) těhotná zaměstnankyně,
+>
+> - b) zaměstnankyně nebo zaměstnanec pečující o dítě mladší než 15 let, nebo
+>
+> - c) zaměstnankyně nebo zaměstnanec, kteří převážně sami dlouhodobě pečují o osobu, která se podle zvláštního právního předpisu považuje za osobu závislou na pomoci jiné fyzické osoby ve stupni II (středně těžká závislost), ve stupni III (těžká závislost) nebo stupni IV (úplná závislost)77a),
+>
+> zaměstnavatele písemně o kratší pracovní dobu podle [[#§ 80|§ 80]] nebo o jinou vhodnou úpravu stanovené týdenní pracovní doby nebo kratší pracovní doby, je zaměstnavatel povinen žádosti vyhovět, nebrání-li tomu vážné provozní důvody. Nevyhoví-li zaměstnavatel žádosti, je povinen to písemně odůvodnit.
+>
+> (3) Požádá-li zaměstnankyně nebo zaměstnanec, jejichž žádosti o kratší pracovní dobu podle odstavce 2 bylo vyhověno, zaměstnavatele písemně o obnovení nebo částečné obnovení rozsahu původní týdenní pracovní doby a zaměstnavatel této žádosti nevyhoví, je povinen to písemně odůvodnit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 80
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5bfdc965c291623b4bfb -->
+
 ### § 241a — Žádost o výkon práce na dálku
 
 > **§ 241a**
@@ -1409,6 +2343,60 @@ Užší věková hranice (9 let) reflektuje předpoklad, že práce na dálku je
 **Typicky rozhodné důkazy / podklady:** písemná žádost o práci na dálku, písemné odůvodnění nevyhovění, popis druhu práce a její proveditelnosti na dálku, doklad o péči (rodný list dítěte, stupeň závislosti).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=53160a19ac8976fa2bb8 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 241a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Požádá-li
+>
+> - a) těhotná zaměstnankyně,
+>
+> - b) zaměstnankyně nebo zaměstnanec pečující o dítě mladší než 9 let, nebo
+>
+> - c) zaměstnankyně nebo zaměstnanec, kteří převážně sami dlouhodobě pečují o osobu, která se podle zvláštního právního předpisu považuje za osobu závislou na pomoci jiné fyzické osoby ve stupni II (středně těžká závislost), ve stupni III (těžká závislost) nebo stupni IV (úplná závislost)77a),
+>
+> zaměstnavatele písemně o výkon práce na dálku podle [[#§ 317|§ 317]] a zaměstnavatel této žádosti nevyhoví, je povinen to písemně odůvodnit.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 317
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=53160a19ac8976fa2bb8 -->
 
 ### Díl 4 — Přestávky ke kojení
 
@@ -1489,6 +2477,56 @@ Zákon nepředpisuje konkrétní formu prokazování kojení. V praxi se akceptu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2d985ade9bc044e2c587 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 242
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnankyni, která kojí své dítě, je zaměstnavatel povinen poskytnout kromě přestávek v práci zvláštní přestávky ke kojení.
+>
+> (2) Zaměstnankyni, která pracuje po stanovenou týdenní pracovní dobu, přísluší na každé dítě do konce 1 roku jeho věku 2 půlhodinové přestávky a v dalších 3 měsících 1 půlhodinová přestávka za směnu. Pracuje-li po kratší pracovní dobu, avšak alespoň polovinu týdenní pracovní doby, přísluší jí pouze 1 půlhodinová přestávka, a to na každé dítě do konce 1 roku jeho věku.
+>
+> (3) Přestávky ke kojení se započítávají do pracovní doby a přísluší za ně náhrada mzdy nebo platu ve výši průměrného výdělku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2d985ade9bc044e2c587 -->
+
 ## Hlava V — Pracovní podmínky mladistvých zaměstnanců
 
 ### § 243 — Všestranný rozvoj mladistvých
@@ -1542,6 +2580,52 @@ Povinnost „vytvářet příznivé podmínky pro všestranný rozvoj" se konkre
 **Typicky rozhodné důkazy / podklady:** pracovní smlouva, rozvrh směn, popis zadávaných úkolů, záznamy o instruktáži a dohledu, doklady o lékařských prohlídkách.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=57c7e782acf9d38f0f3c generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 243
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnavatelé jsou povinni vytvářet příznivé podmínky pro všestranný rozvoj tělesných a duševních schopností mladistvých zaměstnanců též zvláštní úpravou jejich pracovních podmínek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=57c7e782acf9d38f0f3c -->
 
 ### § 244 — Přiměřenost prací
 
@@ -1597,6 +2681,52 @@ Povinnost „**zvýšené péče při práci**" zahrnuje: detailnější instruk
 **Typicky rozhodné důkazy / podklady:** popis úkolů a hmotnostních limitů, posudek o zdravotní způsobilosti, kategorizace práce, záznamy o instruktáži a dohledu, případný protokol o úrazu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=18e6b366c0c61dc3d030 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 244
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Zaměstnavatelé smějí zaměstnávat mladistvé zaměstnance pouze pracemi, které jsou přiměřené jejich fyzickému a rozumovému rozvoji, a poskytují jim při práci zvýšenou péči.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=18e6b366c0c61dc3d030 -->
 
 ### § 244a — Lehké práce před ukončením povinné školní docházky
 
@@ -1659,6 +2789,52 @@ A nesmějí škodit **zdraví, vzdělávání ani morálnímu rozvoji** (např. 
 **Typicky rozhodné důkazy / podklady:** pracovní smlouva/dohoda, doklad o povinné školní docházce, kategorizace svěřených prací, rozvržení doby zaměstnání, případné povolení úřadu práce u činnosti dětí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b5b2b4e1e2d27ff1cbeb generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 244a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> Mladistvý zaměstnanec mladší než 15 let nebo mladistvý zaměstnanec, který neukončil povinnou školní docházku, smí v období hlavních prázdnin123) konat pouze lehké práce, které neškodí jeho zdraví, vzdělávání a morálnímu rozvoji124). Lehkými pracemi pro účely tohoto zákona jsou práce zařazené do kategorie první podle [[zákona o ochraně veřejného zdraví|zákona o ochraně veřejného zdraví]]59), pokud součástí práce není činnost, pro jejíž výkon jsou podmínky stanoveny jiným právním předpisem125).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b5b2b4e1e2d27ff1cbeb -->
 
 ### § 245 — Zákaz nočních prací a přesčasů
 
@@ -1725,6 +2901,54 @@ Odst. 2 řeší specifický případ: mladistvý se připravoval na povolání, 
 **Typicky rozhodné důkazy / podklady:** rozvrh směn, evidence přesčasů a noční práce, doklad o věku, podklady k výchově k povolání a k zajištění dohledu, případný lékařský posudek.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=5373775ec072d3ddcf1f generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 245
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zakazuje se zaměstnávat mladistvé zaměstnance prací přesčas a prací v noci; mladistvé zaměstnance mladší než 15 let nebo mladistvé zaměstnance, kteří neukončili povinnou školní docházku, se dále zakazuje zaměstnávat prací v době mezi 20. a 22. hodinou. Výjimečně mohou mladiství zaměstnanci starší než 16 let konat noční práci nepřesahující 1 hodinu, jestliže je to třeba pro jejich výchovu k povolání, a to pod dohledem zaměstnance staršího 18 let, je-li tento dohled pro ochranu mladistvého zaměstnance nezbytný. Noční práce mladistvého zaměstnance musí bezprostředně navazovat na jeho práci připadající podle rozvrhu směn na denní dobu.
+>
+> (2) Jestliže je zakázáno zaměstnávat mladistvého zaměstnance prací, pro kterou se mu dostalo výchovy k povolání, protože je její výkon mladistvým zaměstnancům zakázán nebo protože podle lékařského posudku vydaného poskytovatelem pracovnělékařských služeb ohrožuje jeho zdraví, je zaměstnavatel povinen do doby, než bude mladistvý zaměstnanec moci tuto práci konat, poskytnout mu jinou přiměřenou práci odpovídající pokud možno jeho kvalifikaci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5373775ec072d3ddcf1f -->
 
 ### § 246 — Zakázané práce mladistvých
 
@@ -1811,6 +3035,60 @@ Zaměstnavatel **musí vést seznam mladistvých zaměstnanců** se zákonem sta
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f83fe18bfb5331d41671 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 246
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zakazuje se zaměstnávat mladistvé zaměstnance pracemi pod zemí při těžbě nerostů nebo při ražení tunelů a štol.
+>
+> (2) Zakazuje se zaměstnávat mladistvé zaměstnance pracemi, které se zřetelem k anatomickým, fyziologickým a psychickým zvláštnostem v tomto věku jsou pro ně nepřiměřené, nebezpečné nebo škodlivé jejich zdraví. Ministerstvo zdravotnictví stanoví vyhláškou v dohodě s Ministerstvem průmyslu a obchodu a Ministerstvem školství, mládeže a tělovýchovy práce a pracoviště, které jsou zakázány mladistvým zaměstnancům, a podmínky, za nichž mohou mladiství zaměstnanci výjimečně tyto práce konat z důvodu přípravy na povolání.
+>
+> (3) Zakazuje se zaměstnávat mladistvé zaměstnance také pracemi, při nichž jsou vystaveni zvýšenému nebezpečí úrazu nebo při jejichž výkonu by mohli vážně ohrozit bezpečnost a zdraví ostatních zaměstnanců nebo jiných fyzických osob.
+>
+> (4) Zákazy některých prací mohou být rozšířeny vyhláškou podle odstavce 2 i na zaměstnance ve věku do 21 let.
+>
+> (5) Zaměstnavatel je povinen vést seznam mladistvých zaměstnanců, kteří jsou u něj zaměstnáni; seznam obsahuje jméno, popřípadě jména, příjmení, datum narození a druh práce, který tento zaměstnanec vykonává.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f83fe18bfb5331d41671 -->
+
 ### § 247 — Lékařské prohlídky mladistvých
 
 > **§ 247**
@@ -1883,6 +3161,60 @@ Posudek omezující výkon dosavadní práce může vést k uplatnění **§ 41 
 **Typicky rozhodné důkazy / podklady:** dohoda/pracovní smlouva mladistvého, doklady o provedených prohlídkách a jejich úhradě, lékařský posudek, evidence přidělené práce, doklady o převedení/jiné přiměřené práci.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9f5620a4e2ed50f5d908 generator=2026-07-17.4 source_sha256=dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d -->
+#### Revizní doplnění k § 247
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/262-2006 Zákon zákoník práce.md`; identifikátor verze: `SB-2006-00262_2026-01-01`; SHA-256: `dfeaf337aee8d1fdc5f0e7d5e0c235c4f7b5c1204b16543e1a8f386aa02d479d`.
+
+##### Znění ustanovení
+
+> (1) Zaměstnavatel je povinen zabezpečit na své náklady, aby mladiství zaměstnanci byli vyšetřeni poskytovatelem pracovnělékařských služeb
+>
+> - a) před vznikem pracovního poměru nebo právního vztahu založeného dohodou o provedení práce nebo dohodou o pracovní činnosti a před převedením na jinou práci,
+>
+> - b) pravidelně podle potřeby, nejméně však jedenkrát ročně.
+>
+> (2) Mladiství zaměstnanci jsou povinni podrobit se stanoveným lékařským vyšetřením.
+>
+> (3) Při ukládání pracovních úkolů mladistvému zaměstnanci je zaměstnavatel povinen řídit se lékařským posudkem vydaným poskytovatelem pracovnělékařských služeb.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9f5620a4e2ed50f5d908 -->
 
 ## Systémové shrnutí: vzájemné vztahy se zbytkem zákoníku práce
 
