@@ -10,6 +10,10 @@
 
 ### § 1 — Předmět úpravy
 
+> Revize: 19. 7. 2026 | Stav: revize primárních pramenů dokončena; literatura odložena do 2. kola
+
+#### Znění ustanovení
+
 > **§ 1**
 >
 > *Tento zákon*
@@ -24,68 +28,51 @@
 >
 > *e) upravuje některá práva a povinnosti zaměstnavatelů a zaměstnanců při dodržování režimu dočasně práce neschopného pojištěnce podle zákona o nemocenském pojištění a některé sankce za jeho porušení.*
 
-**Výklad:**
+#### Přehled výkladu
 
-**Judikatura (z místních zdrojů):**
+§ 1 vymezuje pět okruhů předmětu zákoníku práce. Za pracovněprávní výslovně označuje vztahy podle písm. a) a kolektivní vztahy související s výkonem závislé práce podle písm. b). Písmena d) a e) naproti tomu stanoví, že zákon upravuje jen některé tam uvedené vztahy, práva, povinnosti a sankce; sama tyto vztahy obecně nekvalifikují jako pracovněprávní.
 
-- *NS* [21 Cdo 385/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/15FC58E848A7B9CAC1257DE30049F35B?openDocument) — kat. A, 18. 12. 2014
-  > „Právní vztah založený tím, že zaměstnavatel poskytl zaměstnanci peněžní částku k zaplacení pokuty, která byla zaměstnanci uložena příslušným orgánem za přestupek, není vztahem pracovněprávním, a to ani v případě, že se zaměstnanec přestupku dopustil při plnění svých pracovních úkolů"
+#### Souvisící ustanovení
 
-#### Pětice okruhů upravených zákoníkem práce
+- § 2 — znaky a podmínky výkonu závislé práce.
+- § 3 — výlučný výkon závislé práce v základním pracovněprávním vztahu, není-li upravena zvláštními právními předpisy.
+- §§ 22–29 — kolektivní smlouva; §§ 276–299 — informování, projednání a zástupci zaměstnanců.
+- §§ 30–32 — postup před vznikem pracovního poměru.
+- § 52 písm. h), § 192 odst. 5 a 6 a § 301a — kontrola a následky porušení vybraných povinností při dočasné pracovní neschopnosti.
 
-§ 1 vymezuje **věcnou působnost** zákoníku práce a — co je důležitější — autoritativně definuje, které vztahy jsou „pracovněprávní". To má zásadní praktické důsledky, neboť pracovněprávní povaha vztahu otevírá aplikaci celého kodexu (ochrana před výpovědí, nárok na dovolenou, na minimální mzdu, evidenci pracovní doby, BOZP, kolektivní pravidla aj.).
+#### Souvisící předpisy
 
-**Písm. a) — individuální pracovněprávní vztahy.** Jádro úpravy: vztahy mezi zaměstnanci a zaměstnavateli při **výkonu závislé práce**. Pojem závislé práce je legálně definován v § 2 a tvoří nepodkročitelnou „bránu" do pracovního práva. Vztah, který naplňuje znaky závislé práce, **musí** být sjednán v některém ze základních pracovněprávních vztahů (§ 3) — pracovní poměr nebo dohoda o provedení práce/o pracovní činnosti. Tzv. **„švarcsystém"** (zastření závislé práce občanskoprávní formou — typicky obchodní smlouvou s OSVČ) je v rozporu s § 1 písm. a) ve spojení s § 2 a 3 a podle § 5 písm. e) zákona č. 435/2004 Sb., o zaměstnanosti (dále „**ZoZ**"), zakládá tzv. nelegální práci s vysokými sankcemi (§ 140 ZoZ — pokuta až 10 mil. Kč).
+- zákon č. 187/2006 Sb., o nemocenském pojištění — režim dočasně práce neschopného pojištěnce, na který odkazuje písm. e),
+- zákon č. 2/1991 Sb., o kolektivním vyjednávání — uzavírání kolektivních smluv a řešení kolektivních sporů,
+- předpisy Evropské unie uvedené v poznámce pod čarou 1 k zákoníku práce — transpoziční základ jednotlivých částí kodexu.
 
-**Písm. b) — kolektivní pracovněprávní vztahy.** Zákoník výslovně zahrnuje i **vztahy kolektivní povahy** a podporu **sociálního dialogu** mezi odbory a organizacemi zaměstnavatelů. Specifikem je vlastnost druhé věty: ne každý kolektivní vztah je pracovněprávní, pouze ten, který „souvisí s výkonem závislé práce". To znamená, že např. ryze politická činnost odborové organizace pracovněprávní povahu nemá; naopak kolektivní vyjednávání, vyjednávání kolektivní smlouvy, řešení kolektivních sporů (zákon č. 2/1991 Sb., o kolektivním vyjednávání) ano. Hmotněprávní úpravu kolektivní smlouvy obsahuje téže Část první v §§ 22–29.
+#### Z důvodové zprávy
 
-**Písm. c) — transpoziční funkce.** Zákoník zapracovává řadu směrnic EU — od rámcové směrnice o pracovní době (2003/88/ES) přes směrnici o převodu podniku (2001/23/ES), o agenturním zaměstnávání (2008/104/ES), o pracovních podmínkách (2019/1152/EU), o transparentních a předvídatelných pracovních podmínkách aj. Tato klauzule má interpretační dosah: ustanovení zákoníku musí být vykládána **konformně s unijní úpravou** (zásada eurokonformního výkladu, ustálená judikatura Soudního dvora EU počínaje rozsudkem Marleasing). Vnitrostátní soud má povinnost vyložit zákoník práce tak, aby co nejvíce odpovídal cíli směrnice.
+Důvodová zpráva k vládnímu návrhu (Poslanecká sněmovna, IV. volební období, tisk 1153/0, zvláštní část „K § 1 a 2“) uváděla stručně, že § 1 vymezuje základní obsah úpravy zákona. Dobový výklad navazoval na tehdejší znění a systematiku návrhu; pozdější změny se proto posuzují podle příslušných novel. Písmeno e) doplnil zákon č. 365/2011 Sb., čl. I bod 2, s účinností od 1. 1. 2012.
 
-**Písm. d) — předsmluvní stadium.** Pracovněprávní povaha se rozšiřuje i na vztahy **před** uzavřením pracovní smlouvy (§§ 30–32 zákoníku) — jednání před vznikem pracovního poměru, omezení dotazů a vyžadovaných údajů, lékařské prohlídky, povinnost informování. Toto rozšíření je významné: porušení povinností v předsmluvním stadiu se neposuzuje občanskoprávně (jako culpa in contrahendo dle § 1728–1730 o.z.), nýbrž v režimu pracovněprávním, který je v některých ohledech přísnější (ochrana osobnosti uchazeče, zákaz diskriminace už při výběru).
+#### Literatura
 
-**Písm. e) — režim dočasně práce neschopného pojištěnce.** Od novely č. 462/2017 Sb. (s návaznými změnami) zákoník upravuje specifická práva a povinnosti zaměstnavatele a zaměstnance při kontrole **dodržování režimu dočasně práce neschopného pojištěnce** podle zákona o nemocenském pojištění (zákon č. 187/2006 Sb.). Jde o vztah typicky pojistněprávní (mezi pojištěncem a ČSSZ), který však zákoník částečně „pracovněprávně" reguluje, neboť v období prvních 14 dnů dočasné pracovní neschopnosti hradí náhradu mzdy zaměstnavatel (§ 192–194 ZPr) a má rovněž oprávnění kontrolovat dodržování režimu na adrese pobytu pojištěnce. Sankce za porušení tohoto režimu — krácení/odejmutí náhrady mzdy, eventuálně výpověď podle § 52 písm. h) — řeší zákoník samostatně.
+Odborná literatura nebyla v tomto kole prověřována; její zpracování je odloženo do druhého kola.
 
-> **Srovnání se starým zákoníkem práce 1965:** zákon č. 65/1965 Sb. v § 1 vymezoval působnost velmi široce („pracovněprávní vztahy vznikající v souvislosti s pracovním procesem"), avšak nedefinoval závislou práci a neumožňoval výslovně subsidiární aplikaci občanského práva. Nový zákoník je strukturálně přehlednější a koncepčně otevřený o.z.
+#### Výklad
 
-#### Předpisy EU implementované zákoníkem
+[1] **Individuální vztahy.** Písmeno a) spojuje zákonnou kvalifikaci se vztahy vznikajícími při výkonu závislé práce mezi zaměstnanci a zaměstnavateli. Obsah závislé práce určuje § 2. Podle § 3 může být závislá práce vykonávána výlučně v základním pracovněprávním vztahu, ledaže ji upravují zvláštní právní předpisy; základními vztahy jsou pracovní poměr a vztahy založené dohodami o pracích konaných mimo pracovní poměr.
 
-V poznámce pod čarou 1) zákon odkazuje na rozsáhlý katalog směrnic. Pro praktickou orientaci zde jen ilustrativně klíčové oblasti, které kapitola promítá: rovné zacházení a zákaz diskriminace (směrnice 2000/43/ES, 2000/78/ES, 2006/54/ES), informování o pracovních podmínkách (2019/1152/EU), pracovní doba (2003/88/ES), agenturní zaměstnávání (2008/104/ES), převod podniku (2001/23/ES), informování a projednání (2002/14/ES). Mnoho z nich nachází přímý odraz v Hlavě IV (§§ 16–17 — antidiskriminace).
+[2] **Funkční souvislost.** Okruh individuálních pracovněprávních vztahů není omezen dobou trvání základního pracovněprávního vztahu ani jen dvojicí zaměstnanec–zaměstnavatel. Nejvyšší soud dovodil, že mohou zahrnovat také vztahy k dalším osobám, například pozůstalým či dědicům, rozhodující je však časový, místní a zejména věcný (vnitřní účelový) poměr k výkonu závislé práce. Samotná okolnost, že určitá událost nastala při plnění pracovních úkolů, proto nemusí postačovat.
 
-#### F. Kazuistika
+[3] **Kolektivní vztahy.** Písmeno b) zahrnuje úpravu kolektivních vztahů i podporu jednání odborových organizací a organizací zaměstnavatelů. Za pracovněprávní označuje jen kolektivní vztahy související s výkonem závislé práce. Konkrétní pravidla kolektivních smluv a kolektivního vyjednávání obsahují další ustanovení zákoníku práce a zákon o kolektivním vyjednávání.
 
-**1. Modelová situace.** Marketingová agentura uzavře s grafičkou „smlouvu o poskytování služeb" jako s OSVČ. Grafička však pět dnů v týdnu od 9 do 17 hod. pracuje v sídle agentury na jejím počítači, plní operativní pokyny art directora, nesmí za sebe nikoho poslat, fakturuje měsíčně paušál ve výši odpovídající mzdě a nemá jiné klienty. Po dvou letech jí agentura „ukončí spolupráci" e-mailem ze dne na den. Grafička se domáhá pracovněprávní ochrany (odstupné, náhrada mzdy). Důkazy: docházkové záznamy, e-mailová komunikace s pokyny, faktury s pravidelnou částkou, organizační schéma, výpovědi kolegů.
+[4] **Unijní předpisy.** Písmeno c) deklaruje transpoziční funkci kodexu. Konkrétní transponované směrnice vyjmenovává poznámka pod čarou 1 a jejich provedení je rozloženo napříč zákoníkem; rozsah práv a povinností proto nelze určit jen z písmene c), ale z konkrétního prováděcího ustanovení vykládaného v mezích vnitrostátního a unijního práva.
 
-**2. Právní otázka.** Je vztah mezi grafičkou a agenturou „pracovněprávním vztahem" ve smyslu § 1 písm. a) ZPr (a tedy podléhá celému ochrannému režimu zákoníku), přestože byl formálně sjednán jako občanskoprávní/obchodní?
+[5] **Předsmluvní stadium.** Písmeno d) pokrývá některé vztahy před vznikem vztahů podle písmene a). Konkrétně §§ 30–32 upravují výběr uchazečů, rozsah vyžadovaných údajů, informační povinnost před uzavřením pracovní smlouvy a vstupní lékařskou prohlídku. Z dikce písmene d) samotného nelze dovodit, že každý předsmluvní vztah je pracovněprávní ani že je bez dalšího vyloučena obecná soukromoprávní úprava; vždy je třeba určit konkrétní právní základ uplatněného nároku.
 
-**3. Použitelné právo.**
-- *Komentované ustanovení:* § 1 písm. a) ZPr — autoritativně určuje, že vztahy vznikající při výkonu závislé práce mezi zaměstnancem a zaměstnavatelem jsou vztahy pracovněprávní.
-- *Související ustanovení téhož zákona:* § 2 (definice závislé práce — „brána" do pracovního práva), § 3 (monopol základních pracovněprávních vztahů), § 6 a § 7 (pojmy zaměstnanec/zaměstnavatel).
-- *Související předpisy:* § 5 písm. e) a § 140 zák. č. 435/2004 Sb., o zaměstnanosti (nelegální práce, švarcsystém, pokuta až 10 mil. Kč); § 555 odst. 2 o.z. (přednost obsahu před formou).
-- *Judikatura:* NS 21 Cdo 2128/2019 (zaměstnavatel může úkoly zajišťovat i mimo základní pracovněprávní vztah, **nejde-li** o výkon závislé práce); NSS 1 Azs 1/2020 (znaky závislé práce: soustavnost, osobní výkon, vztah nadřízenosti/podřízenosti).
+[6] **Dočasná pracovní neschopnost.** Písmeno e) odkazuje na dílčí práva, povinnosti a sankce. Zaměstnavatel smí v prvních 14 kalendářních dnech kontrolovat pouze povinnost zdržovat se v místě pobytu a dodržovat dobu a rozsah povolených vycházek (§ 192 odst. 6, § 301a). Náhradu mzdy nebo platu lze podle závažnosti porušení snížit či neposkytnout; výpověď podle § 52 písm. h) vyžaduje porušení povinnosti podle § 301a zvlášť hrubým způsobem a za totéž porušení nelze oba následky kumulovat (§ 192 odst. 5).
 
-**4. Subsumpce.** Pracovněprávní povaha vztahu se podle § 1 písm. a) odvíjí od naplnění znaků závislé práce (§ 2). Splněno: osobní výkon, podřízenost operativním pokynům, výkon jménem agentury, pravidelná odměna, pracoviště a doba určené agenturou. Sporné/neprokázané: zda měla grafička reálně možnost odmítat zakázky a zda nesla vlastní podnikatelské riziko — agentura bude tvrdit samostatnost, grafička materiální závislost.
+[7] **Meze § 1.** Pracovněprávní kvalifikace určuje právní režim konkrétního vztahu, neznamená však mechanickou použitelnost každého ustanovení zákoníku práce. Stejně tak naplnění znaků závislé práce samo bez dalšího neřeší vznik konkrétního smluvního vztahu ani existenci a rozsah jednotlivého soukromoprávního nároku; ty se posuzují podle obsahu jednání, skutkových zjištění a příslušných ustanovení.
 
-**5. Řešení.** Při prokázání znaků závislé práce je vztah pracovněprávní bez ohledu na označení smlouvy; soud přizná ochranu (zejména náhradu mzdy při neplatném rozvázání, byl-li vztah materiálně pracovním poměrem). Procesně: žaloba o určení trvání pracovního poměru a o náhradu mzdy; paralelně podnět inspektorátu práce. Riziko: hranice mezi závislou prací a samostatnou činností je skutková a důkazně náročná; alternativní výklad agentury (skutečně nezávislá kreativní spolupráce) může u jiného skutkového základu obstát.
+#### Judikatura
 
-**6. Varianty.** (a) Grafička pracuje z domova na vlastní technice, pro více klientů, sama si rozvrhuje čas a odmítá zakázky → znaky závislé práce nenaplněny, vztah zůstává občanskoprávní. (b) Činnost je výkonem umělecké tvorby zajišťované občanskoprávně bez znaků závislé práce (srov. 21 Cdo 2128/2019) → § 1 písm. a) se neuplatní.
-
-#### G. Protiargumenty a rizika
-
-- *„Strany si vztah svobodně pojmenovaly jako obchodní, autonomie vůle musí být respektována."* Neutralizace: § 1 písm. a) ve spojení s § 2 má kogentní, objektivní povahu — rozhoduje materiální obsah, nikoli forma (§ 555 odst. 2 o.z.); švarcsystém je obcházením zákona.
-- *„Grafička fakturovala jako podnikatel a uplatňovala daňové výhody, nemůže nyní těžit z pracovního práva."* Neutralizace: daňové chování stran nevylučuje pracovněprávní povahu; orgány mohou naopak platby přecharakterizovat. Procesní postavení zaměstnance ale oslabuje jeho dosavadní konzistentní jednání jako OSVČ — slabé místo důkazní pozice.
-- Chybějící zdroj/riziko: výsledek závisí na úplnosti důkazů o faktickém režimu; bez docházky a komunikace s pokyny je závislá práce obtížně prokazatelná.
-
-#### H. Praktický závěr
-
-§ 1 určuje, **které** vztahy jsou pracovněprávní; bránou je závislá práce (§ 2). V praxi se nejčastěji řeší při sporu o švarcsystém a při kontrolách inspekce práce.
-
-**Checklist (advokát / soud / správní orgán / adresát normy):**
-- [ ] Naplňuje vztah znaky závislé práce dle § 2 (osobní výkon, podřízenost, jménem zaměstnavatele, za odměnu, na náklady a riziko zaměstnavatele)?
-- [ ] Jde o některý ze základních pracovněprávních vztahů dle § 3, nebo o zvláštní úpravu (§ 5)?
-- [ ] Nejde o předsmluvní stadium (písm. d), kolektivní vztah (písm. b) či režim DPN (písm. e)?
-- [ ] Hrozí sankce za nelegální práci (§ 140 ZoZ) a doměření pojistného/daně?
-
-**Typicky rozhodné důkazy / podklady:** smlouva a její faktická realizace, docházkové a evidenční záznamy, e-mailová/písemná komunikace s pokyny, faktury (pravidelnost a výše), organizační schéma, výpovědi spolupracovníků.
+- **NS, rozsudek ze dne 18. 12. 2014, sp. zn. 21 Cdo 385/2014, R 61/2015, ECLI:CZ:NS:2014:21.CDO.385.2014.1.** Zaměstnavatel poskytl řidiči při zahraniční pracovní cestě peníze na úhradu pokuty uložené jednomu z členů posádky; dovolací soud řešil, zda šlo o plnění z pracovněprávního vztahu. Vyložil test časového, místního a zejména věcného vztahu k výkonu závislé práce a uzavřel, že poskytnutí částky na pokutu postrádalo potřebný vnitřní účelový poměr, i když přestupek souvisel s plněním pracovních úkolů. Rozhodnutí potvrzuje funkční, nikoli pouze časové vymezení pracovněprávních vztahů; jeho závěr o tehdy použitém občanském zákoníku je třeba číst v dobovém hmotněprávním a procesním kontextu.
 
 ---
 
